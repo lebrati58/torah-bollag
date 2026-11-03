@@ -22,3 +22,11 @@ Il comprend le texte adapté, le découpage des cases, les références et la pl
 
 ## Suivi quotidien
 Le dépôt sert à conserver les épisodes. Ce fichier ne configure à lui seul aucune automatisation de lecture Gmail ou de publication GitHub.
+
+## Auteur et personnages — règle obligatoire
+Yossef Bollag est l’auteur des enseignements, jamais un personnage du comics.
+- Ne jamais le dessiner, le représenter ou introduire son avatar dans les cases.
+- Ne jamais le faire intervenir comme narrateur représenté, guide ou interlocuteur des personnages.
+- Ne pas mettre son nom dans les bulles ou le récit des cases.
+- L’attribution à l’auteur est réservée aux crédits hors des cases ou à la présentation du site.
+- Appliquer cette règle à chaque demande de génération d’images et vérifier son respect avant publication.
