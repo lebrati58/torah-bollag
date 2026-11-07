@@ -6,9 +6,9 @@
   },
   "events": [
    {
-    "am": null,
+    "am": 2216,
     "datesrc": "torah",
-    "ref": "Genesis.37.3-11",
+    "ref": "Genesis.37.2-11",
     "parasha": "vayeshev",
     "he": "מְקַבֵּל כְּתֹנֶת פַּסִּים וְחוֹלֵם חֲלוֹמוֹת",
     "fr": "Reçoit une tunique rayée et fait des rêves"
@@ -200,13 +200,13 @@
    }
   ],
   "historical": {
-   "he": "יֵשׁ חוֹקְרִים שֶׁמְּקָרְבִים אֶת סִפּוּר יוֹסֵף לַתְּקוּפָה שֶׁבָּהּ מָלְכוּ בְּמִצְרַיִם מְלָכִים זָרִים מֵאֵזוֹר כְּנַעַן (הַהִיקְסוֹס). אֵין לְכָךְ עֵדוּת יְשִׁירָה, וְיֵשׁ עַל זֶה וִכּוּחַ.",
-   "fr": "Des chercheurs rapprochent l’histoire de Yossef de l’époque où des rois étrangers venus de la région de Canaan (les Hyksôs) régnaient en Égypte (vers le XVIIe siècle av. l’ère commune). Aucune trace directe ; la question est débattue."
+   "he": "יֵשׁ חוֹקְרִים שֶׁמְּקָרְבִים אֶת סִפּוּר יוֹסֵף לַתְּקוּפָה שֶׁבָּהּ מָלְכוּ בְּמִצְרַיִם מְלָכִים זָרִים מֵאֵזוֹר כְּנַעַן (הַהִיקְסוֹס, בְּעֵרֶךְ 1650–1550 לִפְנֵי הַסְּפִירָה). אֵין לְכָךְ עֵדוּת יְשִׁירָה, וְיֵשׁ עַל זֶה וִכּוּחַ.",
+   "fr": "Des chercheurs rapprochent l’histoire de Yossef de l’époque où des rois étrangers venus de la région de Canaan (les Hyksôs) régnaient en Égypte (vers 1650-1550 avant l’ère commune). Aucune trace directe ; la question est débattue."
   }
  },
  "yehuda": {
   "bio": {
-   "he": "יְהוּדָה הוּא הַבֵּן הָרְבִיעִי שֶׁל יַעֲקֹב וְלֵאָה. כְּשֶׁהָאַחִים כָּעֲסוּ עַל יוֹסֵף, יְהוּדָה הִצִּיעַ לֹא לְהָרֹג אוֹתוֹ אֶלָּא לִמְכֹּר אוֹתוֹ. מְאֻחָר יוֹתֵר הוּא לָמַד לְהוֹדוֹת בְּטָעוּת, וְאָמַר עַל תָּמָר: ״צָדְקָה מִמֶּנִּי״. כְּשֶׁבִּנְיָמִין הָיָה בְּסַכָּנָה בְּמִצְרַיִם, יְהוּדָה נִגַּשׁ אֶל יוֹסֵף וּבִקֵּשׁ לִהְיוֹת עֶבֶד בִּמְקוֹם אָחִיו הַקָּטָן. לִפְנֵי מוֹתוֹ, יַעֲקֹב בֵּרַךְ אוֹתוֹ שֶׁהַשֵּׁבֶט, סֵמֶל הַמַּלְכוּת, לֹא יָסוּר מִמֶּנּוּ.",
+   "he": "יְהוּדָה הוּא הַבֵּן הָרְבִיעִי שֶׁל יַעֲקֹב וְלֵאָה. כְּשֶׁהָאַחִים כָּעֲסוּ עַל יוֹסֵף, יְהוּדָה הִצִּיעַ לֹא לַהֲרֹג אוֹתוֹ אֶלָּא לִמְכֹּר אוֹתוֹ. מְאֻחָר יוֹתֵר הוּא לָמַד לְהוֹדוֹת בְּטָעוּת, וְאָמַר עַל תָּמָר: ״צָדְקָה מִמֶּנִּי״. כְּשֶׁבִּנְיָמִין הָיָה בְּסַכָּנָה בְּמִצְרַיִם, יְהוּדָה נִגַּשׁ אֶל יוֹסֵף וּבִקֵּשׁ לִהְיוֹת עֶבֶד בִּמְקוֹם אָחִיו הַקָּטָן. לִפְנֵי מוֹתוֹ, יַעֲקֹב בֵּרַךְ אוֹתוֹ שֶׁהַשֵּׁבֶט, סֵמֶל הַמַּלְכוּת, לֹא יָסוּר מִמֶּנּוּ.",
    "fr": "Yehouda est le quatrième fils de Yaakov et de Léa. Quand les frères sont en colère contre Yossef, Yehouda propose de ne pas le tuer mais de le vendre. Plus tard, il apprend à reconnaître ses erreurs et dit de Tamar : « Elle a raison, plus que moi. » Quand Binyamin est en danger en Égypte, Yehouda s’avance vers Yossef et demande à devenir esclave à la place de son petit frère. Avant de mourir, Yaakov le bénit : le sceptre, signe de la royauté, ne s’éloignera pas de lui."
   },
   "events": [
@@ -215,7 +215,7 @@
     "datesrc": "torah",
     "ref": "Genesis.37.26-27",
     "parasha": "vayeshev",
-    "he": "מַצִּיעַ לִמְכֹּר אֶת יוֹסֵף וְלֹא לְהָרֹג אוֹתוֹ: ״מַה בֶּצַע?״",
+    "he": "מַצִּיעַ לִמְכֹּר אֶת יוֹסֵף וְלֹא לַהֲרֹג אוֹתוֹ: ״מַה בֶּצַע?״",
     "fr": "Propose de vendre Yossef plutôt que de le tuer : « Quel profit ? »"
    },
    {
@@ -433,10 +433,14 @@
   ],
   "lessons": [
    {
-    "src": "torah",
+    "src": "midrash",
     "ref": "Genesis.38.25",
-    "he": "תָּמָר לֹא אָמְרָה אֶת שֵׁם יְהוּדָה לִפְנֵי כֻּלָּם. הִיא רַק שָׁלְחָה לוֹ אֶת הַחֲפָצִים וְאָמְרָה: ״הַכֶּר נָא״ – וְנָתְנָה לוֹ לְהוֹדוֹת בְּעַצְמוֹ.",
-    "fr": "Tamar ne prononce pas le nom de Yehouda devant tout le monde. Elle lui fait seulement porter les objets en disant : « Reconnais donc » – et le laisse avouer lui-même."
+    "source": {
+     "he": "רש״י בראשית ל״ח:כ״ה",
+     "fr": "Rachi sur Gn 38,25"
+    },
+    "he": "תָּמָר לֹא אָמְרָה שֶׁיְּהוּדָה הוּא הָאִישׁ. הִיא שָׁלְחָה לוֹ רַק אֶת הַחֲפָצִים וְאָמְרָה: ״הַכֶּר נָא״. לְפִי רַשִׁ״י, הִיא רָצְתָה שֶׁיּוֹדֶה בְּעַצְמוֹ.",
+    "fr": "Tamar ne dit pas que c’est Yehouda. Elle lui fait seulement porter les objets en disant : « Reconnais donc ». Selon Rachi, elle veut qu’il avoue de lui-même."
    },
    {
     "src": "midrash",
@@ -614,7 +618,7 @@
     "am": null,
     "datesrc": "torah",
     "ref": "Ruth.4.18-22",
-    "parasha": null,
+    "parasha": "",
     "he": "רֹאשׁ הַשּׁוֹשֶׁלֶת שֶׁמַּגִּיעָה עַד דָּוִד הַמֶּלֶךְ",
     "fr": "Premier ancêtre de la lignée qui mène au roi David"
    }
@@ -803,8 +807,8 @@
    {
     "src": "torah",
     "ref": "Genesis.39.3",
-    "he": "גַּם אִישׁ מִצְרִי, שֶׁלֹּא הִכִּיר אֶת אֱמוּנַת יוֹסֵף, רָאָה שֶׁה׳ עִמּוֹ: מַעֲשִׂים טוֹבִים רוֹאִים מִבַּחוּץ.",
-    "fr": "Même un Égyptien qui ne connaît pas la foi de Yossef voit que Dieu est avec lui : les bonnes actions se voient de l’extérieur."
+    "he": "גַּם פּוֹטִיפַר הַמִּצְרִי רָאָה שֶׁה׳ עִם יוֹסֵף: מַעֲשִׂים טוֹבִים רוֹאִים מִבַּחוּץ.",
+    "fr": "Même Potifar l’Égyptien voit que Dieu est avec Yossef : les bonnes actions se voient de l’extérieur."
    },
    {
     "src": "torah",
@@ -992,8 +996,8 @@
    {
     "src": "torah",
     "ref": "Genesis.41.9",
-    "he": "״אֶת חֲטָאַי אֲנִי מַזְכִּיר הַיּוֹם״: בַּסּוֹף שַׂר הַמַּשְׁקִים הוֹדָה בִּטְעוּתוֹ לִפְנֵי פַּרְעֹה.",
-    "fr": "« Je rappelle aujourd’hui mes fautes » : à la fin, l’échanson reconnaît son erreur devant Pharaon."
+    "he": "״אֶת חֲטָאַי אֲנִי מַזְכִּיר הַיּוֹם״: כְּדֵי לְסַפֵּר עַל יוֹסֵף, שַׂר הַמַּשְׁקִים מַסְכִּים לְהַזְכִּיר לִפְנֵי פַּרְעֹה אֶת הַחֲטָאִים שֶׁלּוֹ.",
+    "fr": "« Je rappelle aujourd’hui mes fautes » : pour parler de Yossef, l’échanson accepte de rappeler devant Pharaon ses propres fautes."
    },
    {
     "src": "midrash",
@@ -1837,7 +1841,7 @@
      }
     ],
     "answer": 1,
-    "ref": "Genesis.41.50"
+    "ref": "Genesis.46.20"
    },
    {
     "q": {
@@ -1910,7 +1914,7 @@
   "lessons": [
    {
     "src": "torah",
-    "ref": "Genesis.48.14",
+    "ref": "Genesis.48.14-19",
     "he": "״שִׂכֵּל אֶת יָדָיו״: יַעֲקֹב לֹא טָעָה; הוּא בָּחַר בְּכַוָּנָה, כִּי רָאָה מָה יִהְיֶה בֶּעָתִיד.",
     "fr": "« Il croisa ses mains » : Yaakov ne se trompe pas ; il choisit exprès, car il voit l’avenir."
    },
@@ -1925,7 +1929,7 @@
     "fr": "« Son frère cadet sera plus grand que lui » : selon Rachi, d’Efraïm sortira Yehochoua, qui fera entrer le peuple d’Israël dans le pays et lui enseignera la Torah."
    },
    {
-    "src": "torah",
+    "src": "adaptation",
     "ref": "Genesis.48.20",
     "he": "הַבְּרָכָה ״יְשִׂמְךָ אֱלֹהִים כְּאֶפְרַיִם וְכִמְנַשֶּׁה״ מְבָרֶכֶת שְׁנֵי אַחִים יַחַד, בְּלִי קִנְאָה.",
     "fr": "La bénédiction « Que Dieu te rende comme Efraïm et Ménaché » bénit deux frères ensemble, sans jalousie."
@@ -2051,8 +2055,8 @@
  },
  "er": {
   "bio": {
-   "he": "עֵר הוּא הַבֵּן הַבְּכוֹר שֶׁל יְהוּדָה, וְהַבַּעַל הָרִאשׁוֹן שֶׁל תָּמָר. הַתּוֹרָה אוֹמֶרֶת שֶׁהוּא הָיָה רַע בְּעֵינֵי ה׳, וְהוּא מֵת צָעִיר, עוֹד בְּאֶרֶץ כְּנַעַן.",
-   "fr": "Èr est le fils aîné de Yehouda et le premier mari de Tamar. La Torah dit qu’il n’était pas bon aux yeux de Dieu, et il meurt jeune, encore en terre de Canaan."
+   "he": "עֵר הוּא הַבֵּן הַבְּכוֹר שֶׁל יְהוּדָה, וְהַבַּעַל הָרִאשׁוֹן שֶׁל תָּמָר. הַתּוֹרָה אוֹמֶרֶת שֶׁהוּא הָיָה רַע בְּעֵינֵי ה׳, וְהוּא מֵת עוֹד בְּאֶרֶץ כְּנַעַן (ל״ח:ז׳; מ״ו:י״ב).",
+   "fr": "Èr est le fils aîné de Yehouda et le premier mari de Tamar. La Torah dit qu’il n’était pas bon aux yeux de Dieu, et il meurt, encore en terre de Canaan (38,7 ; 46,12)."
   },
   "events": [
    {
@@ -2060,15 +2064,15 @@
     "datesrc": "torah",
     "ref": "Genesis.38.6-7",
     "parasha": "vayeshev",
-    "he": "נוֹשֵׂא אֶת תָּמָר וּמֵת צָעִיר",
-    "fr": "Épouse Tamar et meurt jeune"
+    "he": "נוֹשֵׂא אֶת תָּמָר וּמֵת",
+    "fr": "Épouse Tamar et meurt"
    }
   ]
  },
  "onan": {
   "bio": {
-   "he": "אוֹנָן הוּא הַבֵּן הַשֵּׁנִי שֶׁל יְהוּדָה. גַּם הוּא עָשָׂה מַה שֶּׁלֹּא טוֹב בְּעֵינֵי ה׳, וּמֵת צָעִיר בְּאֶרֶץ כְּנַעַן (ל״ח:י׳; מ״ו:י״ב).",
-   "fr": "Onan est le deuxième fils de Yehouda. Lui aussi fait ce qui n’est pas bon aux yeux de Dieu, et il meurt jeune en terre de Canaan (38,10 ; 46,12)."
+   "he": "אוֹנָן הוּא הַבֵּן הַשֵּׁנִי שֶׁל יְהוּדָה. גַּם הוּא עָשָׂה מַה שֶּׁלֹּא טוֹב בְּעֵינֵי ה׳, וּמֵת בְּאֶרֶץ כְּנַעַן (ל״ח:י׳; מ״ו:י״ב).",
+   "fr": "Onan est le deuxième fils de Yehouda. Lui aussi fait ce qui n’est pas bon aux yeux de Dieu, et il meurt en terre de Canaan (38,10 ; 46,12)."
   }
  },
  "shela": {
@@ -2129,7 +2133,7 @@
     "am": null,
     "datesrc": "torah",
     "ref": "Numbers.26.46",
-    "parasha": null,
+    "parasha": "",
     "he": "נִזְכֶּרֶת בְּמִפְקַד בְּנֵי יִשְׂרָאֵל בַּמִּדְבָּר",
     "fr": "Est mentionnée dans le recensement du désert"
    }
@@ -2206,7 +2210,7 @@
     "am": null,
     "datesrc": "torah",
     "ref": "Exodus.6.20",
-    "parasha": null,
+    "parasha": "",
     "he": "נוֹשֵׂא אֶת יוֹכֶבֶד, וְנוֹלָדִים לָהֶם אַהֲרֹן וּמֹשֶׁה",
     "fr": "Épouse Yokhéved ; Aharon et Moché naissent"
    }
@@ -2226,7 +2230,7 @@
      "fr": "Rachi sur Gn 46,15"
     },
     "ref": "Genesis.46.15",
-    "he": "בִּרְשִׁימַת בְּנֵי לֵאָה יֵשׁ שְׁלֹשִׁים וְשָׁלֹשׁ נְפָשׁוֹת, אֲבָל רַק שְׁלֹשִׁים וּשְׁתַּיִם שֵׁמוֹת. לְפִי רַשִׁ״י, הַנֶּפֶשׁ הַחֲסֵרָה הִיא יוֹכֶבֶד, שֶׁנּוֹלְדָה ״בֵּין הַחוֹמוֹת״, בְּדִיּוּק כְּשֶׁהַמִּשְׁפָּחָה נִכְנְסָה לְמִצְרַיִם.",
+    "he": "בִּרְשִׁימַת בְּנֵי לֵאָה יֵשׁ שְׁלֹשִׁים וְשָׁלֹשׁ נְפָשׁוֹת, אֲבָל רַק שְׁלֹשִׁים וּשְׁנַיִם שֵׁמוֹת. לְפִי רַשִׁ״י, הַנֶּפֶשׁ הַחֲסֵרָה הִיא יוֹכֶבֶד, שֶׁנּוֹלְדָה ״בֵּין הַחוֹמוֹת״, בְּדִיּוּק כְּשֶׁהַמִּשְׁפָּחָה נִכְנְסָה לְמִצְרַיִם.",
     "fr": "Dans la liste des descendants de Léa, il y a 33 personnes mais seulement 32 noms. Selon Rachi, la personne manquante est Yokhéved, née « entre les murailles », juste au moment où la famille entrait en Égypte."
    }
   ]
@@ -2241,7 +2245,7 @@
     "am": 2488,
     "datesrc": "midrash",
     "ref": "Numbers.33.38-39",
-    "parasha": null,
+    "parasha": "",
     "he": "מֵת בְּהֹר הָהָר בְּגִיל מֵאָה עֶשְׂרִים וְשָׁלֹשׁ",
     "fr": "Meurt sur le mont Hor à 123 ans"
    }
@@ -2257,7 +2261,7 @@
     "am": 2488,
     "datesrc": "midrash",
     "ref": "Deuteronomy.34.7",
-    "parasha": null,
+    "parasha": "",
     "he": "מֵת בְּגִיל מֵאָה וְעֶשְׂרִים שָׁנָה",
     "fr": "Meurt à 120 ans"
    }
