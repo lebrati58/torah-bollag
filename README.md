@@ -8,6 +8,15 @@ Bandes dessinées pour enfants à partir des enseignements de Bollag. Hébreu si
 |---|---|---|
 | בראשית — Bereshit | [05 · חיי שרה — ‘Hayé Sarah](parachiot/01-bereshit/05-chaye-sarah/README.md) | 2 et 3 novembre 2026 |
 
+## Encyclopédie des personnages
+
+[encyclopedie.html](encyclopedie.html) relie trois espaces : **פרשת השבוע** (l’épisode de la semaine), **ציר הזמן** (la frise) et **דמויות בתורה** (fiches et arbres). Hébreu RTL par défaut, bouton Français.
+
+- Données : `data/personnages.json`, une seule source pour la frise, les fiches et les arbres. Chaque personnage a un identifiant permanent, ses relations avec le verset, ses parachiot, ses dates et leur origine (texte, Rachi/Midrash, adaptation).
+- Portraits : `assets/portraits.js` est une copie exacte du dessin utilisé dans les épisodes. Un personnage sans portrait garde une silhouette ; aucun visage n’est inventé.
+- Vidéos : champ `video` par personnage (URL d’un hébergement média externe). Tant qu’il est vide, la fiche affiche « vidéo en préparation ».
+- Rythme : une paracha par semaine, ajoutée chaque jeudi. Paracha en ligne : חיי שרה.
+
 ## Organisation
 
 Les contenus sont classés dans l’ordre de la Torah : **livre → paracha → date du texte → planches numérotées**.
