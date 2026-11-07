@@ -78,7 +78,7 @@ h2{font-size:clamp(22px,4vw,30px);margin:24px 0 10px}
 .tgroup{display:flex;gap:12px}
 .tnode{display:flex;flex-direction:column;align-items:center;gap:4px;border:0;background:none;padding:2px;font-weight:bold;font-size:14px;width:76px}
 .tnode .av{width:56px;height:56px}
-.tnode.cur .av{box-shadow:0 0 0 4px var(--yellow),0 0 0 6px var(--ink)}
+.tnode.off{opacity:.45}.civ{unicode-bidi:isolate;direction:ltr;display:inline-block}.tnode.cur .av{box-shadow:0 0 0 4px var(--yellow),0 0 0 6px var(--ink)}
 .tree svg.lines{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:0}
 dialog{width:min(860px,100vw);max-width:100vw;max-height:100dvh;padding:0;border:0;border-radius:26px;background:var(--paper);color:var(--ink)}
 dialog::backdrop{background:#211b40c9;backdrop-filter:blur(5px)}
@@ -165,7 +165,7 @@ const T={
   tlTitle:"צִיר הַזְּמַן",tlLead:"כָּל פַּס הוּא חַיִּים שֶׁל דְּמוּת. לוֹחֲצִים כְּדֵי לְהַכִּיר!",tlTrad:"שָׁנִים לְפִי הַכָּתוּב (חֶשְׁבּוֹן מָסָרְתִּי)",tlMid:"לְפִי רַשִׁ״י / מִדְרָשׁ",tlEvent:"אֵרוּעַ",
   tlUndated:"דְּמֻיּוֹת שֶׁאִי אֶפְשָׁר לְתַאֲרֵךְ",tlAM:"לִבְרִיאַת הָעוֹלָם",tlBCE:"לִפְנֵי הַסְּפִירָה",
   tlHist:"תַּאֲרִיכִים הִיסְטוֹרִיִּים",tlHistTxt:"הַשָּׁנִים בַּצִּיר הֵן לְפִי הַחֶשְׁבּוֹן הַמָּסָרְתִּי (סֵדֶר עוֹלָם). חוֹקְרִים מַצִּיעִים לִתְקוּפַת הָאָבוֹת אֶת הָאֶלֶף הַשֵּׁנִי לִפְנֵי הַסְּפִירָה; זוֹ הַצָּעָה שֶׁיֵּשׁ עָלֶיהָ וִכּוּחַ, וְאֵין לָהּ הוֹכָחָה אַרְכֵיאוֹלוֹגִית יְשִׁירָה.",
-  peopleTitle:"דְּמֻיּוֹת בַּתּוֹרָה",peopleLead:"לוֹחֲצִים עַל דְּמוּת כְּדֵי לִפְתֹּחַ אֶת הַכַּרְטִיס שֶׁלָּהּ.",trees:"עֵצֵי מִשְׁפָּחָה",linkOnly:"כַּרְטִיס מָלֵא בְּקָרוֹב",
+  peopleTitle:"דְּמֻיּוֹת בַּתּוֹרָה",peopleLead:"לוֹחֲצִים עַל דְּמוּת כְּדֵי לִפְתֹּחַ אֶת הַכַּרְטִיס שֶׁלָּהּ.",trees:"עֵצֵי מִשְׁפָּחָה",treeBy:"בּוֹחֲרִים פָּרָשָׁה וְרוֹאִים אֶת הַמִּשְׁפָּחָה שֶׁלָּהּ.",treeDim:"דְּמֻיּוֹת חִוְּרוֹת אֵינָן מוֹפִיעוֹת בַּפָּרָשָׁה הַזֹּאת.",linkOnly:"כַּרְטִיס מָלֵא בְּקָרוֹב",
   t1:"מִי אֲנִי?",t2:"הַמִּשְׁפָּחָה שֶׁלִּי",t3:"הַסִּפּוּר שֶׁלִּי",t4:"אֵיפֹה אֲנִי בַּתּוֹרָה?",t5:"מָה אֶפְשָׁר לִלְמֹד מִמֶּנִּי?",t6:"חִידוֹן",
   parents:"הוֹרִים",spouses:"בְּנֵי זוּג",siblings:"אַחִים",children:"יְלָדִים",me:"אֲנִי",
   videoSoon:"הַסִּרְטוֹן בַּהֲכָנָה",videoTxt:"סִרְטוֹן קָצָר (60–90 שְׁנִיּוֹת) עִם אוֹתוֹ דְּיוֹקָן כְּמוֹ בַּפְּרָקִים.",readEp:"בֵּינְתַיִם, קוֹרְאִים אֶת הַסִּפּוּר ←",
@@ -179,7 +179,7 @@ const T={
   tlTitle:"La frise du temps",tlLead:"Chaque barre est la vie d’un personnage. Touche pour le découvrir !",tlTrad:"Années d’après le texte (calcul traditionnel)",tlMid:"D’après Rachi / Midrash",tlEvent:"Événement",
   tlUndated:"Personnages impossibles à dater",tlAM:"depuis la création",tlBCE:"av. l’ère commune",
   tlHist:"Dates historiques",tlHistTxt:"Les années de la frise suivent la chronologie traditionnelle (Seder Olam). Des chercheurs proposent le IIe millénaire avant l’ère commune pour l’époque des patriarches : c’est une hypothèse débattue, sans preuve archéologique directe.",
-  peopleTitle:"Les personnages de la Torah",peopleLead:"Touche un personnage pour ouvrir sa fiche.",trees:"Arbres généalogiques",linkOnly:"Fiche complète bientôt",
+  peopleTitle:"Les personnages de la Torah",peopleLead:"Touche un personnage pour ouvrir sa fiche.",trees:"Arbres généalogiques",treeBy:"Choisis une paracha pour voir sa famille.",treeDim:"Les personnages pâles n’apparaissent pas dans cette paracha.",linkOnly:"Fiche complète bientôt",
   t1:"Qui suis-je ?",t2:"Ma famille",t3:"Mon histoire",t4:"Où suis-je dans la Torah ?",t5:"Que pouvons-nous apprendre ?",t6:"Quiz",
   parents:"Parents",spouses:"Conjoints",siblings:"Frères et sœurs",children:"Enfants",me:"Moi",
   videoSoon:"Vidéo en préparation",videoTxt:"Une courte vidéo (60 à 90 s) avec le même portrait que dans les épisodes.",readEp:"En attendant, lis l’histoire →",
@@ -205,7 +205,9 @@ function fmtRef(r){if(!r)return"";const m=r.match(/^(\w+)\.(\d+)\.(\d+)(?:-(\d+)
  let s=B.fr+" "+ch+","+v;if(e2)s+="–"+e1+","+e2;else if(e1)s+="-"+e1;return s}
 const sefaria=r=>"https://www.sefaria.org/"+r.replace(/\.(\d+)-(\d+)\.(\d+)$/,".$1-$2.$3")+"?lang="+(L==="he"?"he":"bi");
 function srcBadge(s){if(!s||!D.sources[s])return"";return '<span class="src '+s+'">'+esc(D.sources[s][L])+'</span>'}
-function civ(am){const y=3761-am;return y>0?y+" "+t("tlBCE"):(1-y)+""}
+function heYear(n){const o=["","א","ב","ג","ד","ה","ו","ז","ח","ט"],te=["","י","כ","ל","מ","נ","ס","ע","פ","צ"],hu=["","ק","ר","ש","ת","תק","תר","תש","תת","תתק"];const th=Math.floor(n/1000);n%=1000;let s=hu[Math.floor(n/100)];n%=100;const tt=Math.floor(n/10),u=n%10;s+=(tt===1&&(u===5||u===6))?"ט"+o[u+1]:te[tt]+o[u];s=s.length>1?s.slice(0,-1)+"״"+s.slice(-1):(s?s+"׳":"");return (th?o[th]+"׳":"")+s}
+const yr=am=>L==="he"?heYear(am):String(am);
+function civ(am){const y=3761-am;return '<span class="civ" dir="ltr">'+(y>0?"\u2212"+y:String(1-y))+'</span>'}
 
 function silhouette(){return '<svg viewBox="-50 -50 100 145" aria-hidden="true"><circle cy="2" r="28" fill="#cfc4ea"/><path d="M-42 95Q-40 38 0 34Q40 38 42 95Z" fill="#cfc4ea"/></svg>'}
 function avatar(c,cls=""){const svg=c&&c.portrait?portraitSVG(c.portrait):null;return '<span class="av '+cls+'"'+(svg?'':' title="'+esc(t("noPortrait"))+'"')+'>'+(svg||silhouette())+'</span>'}
@@ -228,21 +230,23 @@ function renderTimeline(){const dated=D.characters.filter(c=>c.life&&c.life.born
  const evs=[];D.characters.forEach(c=>(c.events||[]).forEach(e=>{if(e.am!=null)evs.push({c,e})}));
  let min=Math.min(...dated.map(c=>c.life.born)),max=Math.max(...dated.map(c=>c.life.died||c.life.born+20));min=Math.floor((min-10)/25)*25;max=Math.ceil((max+10)/25)*25;
  const K=4.2,W=(max-min)*K,side=L==="he"?"right":"left",pos=y=>(y-min)*K;
- let ticks="";for(let y=min;y<=max;y+=25)ticks+='<span class="tick" style="'+side+':'+pos(y)+'px"><b>'+y+'</b>'+civ(y).replace(" "+t("tlBCE"),"")+'</span>';
- let lanes=dated.map(c=>{const b=c.life.born,d=c.life.died||b+15,mid=c.life.src==="midrash";return '<div class="lane"><button class="bar'+(mid?' mid':'')+'" data-open="'+c.id+'" style="'+side+':'+pos(b)+'px;width:'+Math.max(64,(d-b)*K)+'px" title="'+esc(nm(c))+' · '+b+(c.life.died?'–'+c.life.died:'')+'">'+avatar(c)+esc(nm(c))+'</button></div>'}).join("");
- const seen={};let dots=evs.filter(x=>{const k=x.e.am+x.e.he;if(seen[k])return false;return seen[k]=1}).map(x=>'<button class="dot" data-open="'+x.c.id+'" data-tab="story" style="'+side+':'+pos(x.e.am)+'px" title="'+esc(x.e.am+' · '+nm(x.c)+' — '+x.e[L])+'" aria-label="'+esc(x.e[L])+'"></button>').join("");
+ let ticks="";for(let y=min;y<=max;y+=25)ticks+='<span class="tick" style="'+side+':'+pos(y)+'px"><b>'+yr(y)+'</b>'+civ(y)+'</span>';
+ let lanes=dated.map(c=>{const b=c.life.born,d=c.life.died||b+15,mid=c.life.src==="midrash";return '<div class="lane"><button class="bar'+(mid?' mid':'')+'" data-open="'+c.id+'" style="'+side+':'+pos(b)+'px;width:'+Math.max(64,(d-b)*K)+'px" title="'+esc(nm(c))+' · '+yr(b)+(c.life.died?'–'+yr(c.life.died):'')+'">'+avatar(c)+esc(nm(c))+'</button></div>'}).join("");
+ const seen={};let dots=evs.filter(x=>{const k=x.e.am+x.e.he;if(seen[k])return false;return seen[k]=1}).map(x=>'<button class="dot" data-open="'+x.c.id+'" data-tab="story" style="'+side+':'+pos(x.e.am)+'px" title="'+esc(yr(x.e.am)+' · '+nm(x.c)+' — '+x.e[L])+'" aria-label="'+esc(x.e[L])+'"></button>').join("");
  const und=D.characters.filter(c=>c.status==="full"&&(!c.life||c.life.born==null));
  $("#s-timeline").innerHTML='<h1>'+esc(t("tlTitle"))+'</h1><p class="lead">'+esc(t("tlLead"))+'</p><div class="legend"><span><i class="sw" style="background:var(--torah-bg);border:2px solid var(--torah)"></i>'+esc(t("tlTrad"))+'</span><span><i class="sw" style="background:var(--midrash-bg);border:2px dashed var(--midrash)"></i>'+esc(t("tlMid"))+'</span><span><i class="sw" style="background:var(--yellow);border:2px solid var(--ink);width:14px;height:14px;border-radius:50%"></i>'+esc(t("tlEvent"))+'</span></div>'+
  '<div class="tl-wrap" id="tlwrap"><div class="tl" style="width:'+(W+40)+'px"><div class="axis">'+ticks+'</div><div class="evrow">'+dots+'</div>'+lanes+'</div></div>'+
- '<p class="small muted">'+esc(t("year"))+': '+esc(t("tlAM"))+' · '+esc(t("tlBCE"))+'</p>'+
+ '<p class="small muted">'+esc(t("year"))+': '+esc(t("tlAM"))+' · <span class="civ">−1813</span> = 1813 '+esc(t("tlBCE"))+'</p>'+
  '<div class="undated"><h2>'+esc(t("tlUndated"))+'</h2><div class="chips">'+und.map(c=>chip(c)).join("")+'</div></div>'+
  '<h2>'+esc(t("tlHist"))+'</h2><p class="note">'+esc(t("tlHistTxt"))+'</p>'}
 
+let treeP=null;function treeParasha(){return D.parachiot.find(p=>p.id===treeP)||latestParasha()}
 function renderPeople(){const full=D.characters.filter(c=>c.status==="full"),link=D.characters.filter(c=>c.status!=="full");
  const card=c=>'<button class="pcard'+(c.status!=="full"?' link':'')+'" data-open="'+c.id+'">'+avatar(c)+'<b>'+esc(nm(c))+'</b><span>'+esc(L==="he"?c.fr:c.he)+'</span>'+(c.status!=="full"?'<br><span class="small">'+esc(t("linkOnly"))+'</span>':'')+'</button>';
- $("#s-people").innerHTML='<h1>'+esc(t("peopleTitle"))+'</h1><p class="lead">'+esc(t("peopleLead"))+'</p><div class="grid">'+full.map(card).join("")+link.map(card).join("")+'</div><h2>'+esc(t("trees"))+'</h2>'+D.trees.map(tr=>'<h3>'+esc(tr[L])+'</h3><div class="tree-wrap"><div class="tree" data-tree="'+tr.id+'">'+tr.rows.map(r=>'<div class="trow">'+r.map(g=>'<div class="tgroup">'+g.map(id=>tnode(byId[id])).join("")+'</div>').join("")+'</div>').join("")+'</div></div><p class="small muted">'+esc(tr.note[L])+'</p>').join("");
+ const tp=treeParasha(),tr=D.trees.filter(x=>x.parasha===tp.id);
+ $("#s-people").innerHTML='<h1>'+esc(t("peopleTitle"))+'</h1><p class="lead">'+esc(t("peopleLead"))+'</p><div class="grid">'+full.map(card).join("")+link.map(card).join("")+'</div><h2>'+esc(t("trees"))+'</h2><p class="muted">'+esc(t("treeBy"))+'</p><div class="chips" style="margin-bottom:14px">'+[...D.parachiot].sort((a,b)=>a.order-b.order).map(p=>'<button class="chip'+(p.id===tp.id?' self':'')+'" data-treep="'+p.id+'">📖 '+esc(p[L])+'</button>').join("")+'</div>'+tr.map(tr=>'<h3>'+esc(tr[L])+'</h3><div class="tree-wrap"><div class="tree" data-tree="'+tr.id+'">'+tr.rows.map(r=>'<div class="trow">'+r.map(g=>'<div class="tgroup">'+g.map(id=>tnode(byId[id],false,!byId[id].parachiot.includes(tp.id))).join("")+'</div>').join("")+'</div>').join("")+'</div></div><p class="small muted">'+esc(tr.note[L])+' '+esc(t("treeDim"))+'</p>').join("");
  requestAnimationFrame(()=>document.querySelectorAll(".tree").forEach(drawLines))}
-function tnode(c,cur){return '<button class="tnode'+(cur?' cur':'')+'" data-open="'+c.id+'" data-node="'+c.id+'">'+avatar(c)+esc(nm(c))+'</button>'}
+function tnode(c,cur,off){return '<button class="tnode'+(cur?' cur':'')+(off?' off':'')+'" data-open="'+c.id+'" data-node="'+c.id+'">'+avatar(c)+esc(nm(c))+'</button>'}
 function drawLines(tree){tree.querySelector("svg.lines")?.remove();const box=tree.getBoundingClientRect(),nodes={};tree.querySelectorAll("[data-node]").forEach(n=>{const r=n.querySelector(".av").getBoundingClientRect();nodes[n.dataset.node]={x:r.left+r.width/2-box.left,y:r.top+r.height/2-box.top,t:r.top-box.top,b:r.bottom-box.top}});
  let p="";const done={};
  Object.keys(nodes).forEach(id=>{const c=byId[id];
@@ -262,7 +266,7 @@ function openChar(id,tab){const c=byId[id];if(!c)return;curChar=c;curTab=tab&&TA
 function renderTab(){const c=curChar,b=$("#fbody");document.querySelectorAll("[data-ftab]").forEach(x=>x.setAttribute("aria-selected",x.dataset.ftab===curTab));b.scrollTop=0;
  if(curTab==="who"){let h='<p class="story">'+esc(c.bio[L])+'</p>';
   ["nameNote","identityNote","parentsNote"].forEach(k=>{if(c[k])h+='<p class="note">'+srcBadge(c[k].src)+esc(c[k][L])+(c[k].source?' <span class="small muted">('+esc(c[k].source[L])+')</span>':'')+(c[k].ref?' <a href="'+sefaria(c[k].ref)+'" target="_blank" rel="noopener" class="small">'+esc(fmtRef(c[k].ref))+'</a>':'')+'</p>'});
-  if(c.life&&(c.life.born!=null||c.life.age)){h+='<p class="note">'+srcBadge(c.life.src)+(c.life.born!=null?esc(t("born"))+': '+c.life.born+' ('+esc(civ(c.life.born))+') · ':'')+(c.life.died?esc(t("died"))+': '+c.life.died+' · ':'')+(c.life.age?esc(t("age"))+': '+c.life.age+(c.life.ageRef?' (<a href="'+sefaria(c.life.ageRef)+'" target="_blank" rel="noopener">'+esc(fmtRef(c.life.ageRef))+'</a>)':''):'')+(c.life.note?'<br><span class="small">'+esc(c.life.note[L])+'</span>':'')+'</p>'}
+  if(c.life&&(c.life.born!=null||c.life.age)){h+='<p class="note">'+srcBadge(c.life.src)+(c.life.born!=null?esc(t("born"))+': '+yr(c.life.born)+' · '+civ(c.life.born)+' · ':'')+(c.life.died?esc(t("died"))+': '+yr(c.life.died)+' · '+civ(c.life.died)+' · ':'')+(c.life.age?esc(t("age"))+': '+c.life.age+(c.life.ageRef?' (<a href="'+sefaria(c.life.ageRef)+'" target="_blank" rel="noopener">'+esc(fmtRef(c.life.ageRef))+'</a>)':''):'')+(c.life.note?'<br><span class="small">'+esc(c.life.note[L])+'</span>':'')+'</p>'}
   if(c.historical)h+='<p class="small muted">'+esc(t("tlHist"))+': '+esc(c.historical[L])+'</p>';
   b.innerHTML=h;return}
  if(curTab==="family"){const row=(k,list)=>list.length?'<div><h4>'+esc(t(k))+'</h4><div class="chips">'+list.map(id=>chip(byId[id])).join("")+'</div></div>':"";
@@ -271,7 +275,7 @@ function renderTab(){const c=curChar,b=$("#fbody");document.querySelectorAll("[d
   const rel=[...(c.parents||[]),...(c.spouses||[]),...(c.siblings||[])];if(rel.length)h+='<p class="small muted">'+rel.map(r=>esc(nm(byId[r.id]))+' · <a href="'+sefaria(r.ref)+'" target="_blank" rel="noopener">'+esc(fmtRef(r.ref))+'</a>').join(" | ")+'</p>';
   b.innerHTML=h+'</div>';return}
  if(curTab==="story"){const p=D.parachiot.find(x=>c.parachiot.includes(x.id));let v=c.video?'<video controls playsinline preload="none" src="'+esc(c.video)+'" style="width:100%;border-radius:20px"></video>':'<div class="video"><div>'+avatar(c,"md")+'<b>'+esc(t("videoSoon"))+'</b><span class="small">'+esc(t("videoTxt"))+'</span>'+(p?'<br><br><a class="cta" href="'+esc(p.episodes)+'">'+esc(t("readEp"))+'</a>':'')+'</div></div>';
-  b.innerHTML=v+'<h3>'+esc(t("moments"))+'</h3><ul class="refs">'+(c.events||[]).map(e=>'<li>'+(e.am!=null?'<b>'+e.am+'</b> · ':'')+esc(e[L])+' <a class="small" href="'+sefaria(e.ref)+'" target="_blank" rel="noopener">'+esc(fmtRef(e.ref))+'</a>'+(e.datesrc==="midrash"?' <span class="src midrash">'+esc(t("year"))+': '+esc(D.sources.midrash[L])+'</span>':'')+'</li>').join("")+'</ul>';return}
+  b.innerHTML=v+'<h3>'+esc(t("moments"))+'</h3><ul class="refs">'+(c.events||[]).map(e=>'<li>'+(e.am!=null?'<b>'+yr(e.am)+'</b> <span class="small muted">'+civ(e.am)+'</span> · ':'')+esc(e[L])+' <a class="small" href="'+sefaria(e.ref)+'" target="_blank" rel="noopener">'+esc(fmtRef(e.ref))+'</a>'+(e.datesrc==="midrash"?' <span class="src midrash">'+esc(t("year"))+': '+esc(D.sources.midrash[L])+'</span>':'')+'</li>').join("")+'</ul>';return}
  if(curTab==="where"){const refs=new Map();const add=r=>{if(r)refs.set(r,1)};(c.events||[]).forEach(e=>add(e.ref));(c.parents||[]).forEach(e=>add(e.ref));(c.spouses||[]).forEach(e=>add(e.ref));(c.lessons||[]).forEach(e=>add(e.ref));if(c.life)add(c.life.ageRef);
   const sorted=[...refs.keys()].sort((a,b)=>{const n=r=>r.split(/[.\-]/).slice(1,3).map(Number);const[x1,y1]=n(a),[x2,y2]=n(b);return x1-x2||y1-y2});
   b.innerHTML='<h3>'+esc(t("inParachiot"))+'</h3><div class="chips">'+c.parachiot.map(id=>{const p=D.parachiot.find(x=>x.id===id);return p?'<a class="chip" href="'+esc(p.episodes)+'">📖 '+esc(p[L])+' <span class="small muted">'+esc(p.ref[L])+'</span></a>':""}).join("")+'</div><h3>'+esc(t("refs"))+'</h3><ul class="refs">'+sorted.map(r=>'<li><b>'+esc(fmtRef(r))+'</b> · <a href="'+sefaria(r)+'" target="_blank" rel="noopener">'+esc(t("open"))+'</a></li>').join("")+'</ul>';return}
@@ -297,6 +301,7 @@ function setLang(l){L=l;store("encLang",l);document.documentElement.lang=l;docum
 document.addEventListener("click",e=>{const o=e.target.closest("[data-open]");if(o){e.preventDefault();openChar(o.dataset.open,o.dataset.tab);return}
  const f=e.target.closest("[data-ftab]");if(f){curTab=f.dataset.ftab;renderTab();return}
  const a=e.target.closest(".opt");if(a){answer(+a.dataset.k);return}
+ const tpb=e.target.closest("[data-treep]");if(tpb){treeP=tpb.dataset.treep;renderPeople();return}
  const lg=e.target.closest("[data-lang]");if(lg)setLang(lg.dataset.lang)});
 $("#fclose").onclick=()=>$("#fiche").close();
 $("#fiche").addEventListener("close",()=>{if(location.hash.startsWith("#p="))history.replaceState(null,"","#people");route()});
