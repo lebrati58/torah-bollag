@@ -1,0 +1,2326 @@
+{
+ "version": 1,
+ "notes": {
+  "fr": "Une paracha est ajoutée chaque semaine. Chaque fait porte sa source : torah = écrit dans le texte ; midrash = Rachi ou Midrash (source indiquée) ; adaptation = choix artistique pour les enfants.",
+  "dates": "Chronologie traditionnelle : années depuis la création (Seder Olam, reprise par Rachi). Équivalent civil = année traditionnelle − 3761. Les datations historiques sont des propositions de chercheurs, débattues."
+ },
+ "sources": {
+  "torah": {
+   "he": "כָּתוּב בַּתּוֹרָה",
+   "fr": "Écrit dans la Torah"
+  },
+  "midrash": {
+   "he": "רַשִׁ״י / מִדְרָשׁ",
+   "fr": "Rachi / Midrash"
+  },
+  "adaptation": {
+   "he": "עִבּוּד לִילָדִים",
+   "fr": "Adaptation artistique"
+  }
+ },
+ "parachiot": [
+  {
+   "id": "chaye-sarah",
+   "order": 5,
+   "book": {
+    "he": "בְּרֵאשִׁית",
+    "fr": "Bereshit"
+   },
+   "he": "חַיֵּי שָׂרָה",
+   "fr": "‘Hayé Sarah",
+   "ref": {
+    "he": "בראשית כ״ג:א׳–כ״ה:י״ח",
+    "fr": "Genèse 23,1 – 25,18",
+    "sefaria": "Genesis.23.1-25.18"
+   },
+   "shabbat": "2026-11-07",
+   "episodes": "index.html",
+   "summary": {
+    "he": "שָׂרָה נִפְטֶרֶת וְאַבְרָהָם קוֹנֶה אֶת מְעָרַת הַמַּכְפֵּלָה. הָעֶבֶד יוֹצֵא לְחַפֵּשׂ אִשָּׁה לְיִצְחָק וּפוֹגֵשׁ אֶת רִבְקָה לְיַד הַבְּאֵר. יִצְחָק נוֹשֵׂא אֶת רִבְקָה, וְאַבְרָהָם נִפְטָר בְּשֵׂיבָה טוֹבָה.",
+    "fr": "Sarah meurt et Avraham achète la grotte de Makhpéla. Le serviteur part chercher une épouse pour Yitzhak et rencontre Rivka au puits. Yitzhak épouse Rivka, puis Avraham meurt âgé et comblé."
+   }
+  }
+ ],
+ "characters": [
+  {
+   "id": "avraham",
+   "he": "אַבְרָהָם",
+   "fr": "Avraham",
+   "alt": {
+    "he": "אַבְרָם",
+    "fr": "Avram (son premier nom, Gn 17,5)"
+   },
+   "portrait": "avraham",
+   "status": "full",
+   "parents": [
+    {
+     "id": "terah",
+     "ref": "Genesis.11.26",
+     "src": "torah"
+    }
+   ],
+   "spouses": [
+    {
+     "id": "sarah",
+     "ref": "Genesis.11.29",
+     "src": "torah"
+    },
+    {
+     "id": "hagar",
+     "ref": "Genesis.16.3",
+     "src": "torah"
+    },
+    {
+     "id": "ketura",
+     "ref": "Genesis.25.1",
+     "src": "torah"
+    }
+   ],
+   "siblings": [
+    {
+     "id": "nahor",
+     "ref": "Genesis.11.26",
+     "src": "torah"
+    }
+   ],
+   "otherChildren": {
+    "he": "בְּנֵי קְטוּרָה: זִמְרָן, יָקְשָׁן, מְדָן, מִדְיָן, יִשְׁבָּק, שׁוּחַ",
+    "fr": "Fils de Ketoura : Zimran, Yokchan, Medan, Midyan, Yichbak, Chouah",
+    "ref": "Genesis.25.2"
+   },
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": 1948,
+    "died": 2123,
+    "age": 175,
+    "src": "torah",
+    "ageRef": "Genesis.25.7",
+    "note": {
+     "he": "שְׁנַת הַלֵּידָה לְפִי חֶשְׁבּוֹן הַדּוֹרוֹת (סֵדֶר עוֹלָם)",
+     "fr": "Année de naissance selon le calcul des générations (Seder Olam)"
+    }
+   },
+   "historical": {
+    "fr": "Des chercheurs situent l’époque des patriarches au IIe millénaire av. l’ère commune (âge du Bronze moyen). Aucune trace archéologique directe ; la question est débattue.",
+    "he": "חוֹקְרִים מַצִּיעִים אֶת הָאֶלֶף הַשֵּׁנִי לִפְנֵי הַסְּפִירָה (תְּקוּפַת הַבְּרוֹנְזָה הַתִּיכוֹנָה). זוֹ הַצָּעָה שֶׁיֵּשׁ עָלֶיהָ וִכּוּחַ."
+   },
+   "events": [
+    {
+     "am": 2085,
+     "datesrc": "midrash",
+     "ref": "Genesis.23.16",
+     "he": "קוֹנֶה מֵעֶפְרוֹן אֶת מְעָרַת הַמַּכְפֵּלָה בְּאַרְבַּע מֵאוֹת שֶׁקֶל כֶּסֶף",
+     "fr": "Achète à Efron la grotte de Makhpéla pour 400 sicles d’argent"
+    },
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.2-4",
+     "he": "שׁוֹלֵחַ אֶת עַבְדּוֹ לִמְצֹא אִשָּׁה לְיִצְחָק",
+     "fr": "Envoie son serviteur trouver une épouse pour Yitzhak"
+    },
+    {
+     "am": null,
+     "ref": "Genesis.25.1",
+     "he": "נוֹשֵׂא אֶת קְטוּרָה",
+     "fr": "Épouse Ketoura"
+    },
+    {
+     "am": 2123,
+     "datesrc": "torah",
+     "ref": "Genesis.25.7-9",
+     "he": "נִפְטָר בְּגִיל 175; יִצְחָק וְיִשְׁמָעֵאל קוֹבְרִים אוֹתוֹ",
+     "fr": "Meurt à 175 ans ; Yitzhak et Yishmaël l’enterrent"
+    }
+   ],
+   "bio": {
+    "he": "אַבְרָהָם הָלַךְ בְּדֶרֶךְ ה׳ כָּל חַיָּיו. כְּשֶׁשָּׂרָה אִשְׁתּוֹ נִפְטְרָה, הוּא בָּכָה עָלֶיהָ וְקָנָה בִּשְׁבִילָהּ מְעָרָה בְּחֶבְרוֹן. אַחַר כָּךְ דָּאַג לְבֵיתוֹ: הוּא שָׁלַח אֶת עַבְדּוֹ הַנֶּאֱמָן לִמְצֹא אִשָּׁה טוֹבָה לְיִצְחָק. אַבְרָהָם חַי מֵאָה שִׁבְעִים וְחָמֵשׁ שָׁנִים, וְהַתּוֹרָה אוֹמֶרֶת שֶׁנִּפְטַר ״זָקֵן וְשָׂבֵעַ״.",
+    "fr": "Avraham a suivi le chemin de Dieu toute sa vie. Quand sa femme Sarah meurt, il la pleure et achète pour elle une grotte à Hévron. Puis il pense à l’avenir de sa famille : il envoie son fidèle serviteur chercher une bonne épouse pour Yitzhak. Avraham vit 175 ans, et la Torah dit qu’il meurt « âgé et rassasié de jours »."
+   },
+   "lessons": [
+    {
+     "src": "torah",
+     "ref": "Genesis.23.13-16",
+     "he": "אַבְרָהָם הִתְעַקֵּשׁ לְשַׁלֵּם מְחִיר מָלֵא עַל הַמְּעָרָה. כָּךְ כֻּלָּם יָדְעוּ שֶׁהִיא שֶׁלּוֹ בְּיֹשֶׁר.",
+     "fr": "Avraham insiste pour payer le prix complet de la grotte : ainsi chacun sait qu’elle lui appartient honnêtement."
+    },
+    {
+     "src": "torah",
+     "ref": "Genesis.24.38",
+     "he": "אַבְרָהָם דָּאַג לָעֲתִיד שֶׁל הַמִּשְׁפָּחָה וּבִקֵּשׁ לְיִצְחָק אִשָּׁה מִמִּשְׁפַּחְתּוֹ.",
+     "fr": "Avraham prépare l’avenir de sa famille et veut pour Yitzhak une épouse de sa famille."
+    },
+    {
+     "src": "midrash",
+     "source": {
+      "he": "רש״י בראשית כ״ה:ט׳",
+      "fr": "Rachi sur Gn 25,9"
+     },
+     "ref": "Genesis.25.9",
+     "he": "רַשִׁ״י לוֹמֵד שֶׁיִּשְׁמָעֵאל חָזַר בִּתְשׁוּבָה, וְלָכֵן נָתַן לְיִצְחָק לָלֶכֶת לְפָנָיו בַּלְּוָיָה.",
+     "fr": "Rachi apprend que Yishmaël s’est repenti : c’est pourquoi il laisse Yitzhak marcher devant lui à l’enterrement."
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "he": "מָה קָנָה אַבְרָהָם מֵעֶפְרוֹן?",
+      "fr": "Qu’Avraham a-t-il acheté à Efron ?"
+     },
+     "options": [
+      {
+       "he": "מְעָרָה וְשָׂדֶה",
+       "fr": "Une grotte et un champ"
+      },
+      {
+       "he": "בְּאֵר מַיִם",
+       "fr": "Un puits"
+      },
+      {
+       "he": "עֶדֶר גְּמַלִּים",
+       "fr": "Un troupeau de chameaux"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.23.17"
+    },
+    {
+     "q": {
+      "he": "כַּמָּה כֶּסֶף שִׁלֵּם אַבְרָהָם?",
+      "fr": "Combien Avraham a-t-il payé ?"
+     },
+     "options": [
+      {
+       "he": "עֲשָׂרָה שְׁקָלִים",
+       "fr": "10 sicles"
+      },
+      {
+       "he": "אַרְבַּע מֵאוֹת שֶׁקֶל",
+       "fr": "400 sicles"
+      },
+      {
+       "he": "שׁוּם דָּבָר",
+       "fr": "Rien du tout"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.23.16"
+    },
+    {
+     "q": {
+      "he": "אֶת מִי שָׁלַח אַבְרָהָם לִמְצֹא אִשָּׁה לְיִצְחָק?",
+      "fr": "Qui Avraham envoie-t-il chercher une épouse pour Yitzhak ?"
+     },
+     "options": [
+      {
+       "he": "אֶת לוֹט",
+       "fr": "Lot"
+      },
+      {
+       "he": "אֶת עַבְדּוֹ",
+       "fr": "Son serviteur"
+      },
+      {
+       "he": "אֶת יִשְׁמָעֵאל",
+       "fr": "Yishmaël"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.24.2"
+    },
+    {
+     "q": {
+      "he": "בְּאֵיזֶה גִּיל נִפְטַר אַבְרָהָם?",
+      "fr": "À quel âge Avraham est-il mort ?"
+     },
+     "options": [
+      {
+       "he": "175",
+       "fr": "175 ans"
+      },
+      {
+       "he": "127",
+       "fr": "127 ans"
+      },
+      {
+       "he": "100",
+       "fr": "100 ans"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.7"
+    },
+    {
+     "q": {
+      "he": "מִי קָבְרוּ אֶת אַבְרָהָם?",
+      "fr": "Qui a enterré Avraham ?"
+     },
+     "options": [
+      {
+       "he": "יִצְחָק וְיִשְׁמָעֵאל",
+       "fr": "Yitzhak et Yishmaël"
+      },
+      {
+       "he": "לָבָן וּבְתוּאֵל",
+       "fr": "Lavan et Betouël"
+      },
+      {
+       "he": "עֶפְרוֹן",
+       "fr": "Efron"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.9"
+    }
+   ]
+  },
+  {
+   "id": "sarah",
+   "he": "שָׂרָה",
+   "fr": "Sarah",
+   "alt": {
+    "he": "שָׂרַי",
+    "fr": "Saraï (son premier nom, Gn 17,15)"
+   },
+   "portrait": null,
+   "status": "full",
+   "parents": [],
+   "parentsNote": {
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית י״א:כ״ט",
+     "fr": "Rachi sur Gn 11,29"
+    },
+    "he": "הַתּוֹרָה אֵינָהּ מְפָרֶשֶׁת אֶת שֵׁם אָבִיהָ. לְפִי רַשִׁ״י, שָׂרָה הִיא יִסְכָּה בַּת הָרָן.",
+    "fr": "La Torah ne nomme pas son père. Selon Rachi, Sarah est Yiska, fille de Haran."
+   },
+   "spouses": [
+    {
+     "id": "avraham",
+     "ref": "Genesis.11.29",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": 1958,
+    "died": 2085,
+    "age": 127,
+    "src": "torah",
+    "ageRef": "Genesis.23.1",
+    "note": {
+     "he": "צְעִירָה מֵאַבְרָהָם בְּעֶשֶׂר שָׁנִים (בראשית י״ז:י״ז)",
+     "fr": "Dix ans de moins qu’Avraham (Gn 17,17)"
+    }
+   },
+   "historical": {
+    "fr": "Même époque proposée que pour Avraham ; aucune datation historique sûre.",
+    "he": "אוֹתָהּ תְּקוּפָה מֻצַּעַת כְּמוֹ לְאַבְרָהָם; אֵין תַּאֲרִיךְ הִיסְטוֹרִי בָּטוּחַ."
+   },
+   "events": [
+    {
+     "am": 2048,
+     "datesrc": "torah",
+     "ref": "Genesis.21.2-3",
+     "he": "יוֹלֶדֶת אֶת יִצְחָק בְּגִיל 90",
+     "fr": "Donne naissance à Yitzhak à 90 ans"
+    },
+    {
+     "am": 2085,
+     "datesrc": "torah",
+     "ref": "Genesis.23.1-2",
+     "he": "נִפְטֶרֶת בְּקִרְיַת אַרְבַּע הִיא חֶבְרוֹן, בְּגִיל 127",
+     "fr": "Meurt à Kiryat Arba, c’est-à-dire Hévron, à 127 ans"
+    },
+    {
+     "am": 2085,
+     "datesrc": "midrash",
+     "ref": "Genesis.23.19",
+     "he": "נִקְבֶּרֶת בִּמְעָרַת הַמַּכְפֵּלָה",
+     "fr": "Est enterrée dans la grotte de Makhpéla"
+    }
+   ],
+   "bio": {
+    "he": "שָׂרָה הָיְתָה אִשְׁתּוֹ שֶׁל אַבְרָהָם. הִיא חִכְּתָה שָׁנִים רַבּוֹת לְיֶלֶד, וּבְגִיל תִּשְׁעִים נוֹלַד לָהּ יִצְחָק. הַפָּרָשָׁה נִקְרֵאת עַל שְׁמָהּ, ״חַיֵּי שָׂרָה״, אֲבָל הִיא מַתְחִילָה כְּשֶׁשָּׂרָה נִפְטֶרֶת בְּגִיל מֵאָה עֶשְׂרִים וָשֶׁבַע. אַבְרָהָם בָּכָה עָלֶיהָ וְקָבַר אוֹתָהּ בִּמְעָרַת הַמַּכְפֵּלָה בְּחֶבְרוֹן.",
+    "fr": "Sarah était la femme d’Avraham. Elle a attendu un enfant pendant de longues années, et à 90 ans est né Yitzhak. La paracha porte son nom, « la vie de Sarah », mais elle commence quand Sarah meurt, à 127 ans. Avraham la pleure et l’enterre dans la grotte de Makhpéla, à Hévron."
+   },
+   "lessons": [
+    {
+     "src": "torah",
+     "ref": "Genesis.23.2",
+     "he": "אַבְרָהָם בָּא לִסְפֹּד לְשָׂרָה וְלִבְכּוֹת עָלֶיהָ. מֻתָּר וְחָשׁוּב לְהַרְאוֹת שֶׁאָנוּ מִתְגַּעְגְּעִים.",
+     "fr": "Avraham vient faire l’éloge de Sarah et la pleurer : on a le droit, et c’est important, de montrer qu’une personne nous manque."
+    },
+    {
+     "src": "midrash",
+     "source": {
+      "he": "רש״י בראשית כ״ג:א׳",
+      "fr": "Rachi sur Gn 23,1"
+     },
+     "ref": "Genesis.23.1",
+     "he": "רַשִׁ״י אוֹמֵר שֶׁכָּל שְׁנוֹת חַיֶּיהָ שֶׁל שָׂרָה הָיוּ שָׁווֹת לְטוֹבָה.",
+     "fr": "Rachi dit que toutes les années de la vie de Sarah étaient égales dans le bien."
+    },
+    {
+     "src": "midrash",
+     "source": {
+      "he": "רש״י בראשית כ״ד:ס״ז",
+      "fr": "Rachi sur Gn 24,67"
+     },
+     "ref": "Genesis.24.67",
+     "he": "לְפִי רַשִׁ״י, בְּאֹהֶל שָׂרָה דָּלַק נֵר מִשַּׁבָּת לְשַׁבָּת. הַנֵּר כָּבָה כְּשֶׁנִּפְטְרָה וְחָזַר לִדְלֹק כְּשֶׁרִבְקָה בָּאָה.",
+     "fr": "Selon Rachi, une bougie brûlait dans la tente de Sarah d’un Chabbat à l’autre. Elle s’est éteinte à sa mort et s’est rallumée à l’arrivée de Rivka."
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "he": "בְּאֵיזֶה גִּיל נִפְטְרָה שָׂרָה?",
+      "fr": "À quel âge Sarah est-elle morte ?"
+     },
+     "options": [
+      {
+       "he": "127",
+       "fr": "127 ans"
+      },
+      {
+       "he": "175",
+       "fr": "175 ans"
+      },
+      {
+       "he": "90",
+       "fr": "90 ans"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.23.1"
+    },
+    {
+     "q": {
+      "he": "בְּאֵיזוֹ עִיר נִפְטְרָה שָׂרָה?",
+      "fr": "Dans quelle ville Sarah est-elle morte ?"
+     },
+     "options": [
+      {
+       "he": "יְרוּשָׁלַיִם",
+       "fr": "Jérusalem"
+      },
+      {
+       "he": "חֶבְרוֹן",
+       "fr": "Hévron"
+      },
+      {
+       "he": "חָרָן",
+       "fr": "Haran"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.23.2"
+    },
+    {
+     "q": {
+      "he": "אֵיפֹה נִקְבְּרָה שָׂרָה?",
+      "fr": "Où Sarah a-t-elle été enterrée ?"
+     },
+     "options": [
+      {
+       "he": "בִּמְעָרַת הַמַּכְפֵּלָה",
+       "fr": "Dans la grotte de Makhpéla"
+      },
+      {
+       "he": "לְיַד הַבְּאֵר",
+       "fr": "Près du puits"
+      },
+      {
+       "he": "בְּמִצְרַיִם",
+       "fr": "En Égypte"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.23.19"
+    },
+    {
+     "q": {
+      "he": "מִי הַבֵּן שֶׁל שָׂרָה?",
+      "fr": "Qui est le fils de Sarah ?"
+     },
+     "options": [
+      {
+       "he": "יִשְׁמָעֵאל",
+       "fr": "Yishmaël"
+      },
+      {
+       "he": "לָבָן",
+       "fr": "Lavan"
+      },
+      {
+       "he": "יִצְחָק",
+       "fr": "Yitzhak"
+      }
+     ],
+     "answer": 2,
+     "ref": "Genesis.21.3"
+    },
+    {
+     "q": {
+      "he": "לְפִי רַשִׁ״י, מָה חָזַר לָאֹהֶל כְּשֶׁרִבְקָה בָּאָה?",
+      "fr": "Selon Rachi, qu’est-ce qui revient dans la tente avec Rivka ?"
+     },
+     "options": [
+      {
+       "he": "הַנֵּר שֶׁדָּלַק מִשַּׁבָּת לְשַׁבָּת",
+       "fr": "La bougie qui brûlait d’un Chabbat à l’autre"
+      },
+      {
+       "he": "עֲשָׂרָה גְּמַלִּים",
+       "fr": "Dix chameaux"
+      },
+      {
+       "he": "כַּד מַיִם",
+       "fr": "Une cruche d’eau"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.24.67",
+     "src": "midrash"
+    }
+   ]
+  },
+  {
+   "id": "yitzhak",
+   "he": "יִצְחָק",
+   "fr": "Yitzhak",
+   "portrait": null,
+   "status": "full",
+   "parents": [
+    {
+     "id": "avraham",
+     "ref": "Genesis.21.3",
+     "src": "torah"
+    },
+    {
+     "id": "sarah",
+     "ref": "Genesis.21.3",
+     "src": "torah"
+    }
+   ],
+   "spouses": [
+    {
+     "id": "rivka",
+     "ref": "Genesis.24.67",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": 2048,
+    "died": 2228,
+    "age": 180,
+    "src": "torah",
+    "ageRef": "Genesis.35.28",
+    "note": {
+     "he": "אַבְרָהָם הָיָה בֶּן מֵאָה כְּשֶׁנּוֹלַד (בראשית כ״א:ה׳)",
+     "fr": "Avraham avait 100 ans à sa naissance (Gn 21,5)"
+    }
+   },
+   "historical": {
+    "fr": "Même époque proposée que pour Avraham ; débattue.",
+    "he": "אוֹתָהּ תְּקוּפָה מֻצַּעַת כְּמוֹ לְאַבְרָהָם; יֵשׁ עָלֶיהָ וִכּוּחַ."
+   },
+   "events": [
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.62-63",
+     "he": "יוֹצֵא לָשׂוּחַ בַּשָּׂדֶה לִפְנוֹת עֶרֶב",
+     "fr": "Sort méditer dans les champs à la tombée du soir"
+    },
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.67",
+     "he": "נוֹשֵׂא אֶת רִבְקָה בְּגִיל אַרְבָּעִים (בראשית כ״ה:כ׳)",
+     "fr": "Épouse Rivka à 40 ans (Gn 25,20)"
+    },
+    {
+     "am": 2123,
+     "datesrc": "midrash",
+     "ref": "Genesis.25.9",
+     "he": "קוֹבֵר אֶת אַבְרָהָם יַחַד עִם יִשְׁמָעֵאל",
+     "fr": "Enterre Avraham avec Yishmaël"
+    },
+    {
+     "am": 2123,
+     "datesrc": "midrash",
+     "ref": "Genesis.25.11",
+     "he": "ה׳ מְבָרֵךְ אוֹתוֹ, וְהוּא יוֹשֵׁב לְיַד בְּאֵר לַחַי רֹאִי",
+     "fr": "Dieu le bénit ; il s’installe près du puits de Lahaï-Roï"
+    }
+   ],
+   "bio": {
+    "he": "יִצְחָק הוּא הַבֵּן שֶׁאַבְרָהָם וְשָׂרָה חִכּוּ לוֹ שָׁנִים רַבּוֹת. אַחֲרֵי שֶׁאִמּוֹ נִפְטְרָה, הָיָה עָצוּב. עֶרֶב אֶחָד יָצָא לַשָּׂדֶה, וְרָאָה גְּמַלִּים מִתְקָרְבִים: רִבְקָה הִגִּיעָה. יִצְחָק הֵבִיא אוֹתָהּ לְאֹהֶל שָׂרָה אִמּוֹ, אָהַב אוֹתָהּ, וְהִתְנַחֵם.",
+    "fr": "Yitzhak est le fils qu’Avraham et Sarah ont attendu pendant de longues années. Après la mort de sa mère, il est triste. Un soir, il sort dans les champs et voit des chameaux approcher : Rivka arrive. Yitzhak l’amène dans la tente de Sarah, sa mère, il l’aime et il est consolé."
+   },
+   "lessons": [
+    {
+     "src": "torah",
+     "ref": "Genesis.24.67",
+     "he": "יִצְחָק אָהַב אֶת רִבְקָה וְהִתְנַחֵם אַחֲרֵי אִמּוֹ. מִשְׁפָּחָה חֲדָשָׁה יְכוֹלָה לְנַחֵם.",
+     "fr": "Yitzhak aime Rivka et il est consolé après la mort de sa mère : une nouvelle famille peut consoler."
+    },
+    {
+     "src": "midrash",
+     "source": {
+      "he": "רש״י בראשית כ״ד:ס״ג; ברכות כ״ו ע״ב",
+      "fr": "Rachi sur Gn 24,63 ; Berakhot 26b"
+     },
+     "ref": "Genesis.24.63",
+     "he": "״לָשׂוּחַ בַּשָּׂדֶה״ פֵּרוּשׁוֹ לְהִתְפַּלֵּל. לְפִי חֲזַ״ל, יִצְחָק תִּקֵּן אֶת תְּפִלַּת מִנְחָה.",
+     "fr": "« Méditer dans les champs » veut dire prier. Selon les Sages, Yitzhak a institué la prière de Min’ha."
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "he": "מִי הַהוֹרִים שֶׁל יִצְחָק?",
+      "fr": "Qui sont les parents de Yitzhak ?"
+     },
+     "options": [
+      {
+       "he": "אַבְרָהָם וְשָׂרָה",
+       "fr": "Avraham et Sarah"
+      },
+      {
+       "he": "אַבְרָהָם וְהָגָר",
+       "fr": "Avraham et Hagar"
+      },
+      {
+       "he": "בְּתוּאֵל וּמִלְכָּה",
+       "fr": "Betouël et Milka"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.21.3"
+    },
+    {
+     "q": {
+      "he": "מָה עָשָׂה יִצְחָק בַּשָּׂדֶה לִפְנוֹת עֶרֶב?",
+      "fr": "Que faisait Yitzhak dans les champs le soir ?"
+     },
+     "options": [
+      {
+       "he": "רָעָה צֹאן",
+       "fr": "Il gardait les moutons"
+      },
+      {
+       "he": "שָׂח בַּשָּׂדֶה (הִתְפַּלֵּל)",
+       "fr": "Il méditait (il priait)"
+      },
+      {
+       "he": "חָפַר בְּאֵר",
+       "fr": "Il creusait un puits"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.24.63",
+     "src": "midrash"
+    },
+    {
+     "q": {
+      "he": "לְאֵיזֶה אֹהֶל הֵבִיא יִצְחָק אֶת רִבְקָה?",
+      "fr": "Dans quelle tente Yitzhak amène-t-il Rivka ?"
+     },
+     "options": [
+      {
+       "he": "אֹהֶל אַבְרָהָם",
+       "fr": "La tente d’Avraham"
+      },
+      {
+       "he": "אֹהֶל שָׂרָה אִמּוֹ",
+       "fr": "La tente de Sarah, sa mère"
+      },
+      {
+       "he": "אֹהֶל לָבָן",
+       "fr": "La tente de Lavan"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.24.67"
+    },
+    {
+     "q": {
+      "he": "בֶּן כַּמָּה הָיָה יִצְחָק כְּשֶׁנָּשָׂא אֶת רִבְקָה?",
+      "fr": "Quel âge avait Yitzhak quand il a épousé Rivka ?"
+     },
+     "options": [
+      {
+       "he": "20",
+       "fr": "20 ans"
+      },
+      {
+       "he": "40",
+       "fr": "40 ans"
+      },
+      {
+       "he": "100",
+       "fr": "100 ans"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.25.20"
+    },
+    {
+     "q": {
+      "he": "עִם מִי קָבַר יִצְחָק אֶת אַבְרָהָם?",
+      "fr": "Avec qui Yitzhak a-t-il enterré Avraham ?"
+     },
+     "options": [
+      {
+       "he": "עִם לָבָן",
+       "fr": "Avec Lavan"
+      },
+      {
+       "he": "עִם הָעֶבֶד",
+       "fr": "Avec le serviteur"
+      },
+      {
+       "he": "עִם יִשְׁמָעֵאל",
+       "fr": "Avec Yishmaël"
+      }
+     ],
+     "answer": 2,
+     "ref": "Genesis.25.9"
+    }
+   ]
+  },
+  {
+   "id": "rivka",
+   "he": "רִבְקָה",
+   "fr": "Rivka",
+   "portrait": "rivka",
+   "status": "full",
+   "parents": [
+    {
+     "id": "betuel",
+     "ref": "Genesis.22.23",
+     "src": "torah"
+    }
+   ],
+   "siblings": [
+    {
+     "id": "lavan",
+     "ref": "Genesis.24.29",
+     "src": "torah"
+    }
+   ],
+   "spouses": [
+    {
+     "id": "yitzhak",
+     "ref": "Genesis.24.67",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": 2085,
+    "died": null,
+    "age": null,
+    "src": "midrash",
+    "note": {
+     "he": "לְפִי רַשִׁ״י (כ״ה:כ׳) הָיְתָה בַּת שָׁלֹשׁ בְּנִשּׂוּאֶיהָ; יֵשׁ דֵּעוֹת אֲחֵרוֹת. הַתּוֹרָה אֵינָהּ מְצַיֶּנֶת אֶת גִּילָהּ.",
+     "fr": "Selon Rachi (25,20), elle avait 3 ans au mariage ; il existe d’autres avis. La Torah ne donne pas son âge."
+    }
+   },
+   "historical": {
+    "fr": "Non datable historiquement.",
+    "he": "לֹא נִתָּן לְתַאֲרֵךְ הִיסְטוֹרִית."
+   },
+   "events": [
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.18-20",
+     "he": "מַשְׁקָה אֶת הָעֶבֶד וְאֶת כָּל הַגְּמַלִּים",
+     "fr": "Donne à boire au serviteur et à tous les chameaux"
+    },
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.58",
+     "he": "עוֹנָה ״אֵלֵךְ״ וְיוֹצֵאת לַדֶּרֶךְ",
+     "fr": "Répond « J’irai » et part en voyage"
+    },
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.64-67",
+     "he": "פּוֹגֶשֶׁת אֶת יִצְחָק וּמִתְחַתֶּנֶת אִתּוֹ",
+     "fr": "Rencontre Yitzhak et l’épouse"
+    }
+   ],
+   "bio": {
+    "he": "רִבְקָה גָּרָה בְּעִיר נָחוֹר. עֶרֶב אֶחָד יָצְאָה לַבְּאֵר עִם כַּד עַל כְּתֵפָהּ. אוֹרֵחַ עָיֵף בִּקֵּשׁ מְעַט מַיִם, וְרִבְקָה נָתְנָה לוֹ וְגַם רָצָה לְהַשְׁקוֹת אֶת כָּל הַגְּמַלִּים שֶׁלּוֹ! כְּשֶׁשָּׁאֲלוּ אוֹתָהּ אִם הִיא רוֹצָה לָלֶכֶת לְיִצְחָק, עָנְתָה מִיָּד: ״אֵלֵךְ!״",
+    "fr": "Rivka habitait la ville de Na’hor. Un soir, elle va au puits, une cruche sur l’épaule. Un voyageur fatigué lui demande un peu d’eau : Rivka lui en donne, puis court abreuver tous ses chameaux ! Quand on lui demande si elle veut partir vers Yitzhak, elle répond tout de suite : « J’irai ! »"
+   },
+   "lessons": [
+    {
+     "src": "torah",
+     "ref": "Genesis.24.19-20",
+     "he": "רִבְקָה עָשְׂתָה יוֹתֵר מִמָּה שֶׁבִּקְּשׁוּ מִמֶּנָּה: גַּם לַגְּמַלִּים הִיא דָּאֲגָה. זֶה חֶסֶד.",
+     "fr": "Rivka fait plus que ce qu’on lui demande : elle pense aussi aux chameaux. C’est la bonté (‘hessed)."
+    },
+    {
+     "src": "torah",
+     "ref": "Genesis.24.57-58",
+     "he": "שָׁאֲלוּ אֶת רִבְקָה מָה הִיא רוֹצָה. הַהַחְלָטָה הָיְתָה שֶׁלָּהּ, וְהִיא בָּחֲרָה בְּאֹמֶץ.",
+     "fr": "On demande à Rivka ce qu’elle veut. La décision lui appartient, et elle choisit avec courage."
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "he": "לְמִי נָתְנָה רִבְקָה מַיִם?",
+      "fr": "À qui Rivka a-t-elle donné de l’eau ?"
+     },
+     "options": [
+      {
+       "he": "רַק לָעֶבֶד",
+       "fr": "Seulement au serviteur"
+      },
+      {
+       "he": "לָעֶבֶד וְלַגְּמַלִּים",
+       "fr": "Au serviteur et aux chameaux"
+      },
+      {
+       "he": "רַק לַגְּמַלִּים",
+       "fr": "Seulement aux chameaux"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.24.18-19"
+    },
+    {
+     "q": {
+      "he": "מִי הָאַבָּא שֶׁל רִבְקָה?",
+      "fr": "Qui est le père de Rivka ?"
+     },
+     "options": [
+      {
+       "he": "בְּתוּאֵל",
+       "fr": "Betouël"
+      },
+      {
+       "he": "לָבָן",
+       "fr": "Lavan"
+      },
+      {
+       "he": "עֶפְרוֹן",
+       "fr": "Efron"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.24.24"
+    },
+    {
+     "q": {
+      "he": "מָה עָנְתָה רִבְקָה כְּשֶׁשָּׁאֲלוּ אוֹתָהּ?",
+      "fr": "Qu’a répondu Rivka quand on lui a demandé ?"
+     },
+     "options": [
+      {
+       "he": "״אֵלֵךְ״",
+       "fr": "« J’irai »"
+      },
+      {
+       "he": "״אֶשְׁאַר״",
+       "fr": "« Je reste »"
+      },
+      {
+       "he": "״אֶחְשֹׁב״",
+       "fr": "« Je vais réfléchir »"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.24.58"
+    },
+    {
+     "q": {
+      "he": "אֵיזוֹ מַתָּנָה קִבְּלָה רִבְקָה לְיַד הַבְּאֵר?",
+      "fr": "Quel cadeau Rivka reçoit-elle au puits ?"
+     },
+     "options": [
+      {
+       "he": "גָּמָל",
+       "fr": "Un chameau"
+      },
+      {
+       "he": "נֶזֶם וּצְמִידִים",
+       "fr": "Un anneau et des bracelets"
+      },
+      {
+       "he": "שִׂמְלָה",
+       "fr": "Une robe"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.24.22"
+    },
+    {
+     "q": {
+      "he": "מִי הָאָח שֶׁל רִבְקָה?",
+      "fr": "Qui est le frère de Rivka ?"
+     },
+     "options": [
+      {
+       "he": "יִצְחָק",
+       "fr": "Yitzhak"
+      },
+      {
+       "he": "יִשְׁמָעֵאל",
+       "fr": "Yishmaël"
+      },
+      {
+       "he": "לָבָן",
+       "fr": "Lavan"
+      }
+     ],
+     "answer": 2,
+     "ref": "Genesis.24.29"
+    }
+   ]
+  },
+  {
+   "id": "eliezer",
+   "he": "אֱלִיעֶזֶר",
+   "fr": "Éliézer",
+   "portrait": "eliezer",
+   "status": "full",
+   "nameNote": {
+    "src": "midrash",
+    "source": {
+     "he": "בראשית ט״ו:ב׳; רש״י בראשית כ״ד:ל״ט",
+     "fr": "Gn 15,2 ; Rachi sur Gn 24,39"
+    },
+    "he": "בַּפָּרָשָׁה הַתּוֹרָה קוֹרֵאת לוֹ ״הָעֶבֶד״. הַשֵּׁם אֱלִיעֶזֶר מוֹפִיעַ בִּבְרֵאשִׁית ט״ו:ב׳, וְרַשִׁ״י מְזַהֶה אֶת הָעֶבֶד עִם אֱלִיעֶזֶר.",
+    "fr": "Dans la paracha, la Torah l’appelle « le serviteur ». Le nom Éliézer apparaît en Gn 15,2, et Rachi identifie le serviteur à Éliézer."
+   },
+   "parents": [],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "src": null
+   },
+   "historical": {
+    "fr": "Non datable.",
+    "he": "לֹא נִתָּן לְתַאֲרֵךְ."
+   },
+   "events": [
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.10",
+     "he": "יוֹצֵא לַדֶּרֶךְ עִם עֲשָׂרָה גְּמַלִּים",
+     "fr": "Part avec dix chameaux"
+    },
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.12-14",
+     "he": "מִתְפַּלֵּל וּמְבַקֵּשׁ סִימָן לְיַד הַבְּאֵר",
+     "fr": "Prie et demande un signe près du puits"
+    },
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.33",
+     "he": "מְסָרֵב לֶאֱכֹל לִפְנֵי שֶׁיְּסַפֵּר עַל שְׁלִיחוּתוֹ",
+     "fr": "Refuse de manger avant d’avoir expliqué sa mission"
+    }
+   ],
+   "bio": {
+    "he": "הָעֶבֶד הַנֶּאֱמָן שֶׁל אַבְרָהָם קִבֵּל שְׁלִיחוּת חֲשׁוּבָה: לִמְצֹא אִשָּׁה לְיִצְחָק. הוּא נָסַע רָחוֹק עִם עֲשָׂרָה גְּמַלִּים. לְיַד הַבְּאֵר הִתְפַּלֵּל וּבִקֵּשׁ סִימָן, וְעוֹד לִפְנֵי שֶׁסִּיֵּם לְדַבֵּר, הִגִּיעָה רִבְקָה. בְּבֵית הַמִּשְׁפָּחָה לֹא רָצָה לֶאֱכֹל עַד שֶׁסִּפֵּר לָמָּה בָּא.",
+    "fr": "Le fidèle serviteur d’Avraham reçoit une mission importante : trouver une épouse pour Yitzhak. Il voyage loin avec dix chameaux. Près du puits, il prie et demande un signe, et avant même qu’il ait fini de parler, Rivka arrive. Chez la famille, il refuse de manger tant qu’il n’a pas expliqué pourquoi il est venu."
+   },
+   "lessons": [
+    {
+     "src": "torah",
+     "ref": "Genesis.24.12",
+     "he": "לִפְנֵי מְשִׂימָה קָשָׁה, הָעֶבֶד הִתְפַּלֵּל וּבִקֵּשׁ עֶזְרָה מִה׳.",
+     "fr": "Avant une mission difficile, le serviteur prie et demande l’aide de Dieu."
+    },
+    {
+     "src": "torah",
+     "ref": "Genesis.24.33",
+     "he": "״לֹא אֹכַל עַד אִם דִּבַּרְתִּי דְּבָרָי״: הַשְּׁלִיחוּת קָדְמָה לָאֹכֶל.",
+     "fr": "« Je ne mangerai pas avant d’avoir dit mes paroles » : la mission passe avant le repas."
+    },
+    {
+     "src": "adaptation",
+     "he": "בַּקּוֹמִיקְס יֵשׁ לֶאֱלִיעֶזֶר זָקָן חוּם, טוּרְבָּן טוּרְקִיז וּגְלִימָה חוּמָה־צְהֻבָּה. זוֹ בְּחִירָה שֶׁל הָאִיּוּר, לֹא תֵּאוּר מֵהַתּוֹרָה.",
+     "fr": "Dans la BD, Éliézer a une barbe brune, un turban turquoise et une tunique ocre : c’est un choix d’illustration, pas une description de la Torah."
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "he": "כַּמָּה גְּמַלִּים לָקַח הָעֶבֶד?",
+      "fr": "Combien de chameaux le serviteur a-t-il pris ?"
+     },
+     "options": [
+      {
+       "he": "שְׁנַיִם",
+       "fr": "2"
+      },
+      {
+       "he": "עֲשָׂרָה",
+       "fr": "10"
+      },
+      {
+       "he": "מֵאָה",
+       "fr": "100"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.24.10"
+    },
+    {
+     "q": {
+      "he": "מָה עָשָׂה הָעֶבֶד לְיַד הַבְּאֵר לִפְנֵי שֶׁרִבְקָה בָּאָה?",
+      "fr": "Qu’a fait le serviteur près du puits avant l’arrivée de Rivka ?"
+     },
+     "options": [
+      {
+       "he": "הִתְפַּלֵּל",
+       "fr": "Il a prié"
+      },
+      {
+       "he": "יָשַׁן",
+       "fr": "Il a dormi"
+      },
+      {
+       "he": "אָכַל",
+       "fr": "Il a mangé"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.24.12"
+    },
+    {
+     "q": {
+      "he": "אֵיזֶה סִימָן בִּקֵּשׁ הָעֶבֶד?",
+      "fr": "Quel signe le serviteur a-t-il demandé ?"
+     },
+     "options": [
+      {
+       "he": "שֶׁהַנַּעֲרָה תָּשִׁיר",
+       "fr": "Que la jeune fille chante"
+      },
+      {
+       "he": "שֶׁהַנַּעֲרָה תַּשְׁקֶה גַּם אֶת הַגְּמַלִּים",
+       "fr": "Qu’elle abreuve aussi les chameaux"
+      },
+      {
+       "he": "שֶׁיֵּרֵד גֶּשֶׁם",
+       "fr": "Qu’il pleuve"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.24.14"
+    },
+    {
+     "q": {
+      "he": "לָמָּה לֹא אָכַל הָעֶבֶד מִיָּד?",
+      "fr": "Pourquoi le serviteur n’a-t-il pas mangé tout de suite ?"
+     },
+     "options": [
+      {
+       "he": "הוּא רָצָה קֹדֶם לְסַפֵּר עַל הַשְּׁלִיחוּת",
+       "fr": "Il voulait d’abord raconter sa mission"
+      },
+      {
+       "he": "הוּא לֹא הָיָה רָעֵב",
+       "fr": "Il n’avait pas faim"
+      },
+      {
+       "he": "הָאֹכֶל הָיָה קַר",
+       "fr": "La nourriture était froide"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.24.33"
+    },
+    {
+     "q": {
+      "he": "אֵיךְ קוֹרֵאת הַתּוֹרָה לֶאֱלִיעֶזֶר בַּפָּרָשָׁה?",
+      "fr": "Comment la Torah appelle-t-elle Éliézer dans la paracha ?"
+     },
+     "options": [
+      {
+       "he": "״הַמֶּלֶךְ״",
+       "fr": "« le roi »"
+      },
+      {
+       "he": "״הָעֶבֶד״",
+       "fr": "« le serviteur »"
+      },
+      {
+       "he": "״הַנָּבִיא״",
+       "fr": "« le prophète »"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.24.2"
+    }
+   ]
+  },
+  {
+   "id": "lavan",
+   "he": "לָבָן",
+   "fr": "Lavan",
+   "portrait": null,
+   "status": "full",
+   "parents": [
+    {
+     "id": "betuel",
+     "ref": "Genesis.28.5",
+     "src": "torah"
+    }
+   ],
+   "siblings": [
+    {
+     "id": "rivka",
+     "ref": "Genesis.24.29",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "src": null
+   },
+   "historical": {
+    "fr": "Non datable.",
+    "he": "לֹא נִתָּן לְתַאֲרֵךְ."
+   },
+   "events": [
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.29-31",
+     "he": "רָץ לִקְרַאת הָעֶבֶד וּמַזְמִין אוֹתוֹ הַבַּיְתָה",
+     "fr": "Court vers le serviteur et l’invite à la maison"
+    },
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.50",
+     "he": "עוֹנֶה עִם בְּתוּאֵל: ״מֵה׳ יָצָא הַדָּבָר״",
+     "fr": "Répond avec Betouël : « La chose vient de Dieu »"
+    },
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.55",
+     "he": "מְבַקֵּשׁ שֶׁרִבְקָה תִּשָּׁאֵר עוֹד זְמַן",
+     "fr": "Demande que Rivka reste encore un peu"
+    }
+   ],
+   "bio": {
+    "he": "לָבָן הוּא הָאָח שֶׁל רִבְקָה. כְּשֶׁרָאָה אֶת הַנֶּזֶם וְאֶת הַצְּמִידִים שֶׁל אֲחוֹתוֹ, רָץ אֶל הַבְּאֵר וְהִזְמִין אֶת הָאוֹרֵחַ הַבַּיְתָה. הוּא הִסְכִּים שֶׁרִבְקָה תֵּלֵךְ, אֲבָל בַּבֹּקֶר בִּקֵּשׁ שֶׁתִּשָּׁאֵר עוֹד כַּמָּה יָמִים. נִפְגֹּשׁ אוֹתוֹ שׁוּב בַּפָּרָשׁוֹת הַבָּאוֹת, עִם יַעֲקֹב.",
+    "fr": "Lavan est le frère de Rivka. Quand il voit l’anneau et les bracelets de sa sœur, il court au puits et invite le voyageur chez eux. Il accepte que Rivka parte, mais le matin il demande qu’elle reste encore quelques jours. On le retrouvera dans les prochaines parachiot, avec Yaakov."
+   },
+   "lessons": [
+    {
+     "src": "torah",
+     "ref": "Genesis.24.29-30",
+     "he": "לָבָן רָץ אֶל הָאוֹרֵחַ, וְהַתּוֹרָה מְסַפֶּרֶת שֶׁהוּא רָאָה אֶת הַתַּכְשִׁיטִים שֶׁל אֲחוֹתוֹ.",
+     "fr": "Lavan court vers le voyageur, et la Torah précise qu’il a vu les bijoux de sa sœur."
+    },
+    {
+     "src": "midrash",
+     "source": {
+      "he": "רש״י בראשית כ״ד:כ״ט",
+      "fr": "Rachi sur Gn 24,29"
+     },
+     "ref": "Genesis.24.29",
+     "he": "רַשִׁ״י מַסְבִּיר שֶׁלָּבָן רָץ כִּי חָשַׁב עַל הַכֶּסֶף שֶׁל הָאוֹרֵחַ. כַּדַּאי לְהַזְמִין אוֹרְחִים מִלֵּב טוֹב.",
+     "fr": "Rachi explique que Lavan court parce qu’il pense à l’argent du voyageur. Mieux vaut accueillir les invités de bon cœur."
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "he": "מָה רָאָה לָבָן לִפְנֵי שֶׁרָץ אֶל הָעֶבֶד?",
+      "fr": "Qu’a vu Lavan avant de courir vers le serviteur ?"
+     },
+     "options": [
+      {
+       "he": "אֶת הַנֶּזֶם וְהַצְּמִידִים",
+       "fr": "L’anneau et les bracelets"
+      },
+      {
+       "he": "אֶת הַגְּשָׁמִים",
+       "fr": "La pluie"
+      },
+      {
+       "he": "אֶת יִצְחָק",
+       "fr": "Yitzhak"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.24.30"
+    },
+    {
+     "q": {
+      "he": "מִי הָאָחוֹת שֶׁל לָבָן?",
+      "fr": "Qui est la sœur de Lavan ?"
+     },
+     "options": [
+      {
+       "he": "שָׂרָה",
+       "fr": "Sarah"
+      },
+      {
+       "he": "רִבְקָה",
+       "fr": "Rivka"
+      },
+      {
+       "he": "הָגָר",
+       "fr": "Hagar"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.24.29"
+    },
+    {
+     "q": {
+      "he": "מָה אָמְרוּ לָבָן וּבְתוּאֵל?",
+      "fr": "Qu’ont dit Lavan et Betouël ?"
+     },
+     "options": [
+      {
+       "he": "״מֵה׳ יָצָא הַדָּבָר״",
+       "fr": "« La chose vient de Dieu »"
+      },
+      {
+       "he": "״לֵךְ מִפֹּה״",
+       "fr": "« Va-t’en »"
+      },
+      {
+       "he": "״אֵין לָנוּ מַיִם״",
+       "fr": "« Nous n’avons pas d’eau »"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.24.50"
+    },
+    {
+     "q": {
+      "he": "מָה בִּקְּשׁוּ הָאָח וְהָאֵם שֶׁל רִבְקָה בַּבֹּקֶר?",
+      "fr": "Qu’ont demandé le frère et la mère de Rivka le matin ?"
+     },
+     "options": [
+      {
+       "he": "שֶׁרִבְקָה תִּשָּׁאֵר עוֹד זְמַן",
+       "fr": "Que Rivka reste encore un peu"
+      },
+      {
+       "he": "עוֹד גְּמַלִּים",
+       "fr": "D’autres chameaux"
+      },
+      {
+       "he": "לִנְסֹעַ עִם הָעֶבֶד",
+       "fr": "Partir avec le serviteur"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.24.55"
+    },
+    {
+     "q": {
+      "he": "מִי הָאַבָּא שֶׁל לָבָן?",
+      "fr": "Qui est le père de Lavan ?"
+     },
+     "options": [
+      {
+       "he": "אַבְרָהָם",
+       "fr": "Avraham"
+      },
+      {
+       "he": "עֶפְרוֹן",
+       "fr": "Efron"
+      },
+      {
+       "he": "בְּתוּאֵל",
+       "fr": "Betouël"
+      }
+     ],
+     "answer": 2,
+     "ref": "Genesis.28.5"
+    }
+   ]
+  },
+  {
+   "id": "betuel",
+   "he": "בְּתוּאֵל",
+   "fr": "Betouël",
+   "portrait": null,
+   "status": "full",
+   "parents": [
+    {
+     "id": "nahor",
+     "ref": "Genesis.22.20-23",
+     "src": "torah"
+    },
+    {
+     "id": "milka",
+     "ref": "Genesis.22.20-23",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "src": null
+   },
+   "historical": {
+    "fr": "Non datable.",
+    "he": "לֹא נִתָּן לְתַאֲרֵךְ."
+   },
+   "events": [
+    {
+     "am": 2088,
+     "datesrc": "midrash",
+     "ref": "Genesis.24.50",
+     "he": "עוֹנֶה עִם לָבָן: ״מֵה׳ יָצָא הַדָּבָר״",
+     "fr": "Répond avec Lavan : « La chose vient de Dieu »"
+    }
+   ],
+   "bio": {
+    "he": "בְּתוּאֵל הוּא הָאַבָּא שֶׁל רִבְקָה וְשֶׁל לָבָן, וְהַבֵּן שֶׁל נָחוֹר, אֲחִי אַבְרָהָם. כָּךְ רִבְקָה הִיא מִמִּשְׁפַּחַת אַבְרָהָם, כְּמוֹ שֶׁאַבְרָהָם רָצָה. כְּשֶׁהָעֶבֶד סִפֵּר אֶת כָּל הַסִּפּוּר, עָנָה בְּתוּאֵל יַחַד עִם לָבָן שֶׁהַדָּבָר בָּא מִה׳.",
+    "fr": "Betouël est le père de Rivka et de Lavan, et le fils de Na’hor, frère d’Avraham. Ainsi Rivka est de la famille d’Avraham, comme Avraham le voulait. Quand le serviteur a tout raconté, Betouël répond avec Lavan que la chose vient de Dieu."
+   },
+   "lessons": [
+    {
+     "src": "torah",
+     "ref": "Genesis.24.24",
+     "he": "רִבְקָה מְצִיגָה אֶת עַצְמָהּ כְּ״בַת בְּתוּאֵל בֶּן מִלְכָּה״, וְכָךְ הָעֶבֶד יוֹדֵעַ שֶׁהִיא מֵהַמִּשְׁפָּחָה.",
+     "fr": "Rivka se présente comme « fille de Betouël, fils de Milka » : le serviteur comprend qu’elle est de la famille."
+    },
+    {
+     "src": "midrash",
+     "source": {
+      "he": "רש״י בראשית כ״ד:נ״ה",
+      "fr": "Rachi sur Gn 24,55"
+     },
+     "ref": "Genesis.24.55",
+     "he": "בַּבֹּקֶר הַתּוֹרָה מַזְכִּירָה רַק אֶת הָאָח וְהָאֵם. רַשִׁ״י מֵבִיא מִדְרָשׁ שֶׁבְּתוּאֵל רָצָה לְעַכֵּב אֶת רִבְקָה, וּמַלְאָךְ הֵמִית אוֹתוֹ.",
+     "fr": "Le matin, la Torah ne mentionne que le frère et la mère. Rachi cite un midrash : Betouël voulait retenir Rivka, et un ange l’a fait mourir."
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "he": "מִי הַבַּת שֶׁל בְּתוּאֵל?",
+      "fr": "Qui est la fille de Betouël ?"
+     },
+     "options": [
+      {
+       "he": "רִבְקָה",
+       "fr": "Rivka"
+      },
+      {
+       "he": "שָׂרָה",
+       "fr": "Sarah"
+      },
+      {
+       "he": "קְטוּרָה",
+       "fr": "Ketoura"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.22.23"
+    },
+    {
+     "q": {
+      "he": "מִי הָאַבָּא שֶׁל בְּתוּאֵל?",
+      "fr": "Qui est le père de Betouël ?"
+     },
+     "options": [
+      {
+       "he": "אַבְרָהָם",
+       "fr": "Avraham"
+      },
+      {
+       "he": "נָחוֹר",
+       "fr": "Na’hor"
+      },
+      {
+       "he": "עֶפְרוֹן",
+       "fr": "Efron"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.22.20-23"
+    },
+    {
+     "q": {
+      "he": "מִי הָאִמָּא שֶׁל בְּתוּאֵל?",
+      "fr": "Qui est la mère de Betouël ?"
+     },
+     "options": [
+      {
+       "he": "מִלְכָּה",
+       "fr": "Milka"
+      },
+      {
+       "he": "שָׂרָה",
+       "fr": "Sarah"
+      },
+      {
+       "he": "הָגָר",
+       "fr": "Hagar"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.22.20-23"
+    },
+    {
+     "q": {
+      "he": "מִי עָנָה יַחַד עִם בְּתוּאֵל לָעֶבֶד?",
+      "fr": "Qui a répondu au serviteur avec Betouël ?"
+     },
+     "options": [
+      {
+       "he": "רִבְקָה",
+       "fr": "Rivka"
+      },
+      {
+       "he": "לָבָן",
+       "fr": "Lavan"
+      },
+      {
+       "he": "יִצְחָק",
+       "fr": "Yitzhak"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.24.50"
+    },
+    {
+     "q": {
+      "he": "מַה הַקֶּשֶׁר בֵּין בְּתוּאֵל לְאַבְרָהָם?",
+      "fr": "Quel lien entre Betouël et Avraham ?"
+     },
+     "options": [
+      {
+       "he": "בְּתוּאֵל הוּא הַבֵּן שֶׁל אֲחִי אַבְרָהָם",
+       "fr": "Betouël est le fils du frère d’Avraham"
+      },
+      {
+       "he": "בְּתוּאֵל הוּא הָעֶבֶד שֶׁל אַבְרָהָם",
+       "fr": "Betouël est le serviteur d’Avraham"
+      },
+      {
+       "he": "אֵין קֶשֶׁר",
+       "fr": "Aucun lien"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.22.20-23"
+    }
+   ]
+  },
+  {
+   "id": "efron",
+   "he": "עֶפְרוֹן",
+   "fr": "Efron",
+   "portrait": null,
+   "status": "full",
+   "parentsNote": {
+    "src": "torah",
+    "ref": "Genesis.23.8",
+    "he": "עֶפְרוֹן בֶּן צֹחַר הַחִתִּי. אָבִיו אֵינוֹ דְּמוּת בַּסִּפּוּר.",
+    "fr": "Efron fils de Tso’har, le Hittite. Son père n’est pas un personnage du récit."
+   },
+   "parents": [],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "src": null
+   },
+   "historical": {
+    "fr": "Non datable.",
+    "he": "לֹא נִתָּן לְתַאֲרֵךְ."
+   },
+   "events": [
+    {
+     "am": 2085,
+     "datesrc": "midrash",
+     "ref": "Genesis.23.10-11",
+     "he": "מַצִּיעַ לְאַבְרָהָם אֶת הַשָּׂדֶה ״בְּמַתָּנָה״",
+     "fr": "Propose le champ à Avraham « en cadeau »"
+    },
+    {
+     "am": 2085,
+     "datesrc": "midrash",
+     "ref": "Genesis.23.15-16",
+     "he": "מְקַבֵּל אַרְבַּע מֵאוֹת שֶׁקֶל כֶּסֶף",
+     "fr": "Reçoit 400 sicles d’argent"
+    }
+   ],
+   "bio": {
+    "he": "עֶפְרוֹן הַחִתִּי הָיָה הַבְּעָלִים שֶׁל הַשָּׂדֶה וְהַמְּעָרָה בְּחֶבְרוֹן. בַּהַתְחָלָה אָמַר לְאַבְרָהָם שֶׁהוּא נוֹתֵן לוֹ אֶת הַשָּׂדֶה. אֲבָל בַּסּוֹף הִזְכִּיר מְחִיר: אַרְבַּע מֵאוֹת שֶׁקֶל כֶּסֶף, וְאַבְרָהָם שִׁלֵּם הַכֹּל. רַשִׁ״י מַסְבִּיר שֶׁזֶּה הָיָה מְחִיר גָּבוֹהַּ מְאֹד.",
+    "fr": "Efron le Hittite possédait le champ et la grotte à Hévron. D’abord, il dit à Avraham qu’il lui donne le champ. Mais à la fin il cite un prix : 400 sicles d’argent, et Avraham paie tout. Rachi explique que c’était un prix très élevé."
+   },
+   "lessons": [
+    {
+     "src": "midrash",
+     "source": {
+      "he": "רש״י בראשית כ״ג:ט״ז; בבא מציעא פ״ז ע״א",
+      "fr": "Rachi sur Gn 23,16 ; Bava Metsia 87a"
+     },
+     "ref": "Genesis.23.16",
+     "he": "רַשִׁ״י אוֹמֵר שֶׁעֶפְרוֹן ״אָמַר הַרְבֵּה וְלֹא עָשָׂה אֲפִלּוּ מְעַט״. עָדִיף לְהַבְטִיחַ מְעַט וְלַעֲשׂוֹת הַרְבֵּה.",
+     "fr": "Rachi dit qu’Efron « a beaucoup promis sans rien faire, même un peu ». Mieux vaut promettre peu et faire beaucoup."
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "he": "מָה מָכַר עֶפְרוֹן לְאַבְרָהָם?",
+      "fr": "Qu’Efron a-t-il vendu à Avraham ?"
+     },
+     "options": [
+      {
+       "he": "שָׂדֶה וּמְעָרָה",
+       "fr": "Un champ et une grotte"
+      },
+      {
+       "he": "גְּמַלִּים",
+       "fr": "Des chameaux"
+      },
+      {
+       "he": "בַּיִת",
+       "fr": "Une maison"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.23.17"
+    },
+    {
+     "q": {
+      "he": "מָה אָמַר עֶפְרוֹן בַּהַתְחָלָה?",
+      "fr": "Qu’a dit Efron au début ?"
+     },
+     "options": [
+      {
+       "he": "שֶׁיִּתֵּן אֶת הַשָּׂדֶה בְּמַתָּנָה",
+       "fr": "Qu’il donnerait le champ en cadeau"
+      },
+      {
+       "he": "שֶׁאֵין לוֹ שָׂדֶה",
+       "fr": "Qu’il n’avait pas de champ"
+      },
+      {
+       "he": "שֶׁהוּא רוֹצֶה גְּמַלִּים",
+       "fr": "Qu’il voulait des chameaux"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.23.11"
+    },
+    {
+     "q": {
+      "he": "לְאֵיזֶה עַם הָיָה שַׁיָּךְ עֶפְרוֹן?",
+      "fr": "À quel peuple appartenait Efron ?"
+     },
+     "options": [
+      {
+       "he": "הַחִתִּי",
+       "fr": "Les Hittites"
+      },
+      {
+       "he": "הַמִּצְרִי",
+       "fr": "Les Égyptiens"
+      },
+      {
+       "he": "הָאֲרַמִּי",
+       "fr": "Les Araméens"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.23.10"
+    },
+    {
+     "q": {
+      "he": "כַּמָּה כֶּסֶף קִבֵּל עֶפְרוֹן?",
+      "fr": "Combien d’argent Efron a-t-il reçu ?"
+     },
+     "options": [
+      {
+       "he": "400 שֶׁקֶל",
+       "fr": "400 sicles"
+      },
+      {
+       "he": "40 שֶׁקֶל",
+       "fr": "40 sicles"
+      },
+      {
+       "he": "4 שְׁקָלִים",
+       "fr": "4 sicles"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.23.16"
+    },
+    {
+     "q": {
+      "he": "בְּאֵיזוֹ עִיר הָיְתָה הַמְּעָרָה?",
+      "fr": "Dans quelle ville se trouvait la grotte ?"
+     },
+     "options": [
+      {
+       "he": "חֶבְרוֹן",
+       "fr": "Hévron"
+      },
+      {
+       "he": "חָרָן",
+       "fr": "Haran"
+      },
+      {
+       "he": "בְּאֵר שֶׁבַע",
+       "fr": "Beer-Chéva"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.23.19"
+    }
+   ]
+  },
+  {
+   "id": "ketura",
+   "he": "קְטוּרָה",
+   "fr": "Ketoura",
+   "portrait": null,
+   "status": "full",
+   "identityNote": {
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית כ״ה:א׳",
+     "fr": "Rachi sur Gn 25,1"
+    },
+    "he": "לְפִי רַשִׁ״י, קְטוּרָה הִיא הָגָר. הַתּוֹרָה עַצְמָהּ אֵינָהּ אוֹמֶרֶת זֹאת.",
+    "fr": "Selon Rachi, Ketoura est Hagar. La Torah elle-même ne le dit pas."
+   },
+   "parents": [],
+   "spouses": [
+    {
+     "id": "avraham",
+     "ref": "Genesis.25.1",
+     "src": "torah"
+    }
+   ],
+   "otherChildren": {
+    "he": "זִמְרָן, יָקְשָׁן, מְדָן, מִדְיָן, יִשְׁבָּק, שׁוּחַ",
+    "fr": "Zimran, Yokchan, Medan, Midyan, Yichbak, Chouah",
+    "ref": "Genesis.25.2"
+   },
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "src": null
+   },
+   "historical": {
+    "fr": "Non datable.",
+    "he": "לֹא נִתָּן לְתַאֲרֵךְ."
+   },
+   "events": [
+    {
+     "am": null,
+     "ref": "Genesis.25.1-2",
+     "he": "נִשֵּׂאת לְאַבְרָהָם וְיוֹלֶדֶת לוֹ שִׁשָּׁה בָּנִים",
+     "fr": "Épouse Avraham et lui donne six fils"
+    }
+   ],
+   "bio": {
+    "he": "אַחֲרֵי שֶׁשָּׂרָה נִפְטְרָה וְיִצְחָק הִתְחַתֵּן, אַבְרָהָם נָשָׂא אִשָּׁה בְּשֵׁם קְטוּרָה. נוֹלְדוּ לָהֶם שִׁשָּׁה בָּנִים. אַבְרָהָם נָתַן לָהֶם מַתָּנוֹת וְשָׁלַח אוֹתָם לְאֶרֶץ קֶדֶם, וְאֶת כָּל אֲשֶׁר לוֹ נָתַן לְיִצְחָק.",
+    "fr": "Après la mort de Sarah et le mariage de Yitzhak, Avraham épouse une femme nommée Ketoura. Ils ont six fils. Avraham leur donne des cadeaux et les envoie vers l’Orient, et il donne tout ce qu’il possède à Yitzhak."
+   },
+   "lessons": [
+    {
+     "src": "torah",
+     "ref": "Genesis.25.5-6",
+     "he": "אַבְרָהָם דָּאַג לְכָל יְלָדָיו וְנָתַן לָהֶם מַתָּנוֹת, אֲבָל אֶת הַמַּסֹּרֶת הַמֶּרְכָּזִית מָסַר לְיִצְחָק.",
+     "fr": "Avraham prend soin de tous ses enfants et leur fait des cadeaux, mais il transmet l’héritage principal à Yitzhak."
+    },
+    {
+     "src": "midrash",
+     "source": {
+      "he": "רש״י בראשית כ״ה:א׳",
+      "fr": "Rachi sur Gn 25,1"
+     },
+     "ref": "Genesis.25.1",
+     "he": "רַשִׁ״י מַסְבִּיר שֶׁהַשֵּׁם קְטוּרָה בָּא מִ״קְּטֹרֶת״, כִּי מַעֲשֶׂיהָ הָיוּ נָאִים כִּקְטֹרֶת.",
+     "fr": "Rachi explique que le nom Ketoura vient de « ketoret » (encens), car ses actes étaient beaux comme l’encens."
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "he": "כַּמָּה בָּנִים נוֹלְדוּ לִקְטוּרָה?",
+      "fr": "Combien de fils Ketoura a-t-elle eus ?"
+     },
+     "options": [
+      {
+       "he": "שִׁשָּׁה",
+       "fr": "6"
+      },
+      {
+       "he": "שְׁנַיִם",
+       "fr": "2"
+      },
+      {
+       "he": "שְׁנֵים עָשָׂר",
+       "fr": "12"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.2"
+    },
+    {
+     "q": {
+      "he": "לְמִי הָיְתָה קְטוּרָה אִשָּׁה?",
+      "fr": "De qui Ketoura était-elle l’épouse ?"
+     },
+     "options": [
+      {
+       "he": "לְאַבְרָהָם",
+       "fr": "D’Avraham"
+      },
+      {
+       "he": "לְיִצְחָק",
+       "fr": "De Yitzhak"
+      },
+      {
+       "he": "לְלָבָן",
+       "fr": "De Lavan"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.1"
+    },
+    {
+     "q": {
+      "he": "לְאָן שָׁלַח אַבְרָהָם אֶת בְּנֵי קְטוּרָה?",
+      "fr": "Où Avraham a-t-il envoyé les fils de Ketoura ?"
+     },
+     "options": [
+      {
+       "he": "קֵדְמָה, לְאֶרֶץ קֶדֶם",
+       "fr": "Vers l’Orient"
+      },
+      {
+       "he": "לְמִצְרַיִם",
+       "fr": "En Égypte"
+      },
+      {
+       "he": "לַיָּם",
+       "fr": "À la mer"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.6"
+    },
+    {
+     "q": {
+      "he": "לְפִי רַשִׁ״י, מִי הִיא קְטוּרָה?",
+      "fr": "Selon Rachi, qui est Ketoura ?"
+     },
+     "options": [
+      {
+       "he": "הָגָר",
+       "fr": "Hagar"
+      },
+      {
+       "he": "רִבְקָה",
+       "fr": "Rivka"
+      },
+      {
+       "he": "מִלְכָּה",
+       "fr": "Milka"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.1",
+     "src": "midrash"
+    },
+    {
+     "q": {
+      "he": "לְמִי נָתַן אַבְרָהָם אֶת כָּל אֲשֶׁר לוֹ?",
+      "fr": "À qui Avraham a-t-il donné tout ce qu’il avait ?"
+     },
+     "options": [
+      {
+       "he": "לְיִצְחָק",
+       "fr": "À Yitzhak"
+      },
+      {
+       "he": "לִבְנֵי קְטוּרָה",
+       "fr": "Aux fils de Ketoura"
+      },
+      {
+       "he": "לָעֶבֶד",
+       "fr": "Au serviteur"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.5"
+    }
+   ]
+  },
+  {
+   "id": "yishmael",
+   "he": "יִשְׁמָעֵאל",
+   "fr": "Yishmaël",
+   "portrait": null,
+   "status": "full",
+   "parents": [
+    {
+     "id": "avraham",
+     "ref": "Genesis.16.15",
+     "src": "torah"
+    },
+    {
+     "id": "hagar",
+     "ref": "Genesis.16.15",
+     "src": "torah"
+    }
+   ],
+   "otherChildren": {
+    "he": "שְׁנֵים עָשָׂר נְשִׂיאִים, מִנְּבָיֹת וְעַד קֵדְמָה",
+    "fr": "Douze princes, de Nevayot à Kedma",
+    "ref": "Genesis.25.13-16"
+   },
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": 2034,
+    "died": 2171,
+    "age": 137,
+    "src": "torah",
+    "ageRef": "Genesis.25.17",
+    "note": {
+     "he": "אַבְרָהָם הָיָה בֶּן 86 כְּשֶׁנּוֹלַד (בראשית ט״ז:ט״ז)",
+     "fr": "Avraham avait 86 ans à sa naissance (Gn 16,16)"
+    }
+   },
+   "historical": {
+    "fr": "Même époque proposée que pour Avraham ; débattue.",
+    "he": "אוֹתָהּ תְּקוּפָה מֻצַּעַת כְּמוֹ לְאַבְרָהָם; יֵשׁ עָלֶיהָ וִכּוּחַ."
+   },
+   "events": [
+    {
+     "am": 2123,
+     "datesrc": "midrash",
+     "ref": "Genesis.25.9",
+     "he": "קוֹבֵר אֶת אַבְרָהָם יַחַד עִם יִצְחָק",
+     "fr": "Enterre Avraham avec Yitzhak"
+    },
+    {
+     "am": null,
+     "ref": "Genesis.25.13-16",
+     "he": "אָבִי שְׁנֵים עָשָׂר נְשִׂיאִים",
+     "fr": "Père de douze princes"
+    },
+    {
+     "am": 2171,
+     "datesrc": "torah",
+     "ref": "Genesis.25.17",
+     "he": "נִפְטָר בְּגִיל 137",
+     "fr": "Meurt à 137 ans"
+    }
+   ],
+   "bio": {
+    "he": "יִשְׁמָעֵאל הוּא הַבֵּן הָרִאשׁוֹן שֶׁל אַבְרָהָם, שֶׁנּוֹלַד לְהָגָר. כְּשֶׁאַבְרָהָם נִפְטַר, יִשְׁמָעֵאל בָּא, וְיַחַד עִם יִצְחָק אָחִיו קָבַר אוֹתוֹ בִּמְעָרַת הַמַּכְפֵּלָה. נוֹלְדוּ לוֹ שְׁנֵים עָשָׂר בָּנִים, נְשִׂיאִים שֶׁל שְׁבָטִים, וְהוּא חַי מֵאָה שְׁלֹשִׁים וָשֶׁבַע שָׁנִים.",
+    "fr": "Yishmaël est le premier fils d’Avraham, né de Hagar. Quand Avraham meurt, Yishmaël vient et, avec son frère Yitzhak, l’enterre dans la grotte de Makhpéla. Il a douze fils, princes de tribus, et vit 137 ans."
+   },
+   "lessons": [
+    {
+     "src": "torah",
+     "ref": "Genesis.25.9",
+     "he": "שְׁנֵי הָאַחִים הִגִּיעוּ יַחַד לִקְבּוּרַת אַבִּיהֶם. בְּרֶגַע חָשׁוּב, הַמִּשְׁפָּחָה מִתְאַחֶדֶת.",
+     "fr": "Les deux frères viennent ensemble enterrer leur père : dans un moment important, la famille se rassemble."
+    },
+    {
+     "src": "midrash",
+     "source": {
+      "he": "רש״י בראשית כ״ה:ט׳",
+      "fr": "Rachi sur Gn 25,9"
+     },
+     "ref": "Genesis.25.9",
+     "he": "רַשִׁ״י: יִשְׁמָעֵאל עָשָׂה תְּשׁוּבָה וְנָתַן לְיִצְחָק לָלֶכֶת רִאשׁוֹן. תָּמִיד אֶפְשָׁר לְהִשְׁתַּנּוֹת.",
+     "fr": "Rachi : Yishmaël s’est repenti et a laissé Yitzhak passer devant. On peut toujours changer."
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "he": "מִי הָאִמָּא שֶׁל יִשְׁמָעֵאל?",
+      "fr": "Qui est la mère de Yishmaël ?"
+     },
+     "options": [
+      {
+       "he": "הָגָר",
+       "fr": "Hagar"
+      },
+      {
+       "he": "שָׂרָה",
+       "fr": "Sarah"
+      },
+      {
+       "he": "רִבְקָה",
+       "fr": "Rivka"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.12"
+    },
+    {
+     "q": {
+      "he": "כַּמָּה נְשִׂיאִים יָצְאוּ מִיִּשְׁמָעֵאל?",
+      "fr": "Combien de princes descendent de Yishmaël ?"
+     },
+     "options": [
+      {
+       "he": "שִׁשָּׁה",
+       "fr": "6"
+      },
+      {
+       "he": "שְׁנֵים עָשָׂר",
+       "fr": "12"
+      },
+      {
+       "he": "שִׁבְעִים",
+       "fr": "70"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.25.16"
+    },
+    {
+     "q": {
+      "he": "בְּאֵיזֶה גִּיל נִפְטַר יִשְׁמָעֵאל?",
+      "fr": "À quel âge Yishmaël est-il mort ?"
+     },
+     "options": [
+      {
+       "he": "137",
+       "fr": "137 ans"
+      },
+      {
+       "he": "175",
+       "fr": "175 ans"
+      },
+      {
+       "he": "127",
+       "fr": "127 ans"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.17"
+    },
+    {
+     "q": {
+      "he": "עִם מִי קָבַר יִשְׁמָעֵאל אֶת אַבְרָהָם?",
+      "fr": "Avec qui Yishmaël a-t-il enterré Avraham ?"
+     },
+     "options": [
+      {
+       "he": "עִם יִצְחָק",
+       "fr": "Avec Yitzhak"
+      },
+      {
+       "he": "עִם עֶפְרוֹן",
+       "fr": "Avec Efron"
+      },
+      {
+       "he": "עִם לָבָן",
+       "fr": "Avec Lavan"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.9"
+    },
+    {
+     "q": {
+      "he": "מִי הָאַבָּא שֶׁל יִשְׁמָעֵאל?",
+      "fr": "Qui est le père de Yishmaël ?"
+     },
+     "options": [
+      {
+       "he": "בְּתוּאֵל",
+       "fr": "Betouël"
+      },
+      {
+       "he": "אַבְרָהָם",
+       "fr": "Avraham"
+      },
+      {
+       "he": "נָחוֹר",
+       "fr": "Na’hor"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.16.15"
+    }
+   ]
+  },
+  {
+   "id": "hagar",
+   "he": "הָגָר",
+   "fr": "Hagar",
+   "portrait": null,
+   "status": "full",
+   "parents": [],
+   "spouses": [
+    {
+     "id": "avraham",
+     "ref": "Genesis.16.3",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "src": null
+   },
+   "historical": {
+    "fr": "Non datable.",
+    "he": "לֹא נִתָּן לְתַאֲרֵךְ."
+   },
+   "events": [
+    {
+     "am": 2034,
+     "datesrc": "torah",
+     "ref": "Genesis.16.15-16",
+     "he": "יוֹלֶדֶת אֶת יִשְׁמָעֵאל",
+     "fr": "Donne naissance à Yishmaël"
+    },
+    {
+     "am": null,
+     "ref": "Genesis.25.12",
+     "he": "נִזְכֶּרֶת בְּתוֹלְדוֹת יִשְׁמָעֵאל: ״הָגָר הַמִּצְרִית שִׁפְחַת שָׂרָה״",
+     "fr": "Mentionnée dans la descendance de Yishmaël : « Hagar l’Égyptienne, servante de Sarah »"
+    }
+   ],
+   "bio": {
+    "he": "הָגָר הַמִּצְרִית הָיְתָה הַשִּׁפְחָה שֶׁל שָׂרָה. שָׂרָה נָתְנָה אוֹתָהּ לְאַבְרָהָם לְאִשָּׁה, וְנוֹלַד לָהּ יִשְׁמָעֵאל. בְּפָרָשַׁת חַיֵּי שָׂרָה הִיא נִזְכֶּרֶת כְּאִמּוֹ שֶׁל יִשְׁמָעֵאל.",
+    "fr": "Hagar l’Égyptienne était la servante de Sarah. Sarah la donne pour épouse à Avraham, et Yishmaël naît. Dans ‘Hayé Sarah, elle est mentionnée comme la mère de Yishmaël."
+   },
+   "lessons": [
+    {
+     "src": "torah",
+     "ref": "Genesis.16.11",
+     "he": "הַשֵּׁם יִשְׁמָעֵאל פֵּרוּשׁוֹ ״ה׳ שָׁמַע״: ה׳ שָׁמַע אֶת צַעֲרָהּ שֶׁל הָגָר.",
+     "fr": "Le nom Yishmaël veut dire « Dieu a entendu » : Dieu a entendu la peine de Hagar."
+    },
+    {
+     "src": "midrash",
+     "source": {
+      "he": "רש״י בראשית כ״ה:א׳",
+      "fr": "Rachi sur Gn 25,1"
+     },
+     "ref": "Genesis.25.1",
+     "he": "לְפִי רַשִׁ״י, קְטוּרָה הִיא הָגָר.",
+     "fr": "Selon Rachi, Ketoura est Hagar."
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "he": "מֵאֵיזוֹ אֶרֶץ הָיְתָה הָגָר?",
+      "fr": "De quel pays venait Hagar ?"
+     },
+     "options": [
+      {
+       "he": "מִצְרַיִם",
+       "fr": "L’Égypte"
+      },
+      {
+       "he": "אֲרָם",
+       "fr": "Aram"
+      },
+      {
+       "he": "כְּנַעַן",
+       "fr": "Canaan"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.12"
+    },
+    {
+     "q": {
+      "he": "מִי הַבֵּן שֶׁל הָגָר?",
+      "fr": "Qui est le fils de Hagar ?"
+     },
+     "options": [
+      {
+       "he": "יִצְחָק",
+       "fr": "Yitzhak"
+      },
+      {
+       "he": "יִשְׁמָעֵאל",
+       "fr": "Yishmaël"
+      },
+      {
+       "he": "לָבָן",
+       "fr": "Lavan"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.16.15"
+    },
+    {
+     "q": {
+      "he": "שֶׁל מִי הָיְתָה הָגָר שִׁפְחָה?",
+      "fr": "De qui Hagar était-elle la servante ?"
+     },
+     "options": [
+      {
+       "he": "שֶׁל רִבְקָה",
+       "fr": "De Rivka"
+      },
+      {
+       "he": "שֶׁל שָׂרָה",
+       "fr": "De Sarah"
+      },
+      {
+       "he": "שֶׁל מִלְכָּה",
+       "fr": "De Milka"
+      }
+     ],
+     "answer": 1,
+     "ref": "Genesis.16.1"
+    },
+    {
+     "q": {
+      "he": "מָה פֵּרוּשׁ הַשֵּׁם יִשְׁמָעֵאל?",
+      "fr": "Que veut dire le nom Yishmaël ?"
+     },
+     "options": [
+      {
+       "he": "ה׳ שָׁמַע",
+       "fr": "Dieu a entendu"
+      },
+      {
+       "he": "ה׳ צָחַק",
+       "fr": "Dieu a ri"
+      },
+      {
+       "he": "ה׳ רָאָה",
+       "fr": "Dieu a vu"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.16.11"
+    },
+    {
+     "q": {
+      "he": "לְפִי רַשִׁ״י, אֵיזֶה שֵׁם נוֹסָף יֵשׁ לְהָגָר?",
+      "fr": "Selon Rachi, quel autre nom porte Hagar ?"
+     },
+     "options": [
+      {
+       "he": "קְטוּרָה",
+       "fr": "Ketoura"
+      },
+      {
+       "he": "מִלְכָּה",
+       "fr": "Milka"
+      },
+      {
+       "he": "שָׂרַי",
+       "fr": "Saraï"
+      }
+     ],
+     "answer": 0,
+     "ref": "Genesis.25.1",
+     "src": "midrash"
+    }
+   ]
+  },
+  {
+   "id": "terah",
+   "he": "תֶּרַח",
+   "fr": "Téra’h",
+   "portrait": null,
+   "status": "link",
+   "parents": [],
+   "parachiot": [],
+   "life": {
+    "born": 1878,
+    "died": 2083,
+    "age": 205,
+    "src": "torah",
+    "ageRef": "Genesis.11.32",
+    "note": {
+     "he": "בֶּן 70 כְּשֶׁנּוֹלַד אַבְרָם (בראשית י״א:כ״ו)",
+     "fr": "70 ans à la naissance d’Avram (Gn 11,26)"
+    }
+   },
+   "events": [],
+   "bio": {
+    "he": "אֲבִי אַבְרָם, נָחוֹר וְהָרָן. הַכַּרְטִיס הַמָּלֵא יִתְוַסֵּף בְּפָרָשַׁת נֹחַ.",
+    "fr": "Père d’Avram, Na’hor et Haran. Sa fiche complète arrivera avec la paracha Noa’h."
+   }
+  },
+  {
+   "id": "nahor",
+   "he": "נָחוֹר",
+   "fr": "Na’hor",
+   "portrait": null,
+   "status": "link",
+   "parents": [
+    {
+     "id": "terah",
+     "ref": "Genesis.11.26",
+     "src": "torah"
+    }
+   ],
+   "spouses": [
+    {
+     "id": "milka",
+     "ref": "Genesis.11.29",
+     "src": "torah"
+    }
+   ],
+   "siblings": [
+    {
+     "id": "avraham",
+     "ref": "Genesis.11.26",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "src": null
+   },
+   "events": [],
+   "bio": {
+    "he": "אֲחִי אַבְרָהָם וְסַבָּא שֶׁל רִבְקָה. הָעֶבֶד מַגִּיעַ אֶל ״עִיר נָחוֹר״ (כ״ד:י׳).",
+    "fr": "Frère d’Avraham et grand-père de Rivka. Le serviteur arrive à « la ville de Na’hor » (24,10)."
+   }
+  },
+  {
+   "id": "milka",
+   "he": "מִלְכָּה",
+   "fr": "Milka",
+   "portrait": null,
+   "status": "link",
+   "parentsNote": {
+    "src": "torah",
+    "ref": "Genesis.11.27-29",
+    "he": "בַּת הָרָן, אֲחִי אַבְרָהָם.",
+    "fr": "Fille de Haran, frère d’Avraham."
+   },
+   "parents": [],
+   "spouses": [
+    {
+     "id": "nahor",
+     "ref": "Genesis.11.29",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "src": null
+   },
+   "events": [],
+   "bio": {
+    "he": "אֵשֶׁת נָחוֹר וְסַבְתָּא שֶׁל רִבְקָה. רִבְקָה מְצִיגָה אֶת עַצְמָהּ כְּ״בַת בְּתוּאֵל בֶּן מִלְכָּה״ (כ״ד:כ״ד).",
+    "fr": "Épouse de Na’hor et grand-mère de Rivka. Rivka se présente comme « fille de Betouël, fils de Milka » (24,24)."
+   }
+  }
+ ],
+ "trees": [
+  {
+   "id": "terah-family",
+   "he": "מִשְׁפַּחַת תֶּרַח: אַבְרָהָם וְרִבְקָה",
+   "fr": "La famille de Téra’h : d’Avraham à Rivka",
+   "rows": [
+    [
+     [
+      "terah"
+     ]
+    ],
+    [
+     [
+      "hagar",
+      "avraham",
+      "sarah",
+      "ketura"
+     ],
+     [
+      "nahor",
+      "milka"
+     ]
+    ],
+    [
+     [
+      "yishmael",
+      "yitzhak"
+     ],
+     [
+      "betuel"
+     ]
+    ],
+    [
+     [
+      "rivka",
+      "lavan"
+     ]
+    ]
+   ],
+   "note": {
+    "he": "יִצְחָק וְרִבְקָה מִתְחַתְּנִים: שְׁנֵי הָעֲנָפִים נִפְגָּשִׁים.",
+    "fr": "Yitzhak épouse Rivka : les deux branches se rejoignent."
+   }
+  }
+ ]
+}

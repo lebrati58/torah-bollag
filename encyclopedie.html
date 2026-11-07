@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#6546cc">
+<title>דמויות בתורה · מסע בפרשה</title>
+<style>
+:root{--ink:#302851;--muted:#6f6680;--purple:#6546cc;--purple-dk:#432c94;--lilac:#f1eaff;--line:#e3dbf3;--yellow:#ffd966;--paper:#fffaf0;--card:#fff;--torah:#2f7d5b;--torah-bg:#e3f5ec;--midrash:#a35a12;--midrash-bg:#fdefdc;--adapt:#6546cc;--adapt-bg:#efe9ff}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Arial,"Noto Sans Hebrew",sans-serif;-webkit-text-size-adjust:100%}
+button{font:inherit;color:inherit;cursor:pointer}
+a{color:var(--purple)}
+:focus-visible{outline:3px solid #ed7c50;outline-offset:3px}
+.top{max-width:1150px;margin:auto;padding:16px;display:flex;align-items:center;justify-content:space-between;gap:10px}
+.brand{font-weight:900;font-size:20px;text-decoration:none;color:var(--ink)}
+.brand i{font-style:normal;background:var(--yellow);border-radius:12px;padding:6px 9px;margin-inline-end:8px;display:inline-block}
+.lang{display:flex;border:2px solid var(--line);border-radius:22px;overflow:hidden;background:#fff}
+.lang button{border:0;background:none;padding:8px 13px;font-weight:bold;font-size:14px}
+.lang button[aria-pressed=true]{background:var(--purple);color:#fff}
+nav.tabs{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+nav.tabs div{max-width:1150px;margin:auto;padding:8px 12px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}
+nav.tabs a{flex:0 0 auto;text-decoration:none;color:var(--ink);font-weight:bold;padding:10px 16px;border-radius:16px;background:#fff;border:2px solid var(--line);white-space:nowrap}
+nav.tabs a[aria-current=page]{background:var(--purple);color:#fff;border-color:var(--purple);box-shadow:0 4px 0 var(--purple-dk)}
+main{max-width:1150px;margin:auto;padding:16px}
+section[hidden]{display:none}
+section{animation:rise .35s ease}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+h1{font-size:clamp(30px,6vw,52px);margin:10px 0 6px;letter-spacing:-1px}
+h2{font-size:clamp(22px,4vw,30px);margin:24px 0 10px}
+.lead{font-size:19px;line-height:1.8;max-width:680px}
+.muted{color:var(--muted)}
+.small{font-size:13px;line-height:1.6}
+.week{background:linear-gradient(135deg,#ece4ff,#fff3cc);border:2px solid #d7cafa;border-radius:28px;padding:22px;display:grid;gap:14px}
+.week .tag{display:inline-block;background:#fff;border-radius:14px;padding:6px 12px;font-weight:bold;font-size:14px}
+.cta{display:inline-block;border:0;background:var(--purple);color:#fff;border-radius:16px;padding:14px 22px;font-weight:bold;text-decoration:none;box-shadow:0 5px 0 var(--purple-dk);transition:transform .15s}
+.cta:hover{transform:translateY(-2px)}
+.chips{display:flex;flex-wrap:wrap;gap:10px}
+.chip{display:flex;align-items:center;gap:8px;border:2px solid var(--line);background:#fff;border-radius:40px;padding:5px 14px 5px 5px;font-weight:bold;transition:transform .15s}
+[dir=rtl] .chip{padding:5px 5px 5px 14px}
+.chip:hover{transform:translateY(-2px) rotate(-1deg)}
+.av{width:44px;height:44px;border-radius:50%;background:#e9e3ff;overflow:hidden;display:grid;place-items:center;flex:0 0 auto;border:2px solid #fff;box-shadow:0 0 0 2px #d7cafa}
+.av svg{width:100%;height:100%}
+.av.lg{width:110px;height:110px}
+.av.md{width:64px;height:64px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:16px}
+.pcard{border:2px solid var(--line);background:#fff;border-radius:24px;padding:16px 12px;text-align:center;box-shadow:0 5px 0 #eee6da;transition:transform .2s}
+.pcard:hover{transform:translateY(-5px)}
+.pcard .av{margin:0 auto 10px;width:84px;height:84px}
+.pcard b{display:block;font-size:22px}
+.pcard span{color:var(--muted);font-size:14px}
+.pcard.link{opacity:.85;border-style:dashed}
+.legend{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:14px;margin:8px 0 14px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.sw{width:26px;height:10px;border-radius:6px;display:inline-block}
+.tl-wrap{border:2px solid var(--line);background:#fff;border-radius:22px;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch}
+.tl{position:relative;padding:12px 0 16px}
+.axis{position:relative;height:44px;border-bottom:2px solid var(--ink);margin:0 20px}
+.tick{position:absolute;bottom:0;transform:translateX(50%);font-size:11px;text-align:center;color:var(--muted);white-space:nowrap}
+[dir=ltr] .tick{transform:translateX(-50%)}
+.tick::after{content:"";display:block;width:2px;height:7px;background:var(--ink);margin:3px auto 0}
+.tick b{display:block;color:var(--ink);font-size:12px}
+.lane{position:relative;height:56px;margin:0 20px}
+.bar{position:absolute;top:10px;height:36px;border-radius:20px;background:var(--torah-bg);border:2px solid var(--torah);display:flex;align-items:center;gap:6px;padding:0 4px;font-weight:bold;font-size:14px;white-space:nowrap;transition:transform .15s;overflow:visible}
+.bar:hover{transform:scale(1.03)}
+.bar.mid{background:var(--midrash-bg);border-color:var(--midrash);border-style:dashed}
+.bar .av{width:30px;height:30px;box-shadow:none}
+.evrow{position:relative;height:30px;margin:0 20px}
+.dot{position:absolute;top:6px;width:18px;height:18px;border-radius:50%;background:var(--yellow);border:2px solid var(--ink);transform:translateX(50%);padding:0}
+[dir=ltr] .dot{transform:translateX(-50%)}
+.undated{margin-top:14px}
+.note{background:var(--lilac);border-radius:16px;padding:14px;line-height:1.7}
+.tree-wrap{position:relative;border:2px solid var(--line);background:#fff;border-radius:24px;padding:18px 8px;overflow-x:auto}
+.tree{position:relative;width:max-content;min-width:100%;padding:0 8px}
+.trow{display:flex;justify-content:safe center;gap:34px;margin:0 0 46px;position:relative;z-index:1}
+.trow:last-child{margin-bottom:0}
+.tgroup{display:flex;gap:12px}
+.tnode{display:flex;flex-direction:column;align-items:center;gap:4px;border:0;background:none;padding:2px;font-weight:bold;font-size:14px;width:76px}
+.tnode .av{width:56px;height:56px}
+.tnode.cur .av{box-shadow:0 0 0 4px var(--yellow),0 0 0 6px var(--ink)}
+.tree svg.lines{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:0}
+dialog{width:min(860px,100vw);max-width:100vw;max-height:100dvh;padding:0;border:0;border-radius:26px;background:var(--paper);color:var(--ink)}
+dialog::backdrop{background:#211b40c9;backdrop-filter:blur(5px)}
+dialog[open]{animation:pop .25s ease}
+@keyframes pop{from{transform:scale(.96);opacity:0}to{transform:none;opacity:1}}
+.fhead{display:flex;gap:16px;align-items:center;padding:18px 18px 8px;position:relative}
+.fhead h2{margin:0;font-size:clamp(28px,6vw,40px)}
+.fhead .alt{font-size:15px;color:var(--muted)}
+.close{position:absolute;top:12px;inset-inline-end:12px;border:0;background:#ece4f9;width:42px;height:42px;border-radius:50%;font-size:24px}
+.ftabs{display:flex;gap:6px;overflow-x:auto;padding:8px 14px;scrollbar-width:none;border-bottom:1px solid var(--line)}
+.ftabs button{flex:0 0 auto;border:2px solid var(--line);background:#fff;border-radius:14px;padding:8px 12px;font-weight:bold;font-size:14px;line-height:1.25;text-align:center}
+.ftabs button small{display:block;font-weight:normal;font-size:11px;color:var(--muted)}
+.ftabs button[aria-selected=true]{background:var(--yellow);border-color:var(--ink)}
+.fbody{padding:18px;min-height:300px}
+.story{font-size:clamp(19px,3.4vw,23px);line-height:2}
+.src{display:inline-block;font-size:12px;font-weight:bold;border-radius:10px;padding:3px 9px;margin-inline-end:6px;vertical-align:middle}
+.src.torah{background:var(--torah-bg);color:var(--torah)}
+.src.midrash{background:var(--midrash-bg);color:var(--midrash)}
+.src.adaptation{background:var(--adapt-bg);color:var(--adapt)}
+.lesson{background:#fff;border:2px solid var(--line);border-radius:18px;padding:14px;margin:0 0 12px;line-height:1.8;font-size:17px}
+.lesson .ref{font-size:13px}
+ul.refs{list-style:none;padding:0;margin:0;display:grid;gap:8px}
+ul.refs li{background:#fff;border:2px solid var(--line);border-radius:14px;padding:10px 12px;line-height:1.6}
+.fam{display:grid;gap:14px}
+.fam h4{margin:0 0 6px;font-size:15px;color:var(--muted)}
+.fam .chips .chip.self{background:var(--yellow)}
+.video{aspect-ratio:16/9;border-radius:20px;background:repeating-linear-gradient(45deg,#ece4ff,#ece4ff 14px,#f6f1ff 14px,#f6f1ff 28px);display:grid;place-items:center;text-align:center;padding:20px;border:2px dashed #c8b5ee}
+.video b{font-size:22px;display:block;margin:6px 0}
+.q{font-size:clamp(20px,3.6vw,24px);font-weight:bold;line-height:1.6;margin:6px 0 14px}
+.opts{display:grid;gap:10px}
+.opt{border:2px solid var(--line);background:#fff;border-radius:16px;padding:14px;font-size:18px;font-weight:bold;text-align:start;transition:transform .12s}
+.opt:hover:not([disabled]){transform:translateX(-3px)}
+.opt.ok{background:var(--torah-bg);border-color:var(--torah)}
+.opt.no{background:#fde4e1;border-color:#c0473a}
+.qbar{display:flex;gap:6px;margin-bottom:12px}
+.qbar i{flex:1;height:8px;border-radius:5px;background:#e4dbf1}
+.qbar i.done{background:var(--purple)}
+.stars{font-size:46px;text-align:center;animation:pop .4s}
+.feedback{min-height:28px;margin-top:10px;font-weight:bold}
+footer{max-width:1150px;margin:30px auto;padding:20px 16px;border-top:1px solid var(--line);font-size:13px;line-height:1.8;color:var(--muted)}
+@media(max-width:640px){
+  dialog{border-radius:0;height:100dvh;width:100vw}
+  .fhead .av.lg{width:80px;height:80px}
+  .grid{grid-template-columns:repeat(2,1fr);gap:12px}
+}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="index.html"><i>✦</i><span data-t="brand"></span></a>
+  <div class="lang" role="group" aria-label="Langue / שפה">
+    <button data-lang="he" aria-pressed="true">עברית</button>
+    <button data-lang="fr" aria-pressed="false">Français</button>
+  </div>
+</header>
+<nav class="tabs" aria-label="sections"><div>
+  <a href="#week" data-tab="week" data-t="tabWeek"></a>
+  <a href="#timeline" data-tab="timeline" data-t="tabTimeline"></a>
+  <a href="#people" data-tab="people" data-t="tabPeople"></a>
+</div></nav>
+<main>
+  <section id="s-week"></section>
+  <section id="s-timeline" hidden></section>
+  <section id="s-people" hidden></section>
+</main>
+<footer id="foot"></footer>
+
+<dialog id="fiche" aria-labelledby="fname">
+  <div class="fhead">
+    <div class="av lg" id="fav"></div>
+    <div><h2 id="fname"></h2><div class="alt" id="falt"></div></div>
+    <button class="close" id="fclose" aria-label="×">×</button>
+  </div>
+  <div class="ftabs" role="tablist" id="ftabs"></div>
+  <div class="fbody" id="fbody" role="tabpanel"></div>
+</dialog>
+
+<script src="assets/portraits.js"></script>
+<script>
+const T={
+ he:{brand:"מַסָּע בַּפָּרָשָׁה",tabWeek:"📖 פָּרָשַׁת הַשָּׁבוּעַ",tabTimeline:"⏳ צִיר הַזְּמַן",tabPeople:"👥 דְּמֻיּוֹת בַּתּוֹרָה",
+  weekOf:"פָּרָשַׁת הַשָּׁבוּעַ",watch:"לִקְרֹא אֶת סִפּוּרֵי הַפָּרָשָׁה ←",meet:"מִי מוֹפִיעַ בַּפָּרָשָׁה?",growing:"בְּכָל שָׁבוּעַ מִתְוַסֶּפֶת פָּרָשָׁה חֲדָשָׁה, עִם הַדְּמֻיּוֹת שֶׁלָּהּ.",
+  tlTitle:"צִיר הַזְּמַן",tlLead:"כָּל פַּס הוּא חַיִּים שֶׁל דְּמוּת. לוֹחֲצִים כְּדֵי לְהַכִּיר!",tlTrad:"שָׁנִים לְפִי הַכָּתוּב (חֶשְׁבּוֹן מָסָרְתִּי)",tlMid:"לְפִי רַשִׁ״י / מִדְרָשׁ",tlEvent:"אֵרוּעַ",
+  tlUndated:"דְּמֻיּוֹת שֶׁאִי אֶפְשָׁר לְתַאֲרֵךְ",tlAM:"לִבְרִיאַת הָעוֹלָם",tlBCE:"לִפְנֵי הַסְּפִירָה",
+  tlHist:"תַּאֲרִיכִים הִיסְטוֹרִיִּים",tlHistTxt:"הַשָּׁנִים בַּצִּיר הֵן לְפִי הַחֶשְׁבּוֹן הַמָּסָרְתִּי (סֵדֶר עוֹלָם). חוֹקְרִים מַצִּיעִים לִתְקוּפַת הָאָבוֹת אֶת הָאֶלֶף הַשֵּׁנִי לִפְנֵי הַסְּפִירָה; זוֹ הַצָּעָה שֶׁיֵּשׁ עָלֶיהָ וִכּוּחַ, וְאֵין לָהּ הוֹכָחָה אַרְכֵיאוֹלוֹגִית יְשִׁירָה.",
+  peopleTitle:"דְּמֻיּוֹת בַּתּוֹרָה",peopleLead:"לוֹחֲצִים עַל דְּמוּת כְּדֵי לִפְתֹּחַ אֶת הַכַּרְטִיס שֶׁלָּהּ.",trees:"עֵצֵי מִשְׁפָּחָה",linkOnly:"כַּרְטִיס מָלֵא בְּקָרוֹב",
+  t1:"מִי אֲנִי?",t2:"הַמִּשְׁפָּחָה שֶׁלִּי",t3:"הַסִּפּוּר שֶׁלִּי",t4:"אֵיפֹה אֲנִי בַּתּוֹרָה?",t5:"מָה אֶפְשָׁר לִלְמֹד מִמֶּנִּי?",t6:"חִידוֹן",
+  parents:"הוֹרִים",spouses:"בְּנֵי זוּג",siblings:"אַחִים",children:"יְלָדִים",me:"אֲנִי",
+  videoSoon:"הַסִּרְטוֹן בַּהֲכָנָה",videoTxt:"סִרְטוֹן קָצָר (60–90 שְׁנִיּוֹת) עִם אוֹתוֹ דְּיוֹקָן כְּמוֹ בַּפְּרָקִים.",readEp:"בֵּינְתַיִם, קוֹרְאִים אֶת הַסִּפּוּר ←",
+  moments:"רְגָעִים חֲשׁוּבִים",refs:"פְּסוּקִים",inParachiot:"בְּאֵילוּ פָּרָשׁוֹת?",open:"לִפְתֹּחַ בְּסֶפַרְיָא ↗",
+  born:"נוֹלַד/ה",died:"נִפְטַר/ה",age:"גִּיל",year:"שָׁנָה",noDate:"לֹא מְתֻאֲרָךְ",
+  qOf:"שְׁאֵלָה",of:"מִתּוֹךְ",right:"נָכוֹן! 🎉",wrong:"לֹא בְּדִיּוּק. הַתְּשׁוּבָה:",next:"הַבָּא ←",again:"מְשַׂחֲקִים שׁוּב",score:"עֲנִיתֶם נָכוֹן עַל",bravo:"כָּל הַכָּבוֹד!",
+  noPortrait:"דְּיוֹקָן בַּהֲכָנָה",
+  foot:"מקורות: ספר בראשית ופירוש רש״י. כל פריט מסומן: 🟩 כתוב בתורה · 🟧 רש״י / מדרש · 🟪 עיבוד אמנותי. הדיוקנאות הם אותם איורים של הפרקים; דמות בלי דיוקן מוצגת בצללית עד שיתווסף הדיוקן הרשמי. ההתקדמות בחידון נשמרת במכשיר זה בלבד."},
+ fr:{brand:"Voyage dans la paracha",tabWeek:"📖 Paracha de la semaine",tabTimeline:"⏳ Frise",tabPeople:"👥 Personnages",
+  weekOf:"Paracha de la semaine",watch:"Lire les histoires de la paracha →",meet:"Qui apparaît dans la paracha ?",growing:"Chaque semaine, une nouvelle paracha s’ajoute avec ses personnages.",
+  tlTitle:"La frise du temps",tlLead:"Chaque barre est la vie d’un personnage. Touche pour le découvrir !",tlTrad:"Années d’après le texte (calcul traditionnel)",tlMid:"D’après Rachi / Midrash",tlEvent:"Événement",
+  tlUndated:"Personnages impossibles à dater",tlAM:"depuis la création",tlBCE:"av. l’ère commune",
+  tlHist:"Dates historiques",tlHistTxt:"Les années de la frise suivent la chronologie traditionnelle (Seder Olam). Des chercheurs proposent le IIe millénaire avant l’ère commune pour l’époque des patriarches : c’est une hypothèse débattue, sans preuve archéologique directe.",
+  peopleTitle:"Les personnages de la Torah",peopleLead:"Touche un personnage pour ouvrir sa fiche.",trees:"Arbres généalogiques",linkOnly:"Fiche complète bientôt",
+  t1:"Qui suis-je ?",t2:"Ma famille",t3:"Mon histoire",t4:"Où suis-je dans la Torah ?",t5:"Que pouvons-nous apprendre ?",t6:"Quiz",
+  parents:"Parents",spouses:"Conjoints",siblings:"Frères et sœurs",children:"Enfants",me:"Moi",
+  videoSoon:"Vidéo en préparation",videoTxt:"Une courte vidéo (60 à 90 s) avec le même portrait que dans les épisodes.",readEp:"En attendant, lis l’histoire →",
+  moments:"Moments importants",refs:"Versets",inParachiot:"Dans quelles parachiot ?",open:"Ouvrir sur Sefaria ↗",
+  born:"Naissance",died:"Mort",age:"Âge",year:"année",noDate:"non daté",
+  qOf:"Question",of:"sur",right:"Bravo ! 🎉",wrong:"Pas tout à fait. La réponse :",next:"Suivante →",again:"Rejouer",score:"Bonnes réponses :",bravo:"Bien joué !",
+  noPortrait:"Portrait en préparation",
+  foot:"Sources : livre de Bereshit et commentaire de Rachi. Chaque élément est marqué : 🟩 écrit dans la Torah · 🟧 Rachi / Midrash · 🟪 adaptation artistique. Les portraits sont les mêmes dessins que dans les épisodes ; un personnage sans portrait garde une silhouette jusqu’à l’ajout de son portrait officiel. Les résultats du quiz restent sur cet appareil."}
+};
+const BOOKS={Genesis:{he:"בְּרֵאשִׁית",fr:"Gn"}};
+const TABS=["who","family","story","where","learn","quiz"];
+let D=null,L="he",byId={},curChar=null,curTab="who";
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const t=k=>T[L][k];
+const nm=c=>c?c[L]:"";
+function store(k,v){try{if(v===undefined)return JSON.parse(localStorage.getItem(k)||"null");localStorage.setItem(k,JSON.stringify(v))}catch(e){return null}}
+
+/* Hebrew numerals */
+function heNum(n){const o=["","א","ב","ג","ד","ה","ו","ז","ח","ט"],te=["","י","כ","ל","מ","נ","ס","ע","פ","צ"];let s="";if(n>=100){s+="ק";n-=100}let tt=Math.floor(n/10),u=n%10;if(tt===1&&(u===5||u===6)){s+="ט"+o[u+1]}else{s+=te[tt]+o[u]}return s.length>1?s.slice(0,-1)+"״"+s.slice(-1):s+"׳"}
+function fmtRef(r){if(!r)return"";const m=r.match(/^(\w+)\.(\d+)\.(\d+)(?:-(\d+)(?:\.(\d+))?)?$/);if(!m)return r;let[,b,ch,v,e1,e2]=m;const B=BOOKS[b]||{he:b,fr:b};
+ if(L==="he"){let s="בראשית "+heNum(+ch)+":"+heNum(+v);if(e2)s+="–"+heNum(+e1)+":"+heNum(+e2);else if(e1)s+="–"+heNum(+e1);return s}
+ let s=B.fr+" "+ch+","+v;if(e2)s+="–"+e1+","+e2;else if(e1)s+="-"+e1;return s}
+const sefaria=r=>"https://www.sefaria.org/"+r.replace(/\.(\d+)-(\d+)\.(\d+)$/,".$1-$2.$3")+"?lang="+(L==="he"?"he":"bi");
+function srcBadge(s){if(!s||!D.sources[s])return"";return '<span class="src '+s+'">'+esc(D.sources[s][L])+'</span>'}
+function civ(am){const y=3761-am;return y>0?y+" "+t("tlBCE"):(1-y)+""}
+
+function silhouette(){return '<svg viewBox="-50 -50 100 145" aria-hidden="true"><circle cy="2" r="28" fill="#cfc4ea"/><path d="M-42 95Q-40 38 0 34Q40 38 42 95Z" fill="#cfc4ea"/></svg>'}
+function avatar(c,cls=""){const svg=c&&c.portrait?portraitSVG(c.portrait):null;return '<span class="av '+cls+'"'+(svg?'':' title="'+esc(t("noPortrait"))+'"')+'>'+(svg||silhouette())+'</span>'}
+
+/* relations */
+const ids=a=>(a||[]).map(x=>x.id).filter(id=>byId[id]);
+function childrenOf(id){return D.characters.filter(c=>(c.parents||[]).some(p=>p.id===id))}
+function spousesOf(c){const s=new Set(ids(c.spouses));D.characters.forEach(o=>(o.spouses||[]).forEach(x=>{if(x.id===c.id)s.add(o.id)}));return[...s]}
+function siblingsOf(c){const s=new Set(ids(c.siblings));D.characters.forEach(o=>(o.siblings||[]).forEach(x=>{if(x.id===c.id)s.add(o.id)}));
+ const ps=ids(c.parents);if(ps.length)D.characters.forEach(o=>{if(o.id!==c.id&&ids(o.parents).some(p=>ps.includes(p)))s.add(o.id)});s.delete(c.id);return[...s]}
+
+/* ---------- sections ---------- */
+function latestParasha(){return [...D.parachiot].sort((a,b)=>b.order-a.order)[0]}
+function chip(c,self){return '<button class="chip'+(self?' self':'')+'" data-open="'+c.id+'">'+avatar(c)+esc(nm(c))+'</button>'}
+function renderWeek(){const p=latestParasha();const cs=D.characters.filter(c=>c.status==="full"&&c.parachiot.includes(p.id));
+ $("#s-week").innerHTML='<div class="week"><div><span class="tag">'+esc(t("weekOf"))+' · '+esc(p.book[L])+'</span></div><h1>'+esc(p[L])+'</h1><div class="muted">'+esc(p.ref[L])+'</div><p class="lead">'+esc(p.summary[L])+'</p><div><a class="cta" href="'+esc(p.episodes)+'">'+esc(t("watch"))+'</a></div></div>'+
+ '<h2>'+esc(t("meet"))+'</h2><div class="chips">'+cs.map(c=>chip(c)).join("")+'</div><p class="muted small" style="margin-top:18px">'+esc(t("growing"))+'</p>'}
+
+function renderTimeline(){const dated=D.characters.filter(c=>c.life&&c.life.born!=null).sort((a,b)=>a.life.born-b.life.born);
+ const evs=[];D.characters.forEach(c=>(c.events||[]).forEach(e=>{if(e.am!=null)evs.push({c,e})}));
+ let min=Math.min(...dated.map(c=>c.life.born)),max=Math.max(...dated.map(c=>c.life.died||c.life.born+20));min=Math.floor((min-10)/25)*25;max=Math.ceil((max+10)/25)*25;
+ const K=4.2,W=(max-min)*K,side=L==="he"?"right":"left",pos=y=>(y-min)*K;
+ let ticks="";for(let y=min;y<=max;y+=25)ticks+='<span class="tick" style="'+side+':'+pos(y)+'px"><b>'+y+'</b>'+civ(y).replace(" "+t("tlBCE"),"")+'</span>';
+ let lanes=dated.map(c=>{const b=c.life.born,d=c.life.died||b+15,mid=c.life.src==="midrash";return '<div class="lane"><button class="bar'+(mid?' mid':'')+'" data-open="'+c.id+'" style="'+side+':'+pos(b)+'px;width:'+Math.max(64,(d-b)*K)+'px" title="'+esc(nm(c))+' · '+b+(c.life.died?'–'+c.life.died:'')+'">'+avatar(c)+esc(nm(c))+'</button></div>'}).join("");
+ const seen={};let dots=evs.filter(x=>{const k=x.e.am+x.e.he;if(seen[k])return false;return seen[k]=1}).map(x=>'<button class="dot" data-open="'+x.c.id+'" data-tab="story" style="'+side+':'+pos(x.e.am)+'px" title="'+esc(x.e.am+' · '+nm(x.c)+' — '+x.e[L])+'" aria-label="'+esc(x.e[L])+'"></button>').join("");
+ const und=D.characters.filter(c=>c.status==="full"&&(!c.life||c.life.born==null));
+ $("#s-timeline").innerHTML='<h1>'+esc(t("tlTitle"))+'</h1><p class="lead">'+esc(t("tlLead"))+'</p><div class="legend"><span><i class="sw" style="background:var(--torah-bg);border:2px solid var(--torah)"></i>'+esc(t("tlTrad"))+'</span><span><i class="sw" style="background:var(--midrash-bg);border:2px dashed var(--midrash)"></i>'+esc(t("tlMid"))+'</span><span><i class="sw" style="background:var(--yellow);border:2px solid var(--ink);width:14px;height:14px;border-radius:50%"></i>'+esc(t("tlEvent"))+'</span></div>'+
+ '<div class="tl-wrap" id="tlwrap"><div class="tl" style="width:'+(W+40)+'px"><div class="axis">'+ticks+'</div><div class="evrow">'+dots+'</div>'+lanes+'</div></div>'+
+ '<p class="small muted">'+esc(t("year"))+': '+esc(t("tlAM"))+' · '+esc(t("tlBCE"))+'</p>'+
+ '<div class="undated"><h2>'+esc(t("tlUndated"))+'</h2><div class="chips">'+und.map(c=>chip(c)).join("")+'</div></div>'+
+ '<h2>'+esc(t("tlHist"))+'</h2><p class="note">'+esc(t("tlHistTxt"))+'</p>'}
+
+function renderPeople(){const full=D.characters.filter(c=>c.status==="full"),link=D.characters.filter(c=>c.status!=="full");
+ const card=c=>'<button class="pcard'+(c.status!=="full"?' link':'')+'" data-open="'+c.id+'">'+avatar(c)+'<b>'+esc(nm(c))+'</b><span>'+esc(L==="he"?c.fr:c.he)+'</span>'+(c.status!=="full"?'<br><span class="small">'+esc(t("linkOnly"))+'</span>':'')+'</button>';
+ $("#s-people").innerHTML='<h1>'+esc(t("peopleTitle"))+'</h1><p class="lead">'+esc(t("peopleLead"))+'</p><div class="grid">'+full.map(card).join("")+link.map(card).join("")+'</div><h2>'+esc(t("trees"))+'</h2>'+D.trees.map(tr=>'<h3>'+esc(tr[L])+'</h3><div class="tree-wrap"><div class="tree" data-tree="'+tr.id+'">'+tr.rows.map(r=>'<div class="trow">'+r.map(g=>'<div class="tgroup">'+g.map(id=>tnode(byId[id])).join("")+'</div>').join("")+'</div>').join("")+'</div></div><p class="small muted">'+esc(tr.note[L])+'</p>').join("");
+ requestAnimationFrame(()=>document.querySelectorAll(".tree").forEach(drawLines))}
+function tnode(c,cur){return '<button class="tnode'+(cur?' cur':'')+'" data-open="'+c.id+'" data-node="'+c.id+'">'+avatar(c)+esc(nm(c))+'</button>'}
+function drawLines(tree){tree.querySelector("svg.lines")?.remove();const box=tree.getBoundingClientRect(),nodes={};tree.querySelectorAll("[data-node]").forEach(n=>{const r=n.querySelector(".av").getBoundingClientRect();nodes[n.dataset.node]={x:r.left+r.width/2-box.left,y:r.top+r.height/2-box.top,t:r.top-box.top,b:r.bottom-box.top}});
+ let p="";const done={};
+ Object.keys(nodes).forEach(id=>{const c=byId[id];
+  spousesOf(c).forEach(s=>{if(!nodes[s])return;const k=[id,s].sort().join();if(done[k])return;done[k]=1;p+='<line x1="'+nodes[id].x+'" y1="'+nodes[id].y+'" x2="'+nodes[s].x+'" y2="'+nodes[s].y+'" stroke="#e08a5b" stroke-width="3" stroke-dasharray="6 5"/>'});
+  const ps=ids(c.parents).filter(x=>nodes[x]);if(!ps.length)return;const px=ps.reduce((a,x)=>a+nodes[x].x,0)/ps.length,py=Math.max(...ps.map(x=>nodes[x].b))+2,my=(py+nodes[id].t)/2;
+  p+='<path d="M'+px+' '+py+'V'+my+'H'+nodes[id].x+'V'+(nodes[id].t-2)+'" fill="none" stroke="#6546cc" stroke-width="3"/>'});
+ tree.insertAdjacentHTML("afterbegin",'<svg class="lines" aria-hidden="true">'+p+'</svg>')}
+
+/* ---------- fiche ---------- */
+function openChar(id,tab){const c=byId[id];if(!c)return;curChar=c;curTab=tab&&TABS.includes(tab)?tab:"who";const dlg=$("#fiche");
+ $("#fav").outerHTML=avatar(c,"lg").replace('<span class="av lg"','<span class="av lg" id="fav"');
+ $("#fname").textContent=nm(c);$("#falt").textContent=(L==="he"?c.fr:c.he)+(c.alt?" · "+c.alt[L]:"");
+ const lbl={who:"t1",family:"t2",story:"t3",where:"t4",learn:"t5",quiz:"t6"};const sub={who:"Qui suis-je ?",family:"Ma famille",story:"Mon histoire",where:"Où suis-je ?",learn:"Apprendre",quiz:"Quiz"},subHe={who:"מִי אֲנִי?",family:"הַמִּשְׁפָּחָה שֶׁלִּי",story:"הַסִּפּוּר שֶׁלִּי",where:"אֵיפֹה אֲנִי?",learn:"מָה לוֹמְדִים",quiz:"חִידוֹן"};
+ const avail=c.status==="full"?TABS:["who","family"];
+ $("#ftabs").innerHTML=avail.map(k=>'<button role="tab" data-ftab="'+k+'" aria-selected="'+(k===curTab)+'">'+esc(T.he[lbl[k]])+'<small>'+esc(T.fr[lbl[k]])+'</small></button>').join("");
+ if(!avail.includes(curTab))curTab="who";renderTab();if(!dlg.open)dlg.showModal();history.replaceState(null,"","#p="+id)}
+function renderTab(){const c=curChar,b=$("#fbody");document.querySelectorAll("[data-ftab]").forEach(x=>x.setAttribute("aria-selected",x.dataset.ftab===curTab));b.scrollTop=0;
+ if(curTab==="who"){let h='<p class="story">'+esc(c.bio[L])+'</p>';
+  ["nameNote","identityNote","parentsNote"].forEach(k=>{if(c[k])h+='<p class="note">'+srcBadge(c[k].src)+esc(c[k][L])+(c[k].source?' <span class="small muted">('+esc(c[k].source[L])+')</span>':'')+(c[k].ref?' <a href="'+sefaria(c[k].ref)+'" target="_blank" rel="noopener" class="small">'+esc(fmtRef(c[k].ref))+'</a>':'')+'</p>'});
+  if(c.life&&(c.life.born!=null||c.life.age)){h+='<p class="note">'+srcBadge(c.life.src)+(c.life.born!=null?esc(t("born"))+': '+c.life.born+' ('+esc(civ(c.life.born))+') · ':'')+(c.life.died?esc(t("died"))+': '+c.life.died+' · ':'')+(c.life.age?esc(t("age"))+': '+c.life.age+(c.life.ageRef?' (<a href="'+sefaria(c.life.ageRef)+'" target="_blank" rel="noopener">'+esc(fmtRef(c.life.ageRef))+'</a>)':''):'')+(c.life.note?'<br><span class="small">'+esc(c.life.note[L])+'</span>':'')+'</p>'}
+  if(c.historical)h+='<p class="small muted">'+esc(t("tlHist"))+': '+esc(c.historical[L])+'</p>';
+  b.innerHTML=h;return}
+ if(curTab==="family"){const row=(k,list)=>list.length?'<div><h4>'+esc(t(k))+'</h4><div class="chips">'+list.map(id=>chip(byId[id])).join("")+'</div></div>':"";
+  const kids=childrenOf(c.id).map(x=>x.id);let h='<div class="fam">'+row("parents",ids(c.parents))+'<div><h4>'+esc(t("me"))+'</h4><div class="chips">'+chip(c,true)+'</div></div>'+row("spouses",spousesOf(c))+row("siblings",siblingsOf(c))+row("children",kids);
+  if(c.otherChildren)h+='<div><h4>'+esc(t("children"))+'</h4><p class="note">'+srcBadge("torah")+esc(c.otherChildren[L])+' · <a href="'+sefaria(c.otherChildren.ref)+'" target="_blank" rel="noopener">'+esc(fmtRef(c.otherChildren.ref))+'</a></p></div>';
+  const rel=[...(c.parents||[]),...(c.spouses||[]),...(c.siblings||[])];if(rel.length)h+='<p class="small muted">'+rel.map(r=>esc(nm(byId[r.id]))+' · <a href="'+sefaria(r.ref)+'" target="_blank" rel="noopener">'+esc(fmtRef(r.ref))+'</a>').join(" | ")+'</p>';
+  b.innerHTML=h+'</div>';return}
+ if(curTab==="story"){const p=D.parachiot.find(x=>c.parachiot.includes(x.id));let v=c.video?'<video controls playsinline preload="none" src="'+esc(c.video)+'" style="width:100%;border-radius:20px"></video>':'<div class="video"><div>'+avatar(c,"md")+'<b>'+esc(t("videoSoon"))+'</b><span class="small">'+esc(t("videoTxt"))+'</span>'+(p?'<br><br><a class="cta" href="'+esc(p.episodes)+'">'+esc(t("readEp"))+'</a>':'')+'</div></div>';
+  b.innerHTML=v+'<h3>'+esc(t("moments"))+'</h3><ul class="refs">'+(c.events||[]).map(e=>'<li>'+(e.am!=null?'<b>'+e.am+'</b> · ':'')+esc(e[L])+' <a class="small" href="'+sefaria(e.ref)+'" target="_blank" rel="noopener">'+esc(fmtRef(e.ref))+'</a>'+(e.datesrc==="midrash"?' <span class="src midrash">'+esc(t("year"))+': '+esc(D.sources.midrash[L])+'</span>':'')+'</li>').join("")+'</ul>';return}
+ if(curTab==="where"){const refs=new Map();const add=r=>{if(r)refs.set(r,1)};(c.events||[]).forEach(e=>add(e.ref));(c.parents||[]).forEach(e=>add(e.ref));(c.spouses||[]).forEach(e=>add(e.ref));(c.lessons||[]).forEach(e=>add(e.ref));if(c.life)add(c.life.ageRef);
+  const sorted=[...refs.keys()].sort((a,b)=>{const n=r=>r.split(/[.\-]/).slice(1,3).map(Number);const[x1,y1]=n(a),[x2,y2]=n(b);return x1-x2||y1-y2});
+  b.innerHTML='<h3>'+esc(t("inParachiot"))+'</h3><div class="chips">'+c.parachiot.map(id=>{const p=D.parachiot.find(x=>x.id===id);return p?'<a class="chip" href="'+esc(p.episodes)+'">📖 '+esc(p[L])+' <span class="small muted">'+esc(p.ref[L])+'</span></a>':""}).join("")+'</div><h3>'+esc(t("refs"))+'</h3><ul class="refs">'+sorted.map(r=>'<li><b>'+esc(fmtRef(r))+'</b> · <a href="'+sefaria(r)+'" target="_blank" rel="noopener">'+esc(t("open"))+'</a></li>').join("")+'</ul>';return}
+ if(curTab==="learn"){b.innerHTML=(c.lessons||[]).map(x=>'<div class="lesson">'+srcBadge(x.src)+(x.source?'<span class="small muted">'+esc(x.source[L])+'</span>':'')+'<p style="margin:8px 0">'+esc(x[L])+'</p>'+(x.ref?'<a class="ref" href="'+sefaria(x.ref)+'" target="_blank" rel="noopener">'+esc(fmtRef(x.ref))+'</a>':'')+'</div>').join("");return}
+ if(curTab==="quiz")startQuiz()}
+
+let qs={i:0,ok:0,lock:false};
+function startQuiz(){qs={i:0,ok:0,lock:false};drawQ()}
+function drawQ(){const c=curChar,b=$("#fbody"),Q=c.quiz;if(qs.i>=Q.length){const best=Math.max(qs.ok,(store("quiz:"+c.id)||0));store("quiz:"+c.id,best);
+  b.innerHTML='<div class="stars">'+"⭐".repeat(qs.ok)+"☆".repeat(Q.length-qs.ok)+'</div><h3 style="text-align:center">'+esc(qs.ok>=4?t("bravo"):"")+' '+esc(t("score"))+' '+qs.ok+' '+esc(t("of"))+' '+Q.length+'</h3><p style="text-align:center"><button class="cta" id="qagain">'+esc(t("again"))+'</button></p>';$("#qagain").onclick=startQuiz;return}
+ const q=Q[qs.i];b.innerHTML='<div class="qbar">'+Q.map((_,k)=>'<i class="'+(k<qs.i?'done':'')+'"></i>').join("")+'</div><div class="small muted">'+esc(t("qOf"))+' '+(qs.i+1)+' '+esc(t("of"))+' '+Q.length+(q.src==="midrash"?' · '+srcBadge("midrash"):'')+'</div><div class="q">'+esc(q.q[L])+'</div><div class="opts">'+q.options.map((o,k)=>'<button class="opt" data-k="'+k+'">'+esc(o[L])+'</button>').join("")+'</div><div class="feedback" id="fb" aria-live="polite"></div>';qs.lock=false}
+function answer(k){if(qs.lock)return;qs.lock=true;const q=curChar.quiz[qs.i],right=k===q.answer;if(right)qs.ok++;
+ document.querySelectorAll(".opt").forEach(o=>{o.disabled=true;const n=+o.dataset.k;if(n===q.answer)o.classList.add("ok");else if(n===k)o.classList.add("no")});
+ $("#fb").innerHTML=(right?esc(t("right")):esc(t("wrong"))+' '+esc(q.options[q.answer][L]))+' · <a href="'+sefaria(q.ref)+'" target="_blank" rel="noopener" class="small">'+esc(fmtRef(q.ref))+'</a><br><button class="cta" id="qnext" style="margin-top:12px">'+esc(t("next"))+'</button>';$("#qnext").onclick=()=>{qs.i++;drawQ()};$("#qnext").focus()}
+
+/* ---------- routing & language ---------- */
+function show(tab){["week","timeline","people"].forEach(k=>{$("#s-"+k).hidden=k!==tab;document.querySelector('[data-tab="'+k+'"]').setAttribute("aria-current",k===tab?"page":"false")});if(tab==="people")requestAnimationFrame(()=>document.querySelectorAll(".tree").forEach(drawLines))}
+function route(){const h=location.hash.slice(1);if(h.startsWith("p=")){const id=h.slice(2);if(!$("#fiche").open||!curChar||curChar.id!==id)openChar(id);return}show(["week","timeline","people"].includes(h)?h:"week")}
+function setLang(l){L=l;store("encLang",l);document.documentElement.lang=l;document.documentElement.dir=l==="he"?"rtl":"ltr";document.title=l==="he"?"דמויות בתורה · מסע בפרשה":"Personnages de la Torah · Voyage dans la paracha";
+ document.querySelectorAll("[data-lang]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.lang===l));document.querySelectorAll("[data-t]").forEach(e=>e.textContent=t(e.dataset.t));
+ $("#foot").textContent=t("foot");renderWeek();renderTimeline();renderPeople();if($("#fiche").open&&curChar)openChar(curChar.id,curTab)}
+
+document.addEventListener("click",e=>{const o=e.target.closest("[data-open]");if(o){e.preventDefault();openChar(o.dataset.open,o.dataset.tab);return}
+ const f=e.target.closest("[data-ftab]");if(f){curTab=f.dataset.ftab;renderTab();return}
+ const a=e.target.closest(".opt");if(a){answer(+a.dataset.k);return}
+ const lg=e.target.closest("[data-lang]");if(lg)setLang(lg.dataset.lang)});
+$("#fclose").onclick=()=>$("#fiche").close();
+$("#fiche").addEventListener("close",()=>{if(location.hash.startsWith("#p="))history.replaceState(null,"","#people");route()});
+$("#fiche").addEventListener("click",e=>{if(e.target===$("#fiche"))$("#fiche").close()});
+addEventListener("hashchange",route);
+addEventListener("resize",()=>document.querySelectorAll(".tree").forEach(drawLines));
+
+function boot(data){D=data;D.characters.forEach(c=>byId[c.id]=c);const saved=store("encLang");setLang(saved==="fr"?"fr":"he");route()}
+if(window.ENC_DATA)boot(window.ENC_DATA);else fetch("data/personnages.json").then(r=>r.json()).then(boot).catch(()=>{$("#s-week").innerHTML='<p class="note">⚠️ data/personnages.json</p>'});
+</script>
+</body>
+</html>
