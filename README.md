@@ -1,5 +1,7 @@
 # Torah Bollag — תורה בקומיקס
 
+![התורה בסרטים — 54 פרשות · סיפור · דמויות · משחקים](assets/banner.jpg)
+
 Bandes dessinées pour enfants à partir des enseignements de Bollag. Hébreu simple avec nikoud.
 
 ## Sommaire des parachiot
