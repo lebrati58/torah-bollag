@@ -295,7 +295,7 @@ function answer(k){if(qs.lock)return;qs.lock=true;const q=curChar.quiz[qs.i],rig
  $("#fb").innerHTML=(right?esc(t("right")):esc(t("wrong"))+' '+esc(q.options[q.answer][L]))+' · <a href="'+sefaria(q.ref)+'" target="_blank" rel="noopener" class="small">'+esc(fmtRef(q.ref))+'</a><br><button class="cta" id="qnext" style="margin-top:12px">'+esc(t("next"))+'</button>';$("#qnext").onclick=()=>{qs.i++;drawQ()};$("#qnext").focus()}
 
 /* ---------- routing & language ---------- */
-function show(tab){["week","timeline","people"].forEach(k=>{$("#s-"+k).hidden=k!==tab;document.querySelector('[data-tab="'+k+'"]').setAttribute("aria-current",k===tab?"page":"false")});if(tab==="people")requestAnimationFrame(()=>document.querySelectorAll(".tree").forEach(drawLines))}
+function show(tab){if(!$("#s-"+tab).hidden===false)scrollTo(0,0);["week","timeline","people"].forEach(k=>{$("#s-"+k).hidden=k!==tab;document.querySelector('[data-tab="'+k+'"]').setAttribute("aria-current",k===tab?"page":"false")});if(tab==="people")requestAnimationFrame(()=>document.querySelectorAll(".tree").forEach(drawLines))}
 function route(){const h=location.hash.slice(1);if(h.startsWith("p=")){const id=h.slice(2);if(!$("#fiche").open||!curChar||curChar.id!==id)openChar(id);return}show(["week","timeline","people"].includes(h)?h:"week")}
 function setLang(l){L=l;store("encLang",l);document.documentElement.lang=l;document.documentElement.dir=l==="he"?"rtl":"ltr";document.title=l==="he"?"דמויות בתורה · מסע בפרשה":"Personnages de la Torah · Voyage dans la paracha";
  document.querySelectorAll("[data-lang]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.lang===l));document.querySelectorAll("[data-t]").forEach(e=>e.textContent=t(e.dataset.t));

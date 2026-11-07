@@ -30,6 +30,7 @@ for p in sk['parachiot']:
 chars=[]
 for s in sk['characters']:
   i=s['id']; c=OLD.get(i,{}).copy(); g=G.get(i,{})
+  c['id']=i
   for k in ['he','fr','status','parachiot']: c[k]=s[k]
   if OLD.get(i,{}).get('status')=='full': c['status']='full'
   c['portrait']=i
@@ -48,7 +49,10 @@ for s in sk['characters']:
   if 'addEvents' in g: c['events']=c.get('events',[])+g['addEvents']
   if 'addLessons' in g: c['lessons']=c.get('lessons',[])+g['addLessons']
   for n in g.get('notes',[]):
-    key=n.pop('key','nameNote'); c[key]=n
+    key=n.pop('key','nameNote')
+    if key in c and c[key] is not OLD.get(i,{}).get(key):
+      for L in ('he','fr'): c[key][L]=c[key][L]+' '+n[L]
+    else: c[key]=n
   if 'otherChildren' in OLD.get(i,{}): c['otherChildren']=OLD[i]['otherChildren']
   c.setdefault('events',[]); c.setdefault('bio',{"he":"","fr":""})
   if c['status']=='full' and (len(c.get('quiz',[]))<5 or not c.get('lessons')): c['status']='link'
