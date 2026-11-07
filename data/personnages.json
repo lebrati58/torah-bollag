@@ -284,7 +284,7 @@
     "he": "שָׂרַי",
     "fr": "Saraï (son premier nom, Gn 17,15)"
    },
-   "portrait": null,
+   "portrait": "sarah",
    "status": "full",
    "parents": [],
    "parentsNote": {
@@ -494,7 +494,7 @@
    "id": "yitzhak",
    "he": "יִצְחָק",
    "fr": "Yitzhak",
-   "portrait": null,
+   "portrait": "yitzhak",
    "status": "full",
    "parents": [
     {
@@ -1088,7 +1088,7 @@
    "id": "lavan",
    "he": "לָבָן",
    "fr": "Lavan",
-   "portrait": null,
+   "portrait": "lavan",
    "status": "full",
    "parents": [
     {
@@ -1278,7 +1278,7 @@
    "id": "betuel",
    "he": "בְּתוּאֵל",
    "fr": "Betouël",
-   "portrait": null,
+   "portrait": "betuel",
    "status": "full",
    "parents": [
     {
@@ -1452,7 +1452,7 @@
    "id": "efron",
    "he": "עֶפְרוֹן",
    "fr": "Efron",
-   "portrait": null,
+   "portrait": "efron",
    "status": "full",
    "parentsNote": {
     "src": "torah",
@@ -1622,7 +1622,7 @@
    "id": "ketura",
    "he": "קְטוּרָה",
    "fr": "Ketoura",
-   "portrait": null,
+   "portrait": "ketura",
    "status": "full",
    "identityNote": {
     "src": "midrash",
@@ -1806,7 +1806,7 @@
    "id": "yishmael",
    "he": "יִשְׁמָעֵאל",
    "fr": "Yishmaël",
-   "portrait": null,
+   "portrait": "yishmael",
    "status": "full",
    "parents": [
     {
@@ -2004,7 +2004,7 @@
    "id": "hagar",
    "he": "הָגָר",
    "fr": "Hagar",
-   "portrait": null,
+   "portrait": "hagar",
    "status": "full",
    "parents": [],
    "spouses": [
@@ -2181,7 +2181,7 @@
    "id": "terah",
    "he": "תֶּרַח",
    "fr": "Téra’h",
-   "portrait": null,
+   "portrait": "terah",
    "status": "link",
    "parents": [],
    "parachiot": [],
@@ -2206,7 +2206,7 @@
    "id": "nahor",
    "he": "נָחוֹר",
    "fr": "Na’hor",
-   "portrait": null,
+   "portrait": "nahor",
    "status": "link",
    "parents": [
     {
@@ -2247,7 +2247,7 @@
    "id": "milka",
    "he": "מִלְכָּה",
    "fr": "Milka",
-   "portrait": null,
+   "portrait": "milka",
    "status": "link",
    "parentsNote": {
     "src": "torah",
