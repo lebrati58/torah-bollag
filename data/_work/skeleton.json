@@ -1,0 +1,2405 @@
+{
+ "parachiot": [
+  {
+   "id": "bereshit",
+   "order": 1,
+   "he": "בְּרֵאשִׁית",
+   "fr": "Bereshit",
+   "sefaria": "Genesis.1.1-6.8",
+   "refFr": "Genèse 1,1 – 6,8",
+   "refHe": "בראשית א׳:א׳–ו׳:ח׳",
+   "episodes": "genesis.html"
+  },
+  {
+   "id": "noach",
+   "order": 2,
+   "he": "נֹחַ",
+   "fr": "Noa’h",
+   "sefaria": "Genesis.6.9-11.32",
+   "refFr": "Genèse 6,9 – 11,32",
+   "refHe": "בראשית ו׳:ט׳–י״א:ל״ב",
+   "episodes": "genesis.html"
+  },
+  {
+   "id": "lech-lecha",
+   "order": 3,
+   "he": "לֶךְ־לְךָ",
+   "fr": "Lekh Lekha",
+   "sefaria": "Genesis.12.1-17.27",
+   "refFr": "Genèse 12,1 – 17,27",
+   "refHe": "בראשית י״ב:א׳–י״ז:כ״ז",
+   "episodes": "genesis.html"
+  },
+  {
+   "id": "vayera",
+   "order": 4,
+   "he": "וַיֵּרָא",
+   "fr": "Vayéra",
+   "sefaria": "Genesis.18.1-22.24",
+   "refFr": "Genèse 18,1 – 22,24",
+   "refHe": "בראשית י״ח:א׳–כ״ב:כ״ד",
+   "episodes": "genesis.html"
+  },
+  {
+   "id": "chaye-sarah",
+   "order": 5,
+   "he": "חַיֵּי שָׂרָה",
+   "fr": "‘Hayé Sarah",
+   "sefaria": "Genesis.23.1-25.18",
+   "refFr": "Genèse 23,1 – 25,18",
+   "refHe": "בראשית כ״ג:א׳–כ״ה:י״ח",
+   "episodes": "index.html"
+  },
+  {
+   "id": "toldot",
+   "order": 6,
+   "he": "תּוֹלְדֹת",
+   "fr": "Toledot",
+   "sefaria": "Genesis.25.19-28.9",
+   "refFr": "Genèse 25,19 – 28,9",
+   "refHe": "בראשית כ״ה:י״ט–כ״ח:ט׳",
+   "episodes": null
+  },
+  {
+   "id": "vayetze",
+   "order": 7,
+   "he": "וַיֵּצֵא",
+   "fr": "Vayétsé",
+   "sefaria": "Genesis.28.10-32.3",
+   "refFr": "Genèse 28,10 – 32,3",
+   "refHe": "בראשית כ״ח:י׳–ל״ב:ג׳",
+   "episodes": null
+  },
+  {
+   "id": "vayishlach",
+   "order": 8,
+   "he": "וַיִּשְׁלַח",
+   "fr": "Vayichla’h",
+   "sefaria": "Genesis.32.4-36.43",
+   "refFr": "Genèse 32,4 – 36,43",
+   "refHe": "בראשית ל״ב:ד׳–ל״ו:מ״ג",
+   "episodes": null
+  },
+  {
+   "id": "vayeshev",
+   "order": 9,
+   "he": "וַיֵּשֶׁב",
+   "fr": "Vayéchev",
+   "sefaria": "Genesis.37.1-40.23",
+   "refFr": "Genèse 37,1 – 40,23",
+   "refHe": "בראשית ל״ז:א׳–מ׳:כ״ג",
+   "episodes": null
+  },
+  {
+   "id": "miketz",
+   "order": 10,
+   "he": "מִקֵּץ",
+   "fr": "Mikets",
+   "sefaria": "Genesis.41.1-44.17",
+   "refFr": "Genèse 41,1 – 44,17",
+   "refHe": "בראשית מ״א:א׳–מ״ד:י״ז",
+   "episodes": null
+  },
+  {
+   "id": "vayigash",
+   "order": 11,
+   "he": "וַיִּגַּשׁ",
+   "fr": "Vayigach",
+   "sefaria": "Genesis.44.18-47.27",
+   "refFr": "Genèse 44,18 – 47,27",
+   "refHe": "בראשית מ״ד:י״ח–מ״ז:כ״ז",
+   "episodes": null
+  },
+  {
+   "id": "vayechi",
+   "order": 12,
+   "he": "וַיְחִי",
+   "fr": "Vay’hi",
+   "sefaria": "Genesis.47.28-50.26",
+   "refFr": "Genèse 47,28 – 50,26",
+   "refHe": "בראשית מ״ז:כ״ח–נ׳:כ״ו",
+   "episodes": null
+  }
+ ],
+ "characters": [
+  {
+   "id": "adam",
+   "he": "אָדָם",
+   "fr": "Adam",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": 1,
+    "died": 930,
+    "age": 930,
+    "ageRef": "Genesis.5.5",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "hava",
+   "he": "חַוָּה",
+   "fr": "‘Hava (Ève)",
+   "woman": true,
+   "status": "full",
+   "parents": [],
+   "spouses": [
+    {
+     "id": "adam",
+     "ref": "Genesis.4.1",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "kayin",
+   "he": "קַיִן",
+   "fr": "Kaïn",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "adam",
+     "ref": "Genesis.4.1",
+     "src": "torah"
+    },
+    {
+     "id": "hava",
+     "ref": "Genesis.4.1",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "hevel",
+   "he": "הֶבֶל",
+   "fr": "Hével (Abel)",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "adam",
+     "ref": "Genesis.4.2",
+     "src": "torah"
+    },
+    {
+     "id": "hava",
+     "ref": "Genesis.4.2",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "shet",
+   "he": "שֵׁת",
+   "fr": "Chet",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "adam",
+     "ref": "Genesis.4.25",
+     "src": "torah"
+    },
+    {
+     "id": "hava",
+     "ref": "Genesis.4.25",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": 130,
+    "died": 1042,
+    "age": 912,
+    "ageRef": "Genesis.5.8",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "enosh",
+   "he": "אֱנוֹשׁ",
+   "fr": "Énoch (fils de Chet)",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "shet",
+     "ref": "Genesis.4.26",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": 235,
+    "died": 1140,
+    "age": 905,
+    "ageRef": "Genesis.5.11",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "kenan",
+   "he": "קֵינָן",
+   "fr": "Kénan",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "enosh",
+     "ref": "Genesis.5.9",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": 325,
+    "died": 1235,
+    "age": 910,
+    "ageRef": "Genesis.5.14",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "mahalalel",
+   "he": "מַהֲלַלְאֵל",
+   "fr": "Mahalalel",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "kenan",
+     "ref": "Genesis.5.12",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": 395,
+    "died": 1290,
+    "age": 895,
+    "ageRef": "Genesis.5.17",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "yered",
+   "he": "יֶרֶד",
+   "fr": "Yéred",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "mahalalel",
+     "ref": "Genesis.5.15",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": 460,
+    "died": 1422,
+    "age": 962,
+    "ageRef": "Genesis.5.20",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "hanokh",
+   "he": "חֲנוֹךְ",
+   "fr": "‘Hanokh (Hénoch)",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yered",
+     "ref": "Genesis.5.18",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": 622,
+    "died": 987,
+    "age": 365,
+    "ageRef": "Genesis.5.23",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "metushelah",
+   "he": "מְתוּשֶׁלַח",
+   "fr": "Métouchéla’h",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "hanokh",
+     "ref": "Genesis.5.21",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": 687,
+    "died": 1656,
+    "age": 969,
+    "ageRef": "Genesis.5.27",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "lemekh",
+   "he": "לֶמֶךְ",
+   "fr": "Lémekh",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "metushelah",
+     "ref": "Genesis.5.25",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "bereshit"
+   ],
+   "life": {
+    "born": 874,
+    "died": 1651,
+    "age": 777,
+    "ageRef": "Genesis.5.31",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "noah",
+   "he": "נֹחַ",
+   "fr": "Noa’h",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "lemekh",
+     "ref": "Genesis.5.28-29",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "bereshit",
+    "noach"
+   ],
+   "life": {
+    "born": 1056,
+    "died": 2006,
+    "age": 950,
+    "ageRef": "Genesis.9.29",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "shem",
+   "he": "שֵׁם",
+   "fr": "Chem",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "noah",
+     "ref": "Genesis.5.32",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "noach"
+   ],
+   "life": {
+    "born": 1558,
+    "died": 2158,
+    "age": 600,
+    "ageRef": "Genesis.11.10-11",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "ham",
+   "he": "חָם",
+   "fr": "‘Ham",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "noah",
+     "ref": "Genesis.5.32",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "noach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "yefet",
+   "he": "יֶפֶת",
+   "fr": "Yéfet",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "noah",
+     "ref": "Genesis.5.32",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "noach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "kenaan",
+   "he": "כְּנַעַן",
+   "fr": "Kenaan",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "ham",
+     "ref": "Genesis.9.18",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "noach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "nimrod",
+   "he": "נִמְרֹד",
+   "fr": "Nimrod",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "noach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "terah",
+   "he": "תֶּרַח",
+   "fr": "Téra’h",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "noach"
+   ],
+   "life": {
+    "born": 1878,
+    "died": 2083,
+    "age": 205,
+    "ageRef": "Genesis.11.32",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "haran",
+   "he": "הָרָן",
+   "fr": "Haran",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "terah",
+     "ref": "Genesis.11.26",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "noach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "nahor",
+   "he": "נָחוֹר",
+   "fr": "Na’hor",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "terah",
+     "ref": "Genesis.11.26",
+     "src": "torah"
+    }
+   ],
+   "spouses": [
+    {
+     "id": "milka",
+     "ref": "Genesis.11.29",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "noach",
+    "vayera",
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "milka",
+   "he": "מִלְכָּה",
+   "fr": "Milka",
+   "woman": true,
+   "status": "link",
+   "parents": [
+    {
+     "id": "haran",
+     "ref": "Genesis.11.29",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "noach",
+    "vayera",
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "avraham",
+   "he": "אַבְרָהָם",
+   "fr": "Avraham",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "terah",
+     "ref": "Genesis.11.26",
+     "src": "torah"
+    }
+   ],
+   "spouses": [
+    {
+     "id": "sarah",
+     "ref": "Genesis.11.29",
+     "src": "torah"
+    },
+    {
+     "id": "hagar",
+     "ref": "Genesis.16.3",
+     "src": "torah"
+    },
+    {
+     "id": "ketura",
+     "ref": "Genesis.25.1",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "noach",
+    "lech-lecha",
+    "vayera",
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": 1948,
+    "died": 2123,
+    "age": 175,
+    "ageRef": "Genesis.25.7",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "sarah",
+   "he": "שָׂרָה",
+   "fr": "Sarah",
+   "woman": true,
+   "status": "full",
+   "parents": [],
+   "spouses": [
+    {
+     "id": "avraham",
+     "ref": "Genesis.11.29",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "noach",
+    "lech-lecha",
+    "vayera",
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": 1958,
+    "died": 2085,
+    "age": 127,
+    "ageRef": "Genesis.23.1",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "lot",
+   "he": "לוֹט",
+   "fr": "Lot",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "haran",
+     "ref": "Genesis.11.27",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "noach",
+    "lech-lecha",
+    "vayera"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "eshet-lot",
+   "he": "אֵשֶׁת לוֹט",
+   "fr": "La femme de Lot",
+   "woman": true,
+   "status": "full",
+   "parents": [],
+   "spouses": [
+    {
+     "id": "lot",
+     "ref": "Genesis.19.15",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "vayera"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "paro-avram",
+   "he": "פַּרְעֹה (בִּימֵי אַבְרָם)",
+   "fr": "Pharaon (au temps d’Avram)",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "lech-lecha"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "malki-tzedek",
+   "he": "מַלְכִּי־צֶדֶק",
+   "fr": "Malki-Tsédek",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "lech-lecha"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "eliezer",
+   "he": "אֱלִיעֶזֶר",
+   "fr": "Éliézer",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "lech-lecha",
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "hagar",
+   "he": "הָגָר",
+   "fr": "Hagar",
+   "woman": true,
+   "status": "full",
+   "parents": [],
+   "spouses": [
+    {
+     "id": "avraham",
+     "ref": "Genesis.16.3",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "lech-lecha",
+    "vayera",
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "yishmael",
+   "he": "יִשְׁמָעֵאל",
+   "fr": "Yishmaël",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "avraham",
+     "ref": "Genesis.16.15",
+     "src": "torah"
+    },
+    {
+     "id": "hagar",
+     "ref": "Genesis.16.15",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "lech-lecha",
+    "vayera",
+    "chaye-sarah",
+    "toldot"
+   ],
+   "life": {
+    "born": 2034,
+    "died": 2171,
+    "age": 137,
+    "ageRef": "Genesis.25.17",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "avimelekh",
+   "he": "אֲבִימֶלֶךְ",
+   "fr": "Avimélekh",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "vayera",
+    "toldot"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "yitzhak",
+   "he": "יִצְחָק",
+   "fr": "Yitzhak",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "avraham",
+     "ref": "Genesis.21.3",
+     "src": "torah"
+    },
+    {
+     "id": "sarah",
+     "ref": "Genesis.21.3",
+     "src": "torah"
+    }
+   ],
+   "spouses": [
+    {
+     "id": "rivka",
+     "ref": "Genesis.24.67",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "vayera",
+    "chaye-sarah",
+    "toldot",
+    "vayishlach"
+   ],
+   "life": {
+    "born": 2048,
+    "died": 2228,
+    "age": 180,
+    "ageRef": "Genesis.35.28",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "betuel",
+   "he": "בְּתוּאֵל",
+   "fr": "Betouël",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "nahor",
+     "ref": "Genesis.22.20-23",
+     "src": "torah"
+    },
+    {
+     "id": "milka",
+     "ref": "Genesis.22.20-23",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayera",
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "rivka",
+   "he": "רִבְקָה",
+   "fr": "Rivka",
+   "woman": true,
+   "status": "full",
+   "parents": [
+    {
+     "id": "betuel",
+     "ref": "Genesis.22.23",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayera",
+    "chaye-sarah",
+    "toldot"
+   ],
+   "life": {
+    "born": 2085,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": "midrash"
+   },
+   "siblings": [
+    {
+     "id": "lavan",
+     "ref": "Genesis.24.29",
+     "src": "torah"
+    }
+   ]
+  },
+  {
+   "id": "lavan",
+   "he": "לָבָן",
+   "fr": "Lavan",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "betuel",
+     "ref": "Genesis.28.5",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "chaye-sarah",
+    "toldot",
+    "vayetze"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "efron",
+   "he": "עֶפְרוֹן",
+   "fr": "Efron",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "ketura",
+   "he": "קְטוּרָה",
+   "fr": "Ketoura",
+   "woman": true,
+   "status": "full",
+   "parents": [],
+   "spouses": [
+    {
+     "id": "avraham",
+     "ref": "Genesis.25.1",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "chaye-sarah"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "esav",
+   "he": "עֵשָׂו",
+   "fr": "Essav",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yitzhak",
+     "ref": "Genesis.25.25-26",
+     "src": "torah"
+    },
+    {
+     "id": "rivka",
+     "ref": "Genesis.25.25-26",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "toldot",
+    "vayishlach"
+   ],
+   "life": {
+    "born": 2108,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": "torah"
+   },
+   "siblings": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.25.24-26",
+     "src": "torah"
+    }
+   ]
+  },
+  {
+   "id": "yaakov",
+   "he": "יַעֲקֹב",
+   "fr": "Yaakov",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yitzhak",
+     "ref": "Genesis.25.26",
+     "src": "torah"
+    },
+    {
+     "id": "rivka",
+     "ref": "Genesis.25.26",
+     "src": "torah"
+    }
+   ],
+   "spouses": [
+    {
+     "id": "lea",
+     "ref": "Genesis.29.23",
+     "src": "torah"
+    },
+    {
+     "id": "rahel",
+     "ref": "Genesis.29.28",
+     "src": "torah"
+    },
+    {
+     "id": "bilha",
+     "ref": "Genesis.30.4",
+     "src": "torah"
+    },
+    {
+     "id": "zilpa",
+     "ref": "Genesis.30.9",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "toldot",
+    "vayetze",
+    "vayishlach",
+    "vayeshev",
+    "miketz",
+    "vayigash",
+    "vayechi"
+   ],
+   "life": {
+    "born": 2108,
+    "died": 2255,
+    "age": 147,
+    "ageRef": "Genesis.47.28",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "lea",
+   "he": "לֵאָה",
+   "fr": "Léa",
+   "woman": true,
+   "status": "full",
+   "parents": [
+    {
+     "id": "lavan",
+     "ref": "Genesis.29.16",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayishlach",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "rahel",
+   "he": "רָחֵל",
+   "fr": "Ra’hel",
+   "woman": true,
+   "status": "full",
+   "parents": [
+    {
+     "id": "lavan",
+     "ref": "Genesis.29.16",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayishlach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "bilha",
+   "he": "בִּלְהָה",
+   "fr": "Bilha",
+   "woman": true,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayishlach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "zilpa",
+   "he": "זִלְפָּה",
+   "fr": "Zilpa",
+   "woman": true,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "vayetze"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "reuven",
+   "he": "רְאוּבֵן",
+   "fr": "Réouven",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.23",
+     "src": "torah"
+    },
+    {
+     "id": "lea",
+     "ref": "Genesis.29.32",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayishlach",
+    "vayeshev",
+    "miketz",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "shimon",
+   "he": "שִׁמְעוֹן",
+   "fr": "Chimon",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.23",
+     "src": "torah"
+    },
+    {
+     "id": "lea",
+     "ref": "Genesis.29.33",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayishlach",
+    "miketz",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "levi",
+   "he": "לֵוִי",
+   "fr": "Lévi",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.23",
+     "src": "torah"
+    },
+    {
+     "id": "lea",
+     "ref": "Genesis.29.34",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayishlach",
+    "vayigash",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": 137,
+    "ageRef": "Exodus.6.16",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "yehuda",
+   "he": "יְהוּדָה",
+   "fr": "Yehouda",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.23",
+     "src": "torah"
+    },
+    {
+     "id": "lea",
+     "ref": "Genesis.29.35",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayeshev",
+    "miketz",
+    "vayigash",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "dan",
+   "he": "דָּן",
+   "fr": "Dan",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.25",
+     "src": "torah"
+    },
+    {
+     "id": "bilha",
+     "ref": "Genesis.30.6",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "naftali",
+   "he": "נַפְתָּלִי",
+   "fr": "Naftali",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.25",
+     "src": "torah"
+    },
+    {
+     "id": "bilha",
+     "ref": "Genesis.30.8",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "gad",
+   "he": "גָּד",
+   "fr": "Gad",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.26",
+     "src": "torah"
+    },
+    {
+     "id": "zilpa",
+     "ref": "Genesis.30.11",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "asher",
+   "he": "אָשֵׁר",
+   "fr": "Acher",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.26",
+     "src": "torah"
+    },
+    {
+     "id": "zilpa",
+     "ref": "Genesis.30.13",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayigash",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "issakhar",
+   "he": "יִשָּׂשכָר",
+   "fr": "Issakhar",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.23",
+     "src": "torah"
+    },
+    {
+     "id": "lea",
+     "ref": "Genesis.30.18",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "zevulun",
+   "he": "זְבוּלֻן",
+   "fr": "Zevouloun",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.23",
+     "src": "torah"
+    },
+    {
+     "id": "lea",
+     "ref": "Genesis.30.20",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "dina",
+   "he": "דִּינָה",
+   "fr": "Dina",
+   "woman": true,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.30.21",
+     "src": "torah"
+    },
+    {
+     "id": "lea",
+     "ref": "Genesis.30.21",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayetze",
+    "vayishlach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "yossef",
+   "he": "יוֹסֵף",
+   "fr": "Yossef",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.24",
+     "src": "torah"
+    },
+    {
+     "id": "rahel",
+     "ref": "Genesis.30.22-24",
+     "src": "torah"
+    }
+   ],
+   "spouses": [
+    {
+     "id": "osnat",
+     "ref": "Genesis.41.45",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "vayetze",
+    "vayeshev",
+    "miketz",
+    "vayigash",
+    "vayechi"
+   ],
+   "life": {
+    "born": 2199,
+    "died": 2309,
+    "age": 110,
+    "ageRef": "Genesis.50.26",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "binyamin",
+   "he": "בִּנְיָמִין",
+   "fr": "Binyamin",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yaakov",
+     "ref": "Genesis.35.18",
+     "src": "torah"
+    },
+    {
+     "id": "rahel",
+     "ref": "Genesis.35.18",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayishlach",
+    "miketz",
+    "vayigash",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "shekhem",
+   "he": "שְׁכֶם",
+   "fr": "Chekhem",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "hamor",
+     "ref": "Genesis.34.2",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayishlach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "hamor",
+   "he": "חֲמוֹר",
+   "fr": "‘Hamor",
+   "woman": false,
+   "status": "link",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "vayishlach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "devora",
+   "he": "דְּבוֹרָה (מֵינֶקֶת רִבְקָה)",
+   "fr": "Dévora, la nourrice de Rivka",
+   "woman": true,
+   "status": "link",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "vayishlach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "elifaz",
+   "he": "אֱלִיפַז",
+   "fr": "Élifaz",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "esav",
+     "ref": "Genesis.36.4",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayishlach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "amalek",
+   "he": "עֲמָלֵק",
+   "fr": "Amalek",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "elifaz",
+     "ref": "Genesis.36.12",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayishlach"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "tamar",
+   "he": "תָּמָר",
+   "fr": "Tamar",
+   "woman": true,
+   "status": "full",
+   "parents": [],
+   "spouses": [
+    {
+     "id": "er",
+     "ref": "Genesis.38.6",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [
+    "vayeshev"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "er",
+   "he": "עֵר",
+   "fr": "Èr",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "yehuda",
+     "ref": "Genesis.38.3",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayeshev"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "onan",
+   "he": "אוֹנָן",
+   "fr": "Onan",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "yehuda",
+     "ref": "Genesis.38.4",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayeshev"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "shela",
+   "he": "שֵׁלָה",
+   "fr": "Chéla",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "yehuda",
+     "ref": "Genesis.38.5",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayeshev"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "peretz",
+   "he": "פֶּרֶץ",
+   "fr": "Pérets",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yehuda",
+     "ref": "Genesis.38.29",
+     "src": "torah"
+    },
+    {
+     "id": "tamar",
+     "ref": "Genesis.38.29",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayeshev",
+    "vayigash"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "zerah",
+   "he": "זֶרַח",
+   "fr": "Zéra’h",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "yehuda",
+     "ref": "Genesis.38.30",
+     "src": "torah"
+    },
+    {
+     "id": "tamar",
+     "ref": "Genesis.38.30",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayeshev",
+    "vayigash"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "potifar",
+   "he": "פּוֹטִיפַר",
+   "fr": "Potifar",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "vayeshev"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "sar-hamashkim",
+   "he": "שַׂר הַמַּשְׁקִים",
+   "fr": "Le chef des échansons",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "vayeshev",
+    "miketz"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "sar-haofim",
+   "he": "שַׂר הָאֹפִים",
+   "fr": "Le chef des panetiers",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "vayeshev"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "paro-yossef",
+   "he": "פַּרְעֹה (בִּימֵי יוֹסֵף)",
+   "fr": "Pharaon (au temps de Yossef)",
+   "woman": false,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "miketz",
+    "vayigash",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "osnat",
+   "he": "אָסְנַת",
+   "fr": "Osnat",
+   "woman": true,
+   "status": "full",
+   "parents": [],
+   "spouses": [],
+   "parachiot": [
+    "miketz",
+    "vayigash"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "menashe",
+   "he": "מְנַשֶּׁה",
+   "fr": "Ménaché",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yossef",
+     "ref": "Genesis.41.50-51",
+     "src": "torah"
+    },
+    {
+     "id": "osnat",
+     "ref": "Genesis.41.50-51",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "miketz",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "efraim",
+   "he": "אֶפְרַיִם",
+   "fr": "Efraïm",
+   "woman": false,
+   "status": "full",
+   "parents": [
+    {
+     "id": "yossef",
+     "ref": "Genesis.41.50-52",
+     "src": "torah"
+    },
+    {
+     "id": "osnat",
+     "ref": "Genesis.41.50-52",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "miketz",
+    "vayechi"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "serah",
+   "he": "שֶׂרַח",
+   "fr": "Séra’h",
+   "woman": true,
+   "status": "link",
+   "parents": [
+    {
+     "id": "asher",
+     "ref": "Genesis.46.17",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayigash"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "gershon",
+   "he": "גֵּרְשׁוֹן",
+   "fr": "Guerchon",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "levi",
+     "ref": "Genesis.46.11",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayigash"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "kehat",
+   "he": "קְהָת",
+   "fr": "Kehat",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "levi",
+     "ref": "Genesis.46.11",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayigash"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": 133,
+    "ageRef": "Exodus.6.18",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "merari",
+   "he": "מְרָרִי",
+   "fr": "Merari",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "levi",
+     "ref": "Genesis.46.11",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [
+    "vayigash"
+   ],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "amram",
+   "he": "עַמְרָם",
+   "fr": "Amram",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "kehat",
+     "ref": "Exodus.6.18",
+     "src": "torah"
+    }
+   ],
+   "spouses": [
+    {
+     "id": "yokheved",
+     "ref": "Exodus.6.20",
+     "src": "torah"
+    }
+   ],
+   "parachiot": [],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": 137,
+    "ageRef": "Exodus.6.20",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "yokheved",
+   "he": "יוֹכֶבֶד",
+   "fr": "Yokhéved",
+   "woman": true,
+   "status": "link",
+   "parents": [
+    {
+     "id": "levi",
+     "ref": "Numbers.26.59",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  },
+  {
+   "id": "aharon",
+   "he": "אַהֲרֹן",
+   "fr": "Aharon",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "amram",
+     "ref": "Exodus.6.20",
+     "src": "torah"
+    },
+    {
+     "id": "yokheved",
+     "ref": "Exodus.6.20",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [],
+   "life": {
+    "born": 2365,
+    "died": 2488,
+    "age": 123,
+    "ageRef": "Numbers.33.39",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "moshe",
+   "he": "מֹשֶׁה",
+   "fr": "Moché",
+   "woman": false,
+   "status": "link",
+   "parents": [
+    {
+     "id": "amram",
+     "ref": "Exodus.6.20",
+     "src": "torah"
+    },
+    {
+     "id": "yokheved",
+     "ref": "Exodus.6.20",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [],
+   "life": {
+    "born": 2368,
+    "died": 2488,
+    "age": 120,
+    "ageRef": "Deuteronomy.34.7",
+    "src": "torah"
+   }
+  },
+  {
+   "id": "miriam",
+   "he": "מִרְיָם",
+   "fr": "Myriam",
+   "woman": true,
+   "status": "link",
+   "parents": [
+    {
+     "id": "amram",
+     "ref": "Numbers.26.59",
+     "src": "torah"
+    },
+    {
+     "id": "yokheved",
+     "ref": "Numbers.26.59",
+     "src": "torah"
+    }
+   ],
+   "spouses": [],
+   "parachiot": [],
+   "life": {
+    "born": null,
+    "died": null,
+    "age": null,
+    "ageRef": null,
+    "src": null
+   }
+  }
+ ]
+}

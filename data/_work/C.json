@@ -1,0 +1,2946 @@
+{
+ "lea": {
+  "bio": {
+   "he": "לֵאָה הִיא הַבַּת הַגְּדוֹלָה שֶׁל לָבָן, וְעֵינֶיהָ הָיוּ רַכּוֹת. בְּלֵיל הַחֲתֻנָּה נָתַן אוֹתָהּ לָבָן לְיַעֲקֹב בִּמְקוֹם רָחֵל, וְיַעֲקֹב גִּלָּה זֹאת רַק בַּבֹּקֶר. לְלֵאָה נוֹלְדוּ שִׁשָּׁה בָּנִים וּבַת אַחַת, וּלְכָל יֶלֶד הִיא נָתְנָה שֵׁם שֶׁיֵּשׁ לוֹ פֵּרוּשׁ. כְּשֶׁנּוֹלַד יְהוּדָה אָמְרָה: ״הַפַּעַם אוֹדֶה אֶת ה׳״. הִיא נִקְבְּרָה בִּמְעָרַת הַמַּכְפֵּלָה, לְיַד אַבְרָהָם וְשָׂרָה, יִצְחָק וְרִבְקָה.",
+   "fr": "Léa est la fille aînée de Lavan ; ses yeux étaient délicats. Le soir du mariage, Lavan la donne à Yaakov à la place de Ra’hel, et Yaakov ne s’en aperçoit qu’au matin. Léa a six fils et une fille, et donne à chaque enfant un nom qui a un sens. À la naissance de Yehouda, elle dit : « Cette fois, je remercie Dieu. » Elle est enterrée dans la grotte de Makhpéla, près d’Avraham et Sarah, Yitzhak et Rivka."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.29.16-17",
+    "parasha": "vayetze",
+    "he": "הַבַּת הַגְּדוֹלָה שֶׁל לָבָן, וְעֵינֶיהָ רַכּוֹת",
+    "fr": "Fille aînée de Lavan, aux yeux délicats"
+   },
+   {
+    "am": 2192,
+    "datesrc": "midrash",
+    "ref": "Genesis.29.23-25",
+    "parasha": "vayetze",
+    "he": "לָבָן נוֹתֵן אוֹתָהּ לְיַעֲקֹב בִּמְקוֹם רָחֵל",
+    "fr": "Lavan la donne pour épouse à Yaakov à la place de Ra’hel"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.29.32-35",
+    "parasha": "vayetze",
+    "he": "יוֹלֶדֶת אֶת רְאוּבֵן, שִׁמְעוֹן, לֵוִי וִיהוּדָה",
+    "fr": "Donne naissance à Réouven, Chimon, Lévi et Yehouda"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.14-21",
+    "parasha": "vayetze",
+    "he": "אַחֲרֵי הַדּוּדָאִים יוֹלֶדֶת אֶת יִשָּׂשכָר, זְבוּלֻן וְדִינָה",
+    "fr": "Après les doudaïm, donne naissance à Issakhar, Zevouloun et Dina"
+   },
+   {
+    "am": 2205,
+    "datesrc": "midrash",
+    "ref": "Genesis.31.14-16",
+    "parasha": "vayetze",
+    "he": "מַסְכִּימָה עִם רָחֵל לָלֶכֶת עִם יַעֲקֹב לְאֶרֶץ כְּנַעַן",
+    "fr": "Accepte avec Ra’hel de partir avec Yaakov vers Canaan"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.49.31",
+    "parasha": "vayechi",
+    "he": "נִקְבֶּרֶת בִּמְעָרַת הַמַּכְפֵּלָה",
+    "fr": "Est enterrée dans la grotte de Makhpéla"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.29.31",
+    "he": "ה׳ רָאָה שֶׁלֵּאָה מַרְגִּישָׁה פָּחוֹת אֲהוּבָה, וְעָזַר לָהּ. ה׳ רוֹאֶה אֶת מִי שֶׁעָצוּב.",
+    "fr": "Dieu voit que Léa se sent moins aimée, et Il l’aide. Dieu voit celui qui est triste."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.29.35",
+    "he": "כְּשֶׁנּוֹלַד יְהוּדָה, לֵאָה לֹא בִּקְּשָׁה דָּבָר — הִיא רַק אָמְרָה תּוֹדָה: ״הַפַּעַם אוֹדֶה אֶת ה׳״.",
+    "fr": "À la naissance de Yehouda, Léa ne demande rien : elle dit simplement merci. « Cette fois, je remercie Dieu. »"
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.29.17",
+    "source": {
+     "he": "רש״י בראשית כ״ט:י״ז",
+     "fr": "Rachi sur Gn 29,17"
+    },
+    "he": "רַשִׁ״י מַסְבִּיר שֶׁעֵינֶיהָ שֶׁל לֵאָה הָיוּ רַכּוֹת מִבֶּכִי: הִיא בָּכְתָה, כִּי פָּחֲדָה שֶׁתִּצְטָרֵךְ לְהִתְחַתֵּן עִם עֵשָׂו.",
+    "fr": "Rachi explique que les yeux de Léa étaient délicats à force de pleurer : elle pleurait, car elle avait peur de devoir épouser Essav."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מִי הָיְתָה הָאָחוֹת שֶׁל לֵאָה?",
+     "fr": "Qui était la sœur de Léa ?"
+    },
+    "options": [
+     {
+      "he": "רִבְקָה",
+      "fr": "Rivka"
+     },
+     {
+      "he": "רָחֵל",
+      "fr": "Ra’hel"
+     },
+     {
+      "he": "דִּינָה",
+      "fr": "Dina"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.29.16"
+   },
+   {
+    "q": {
+     "he": "מָה אָמְרָה לֵאָה כְּשֶׁנּוֹלַד יְהוּדָה?",
+     "fr": "Qu’a dit Léa à la naissance de Yehouda ?"
+    },
+    "options": [
+     {
+      "he": "״הַפַּעַם אוֹדֶה אֶת ה׳״",
+      "fr": "« Cette fois, je remercie Dieu »"
+     },
+     {
+      "he": "״אֲנִי עֲיֵפָה״",
+      "fr": "« Je suis fatiguée »"
+     },
+     {
+      "he": "״מָה אֶקְרָא לוֹ?״",
+      "fr": "« Comment l’appeler ? »"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.29.35"
+   },
+   {
+    "q": {
+     "he": "כַּמָּה בָּנִים נוֹלְדוּ לְלֵאָה?",
+     "fr": "Combien de fils Léa a-t-elle eus ?"
+    },
+    "options": [
+     {
+      "he": "אַרְבָּעָה",
+      "fr": "Quatre"
+     },
+     {
+      "he": "שְׁנַיִם",
+      "fr": "Deux"
+     },
+     {
+      "he": "שִׁשָּׁה",
+      "fr": "Six"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.35.23"
+   },
+   {
+    "q": {
+     "he": "אֵיפֹה נִקְבְּרָה לֵאָה?",
+     "fr": "Où Léa est-elle enterrée ?"
+    },
+    "options": [
+     {
+      "he": "בְּבֵית לֶחֶם",
+      "fr": "À Beit-Lé’hem"
+     },
+     {
+      "he": "בִּמְעָרַת הַמַּכְפֵּלָה",
+      "fr": "Dans la grotte de Makhpéla"
+     },
+     {
+      "he": "בְּחָרָן",
+      "fr": "À ‘Haran"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.49.31"
+   },
+   {
+    "q": {
+     "he": "אֵיזוֹ שִׁפְחָה נָתְנָה לֵאָה לְיַעֲקֹב?",
+     "fr": "Quelle servante Léa a-t-elle donnée à Yaakov ?"
+    },
+    "options": [
+     {
+      "he": "בִּלְהָה",
+      "fr": "Bilha"
+     },
+     {
+      "he": "דְּבוֹרָה",
+      "fr": "Dévora"
+     },
+     {
+      "he": "זִלְפָּה",
+      "fr": "Zilpa"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.30.9"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "rahel": {
+  "bio": {
+   "he": "רָחֵל הָיְתָה רוֹעָה אֶת הַצֹּאן שֶׁל אָבִיהָ לָבָן. לְיַד הַבְּאֵר פָּגַשׁ אוֹתָהּ יַעֲקֹב: הוּא גָּלַל אֶת הָאֶבֶן הַגְּדוֹלָה, הִשְׁקָה אֶת הַצֹּאן וּבָכָה. יַעֲקֹב אָהַב אוֹתָהּ וְעָבַד שֶׁבַע שָׁנִים כְּדֵי לְהִתְחַתֵּן אִתָּהּ, וְהֵן הָיוּ בְּעֵינָיו כְּיָמִים אֲחָדִים. אַחֲרֵי שָׁנִים שֶׁל הַמְתָּנָה נוֹלַד לָהּ יוֹסֵף. בַּדֶּרֶךְ לְבֵית לֶחֶם נוֹלַד בִּנְיָמִין וְרָחֵל נִפְטְרָה, וְיַעֲקֹב הֵקִים מַצֵּבָה עַל קִבְרָהּ.",
+   "fr": "Ra’hel garde les moutons de son père Lavan. Au puits, Yaakov la rencontre : il roule la grosse pierre, abreuve le troupeau et pleure. Yaakov l’aime et travaille sept ans pour l’épouser, et ces années lui semblent quelques jours. Après de longues années d’attente, elle a un fils, Yossef. Sur la route de Beit-Lé’hem naît Binyamin et Ra’hel meurt ; Yaakov dresse une stèle sur sa tombe."
+  },
+  "events": [
+   {
+    "am": 2185,
+    "datesrc": "midrash",
+    "ref": "Genesis.29.9-12",
+    "parasha": "vayetze",
+    "he": "פּוֹגֶשֶׁת אֶת יַעֲקֹב לְיַד הַבְּאֵר",
+    "fr": "Rencontre Yaakov au puits"
+   },
+   {
+    "am": 2185,
+    "datesrc": "midrash",
+    "ref": "Genesis.29.18-20",
+    "parasha": "vayetze",
+    "he": "יַעֲקֹב עוֹבֵד שֶׁבַע שָׁנִים בִּשְׁבִילָהּ",
+    "fr": "Yaakov travaille sept ans pour elle"
+   },
+   {
+    "am": 2192,
+    "datesrc": "midrash",
+    "ref": "Genesis.29.27-30",
+    "parasha": "vayetze",
+    "he": "מִתְחַתֶּנֶת עִם יַעֲקֹב, שָׁבוּעַ אַחֲרֵי לֵאָה",
+    "fr": "Épouse Yaakov, une semaine après Léa"
+   },
+   {
+    "am": 2199,
+    "datesrc": "torah",
+    "ref": "Genesis.30.22-24",
+    "parasha": "vayetze",
+    "he": "יוֹלֶדֶת אֶת יוֹסֵף",
+    "fr": "Donne naissance à Yossef"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.35.16-20",
+    "parasha": "vayishlach",
+    "he": "יוֹלֶדֶת אֶת בִּנְיָמִין וְנִפְטֶרֶת בַּדֶּרֶךְ לְבֵית לֶחֶם",
+    "fr": "Donne naissance à Binyamin et meurt sur la route de Beit-Lé’hem"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.29.25",
+    "source": {
+     "he": "רש״י בראשית כ״ט:כ״ה",
+     "fr": "Rachi sur Gn 29,25"
+    },
+    "he": "רַשִׁ״י מְסַפֵּר שֶׁרָחֵל נָתְנָה לְלֵאָה אֶת הַסִּימָנִים הַסּוֹדִיִּים שֶׁהָיוּ לָהּ עִם יַעֲקֹב, כְּדֵי שֶׁאֲחוֹתָהּ לֹא תִּתְבַּיֵּשׁ. הִיא וִתְּרָה כְּדֵי לִשְׁמֹר עַל כְּבוֹד אֲחוֹתָהּ.",
+    "fr": "Rachi raconte que Ra’hel a donné à Léa les signes secrets convenus avec Yaakov, pour que sa sœur ne soit pas humiliée. Elle a renoncé pour protéger l’honneur de sa sœur."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.30.22-24",
+    "he": "רָחֵל חִכְּתָה שָׁנִים רַבּוֹת לְיֶלֶד, וְה׳ זָכַר אוֹתָהּ. הִיא קָרְאָה לִבְנָהּ יוֹסֵף וְהִתְפַּלְּלָה: ״יֹסֵף ה׳ לִי בֵּן אַחֵר״.",
+    "fr": "Ra’hel a attendu longtemps un enfant, et Dieu s’est souvenu d’elle. Elle appelle son fils Yossef et prie : « Que Dieu m’ajoute un autre fils. »"
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.48.7",
+    "source": {
+     "he": "רש״י בראשית מ״ח:ז׳",
+     "fr": "Rachi sur Gn 48,7"
+    },
+    "he": "רַשִׁ״י מַסְבִּיר שֶׁרָחֵל נִקְבְּרָה עַל הַדֶּרֶךְ כְּדֵי שֶׁכַּאֲשֶׁר בָּנֶיהָ יֵצְאוּ לַגָּלוּת, הִיא תִּתְפַּלֵּל עֲלֵיהֶם. וְה׳ הִבְטִיחַ לָהּ: ״וְשָׁבוּ בָנִים לִגְבוּלָם״.",
+    "fr": "Rachi explique que Ra’hel a été enterrée au bord de la route pour que, quand ses enfants partiraient en exil, elle prie pour eux. Et Dieu lui a promis : « Les enfants reviendront dans leur pays. »"
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "אֵיפֹה פָּגַשׁ יַעֲקֹב אֶת רָחֵל?",
+     "fr": "Où Yaakov a-t-il rencontré Ra’hel ?"
+    },
+    "options": [
+     {
+      "he": "בַּשּׁוּק",
+      "fr": "Au marché"
+     },
+     {
+      "he": "לְיַד הַבְּאֵר",
+      "fr": "Au puits"
+     },
+     {
+      "he": "בָּאֹהֶל",
+      "fr": "Dans la tente"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.29.9-10"
+   },
+   {
+    "q": {
+     "he": "מָה עָשָׂה יַעֲקֹב כְּדֵי לְהַשְׁקוֹת אֶת הַצֹּאן שֶׁל רָחֵל?",
+     "fr": "Qu’a fait Yaakov pour abreuver le troupeau de Ra’hel ?"
+    },
+    "options": [
+     {
+      "he": "גָּלַל אֶת הָאֶבֶן מֵעַל הַבְּאֵר",
+      "fr": "Il a roulé la pierre du puits"
+     },
+     {
+      "he": "הֵבִיא מַיִם מֵהַנָּהָר",
+      "fr": "Il a apporté de l’eau du fleuve"
+     },
+     {
+      "he": "חִכָּה לַגֶּשֶׁם",
+      "fr": "Il a attendu la pluie"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.29.10"
+   },
+   {
+    "q": {
+     "he": "כַּמָּה שָׁנִים עָבַד יַעֲקֹב בִּשְׁבִיל רָחֵל לִפְנֵי הַחֲתֻנָּה?",
+     "fr": "Combien d’années Yaakov a-t-il travaillé pour Ra’hel avant le mariage ?"
+    },
+    "options": [
+     {
+      "he": "שָׁלוֹשׁ",
+      "fr": "Trois"
+     },
+     {
+      "he": "עֶשֶׂר",
+      "fr": "Dix"
+     },
+     {
+      "he": "שֶׁבַע",
+      "fr": "Sept"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.29.20"
+   },
+   {
+    "q": {
+     "he": "מִי הַבֵּן הָרִאשׁוֹן שֶׁל רָחֵל?",
+     "fr": "Qui est le premier fils de Ra’hel ?"
+    },
+    "options": [
+     {
+      "he": "יוֹסֵף",
+      "fr": "Yossef"
+     },
+     {
+      "he": "בִּנְיָמִין",
+      "fr": "Binyamin"
+     },
+     {
+      "he": "רְאוּבֵן",
+      "fr": "Réouven"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.30.24"
+   },
+   {
+    "q": {
+     "he": "אֵיפֹה נִקְבְּרָה רָחֵל?",
+     "fr": "Où Ra’hel est-elle enterrée ?"
+    },
+    "options": [
+     {
+      "he": "בִּמְעָרַת הַמַּכְפֵּלָה",
+      "fr": "Dans la grotte de Makhpéla"
+     },
+     {
+      "he": "בְּחָרָן",
+      "fr": "À ‘Haran"
+     },
+     {
+      "he": "עַל הַדֶּרֶךְ לְבֵית לֶחֶם",
+      "fr": "Sur la route de Beit-Lé’hem"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.35.19"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "bilha": {
+  "bio": {
+   "he": "בִּלְהָה הָיְתָה הַשִּׁפְחָה שֶׁל רָחֵל: לָבָן נָתַן אוֹתָהּ לְרָחֵל כְּשֶׁהִתְחַתְּנָה. כְּשֶׁלְּרָחֵל עוֹד לֹא הָיוּ יְלָדִים, הִיא נָתְנָה אֶת בִּלְהָה לְיַעֲקֹב לְאִשָּׁה. לְבִלְהָה נוֹלְדוּ שְׁנֵי בָּנִים, דָּן וְנַפְתָּלִי, וְרָחֵל הִיא שֶׁבָּחֲרָה אֶת שְׁמוֹתֵיהֶם. כְּשֶׁיַּעֲקֹב יָצָא לִפְגֹּשׁ אֶת עֵשָׂו, הַשְּׁפָחוֹת וְהַיְּלָדִים שֶׁלָּהֶן הָלְכוּ רִאשׁוֹנִים. כָּךְ גַּם בְּנֵי בִּלְהָה הֵם מִשִּׁבְטֵי יִשְׂרָאֵל.",
+   "fr": "Bilha est la servante de Ra’hel : Lavan la lui donne quand elle se marie. Comme Ra’hel n’a pas encore d’enfants, elle donne Bilha pour épouse à Yaakov. Bilha a deux fils, Dan et Naftali, et c’est Ra’hel qui choisit leurs noms. Quand Yaakov va à la rencontre d’Essav, les servantes et leurs enfants marchent en premier. Ainsi les fils de Bilha font eux aussi partie des tribus d’Israël."
+  },
+  "events": [
+   {
+    "am": 2192,
+    "datesrc": "midrash",
+    "ref": "Genesis.29.29",
+    "parasha": "vayetze",
+    "he": "לָבָן נוֹתֵן אוֹתָהּ לְרָחֵל לְשִׁפְחָה",
+    "fr": "Lavan la donne à Ra’hel comme servante"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.3-4",
+    "parasha": "vayetze",
+    "he": "רָחֵל נוֹתֶנֶת אוֹתָהּ לְיַעֲקֹב לְאִשָּׁה",
+    "fr": "Ra’hel la donne pour épouse à Yaakov"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.5-8",
+    "parasha": "vayetze",
+    "he": "יוֹלֶדֶת אֶת דָּן וְאֶת נַפְתָּלִי",
+    "fr": "Donne naissance à Dan et à Naftali"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.33.1-2",
+    "parasha": "vayishlach",
+    "he": "הוֹלֶכֶת רִאשׁוֹנָה עִם יְלָדֶיהָ לִקְרַאת עֵשָׂו",
+    "fr": "Marche en tête avec ses enfants à la rencontre d’Essav"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.30.3",
+    "he": "רָחֵל אָמְרָה עַל הַיְּלָדִים שֶׁל בִּלְהָה: ״וְאִבָּנֶה גַם אָנֹכִי מִמֶּנָּה״ — הִיא רָאֲתָה בָּהֶם יְלָדִים שֶׁלָּהּ.",
+    "fr": "Ra’hel dit des enfants de Bilha : « Moi aussi, j’aurai des enfants par elle » : elle les voit comme ses propres enfants."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.35.22-25",
+    "he": "הַתּוֹרָה מוֹנָה אֶת בְּנֵי בִּלְהָה יַחַד עִם כָּל בְּנֵי יַעֲקֹב: ״וַיִּהְיוּ בְנֵי יַעֲקֹב שְׁנֵים עָשָׂר״. כֻּלָּם שְׁבָטִים שֶׁל עַם יִשְׂרָאֵל.",
+    "fr": "La Torah compte les fils de Bilha avec tous les fils de Yaakov : « Les fils de Yaakov étaient douze. » Tous sont des tribus du peuple d’Israël."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "שֶׁל מִי הָיְתָה בִּלְהָה שִׁפְחָה?",
+     "fr": "De qui Bilha était-elle la servante ?"
+    },
+    "options": [
+     {
+      "he": "שֶׁל לֵאָה",
+      "fr": "De Léa"
+     },
+     {
+      "he": "שֶׁל רָחֵל",
+      "fr": "De Ra’hel"
+     },
+     {
+      "he": "שֶׁל רִבְקָה",
+      "fr": "De Rivka"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.29.29"
+   },
+   {
+    "q": {
+     "he": "אֵילוּ בָּנִים נוֹלְדוּ לְבִלְהָה?",
+     "fr": "Quels fils sont nés de Bilha ?"
+    },
+    "options": [
+     {
+      "he": "דָּן וְנַפְתָּלִי",
+      "fr": "Dan et Naftali"
+     },
+     {
+      "he": "גָּד וְאָשֵׁר",
+      "fr": "Gad et Acher"
+     },
+     {
+      "he": "רְאוּבֵן וְשִׁמְעוֹן",
+      "fr": "Réouven et Chimon"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.30.5-8"
+   },
+   {
+    "q": {
+     "he": "מִי בָּחֲרָה אֶת הַשְּׁמוֹת שֶׁל בְּנֵי בִּלְהָה?",
+     "fr": "Qui a choisi les noms des fils de Bilha ?"
+    },
+    "options": [
+     {
+      "he": "בִּלְהָה",
+      "fr": "Bilha"
+     },
+     {
+      "he": "לֵאָה",
+      "fr": "Léa"
+     },
+     {
+      "he": "רָחֵל",
+      "fr": "Ra’hel"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.30.6-8"
+   },
+   {
+    "q": {
+     "he": "מִי נָתַן אֶת בִּלְהָה לְרָחֵל?",
+     "fr": "Qui a donné Bilha à Ra’hel ?"
+    },
+    "options": [
+     {
+      "he": "יִצְחָק",
+      "fr": "Yitzhak"
+     },
+     {
+      "he": "לָבָן",
+      "fr": "Lavan"
+     },
+     {
+      "he": "יַעֲקֹב",
+      "fr": "Yaakov"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.29.29"
+   },
+   {
+    "q": {
+     "he": "מִי הָלְכוּ רִאשׁוֹנִים כְּשֶׁיַּעֲקֹב פָּגַשׁ אֶת עֵשָׂו?",
+     "fr": "Qui marchait en premier quand Yaakov a rencontré Essav ?"
+    },
+    "options": [
+     {
+      "he": "הַשְּׁפָחוֹת וְהַיְּלָדִים שֶׁלָּהֶן",
+      "fr": "Les servantes et leurs enfants"
+     },
+     {
+      "he": "רָחֵל וְיוֹסֵף",
+      "fr": "Ra’hel et Yossef"
+     },
+     {
+      "he": "לָבָן",
+      "fr": "Lavan"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.33.2"
+   }
+  ],
+  "notes": [
+   {
+    "key": "parentsNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית ל״א:נ׳",
+     "fr": "Rachi sur Gn 31,50"
+    },
+    "ref": "Genesis.31.50",
+    "he": "הַתּוֹרָה אֵינָהּ מַזְכִּירָה אֶת הַהוֹרִים שֶׁל בִּלְהָה. לְפִי רַשִׁ״י (ל״א:נ׳), גַּם בִּלְהָה וְזִלְפָּה הָיוּ בָּנוֹת שֶׁל לָבָן.",
+    "fr": "La Torah ne nomme pas les parents de Bilha. Selon Rachi (31,50), Bilha et Zilpa étaient elles aussi des filles de Lavan."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "zilpa": {
+  "bio": {
+   "he": "זִלְפָּה הָיְתָה הַשִּׁפְחָה שֶׁל לֵאָה: לָבָן נָתַן אוֹתָהּ לְלֵאָה בְּלֵיל הַחֲתֻנָּה. כְּשֶׁלֵּאָה רָאֲתָה שֶׁהִיא כְּבָר לֹא יוֹלֶדֶת, הִיא נָתְנָה אֶת זִלְפָּה לְיַעֲקֹב לְאִשָּׁה. לְזִלְפָּה נוֹלְדוּ שְׁנֵי בָּנִים, גָּד וְאָשֵׁר. לֵאָה קָרְאָה לָהֶם שֵׁמוֹת שְׂמֵחִים: גָּד — מַזָּל טוֹב, וְאָשֵׁר — אֹשֶׁר. כָּךְ גַּם בְּנֵי זִלְפָּה הֵם מִשִּׁבְטֵי יִשְׂרָאֵל.",
+   "fr": "Zilpa est la servante de Léa : Lavan la lui donne le soir du mariage. Quand Léa voit qu’elle n’a plus d’enfants, elle donne Zilpa pour épouse à Yaakov. Zilpa a deux fils, Gad et Acher. Léa leur donne des noms joyeux : Gad, « bonne chance », et Acher, « bonheur ». Ainsi les fils de Zilpa font eux aussi partie des tribus d’Israël."
+  },
+  "events": [
+   {
+    "am": 2192,
+    "datesrc": "midrash",
+    "ref": "Genesis.29.24",
+    "parasha": "vayetze",
+    "he": "לָבָן נוֹתֵן אוֹתָהּ לְלֵאָה לְשִׁפְחָה",
+    "fr": "Lavan la donne à Léa comme servante"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.9",
+    "parasha": "vayetze",
+    "he": "לֵאָה נוֹתֶנֶת אוֹתָהּ לְיַעֲקֹב לְאִשָּׁה",
+    "fr": "Léa la donne pour épouse à Yaakov"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.10-11",
+    "parasha": "vayetze",
+    "he": "יוֹלֶדֶת אֶת גָּד",
+    "fr": "Donne naissance à Gad"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.12-13",
+    "parasha": "vayetze",
+    "he": "יוֹלֶדֶת אֶת אָשֵׁר",
+    "fr": "Donne naissance à Acher"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.30.11",
+    "source": {
+     "he": "רש״י בראשית ל׳:י״א",
+     "fr": "Rachi sur Gn 30,11"
+    },
+    "he": "לֵאָה שָׂמְחָה בִּבְנֵי זִלְפָּה וְקָרְאָה לָהֶם שֵׁמוֹת שֶׁל מַזָּל וְאֹשֶׁר. אֶפְשָׁר לִשְׂמֹחַ בְּכָל יֶלֶד שֶׁנּוֹלָד בַּמִּשְׁפָּחָה.",
+    "fr": "Léa se réjouit des fils de Zilpa et leur donne des noms de chance et de bonheur. On peut se réjouir de chaque enfant qui naît dans la famille."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.35.26",
+    "he": "הַתּוֹרָה מוֹנָה אֶת גָּד וְאָשֵׁר בֵּין ״בְּנֵי יַעֲקֹב״, כְּמוֹ כָּל אֲחֵיהֶם.",
+    "fr": "La Torah compte Gad et Acher parmi « les fils de Yaakov », comme tous leurs frères."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "שֶׁל מִי הָיְתָה זִלְפָּה שִׁפְחָה?",
+     "fr": "De qui Zilpa était-elle la servante ?"
+    },
+    "options": [
+     {
+      "he": "שֶׁל רָחֵל",
+      "fr": "De Ra’hel"
+     },
+     {
+      "he": "שֶׁל לֵאָה",
+      "fr": "De Léa"
+     },
+     {
+      "he": "שֶׁל שָׂרָה",
+      "fr": "De Sarah"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.29.24"
+   },
+   {
+    "q": {
+     "he": "אֵילוּ בָּנִים נוֹלְדוּ לְזִלְפָּה?",
+     "fr": "Quels fils sont nés de Zilpa ?"
+    },
+    "options": [
+     {
+      "he": "דָּן וְנַפְתָּלִי",
+      "fr": "Dan et Naftali"
+     },
+     {
+      "he": "לֵוִי וִיהוּדָה",
+      "fr": "Lévi et Yehouda"
+     },
+     {
+      "he": "גָּד וְאָשֵׁר",
+      "fr": "Gad et Acher"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.30.10-13"
+   },
+   {
+    "q": {
+     "he": "מָה אָמְרָה לֵאָה כְּשֶׁנּוֹלַד גָּד?",
+     "fr": "Qu’a dit Léa à la naissance de Gad ?"
+    },
+    "options": [
+     {
+      "he": "״בָּא גָד״",
+      "fr": "« Ba gad » (la chance est venue)"
+     },
+     {
+      "he": "״שָׁמַע ה׳״",
+      "fr": "« Dieu a entendu »"
+     },
+     {
+      "he": "״הַפַּעַם אוֹדֶה״",
+      "fr": "« Cette fois je remercie »"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.30.11"
+   },
+   {
+    "q": {
+     "he": "מִי נָתַן אֶת זִלְפָּה לְלֵאָה?",
+     "fr": "Qui a donné Zilpa à Léa ?"
+    },
+    "options": [
+     {
+      "he": "יַעֲקֹב",
+      "fr": "Yaakov"
+     },
+     {
+      "he": "לָבָן",
+      "fr": "Lavan"
+     },
+     {
+      "he": "בְּתוּאֵל",
+      "fr": "Betouël"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.29.24"
+   },
+   {
+    "q": {
+     "he": "מָה פֵּרוּשׁ הַשֵּׁם אָשֵׁר?",
+     "fr": "Que veut dire le nom Acher ?"
+    },
+    "options": [
+     {
+      "he": "מַיִם",
+      "fr": "Eau"
+     },
+     {
+      "he": "אֶבֶן",
+      "fr": "Pierre"
+     },
+     {
+      "he": "אֹשֶׁר",
+      "fr": "Bonheur"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.30.13"
+   }
+  ],
+  "notes": [
+   {
+    "key": "parentsNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית ל״א:נ׳",
+     "fr": "Rachi sur Gn 31,50"
+    },
+    "ref": "Genesis.31.50",
+    "he": "הַתּוֹרָה אֵינָהּ מַזְכִּירָה אֶת הַהוֹרִים שֶׁל זִלְפָּה. לְפִי רַשִׁ״י (ל״א:נ׳), גַּם בִּלְהָה וְזִלְפָּה הָיוּ בָּנוֹת שֶׁל לָבָן.",
+    "fr": "La Torah ne nomme pas les parents de Zilpa. Selon Rachi (31,50), Bilha et Zilpa étaient elles aussi des filles de Lavan."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "reuven": {
+  "bio": {
+   "he": "רְאוּבֵן הוּא הַבֵּן הַבְּכוֹר שֶׁל יַעֲקֹב וְלֵאָה. לֵאָה קָרְאָה לוֹ כָּךְ כִּי אָמְרָה: ״רָאָה ה׳ בְּעָנְיִי״. כְּשֶׁהָיָה יֶלֶד, מָצָא בַּשָּׂדֶה צְמָחִים שֶׁנִּקְרָאִים דּוּדָאִים וְהֵבִיא אוֹתָם לְאִמּוֹ. כְּשֶׁהָאַחִים רָצוּ לִפְגֹּעַ בְּיוֹסֵף, אָמַר רְאוּבֵן: ״לֹא נַכֶּנּוּ נָפֶשׁ!״, וְרָצָה לְהַחְזִיר אוֹתוֹ לְאָבִיו. לִפְנֵי מוֹתוֹ קָרָא לוֹ יַעֲקֹב ״בְּכֹרִי, כֹּחִי״, אֲבָל אָמַר שֶׁהוּא מְמַהֵר מִדַּי, כְּמוֹ מַיִם.",
+   "fr": "Réouven est le fils aîné de Yaakov et de Léa. Léa l’appelle ainsi car elle dit : « Dieu a vu ma peine. » Enfant, il trouve dans les champs des plantes appelées doudaïm et les apporte à sa mère. Quand les frères veulent faire du mal à Yossef, Réouven dit : « Ne le tuons pas ! » et veut le ramener à son père. Avant de mourir, Yaakov l’appelle « mon aîné, ma force », mais lui dit qu’il agit trop vite, comme l’eau."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.29.32",
+    "parasha": "vayetze",
+    "he": "נוֹלָד; לֵאָה אוֹמֶרֶת: ״רָאָה ה׳ בְּעָנְיִי״",
+    "fr": "Naît ; Léa dit : « Dieu a vu ma peine »"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.14",
+    "parasha": "vayetze",
+    "he": "מוֹצֵא דּוּדָאִים בַּשָּׂדֶה וּמֵבִיא אוֹתָם לְאִמּוֹ",
+    "fr": "Trouve des doudaïm dans les champs et les apporte à sa mère"
+   },
+   {
+    "am": 2216,
+    "datesrc": "torah",
+    "ref": "Genesis.37.21-22",
+    "parasha": "vayeshev",
+    "he": "מַצִּיל אֶת יוֹסֵף: ״לֹא נַכֶּנּוּ נָפֶשׁ״",
+    "fr": "Sauve Yossef : « Ne le tuons pas »"
+   },
+   {
+    "am": 2216,
+    "datesrc": "torah",
+    "ref": "Genesis.37.29-30",
+    "parasha": "vayeshev",
+    "he": "חוֹזֵר אֶל הַבּוֹר וְלֹא מוֹצֵא אֶת יוֹסֵף",
+    "fr": "Revient à la fosse et n’y trouve plus Yossef"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.42.37",
+    "parasha": "miketz",
+    "he": "מַבְטִיחַ לְיַעֲקֹב לְהַחְזִיר אֶת בִּנְיָמִין",
+    "fr": "Promet à Yaakov de ramener Binyamin"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.3-4",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב אוֹמֵר לוֹ: ״רְאוּבֵן בְּכֹרִי אַתָּה, כֹּחִי״",
+    "fr": "Yaakov lui dit : « Réouven, tu es mon aîné, ma force »"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.30.14",
+    "source": {
+     "he": "רש״י בראשית ל׳:י״ד",
+     "fr": "Rachi sur Gn 30,14"
+    },
+    "he": "רַשִׁ״י מְשַׁבֵּחַ אֶת רְאוּבֵן: הָיָה זְמַן קְצִיר חִטִּים, אֲבָל הוּא לָקַח רַק צְמָחִים שֶׁל הֶפְקֵר, וְלֹא נָגַע בְּמַה שֶּׁשַּׁיָּךְ לַאֲחֵרִים.",
+    "fr": "Rachi fait l’éloge de Réouven : c’était la moisson du blé, mais il n’a pris que des plantes qui n’appartenaient à personne, sans toucher au bien des autres."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.37.21-22",
+    "he": "רְאוּבֵן עָמַד מוּל כָּל הָאַחִים וְאָמַר: ״לֹא נַכֶּנּוּ נָפֶשׁ״. גַּם כְּשֶׁכֻּלָּם חוֹשְׁבִים אַחֶרֶת, אֶפְשָׁר לְהַגִּיד ״לֹא!״",
+    "fr": "Réouven se dresse face à tous ses frères : « Ne le tuons pas ! » Même quand tout le monde pense autrement, on peut dire non."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.37.29",
+    "source": {
+     "he": "רש״י בראשית ל״ז:כ״ט",
+     "fr": "Rachi sur Gn 37,29"
+    },
+    "he": "רַשִׁ״י אוֹמֵר שֶׁרְאוּבֵן לֹא הָיָה שָׁם כְּשֶׁמָּכְרוּ אֶת יוֹסֵף, כִּי צָם וְלָבַשׁ שַׂק כְּדֵי לְתַקֵּן טָעוּת שֶׁעָשָׂה. כָּל אֶחָד יָכוֹל לַעֲשׂוֹת תְּשׁוּבָה.",
+    "fr": "Rachi dit que Réouven n’était pas là quand on a vendu Yossef : il jeûnait, vêtu d’un sac, pour réparer une faute qu’il avait faite. Chacun peut faire techouva (se corriger)."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מִי הַבֵּן הַבְּכוֹר שֶׁל יַעֲקֹב?",
+     "fr": "Qui est le fils aîné de Yaakov ?"
+    },
+    "options": [
+     {
+      "he": "יוֹסֵף",
+      "fr": "Yossef"
+     },
+     {
+      "he": "רְאוּבֵן",
+      "fr": "Réouven"
+     },
+     {
+      "he": "יְהוּדָה",
+      "fr": "Yehouda"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.35.23"
+   },
+   {
+    "q": {
+     "he": "מָה מָצָא רְאוּבֵן בַּשָּׂדֶה?",
+     "fr": "Qu’a trouvé Réouven dans les champs ?"
+    },
+    "options": [
+     {
+      "he": "דּוּדָאִים",
+      "fr": "Des doudaïm"
+     },
+     {
+      "he": "אוֹצָר",
+      "fr": "Un trésor"
+     },
+     {
+      "he": "כֶּבֶשׂ",
+      "fr": "Un mouton"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.30.14"
+   },
+   {
+    "q": {
+     "he": "מָה אָמַר רְאוּבֵן כְּשֶׁהָאַחִים רָצוּ לִפְגֹּעַ בְּיוֹסֵף?",
+     "fr": "Qu’a dit Réouven quand les frères voulaient faire du mal à Yossef ?"
+    },
+    "options": [
+     {
+      "he": "״בּוֹאוּ נִבְרַח״",
+      "fr": "« Fuyons »"
+     },
+     {
+      "he": "״זֶה לֹא עִנְיָנִי״",
+      "fr": "« Ce n’est pas mon affaire »"
+     },
+     {
+      "he": "״לֹא נַכֶּנּוּ נָפֶשׁ״",
+      "fr": "« Ne le tuons pas »"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.37.21"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מָה מְיֻחָד בַּדּוּדָאִים שֶׁרְאוּבֵן לָקַח?",
+     "fr": "Selon Rachi, qu’ont de particulier les doudaïm pris par Réouven ?"
+    },
+    "options": [
+     {
+      "he": "הוּא קָנָה אוֹתָם בַּשּׁוּק",
+      "fr": "Il les a achetés au marché"
+     },
+     {
+      "he": "הֵם לֹא הָיוּ שַׁיָּכִים לְאַף אֶחָד",
+      "fr": "Ils n’appartenaient à personne"
+     },
+     {
+      "he": "הֵם הָיוּ מִזָּהָב",
+      "fr": "Ils étaient en or"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.30.14",
+    "src": "midrash"
+   },
+   {
+    "q": {
+     "he": "אֵיךְ קָרָא יַעֲקֹב לִרְאוּבֵן בַּבְּרָכָה?",
+     "fr": "Comment Yaakov appelle-t-il Réouven dans la bénédiction ?"
+    },
+    "options": [
+     {
+      "he": "״גּוּר אַרְיֵה״",
+      "fr": "« Jeune lion »"
+     },
+     {
+      "he": "״זְאֵב יִטְרָף״",
+      "fr": "« Loup qui saisit sa proie »"
+     },
+     {
+      "he": "״בְּכֹרִי, כֹּחִי״",
+      "fr": "« Mon aîné, ma force »"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.49.3"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "shimon": {
+  "bio": {
+   "he": "שִׁמְעוֹן הוּא הַבֵּן הַשֵּׁנִי שֶׁל לֵאָה, וְהִיא קָרְאָה לוֹ כָּךְ כִּי ״שָׁמַע ה׳״. כְּשֶׁשְּׁכֶם, נָסִיךְ שֶׁל הָעִיר, פָּגַע בַּאֲחוֹתוֹ דִּינָה, לָקְחוּ שִׁמְעוֹן וְלֵוִי חֲרָבוֹת וְהָלְכוּ לְהָגֵן עָלֶיהָ. יַעֲקֹב לֹא הָיָה מְרֻצֶּה מִמַּה שֶּׁעָשׂוּ. שָׁנִים אַחַר כָּךְ, בְּמִצְרַיִם, הִשְׁאִיר יוֹסֵף אֶת שִׁמְעוֹן אָסוּר עַד שֶׁהָאַחִים יַחְזְרוּ עִם בִּנְיָמִין. בַּבְּרָכָה שֶׁלּוֹ, אָמַר יַעֲקֹב לְשִׁמְעוֹן וּלְלֵוִי שֶׁהַכַּעַס שֶׁלָּהֶם חָזָק מִדַּי.",
+   "fr": "Chimon est le deuxième fils de Léa ; elle l’appelle ainsi car « Dieu a entendu ». Quand Chekhem, un prince de la ville, fait du mal à sa sœur Dina, Chimon et Lévi prennent leurs épées pour la défendre. Yaakov n’est pas content de ce qu’ils ont fait. Des années plus tard, en Égypte, Yossef garde Chimon prisonnier jusqu’au retour des frères avec Binyamin. Dans sa bénédiction, Yaakov dit à Chimon et Lévi que leur colère est trop forte."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.29.33",
+    "parasha": "vayetze",
+    "he": "נוֹלָד; לֵאָה אוֹמֶרֶת: ״שָׁמַע ה׳״",
+    "fr": "Naît ; Léa dit : « Dieu a entendu »"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.34.25-26",
+    "parasha": "vayishlach",
+    "he": "יוֹצֵא עִם לֵוִי לְהָגֵן עַל דִּינָה וּמַחְזִיר אוֹתָהּ הַבַּיְתָה",
+    "fr": "Part avec Lévi défendre Dina et la ramène à la maison"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.42.24",
+    "parasha": "miketz",
+    "he": "יוֹסֵף לוֹקֵחַ אוֹתוֹ וְאוֹסֵר אוֹתוֹ לְעֵינֵי אֶחָיו",
+    "fr": "Yossef le prend et l’attache sous les yeux de ses frères"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.43.23",
+    "parasha": "miketz",
+    "he": "יוֹצֵא אֶל אֶחָיו כְּשֶׁהֵם חוֹזְרִים לְמִצְרַיִם",
+    "fr": "Est ramené à ses frères quand ils reviennent en Égypte"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.5-7",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב אוֹמֵר: ״אָרוּר אַפָּם כִּי עָז״",
+    "fr": "Yaakov dit : « Maudite soit leur colère, car elle est violente »"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.49.7",
+    "source": {
+     "he": "רש״י בראשית מ״ט:ז׳",
+     "fr": "Rachi sur Gn 49,7"
+    },
+    "he": "רַשִׁ״י מְלַמֵּד: גַּם כְּשֶׁיַּעֲקֹב הוֹכִיחַ אוֹתָם, הוּא קִלֵּל רַק אֶת הַכַּעַס שֶׁלָּהֶם, וְלֹא אוֹתָם. אֶפְשָׁר לְהִתְנַגֵּד לְמַעֲשֶׂה, וַעֲדַיִן לֶאֱהֹב אֶת הָאָדָם.",
+    "fr": "Rachi enseigne : même en les reprenant, Yaakov n’a maudit que leur colère, pas eux. On peut refuser un acte tout en continuant d’aimer la personne."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.34.25",
+    "source": {
+     "he": "רש״י בראשית ל״ד:כ״ה",
+     "fr": "Rachi sur Gn 34,25"
+    },
+    "he": "הַתּוֹרָה קוֹרֵאת לָהֶם ״בְּנֵי יַעֲקֹב״, וְרַשִׁ״י מַסְבִּיר שֶׁהֵם לֹא שָׁאֲלוּ אֶת אֲבִיהֶם לִפְנֵי שֶׁפָּעֲלוּ. לִפְנֵי שֶׁעוֹשִׂים דָּבָר גָּדוֹל, מִתְיַעֲצִים.",
+    "fr": "La Torah les appelle « fils de Yaakov », et Rachi explique qu’ils n’ont pas demandé conseil à leur père avant d’agir. Avant de faire quelque chose d’important, on demande conseil."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.42.24",
+    "source": {
+     "he": "רש״י בראשית מ״ב:כ״ד",
+     "fr": "Rachi sur Gn 42,24"
+    },
+    "he": "רַשִׁ״י מְסַפֵּר שֶׁיּוֹסֵף אָסַר אֶת שִׁמְעוֹן רַק לְעֵינֵי הָאַחִים. אַחֲרֵי שֶׁהֵם הָלְכוּ, הוּא שִׁחְרֵר אוֹתוֹ וְנָתַן לוֹ לֶאֱכֹל וְלִשְׁתּוֹת.",
+    "fr": "Rachi raconte que Yossef n’a attaché Chimon que devant ses frères. Dès qu’ils sont partis, il l’a détaché et lui a donné à manger et à boire."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מָה פֵּרוּשׁ הַשֵּׁם שִׁמְעוֹן?",
+     "fr": "Que veut dire le nom Chimon ?"
+    },
+    "options": [
+     {
+      "he": "״ה׳ רָאָה״",
+      "fr": "« Dieu a vu »"
+     },
+     {
+      "he": "״ה׳ שָׁמַע״",
+      "fr": "« Dieu a entendu »"
+     },
+     {
+      "he": "״מַזָּל טוֹב״",
+      "fr": "« Bonne chance »"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.29.33"
+   },
+   {
+    "q": {
+     "he": "עִם אֵיזֶה אָח יָצָא שִׁמְעוֹן לְהָגֵן עַל דִּינָה?",
+     "fr": "Avec quel frère Chimon est-il parti défendre Dina ?"
+    },
+    "options": [
+     {
+      "he": "לֵוִי",
+      "fr": "Lévi"
+     },
+     {
+      "he": "יוֹסֵף",
+      "fr": "Yossef"
+     },
+     {
+      "he": "בִּנְיָמִין",
+      "fr": "Binyamin"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.34.25"
+   },
+   {
+    "q": {
+     "he": "מָה עָשָׂה יוֹסֵף לְשִׁמְעוֹן בְּמִצְרַיִם?",
+     "fr": "Qu’a fait Yossef à Chimon en Égypte ?"
+    },
+    "options": [
+     {
+      "he": "נָתַן לוֹ מַתָּנָה",
+      "fr": "Il lui a fait un cadeau"
+     },
+     {
+      "he": "שָׁלַח אוֹתוֹ הַבַּיְתָה רִאשׁוֹן",
+      "fr": "Il l’a renvoyé chez lui en premier"
+     },
+     {
+      "he": "הִשְׁאִיר אוֹתוֹ אָסוּר",
+      "fr": "Il l’a gardé prisonnier"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.42.24"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, אֶת מָה קִלֵּל יַעֲקֹב בַּבְּרָכָה שֶׁל שִׁמְעוֹן וְלֵוִי?",
+     "fr": "Selon Rachi, qu’a maudit Yaakov dans la bénédiction de Chimon et Lévi ?"
+    },
+    "options": [
+     {
+      "he": "אוֹתָם",
+      "fr": "Eux-mêmes"
+     },
+     {
+      "he": "אֶת הַכַּעַס שֶׁלָּהֶם",
+      "fr": "Leur colère"
+     },
+     {
+      "he": "אֶת הָעִיר שְׁכֶם",
+      "fr": "La ville de Chekhem"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.49.7",
+    "src": "midrash"
+   },
+   {
+    "q": {
+     "he": "מָתַי הוֹצִיאוּ אֶת שִׁמְעוֹן אֶל אֶחָיו?",
+     "fr": "Quand Chimon a-t-il été ramené à ses frères ?"
+    },
+    "options": [
+     {
+      "he": "אַחֲרֵי שֶׁבַע שָׁנִים",
+      "fr": "Après sept ans"
+     },
+     {
+      "he": "בְּיוֹם הַחֲתֻנָּה שֶׁל יוֹסֵף",
+      "fr": "Le jour du mariage de Yossef"
+     },
+     {
+      "he": "כְּשֶׁהָאַחִים חָזְרוּ עִם בִּנְיָמִין",
+      "fr": "Quand les frères sont revenus avec Binyamin"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.43.23"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "levi": {
+  "bio": {
+   "he": "לֵוִי הוּא הַבֵּן הַשְּׁלִישִׁי שֶׁל לֵאָה. הִיא קָרְאָה לוֹ כָּךְ כִּי אָמְרָה: ״הַפַּעַם יִלָּוֶה אִישִׁי אֵלַי״ — עַכְשָׁו בַּעֲלִי יִתְחַבֵּר אֵלַי. עִם שִׁמְעוֹן הוּא יָצָא לְהָגֵן עַל אֲחוֹתוֹ דִּינָה, וְיַעֲקֹב לֹא הָיָה מְרֻצֶּה מִמַּה שֶּׁעָשׂוּ. לֵוִי יָרַד לְמִצְרַיִם עִם שְׁלֹשֶׁת בָּנָיו: גֵּרְשׁוֹן, קְהָת וּמְרָרִי. מִמֶּנּוּ יָצְאוּ מֹשֶׁה, אַהֲרֹן וְכָל שֵׁבֶט הַלְוִיִּם, וְהוּא חַי מֵאָה שְׁלֹשִׁים וָשֶׁבַע שָׁנָה.",
+   "fr": "Lévi est le troisième fils de Léa. Elle l’appelle ainsi car elle dit : « Cette fois, mon mari s’attachera à moi. » Avec Chimon, il part défendre sa sœur Dina, et Yaakov n’est pas content de ce qu’ils ont fait. Lévi descend en Égypte avec ses trois fils : Guerchon, Kehat et Merari. De lui viendront Moché, Aharon et toute la tribu des Léviim ; il vit 137 ans."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.29.34",
+    "parasha": "vayetze",
+    "he": "נוֹלָד; לֵאָה אוֹמֶרֶת: ״הַפַּעַם יִלָּוֶה אִישִׁי אֵלַי״",
+    "fr": "Naît ; Léa dit : « Cette fois, mon mari s’attachera à moi »"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.34.25-26",
+    "parasha": "vayishlach",
+    "he": "יוֹצֵא עִם שִׁמְעוֹן לְהָגֵן עַל דִּינָה וּמַחְזִיר אוֹתָהּ הַבַּיְתָה",
+    "fr": "Part avec Chimon défendre Dina et la ramène à la maison"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.34.30-31",
+    "parasha": "vayishlach",
+    "he": "עוֹנֶה לְיַעֲקֹב עִם שִׁמְעוֹן: אָסוּר הָיָה לִפְגֹּעַ בַּאֲחוֹתֵנוּ",
+    "fr": "Répond à Yaakov avec Chimon : on n’avait pas le droit de faire du mal à notre sœur"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.46.8-11",
+    "parasha": "vayigash",
+    "he": "יוֹרֵד לְמִצְרַיִם עִם בָּנָיו גֵּרְשׁוֹן, קְהָת וּמְרָרִי",
+    "fr": "Descend en Égypte avec ses fils Guerchon, Kehat et Merari"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.5-7",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב אוֹמֵר: ״אֲחַלְּקֵם בְּיַעֲקֹב וַאֲפִיצֵם בְּיִשְׂרָאֵל״",
+    "fr": "Yaakov dit : « Je les répartirai en Yaakov, je les disperserai en Israël »"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.49.7",
+    "source": {
+     "he": "רש״י בראשית מ״ט:ז׳",
+     "fr": "Rachi sur Gn 49,7"
+    },
+    "he": "יַעֲקֹב אָמַר שֶׁשִּׁמְעוֹן וְלֵוִי יִתְפַּזְּרוּ בְּיִשְׂרָאֵל. רַשִׁ״י מַסְבִּיר שֶׁהַלְוִיִּם עָבְרוּ מִמָּקוֹם לְמָקוֹם כְּדֵי לְקַבֵּל תְּרוּמוֹת וּמַעַשְׂרוֹת — פִּזּוּר שֶׁל כָּבוֹד.",
+    "fr": "Yaakov dit que Chimon et Lévi seront dispersés en Israël. Rachi explique que les Léviim allaient de lieu en lieu recevoir les dons (teroumot et maasserot) : une dispersion honorable."
+   },
+   {
+    "src": "adaptation",
+    "ref": "Exodus.6.16-20",
+    "he": "מִשֵּׁבֶט לֵוִי יָצְאוּ מֹשֶׁה וְאַהֲרֹן. אֶת הַכֹּחַ וְהַהִתְלַהֲבוּת אֶפְשָׁר לְכַוֵּן לְדָבָר טוֹב.",
+    "fr": "Moché et Aharon viennent de la tribu de Lévi. La force et l’enthousiasme peuvent être mis au service du bien."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "כַּמָּה בָּנִים הָיוּ לְלֵוִי כְּשֶׁיָּרַד לְמִצְרַיִם?",
+     "fr": "Combien de fils Lévi avait-il en descendant en Égypte ?"
+    },
+    "options": [
+     {
+      "he": "שְׁלֹשָׁה",
+      "fr": "Trois"
+     },
+     {
+      "he": "חֲמִשָּׁה",
+      "fr": "Cinq"
+     },
+     {
+      "he": "אֶחָד",
+      "fr": "Un"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.46.11"
+   },
+   {
+    "q": {
+     "he": "מִי יָצְאוּ מִשֵּׁבֶט לֵוִי?",
+     "fr": "Qui vient de la tribu de Lévi ?"
+    },
+    "options": [
+     {
+      "he": "שִׁמְשׁוֹן",
+      "fr": "Chimchon"
+     },
+     {
+      "he": "דָּוִד הַמֶּלֶךְ",
+      "fr": "Le roi David"
+     },
+     {
+      "he": "מֹשֶׁה וְאַהֲרֹן",
+      "fr": "Moché et Aharon"
+     }
+    ],
+    "answer": 2,
+    "ref": "Exodus.6.16-20"
+   },
+   {
+    "q": {
+     "he": "כַּמָּה שָׁנִים חַי לֵוִי?",
+     "fr": "Combien d’années Lévi a-t-il vécu ?"
+    },
+    "options": [
+     {
+      "he": "מֵאָה",
+      "fr": "100"
+     },
+     {
+      "he": "מֵאָה שְׁלֹשִׁים וָשֶׁבַע",
+      "fr": "137"
+     },
+     {
+      "he": "מֵאָה שִׁבְעִים וְחָמֵשׁ",
+      "fr": "175"
+     }
+    ],
+    "answer": 1,
+    "ref": "Exodus.6.16"
+   },
+   {
+    "q": {
+     "he": "עִם מִי יָצָא לֵוִי לְהָגֵן עַל דִּינָה?",
+     "fr": "Avec qui Lévi est-il parti défendre Dina ?"
+    },
+    "options": [
+     {
+      "he": "עִם רְאוּבֵן",
+      "fr": "Avec Réouven"
+     },
+     {
+      "he": "עִם שִׁמְעוֹן",
+      "fr": "Avec Chimon"
+     },
+     {
+      "he": "עִם יְהוּדָה",
+      "fr": "Avec Yehouda"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.34.25"
+   },
+   {
+    "q": {
+     "he": "מָה פֵּרוּשׁ הַשֵּׁם לֵוִי?",
+     "fr": "Que veut dire le nom Lévi ?"
+    },
+    "options": [
+     {
+      "he": "בַּעֲלִי יִתְחַבֵּר אֵלַי",
+      "fr": "Mon mari s’attachera à moi"
+     },
+     {
+      "he": "בָּא מַזָּל",
+      "fr": "La chance est venue"
+     },
+     {
+      "he": "ה׳ שָׁפַט",
+      "fr": "Dieu a jugé"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.29.34"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "dan": {
+  "bio": {
+   "he": "דָּן הוּא הַבֵּן הָרִאשׁוֹן שֶׁל בִּלְהָה, הַשִּׁפְחָה שֶׁל רָחֵל. רָחֵל קָרְאָה לוֹ דָּן, כִּי אָמְרָה שֶׁה׳ ״דָּן״ אוֹתָהּ — שָׁפַט אוֹתָהּ — וְשָׁמַע בְּקוֹלָהּ. דָּן יָרַד עִם אֶחָיו לְמִצְרַיִם. לִפְנֵי מוֹתוֹ בֵּרֵךְ אוֹתוֹ יַעֲקֹב: ״דָּן יָדִין עַמּוֹ״, וּכְמוֹ נָחָשׁ עַל הַדֶּרֶךְ, הוּא יָכוֹל לְהַפִּיל גַּם רוֹכֵב גָּדוֹל. בְּסוֹף הַבְּרָכָה הִתְפַּלֵּל יַעֲקֹב: ״לִישׁוּעָתְךָ קִוִּיתִי ה׳״.",
+   "fr": "Dan est le premier fils de Bilha, la servante de Ra’hel. Ra’hel l’appelle Dan, car elle dit que Dieu l’a « jugée » (dan) et a écouté sa voix. Dan descend en Égypte avec ses frères. Avant de mourir, Yaakov le bénit : « Dan jugera son peuple » ; comme un serpent sur le chemin, il peut faire tomber même un grand cavalier. À la fin de cette bénédiction, Yaakov prie : « J’espère en ton salut, ô Dieu ! »"
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.5-6",
+    "parasha": "vayetze",
+    "he": "נוֹלָד לְבִלְהָה; רָחֵל קוֹרֵאת לוֹ דָּן",
+    "fr": "Naît de Bilha ; Ra’hel l’appelle Dan"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.16",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״דָּן יָדִין עַמּוֹ״",
+    "fr": "Yaakov le bénit : « Dan jugera son peuple »"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.17-18",
+    "parasha": "vayechi",
+    "he": "״יְהִי דָן נָחָשׁ עֲלֵי דֶרֶךְ״, וְיַעֲקֹב מִתְפַּלֵּל: ״לִישׁוּעָתְךָ קִוִּיתִי ה׳״",
+    "fr": "« Dan sera un serpent sur le chemin », et Yaakov prie : « J’espère en ton salut »"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.49.16",
+    "source": {
+     "he": "רש״י בראשית מ״ט:ט״ז",
+     "fr": "Rachi sur Gn 49,16"
+    },
+    "he": "רַשִׁ״י אוֹמֵר שֶׁהַבְּרָכָה רוֹמֶזֶת לְשִׁמְשׁוֹן הַגִּבּוֹר מִשֵּׁבֶט דָּן, שֶׁנִּלְחַם בַּפְּלִשְׁתִּים בִּשְׁבִיל כָּל יִשְׂרָאֵל.",
+    "fr": "Rachi dit que la bénédiction fait allusion à Chimchon (Samson), de la tribu de Dan, qui a combattu les Philistins pour tout Israël."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.49.18",
+    "he": "בְּאֶמְצַע הַבְּרָכוֹת עוֹצֵר יַעֲקֹב וּמִתְפַּלֵּל: ״לִישׁוּעָתְךָ קִוִּיתִי ה׳״. גַּם כְּשֶׁמְּדַבְּרִים עַל כֹּחַ, פּוֹנִים אֶל ה׳.",
+    "fr": "Au milieu des bénédictions, Yaakov s’arrête et prie : « J’espère en ton salut, ô Dieu. » Même quand on parle de force, on se tourne vers Dieu."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מִי הָאִמָּא שֶׁל דָּן?",
+     "fr": "Qui est la mère de Dan ?"
+    },
+    "options": [
+     {
+      "he": "רָחֵל",
+      "fr": "Ra’hel"
+     },
+     {
+      "he": "לֵאָה",
+      "fr": "Léa"
+     },
+     {
+      "he": "בִּלְהָה",
+      "fr": "Bilha"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.30.5"
+   },
+   {
+    "q": {
+     "he": "מִי נָתְנָה לְדָן אֶת שְׁמוֹ?",
+     "fr": "Qui a donné son nom à Dan ?"
+    },
+    "options": [
+     {
+      "he": "רָחֵל",
+      "fr": "Ra’hel"
+     },
+     {
+      "he": "בִּלְהָה",
+      "fr": "Bilha"
+     },
+     {
+      "he": "לֵאָה",
+      "fr": "Léa"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.30.6"
+   },
+   {
+    "q": {
+     "he": "לְאֵיזוֹ חַיָּה דִּמָּה יַעֲקֹב אֶת דָּן?",
+     "fr": "À quel animal Yaakov compare-t-il Dan ?"
+    },
+    "options": [
+     {
+      "he": "לְאַרְיֵה",
+      "fr": "À un lion"
+     },
+     {
+      "he": "לְנָחָשׁ",
+      "fr": "À un serpent"
+     },
+     {
+      "he": "לִזְאֵב",
+      "fr": "À un loup"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.49.17"
+   },
+   {
+    "q": {
+     "he": "מָה פֵּרוּשׁ ״דָּן יָדִין עַמּוֹ״?",
+     "fr": "Que veut dire « Dan jugera son peuple » ?"
+    },
+    "options": [
+     {
+      "he": "דָּן יִהְיֶה רוֹעֶה",
+      "fr": "Dan sera berger"
+     },
+     {
+      "he": "דָּן יִבְרַח",
+      "fr": "Dan s’enfuira"
+     },
+     {
+      "he": "דָּן יִהְיֶה שׁוֹפֵט לְעַמּוֹ",
+      "fr": "Dan sera un juge pour son peuple"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.49.16"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, אֵיזֶה גִּבּוֹר מִשֵּׁבֶט דָּן רָמוּז בַּבְּרָכָה?",
+     "fr": "Selon Rachi, quel héros de la tribu de Dan est évoqué dans la bénédiction ?"
+    },
+    "options": [
+     {
+      "he": "דָּוִד",
+      "fr": "David"
+     },
+     {
+      "he": "שִׁמְשׁוֹן",
+      "fr": "Chimchon (Samson)"
+     },
+     {
+      "he": "שָׁאוּל",
+      "fr": "Chaoul"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.49.16",
+    "src": "midrash"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "naftali": {
+  "bio": {
+   "he": "נַפְתָּלִי הוּא הַבֵּן הַשֵּׁנִי שֶׁל בִּלְהָה. רָחֵל קָרְאָה לוֹ נַפְתָּלִי, מִלְּשׁוֹן ״נַפְתּוּלִים״ — מַאֲבָק גָּדוֹל: הִיא אָמְרָה שֶׁנֶּאֶבְקָה וְגַם הִצְלִיחָה. נַפְתָּלִי יָרַד עִם אֶחָיו לְמִצְרַיִם. בַּבְּרָכָה שֶׁלּוֹ דִּמָּה אוֹתוֹ יַעֲקֹב לְ״אַיָּלָה שְׁלֻחָה״ — אַיָּלָה שֶׁרָצָה מַהֵר וּבְחֹפֶשׁ. יַעֲקֹב אָמַר גַּם שֶׁהוּא ״הַנֹּתֵן אִמְרֵי שָׁפֶר״ — אוֹמֵר מִלִּים יָפוֹת.",
+   "fr": "Naftali est le deuxième fils de Bilha. Ra’hel l’appelle Naftali, de « naftoulim », un grand combat : elle dit qu’elle a lutté et qu’elle a réussi. Naftali descend en Égypte avec ses frères. Dans sa bénédiction, Yaakov le compare à « une biche élancée », qui court vite et librement. Yaakov dit aussi qu’il « prononce de belles paroles »."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.7-8",
+    "parasha": "vayetze",
+    "he": "נוֹלָד לְבִלְהָה; רָחֵל קוֹרֵאת לוֹ נַפְתָּלִי",
+    "fr": "Naît de Bilha ; Ra’hel l’appelle Naftali"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.21",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״נַפְתָּלִי אַיָּלָה שְׁלֻחָה״",
+    "fr": "Yaakov le bénit : « Naftali est une biche élancée »"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.30.8",
+    "source": {
+     "he": "רש״י בראשית ל׳:ח׳",
+     "fr": "Rachi sur Gn 30,8"
+    },
+    "he": "רַשִׁ״י מַסְבִּיר שֶׁרָחֵל הִתְפַּלְּלָה שׁוּב וָשׁוּב, וְה׳ קִבֵּל אֶת תְּפִלּוֹתֶיהָ. לֹא מְוַתְּרִים עַל תְּפִלָּה.",
+    "fr": "Rachi explique que Ra’hel a prié encore et encore, et que Dieu a accepté ses prières. On ne renonce pas à prier."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.49.21",
+    "he": "יַעֲקֹב מְשַׁבֵּחַ אֶת נַפְתָּלִי עַל ״אִמְרֵי שָׁפֶר״ — מִלִּים יָפוֹת. גַּם לְדַבֵּר יָפֶה זֶה כִּשָּׁרוֹן.",
+    "fr": "Yaakov félicite Naftali pour ses « belles paroles ». Bien parler, c’est aussi un talent."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.49.21",
+    "source": {
+     "he": "רש״י בראשית מ״ט:כ״א",
+     "fr": "Rachi sur Gn 49,21"
+    },
+    "he": "רַשִׁ״י אוֹמֵר שֶׁבְּאֶרֶץ נַפְתָּלִי, בְּבִקְעַת גִּנּוֹסַר, הַפֵּרוֹת מַבְשִׁילִים מַהֵר, כְּמוֹ אַיָּלָה שֶׁרָצָה.",
+    "fr": "Rachi dit que dans le pays de Naftali, dans la vallée de Guinossar, les fruits mûrissent vite, comme une biche qui court."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מִי הָאִמָּא שֶׁל נַפְתָּלִי?",
+     "fr": "Qui est la mère de Naftali ?"
+    },
+    "options": [
+     {
+      "he": "לֵאָה",
+      "fr": "Léa"
+     },
+     {
+      "he": "בִּלְהָה",
+      "fr": "Bilha"
+     },
+     {
+      "he": "זִלְפָּה",
+      "fr": "Zilpa"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.30.7"
+   },
+   {
+    "q": {
+     "he": "לְאֵיזוֹ חַיָּה דִּמָּה יַעֲקֹב אֶת נַפְתָּלִי?",
+     "fr": "À quel animal Yaakov compare-t-il Naftali ?"
+    },
+    "options": [
+     {
+      "he": "לְאַיָּלָה",
+      "fr": "À une biche"
+     },
+     {
+      "he": "לְנָחָשׁ",
+      "fr": "À un serpent"
+     },
+     {
+      "he": "לַחֲמוֹר",
+      "fr": "À un âne"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.49.21"
+   },
+   {
+    "q": {
+     "he": "מָה פֵּרוּשׁ ״אִמְרֵי שָׁפֶר״?",
+     "fr": "Que veut dire « imré chéfer » ?"
+    },
+    "options": [
+     {
+      "he": "שִׁירֵי מִלְחָמָה",
+      "fr": "Des chants de guerre"
+     },
+     {
+      "he": "סוֹדוֹת",
+      "fr": "Des secrets"
+     },
+     {
+      "he": "מִלִּים יָפוֹת",
+      "fr": "De belles paroles"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.49.21"
+   },
+   {
+    "q": {
+     "he": "מֵאֵיזוֹ מִלָּה בָּא הַשֵּׁם נַפְתָּלִי?",
+     "fr": "D’où vient le nom Naftali ?"
+    },
+    "options": [
+     {
+      "he": "״נָפַל״",
+      "fr": "« Tomber »"
+     },
+     {
+      "he": "״נַפְתּוּלִים״ — מַאֲבָק",
+      "fr": "« Naftoulim », un combat"
+     },
+     {
+      "he": "״נֶפֶשׁ״",
+      "fr": "« Âme »"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.30.8"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מָה מְיֻחָד בַּפֵּרוֹת שֶׁל אֶרֶץ נַפְתָּלִי?",
+     "fr": "Selon Rachi, qu’ont de particulier les fruits du pays de Naftali ?"
+    },
+    "options": [
+     {
+      "he": "הֵם כְּחֻלִּים",
+      "fr": "Ils sont bleus"
+     },
+     {
+      "he": "הֵם גְּדֵלִים רַק בַּחֹרֶף",
+      "fr": "Ils ne poussent qu’en hiver"
+     },
+     {
+      "he": "הֵם מַבְשִׁילִים מַהֵר",
+      "fr": "Ils mûrissent vite"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.49.21",
+    "src": "midrash"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "gad": {
+  "bio": {
+   "he": "גָּד הוּא הַבֵּן הָרִאשׁוֹן שֶׁל זִלְפָּה, הַשִּׁפְחָה שֶׁל לֵאָה. כְּשֶׁנּוֹלַד אָמְרָה לֵאָה: ״בָּא גָד״ — בָּא מַזָּל טוֹב! גָּד יָרַד לְמִצְרַיִם עִם אֶחָיו וְעִם שִׁבְעָה בָּנִים. בַּבְּרָכָה שֶׁלּוֹ אָמַר יַעֲקֹב שֶׁגְּדוּדִים יִתְקְפוּ אוֹתוֹ, אֲבָל הוּא יֵדַע לַהֲדֹף אוֹתָם.",
+   "fr": "Gad est le premier fils de Zilpa, la servante de Léa. À sa naissance, Léa dit : « Ba gad » : la chance est arrivée ! Gad descend en Égypte avec ses frères et ses sept fils. Dans sa bénédiction, Yaakov annonce que des troupes l’attaqueront, mais qu’il saura les repousser."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.10-11",
+    "parasha": "vayetze",
+    "he": "נוֹלָד לְזִלְפָּה; לֵאָה אוֹמֶרֶת: ״בָּא גָד״",
+    "fr": "Naît de Zilpa ; Léa dit : « Ba gad »"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.19",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״גָּד גְּדוּד יְגוּדֶנּוּ, וְהוּא יָגֻד עָקֵב״",
+    "fr": "Yaakov le bénit : « Des troupes l’attaqueront, et il les repoussera »"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.49.19",
+    "source": {
+     "he": "רש״י בראשית מ״ט:י״ט",
+     "fr": "Rachi sur Gn 49,19"
+    },
+    "he": "רַשִׁ״י מַסְבִּיר: חַיָּלֵי גָּד יַעַבְרוּ אֶת הַיַּרְדֵּן וְיִלָּחֲמוּ יַחַד עִם אֲחֵיהֶם עַד שֶׁהָאָרֶץ תִּכָּבֵשׁ, וְאַחַר כָּךְ כֻּלָּם יַחְזְרוּ הַבַּיְתָה, וְאַף אֶחָד לֹא יֶחְסַר. עוֹזְרִים לָאַחִים עַד הַסּוֹף.",
+    "fr": "Rachi explique : les soldats de Gad traverseront le Jourdain et combattront avec leurs frères jusqu’à la conquête du pays, puis rentreront tous chez eux, sans qu’il en manque un seul. On aide ses frères jusqu’au bout."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.30.11",
+    "source": {
+     "he": "רש״י בראשית ל׳:י״א",
+     "fr": "Rachi sur Gn 30,11"
+    },
+    "he": "״בָּא גָד״ — רַשִׁ״י מַסְבִּיר: ״בָּא מַזָּל טוֹב״. לֵאָה רָאֲתָה בַּיֶּלֶד הֶחָדָשׁ מַזָּל טוֹב לַמִּשְׁפָּחָה.",
+    "fr": "« Ba gad » : Rachi explique « la bonne fortune est arrivée ». Léa voit dans ce nouvel enfant une chance pour la famille."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מָה אָמְרָה לֵאָה כְּשֶׁנּוֹלַד גָּד?",
+     "fr": "Qu’a dit Léa à la naissance de Gad ?"
+    },
+    "options": [
+     {
+      "he": "״שָׁמַע ה׳״",
+      "fr": "« Dieu a entendu »"
+     },
+     {
+      "he": "״רָאָה ה׳״",
+      "fr": "« Dieu a vu »"
+     },
+     {
+      "he": "״בָּא גָד״",
+      "fr": "« Ba gad »"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.30.11"
+   },
+   {
+    "q": {
+     "he": "מִי הָאִמָּא שֶׁל גָּד?",
+     "fr": "Qui est la mère de Gad ?"
+    },
+    "options": [
+     {
+      "he": "זִלְפָּה",
+      "fr": "Zilpa"
+     },
+     {
+      "he": "בִּלְהָה",
+      "fr": "Bilha"
+     },
+     {
+      "he": "רָחֵל",
+      "fr": "Ra’hel"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.30.10"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מָה פֵּרוּשׁ ״בָּא גָד״?",
+     "fr": "Selon Rachi, que veut dire « Ba gad » ?"
+    },
+    "options": [
+     {
+      "he": "בָּא גֶּשֶׁם",
+      "fr": "La pluie est venue"
+     },
+     {
+      "he": "בָּא מַזָּל טוֹב",
+      "fr": "La bonne fortune est venue"
+     },
+     {
+      "he": "בָּא אוֹרֵחַ",
+      "fr": "Un invité est venu"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.30.11",
+    "src": "midrash"
+   },
+   {
+    "q": {
+     "he": "מָה אָמַר יַעֲקֹב בַּבְּרָכָה שֶׁל גָּד?",
+     "fr": "Qu’a dit Yaakov dans la bénédiction de Gad ?"
+    },
+    "options": [
+     {
+      "he": "גְּדוּדִים יִתְקְפוּ אוֹתוֹ, וְהוּא יַהֲדֹף אוֹתָם",
+      "fr": "Des troupes l’attaqueront, et il les repoussera"
+     },
+     {
+      "he": "הוּא יִהְיֶה מֶלֶךְ",
+      "fr": "Il sera roi"
+     },
+     {
+      "he": "הוּא יָגוּר לְיַד הַיָּם",
+      "fr": "Il habitera au bord de la mer"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.49.19"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, כַּמָּה מֵחַיָּלֵי גָּד יֶחְסְרוּ כְּשֶׁיַּחְזְרוּ הַבַּיְתָה?",
+     "fr": "Selon Rachi, combien de soldats de Gad manqueront au retour ?"
+    },
+    "options": [
+     {
+      "he": "חֲצִי",
+      "fr": "La moitié"
+     },
+     {
+      "he": "אַף אֶחָד",
+      "fr": "Aucun"
+     },
+     {
+      "he": "עֲשָׂרָה",
+      "fr": "Dix"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.49.19",
+    "src": "midrash"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "asher": {
+  "bio": {
+   "he": "אָשֵׁר הוּא הַבֵּן הַשֵּׁנִי שֶׁל זִלְפָּה. לֵאָה קָרְאָה לוֹ כָּךְ כִּי אָמְרָה: ״בְּאָשְׁרִי״ — אֵיזֶה אֹשֶׁר! אָשֵׁר יָרַד לְמִצְרַיִם עִם אַרְבָּעָה בָּנִים וּבַת אַחַת, שֶׁשְּׁמָהּ שֶׂרַח. בַּבְּרָכָה שֶׁלּוֹ אָמַר יַעֲקֹב: ״מֵאָשֵׁר שְׁמֵנָה לַחְמוֹ, וְהוּא יִתֵּן מַעֲדַנֵּי מֶלֶךְ״. בְּאַרְצוֹ יִגְדַּל אֹכֶל טוֹב וְעָשִׁיר, רָאוּי לִמְלָכִים.",
+   "fr": "Acher est le deuxième fils de Zilpa. Léa l’appelle ainsi car elle dit : « Quel bonheur ! » Acher descend en Égypte avec quatre fils et une fille, Séra’h. Dans sa bénédiction, Yaakov dit : « D’Acher viendra un pain riche ; il fournira des mets de roi. » Sur sa terre poussera une nourriture excellente, digne des rois."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.12-13",
+    "parasha": "vayetze",
+    "he": "נוֹלָד לְזִלְפָּה; לֵאָה אוֹמֶרֶת: ״בְּאָשְׁרִי״",
+    "fr": "Naît de Zilpa ; Léa dit : « Quel bonheur ! »"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.46.17",
+    "parasha": "vayigash",
+    "he": "יוֹרֵד לְמִצְרַיִם עִם בָּנָיו וְעִם בִּתּוֹ שֶׂרַח",
+    "fr": "Descend en Égypte avec ses fils et sa fille Séra’h"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.20",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״מֵאָשֵׁר שְׁמֵנָה לַחְמוֹ״",
+    "fr": "Yaakov le bénit : « D’Acher viendra un pain riche »"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.49.20",
+    "source": {
+     "he": "רש״י בראשית מ״ט:כ׳",
+     "fr": "Rachi sur Gn 49,20"
+    },
+    "he": "רַשִׁ״י מַסְבִּיר שֶׁבְּאֶרֶץ אָשֵׁר יֵשׁ הַרְבֵּה עֲצֵי זַיִת, וְהַשֶּׁמֶן נוֹבֵעַ שָׁם כְּמוֹ מַעְיָן. לְכָל שֵׁבֶט יֵשׁ מַתָּנָה מְיֻחֶדֶת מִשֶּׁלּוֹ.",
+    "fr": "Rachi explique que la terre d’Acher a beaucoup d’oliviers, et que l’huile y coule comme une source. Chaque tribu a un cadeau bien à elle."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.46.17",
+    "he": "שֶׂרַח, הַבַּת שֶׁל אָשֵׁר, נִזְכֶּרֶת בִּשְׁמָהּ בֵּין כָּל הַבָּנִים שֶׁיָּרְדוּ לְמִצְרַיִם. הַתּוֹרָה לֹא שׁוֹכַחַת אוֹתָהּ.",
+    "fr": "Séra’h, la fille d’Acher, est citée par son nom parmi tous les fils qui descendent en Égypte. La Torah ne l’oublie pas."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מָה פֵּרוּשׁ הַשֵּׁם אָשֵׁר?",
+     "fr": "Que veut dire le nom Acher ?"
+    },
+    "options": [
+     {
+      "he": "כֹּחַ",
+      "fr": "Force"
+     },
+     {
+      "he": "אֹשֶׁר",
+      "fr": "Bonheur"
+     },
+     {
+      "he": "שִׁיר",
+      "fr": "Chant"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.30.13"
+   },
+   {
+    "q": {
+     "he": "מָה שֵׁם הַבַּת שֶׁל אָשֵׁר?",
+     "fr": "Comment s’appelle la fille d’Acher ?"
+    },
+    "options": [
+     {
+      "he": "דִּינָה",
+      "fr": "Dina"
+     },
+     {
+      "he": "רִבְקָה",
+      "fr": "Rivka"
+     },
+     {
+      "he": "שֶׂרַח",
+      "fr": "Séra’h"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.46.17"
+   },
+   {
+    "q": {
+     "he": "מָה אָמַר יַעֲקֹב בַּבְּרָכָה שֶׁל אָשֵׁר?",
+     "fr": "Qu’a dit Yaakov dans la bénédiction d’Acher ?"
+    },
+    "options": [
+     {
+      "he": "״שְׁמֵנָה לַחְמוֹ״ — יִהְיֶה לוֹ אֹכֶל טוֹב",
+      "fr": "« Son pain sera riche » : il aura une bonne nourriture"
+     },
+     {
+      "he": "״גּוּר אַרְיֵה״",
+      "fr": "« Jeune lion »"
+     },
+     {
+      "he": "״חֲמֹר גָּרֶם״",
+      "fr": "« Âne robuste »"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.49.20"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מָה יֵשׁ הַרְבֵּה בְּאֶרֶץ אָשֵׁר?",
+     "fr": "Selon Rachi, qu’y a-t-il en abondance dans le pays d’Acher ?"
+    },
+    "options": [
+     {
+      "he": "זָהָב",
+      "fr": "De l’or"
+     },
+     {
+      "he": "עֲצֵי זַיִת וְשֶׁמֶן",
+      "fr": "Des oliviers et de l’huile"
+     },
+     {
+      "he": "שֶׁלֶג",
+      "fr": "De la neige"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.49.20",
+    "src": "midrash"
+   },
+   {
+    "q": {
+     "he": "מִי הָאִמָּא שֶׁל אָשֵׁר?",
+     "fr": "Qui est la mère d’Acher ?"
+    },
+    "options": [
+     {
+      "he": "בִּלְהָה",
+      "fr": "Bilha"
+     },
+     {
+      "he": "לֵאָה",
+      "fr": "Léa"
+     },
+     {
+      "he": "זִלְפָּה",
+      "fr": "Zilpa"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.30.12"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "issakhar": {
+  "bio": {
+   "he": "יִשָּׂשכָר הוּא הַבֵּן הַחֲמִישִׁי שֶׁל לֵאָה. הוּא נוֹלַד אַחֲרֵי סִפּוּר הַדּוּדָאִים, וְלֵאָה קָרְאָה לוֹ כָּךְ כִּי אָמְרָה שֶׁה׳ נָתַן לָהּ ״שָׂכָר״ — פְּרָס. יִשָּׂשכָר יָרַד לְמִצְרַיִם עִם אֶחָיו וְעִם אַרְבָּעָה בָּנִים. בַּבְּרָכָה שֶׁלּוֹ דִּמָּה אוֹתוֹ יַעֲקֹב לַחֲמוֹר חָזָק שֶׁנּוֹשֵׂא מַשָּׂא כָּבֵד, וְשֶׁרָאָה ״מְנֻחָה כִּי טוֹב״. רַשִׁ״י מַסְבִּיר שֶׁשֵּׁבֶט יִשָּׂשכָר יִשָּׂא אֶת ״עֹל הַתּוֹרָה״ וְיִלְמַד הַרְבֵּה.",
+   "fr": "Issakhar est le cinquième fils de Léa. Il naît après l’histoire des doudaïm, et Léa l’appelle ainsi car elle dit que Dieu lui a donné un « sakhar », une récompense. Issakhar descend en Égypte avec ses frères et ses quatre fils. Dans sa bénédiction, Yaakov le compare à un âne robuste qui porte une lourde charge, et qui voit que « le repos est bon ». Rachi explique que la tribu d’Issakhar portera le « joug de la Torah » et étudiera beaucoup."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.17-18",
+    "parasha": "vayetze",
+    "he": "נוֹלָד לְלֵאָה; הִיא אוֹמֶרֶת: ה׳ נָתַן לִי ״שָׂכָר״",
+    "fr": "Naît de Léa ; elle dit : Dieu m’a donné une « récompense »"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.14-15",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״יִשָּׂשכָר חֲמֹר גָּרֶם״",
+    "fr": "Yaakov le bénit : « Issakhar est un âne robuste »"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.49.14",
+    "source": {
+     "he": "רש״י בראשית מ״ט:י״ד",
+     "fr": "Rachi sur Gn 49,14"
+    },
+    "he": "חֲמוֹר חָזָק יָכוֹל לָשֵׂאת מַשָּׂא כָּבֵד. רַשִׁ״י אוֹמֵר: כָּךְ יִשָּׂשכָר נוֹשֵׂא אֶת ״עֹל הַתּוֹרָה״.",
+    "fr": "Un âne robuste peut porter une lourde charge. Rachi dit : ainsi Issakhar porte le « joug de la Torah »."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.49.13",
+    "source": {
+     "he": "רש״י בראשית מ״ט:י״ג",
+     "fr": "Rachi sur Gn 49,13"
+    },
+    "he": "רַשִׁ״י מְסַפֵּר שֶׁזְּבוּלֻן עָסַק בְּמִסְחָר וְנָתַן אֹכֶל לְשֵׁבֶט יִשָּׂשכָר, וְיִשָּׂשכָר לָמַד תּוֹרָה. כָּךְ שְׁנֵי הָאַחִים עָזְרוּ זֶה לָזֶה.",
+    "fr": "Rachi raconte que Zevouloun faisait du commerce et nourrissait la tribu d’Issakhar, qui étudiait la Torah. Ainsi les deux frères s’aidaient l’un l’autre."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "לְאֵיזוֹ חַיָּה דִּמָּה יַעֲקֹב אֶת יִשָּׂשכָר?",
+     "fr": "À quel animal Yaakov compare-t-il Issakhar ?"
+    },
+    "options": [
+     {
+      "he": "לְאַרְיֵה",
+      "fr": "À un lion"
+     },
+     {
+      "he": "לַחֲמוֹר",
+      "fr": "À un âne"
+     },
+     {
+      "he": "לְאַיָּלָה",
+      "fr": "À une biche"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.49.14"
+   },
+   {
+    "q": {
+     "he": "מָה פֵּרוּשׁ הַשֵּׁם יִשָּׂשכָר?",
+     "fr": "Que veut dire le nom Issakhar ?"
+    },
+    "options": [
+     {
+      "he": "שָׂכָר — פְּרָס",
+      "fr": "Sakhar : une récompense"
+     },
+     {
+      "he": "שִׂמְחָה",
+      "fr": "Joie"
+     },
+     {
+      "he": "שָׁלוֹם",
+      "fr": "Paix"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.30.18"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מָה עָשָׂה שֵׁבֶט יִשָּׂשכָר?",
+     "fr": "Selon Rachi, que faisait la tribu d’Issakhar ?"
+    },
+    "options": [
+     {
+      "he": "עָסַק בְּמִסְחָר בַּיָּם",
+      "fr": "Du commerce en mer"
+     },
+     {
+      "he": "יָצָא רִאשׁוֹן לַמִּלְחָמָה",
+      "fr": "Elle partait la première à la guerre"
+     },
+     {
+      "he": "לָמַד תּוֹרָה",
+      "fr": "Elle étudiait la Torah"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.49.14",
+    "src": "midrash"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מִי נָתַן אֹכֶל לְשֵׁבֶט יִשָּׂשכָר?",
+     "fr": "Selon Rachi, qui nourrissait la tribu d’Issakhar ?"
+    },
+    "options": [
+     {
+      "he": "זְבוּלֻן",
+      "fr": "Zevouloun"
+     },
+     {
+      "he": "דָּן",
+      "fr": "Dan"
+     },
+     {
+      "he": "לֵוִי",
+      "fr": "Lévi"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.49.13",
+    "src": "midrash"
+   },
+   {
+    "q": {
+     "he": "מִי הָאִמָּא שֶׁל יִשָּׂשכָר?",
+     "fr": "Qui est la mère d’Issakhar ?"
+    },
+    "options": [
+     {
+      "he": "רָחֵל",
+      "fr": "Ra’hel"
+     },
+     {
+      "he": "לֵאָה",
+      "fr": "Léa"
+     },
+     {
+      "he": "זִלְפָּה",
+      "fr": "Zilpa"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.30.17-18"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "zevulun": {
+  "bio": {
+   "he": "זְבוּלֻן הוּא הַבֵּן הַשִּׁשִּׁי שֶׁל לֵאָה. כְּשֶׁנּוֹלַד אָמְרָה לֵאָה שֶׁה׳ נָתַן לָהּ ״זֵבֶד טוֹב״ — מַתָּנָה טוֹבָה, וְשֶׁעַכְשָׁו בַּעֲלָהּ ״יִזְבְּלֵנִי״ — יָגוּר אִתָּהּ. זְבוּלֻן יָרַד לְמִצְרַיִם עִם אֶחָיו וְעִם שְׁלֹשָׁה בָּנִים. בַּבְּרָכָה שֶׁלּוֹ אָמַר יַעֲקֹב: ״זְבוּלֻן לְחוֹף יַמִּים יִשְׁכֹּן״ — הוּא יָגוּר לְיַד הַיָּם, בְּמָקוֹם שֶׁאֳנִיּוֹת מַגִּיעוֹת אֵלָיו. רַשִׁ״י מַסְבִּיר שֶׁזְּבוּלֻן יַעֲסֹק בְּמִסְחָר וְיִתֵּן אֹכֶל לְאָחִיו יִשָּׂשכָר שֶׁלּוֹמֵד תּוֹרָה.",
+   "fr": "Zevouloun est le sixième fils de Léa. À sa naissance, Léa dit que Dieu lui a fait un « beau cadeau » et que maintenant son mari « habitera » avec elle. Zevouloun descend en Égypte avec ses frères et ses trois fils. Dans sa bénédiction, Yaakov dit : « Zevouloun habitera au bord des mers » : il vivra près de la mer, là où arrivent les bateaux. Rachi explique que Zevouloun fera du commerce et nourrira son frère Issakhar, qui étudie la Torah."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.19-20",
+    "parasha": "vayetze",
+    "he": "נוֹלָד לְלֵאָה; הִיא אוֹמֶרֶת: ״זְבָדַנִי... זֵבֶד טוֹב״",
+    "fr": "Naît de Léa ; elle dit : « Dieu m’a fait un beau cadeau »"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.13",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״זְבוּלֻן לְחוֹף יַמִּים יִשְׁכֹּן״",
+    "fr": "Yaakov le bénit : « Zevouloun habitera au bord des mers »"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.49.13",
+    "source": {
+     "he": "רש״י בראשית מ״ט:י״ג",
+     "fr": "Rachi sur Gn 49,13"
+    },
+    "he": "רַשִׁ״י מַסְבִּיר שֶׁזְּבוּלֻן עָסַק בְּמִסְחָר וְנָתַן אֹכֶל לְשֵׁבֶט יִשָּׂשכָר שֶׁלָּמַד תּוֹרָה. כָּל אֶחָד יָכוֹל לַעֲזֹר לַתּוֹרָה בַּדֶּרֶךְ שֶׁלּוֹ.",
+    "fr": "Rachi explique que Zevouloun faisait du commerce et nourrissait la tribu d’Issakhar, qui étudiait la Torah. Chacun peut soutenir la Torah à sa manière."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.30.20",
+    "he": "לֵאָה רָאֲתָה בִּזְבוּלֻן ״זֵבֶד טוֹב״ — מַתָּנָה טוֹבָה. כָּל יֶלֶד הוּא מַתָּנָה.",
+    "fr": "Léa voit en Zevouloun un « beau cadeau ». Chaque enfant est un cadeau."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "אֵיפֹה יָגוּר זְבוּלֻן, לְפִי הַבְּרָכָה שֶׁל יַעֲקֹב?",
+     "fr": "Où habitera Zevouloun, selon la bénédiction de Yaakov ?"
+    },
+    "options": [
+     {
+      "he": "בַּמִּדְבָּר",
+      "fr": "Dans le désert"
+     },
+     {
+      "he": "לְיַד הַיָּם",
+      "fr": "Au bord de la mer"
+     },
+     {
+      "he": "בֶּהָרִים",
+      "fr": "Dans les montagnes"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.49.13"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, בְּמָה עָסַק זְבוּלֻן?",
+     "fr": "Selon Rachi, quel était le métier de Zevouloun ?"
+    },
+    "options": [
+     {
+      "he": "בְּצַיִד",
+      "fr": "La chasse"
+     },
+     {
+      "he": "בִּרְעִיַּת צֹאן",
+      "fr": "L’élevage de moutons"
+     },
+     {
+      "he": "בְּמִסְחָר",
+      "fr": "Le commerce"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.49.13",
+    "src": "midrash"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, לְאֵיזֶה אָח עָזַר זְבוּלֻן?",
+     "fr": "Selon Rachi, quel frère Zevouloun aidait-il ?"
+    },
+    "options": [
+     {
+      "he": "לְיִשָּׂשכָר",
+      "fr": "Issakhar"
+     },
+     {
+      "he": "לְיוֹסֵף",
+      "fr": "Yossef"
+     },
+     {
+      "he": "לְדָן",
+      "fr": "Dan"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.49.13",
+    "src": "midrash"
+   },
+   {
+    "q": {
+     "he": "מִי הָאִמָּא שֶׁל זְבוּלֻן?",
+     "fr": "Qui est la mère de Zevouloun ?"
+    },
+    "options": [
+     {
+      "he": "בִּלְהָה",
+      "fr": "Bilha"
+     },
+     {
+      "he": "לֵאָה",
+      "fr": "Léa"
+     },
+     {
+      "he": "רָחֵל",
+      "fr": "Ra’hel"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.30.19-20"
+   },
+   {
+    "q": {
+     "he": "מָה מַגִּיעַ לַחוֹף שֶׁל זְבוּלֻן?",
+     "fr": "Qu’est-ce qui arrive sur la côte de Zevouloun ?"
+    },
+    "options": [
+     {
+      "he": "גְּמַלִּים",
+      "fr": "Des chameaux"
+     },
+     {
+      "he": "עֲנָנִים",
+      "fr": "Des nuages"
+     },
+     {
+      "he": "אֳנִיּוֹת",
+      "fr": "Des bateaux"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.49.13"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "dina": {
+  "bio": {
+   "he": "דִּינָה הִיא הַבַּת שֶׁל יַעֲקֹב וְלֵאָה, הָאָחוֹת שֶׁל בְּנֵי יַעֲקֹב. רַשִׁ״י מְסַפֵּר שֶׁלִּפְנֵי שֶׁנּוֹלְדָה, הִתְפַּלְּלָה לֵאָה בִּשְׁבִיל אֲחוֹתָהּ רָחֵל. כְּשֶׁהַמִּשְׁפָּחָה גָּרָה לְיַד הָעִיר שְׁכֶם, יָצְאָה דִּינָה לִרְאוֹת אֶת בְּנוֹת הָאָרֶץ. נָסִיךְ שֶׁל הָעִיר פָּגַע בָּהּ, וְאַחֶיהָ שִׁמְעוֹן וְלֵוִי הֵגֵנּוּ עָלֶיהָ וְהֶחְזִירוּ אוֹתָהּ הַבַּיְתָה. דִּינָה יָרְדָה לְמִצְרַיִם עִם כָּל הַמִּשְׁפָּחָה.",
+   "fr": "Dina est la fille de Yaakov et de Léa, la sœur des fils de Yaakov. Rachi raconte qu’avant sa naissance, Léa a prié pour sa sœur Ra’hel. Quand la famille habite près de la ville de Chekhem, Dina sort voir les filles du pays. Un prince de la ville lui fait du mal ; ses frères Chimon et Lévi la défendent et la ramènent à la maison. Dina descend en Égypte avec toute la famille."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.30.21",
+    "parasha": "vayetze",
+    "he": "נוֹלֶדֶת לְלֵאָה, אַחֲרֵי שִׁשָּׁה בָּנִים",
+    "fr": "Naît de Léa, après six fils"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.34.1",
+    "parasha": "vayishlach",
+    "he": "יוֹצֵאת לִרְאוֹת אֶת בְּנוֹת הָאָרֶץ",
+    "fr": "Sort voir les filles du pays"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.34.2",
+    "parasha": "vayishlach",
+    "he": "נָסִיךְ שֶׁל הָעִיר פּוֹגֵעַ בָּהּ",
+    "fr": "Un prince de la ville lui fait du mal"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.34.25-26",
+    "parasha": "vayishlach",
+    "he": "אַחֶיהָ מְגִנִּים עָלֶיהָ וּמַחְזִירִים אוֹתָהּ הַבַּיְתָה",
+    "fr": "Ses frères la défendent et la ramènent à la maison"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.30.21",
+    "source": {
+     "he": "רש״י בראשית ל׳:כ״א",
+     "fr": "Rachi sur Gn 30,21"
+    },
+    "he": "רַשִׁ״י מְסַפֵּר שֶׁלֵּאָה חָשְׁבָה עַל אֲחוֹתָהּ רָחֵל וְהִתְפַּלְּלָה בִּשְׁבִילָהּ, וְנוֹלְדָה לָהּ בַּת. הַשֵּׁם ״דִּינָה״ בָּא מִ״דִּין״: לֵאָה חָשְׁבָה הֵיטֵב, וּבָחֲרָה לִדְאֹג לַאֲחוֹתָהּ.",
+    "fr": "Rachi raconte que Léa a pensé à sa sœur Ra’hel et a prié pour elle, et qu’une fille lui est née. Le nom « Dina » vient de « din », jugement : Léa a bien réfléchi, et a choisi de penser à sa sœur."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.34.25",
+    "source": {
+     "he": "רש״י בראשית ל״ד:כ״ה",
+     "fr": "Rachi sur Gn 34,25"
+    },
+    "he": "הַתּוֹרָה קוֹרֵאת לְשִׁמְעוֹן וּלְלֵוִי ״אֲחֵי דִינָה״. רַשִׁ״י מַסְבִּיר: כִּי הֵם סִכְּנוּ אֶת עַצְמָם בִּשְׁבִילָהּ. בְּמִשְׁפָּחָה שׁוֹמְרִים זֶה עַל זֶה.",
+    "fr": "La Torah appelle Chimon et Lévi « les frères de Dina ». Rachi explique : parce qu’ils ont risqué leur vie pour elle. Dans une famille, on veille les uns sur les autres."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מִי הַהוֹרִים שֶׁל דִּינָה?",
+     "fr": "Qui sont les parents de Dina ?"
+    },
+    "options": [
+     {
+      "he": "יַעֲקֹב וְרָחֵל",
+      "fr": "Yaakov et Ra’hel"
+     },
+     {
+      "he": "יַעֲקֹב וְלֵאָה",
+      "fr": "Yaakov et Léa"
+     },
+     {
+      "he": "יִצְחָק וְרִבְקָה",
+      "fr": "Yitzhak et Rivka"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.30.21"
+   },
+   {
+    "q": {
+     "he": "אֶת מִי יָצְאָה דִּינָה לִרְאוֹת?",
+     "fr": "Qui Dina est-elle sortie voir ?"
+    },
+    "options": [
+     {
+      "he": "אֶת בְּנוֹת הָאָרֶץ",
+      "fr": "Les filles du pays"
+     },
+     {
+      "he": "אֶת הַיָּם",
+      "fr": "La mer"
+     },
+     {
+      "he": "אֶת הַשּׁוּק",
+      "fr": "Le marché"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.34.1"
+   },
+   {
+    "q": {
+     "he": "אֵילוּ אַחִים הֵגֵנּוּ עַל דִּינָה?",
+     "fr": "Quels frères ont défendu Dina ?"
+    },
+    "options": [
+     {
+      "he": "רְאוּבֵן וִיהוּדָה",
+      "fr": "Réouven et Yehouda"
+     },
+     {
+      "he": "יוֹסֵף וּבִנְיָמִין",
+      "fr": "Yossef et Binyamin"
+     },
+     {
+      "he": "שִׁמְעוֹן וְלֵוִי",
+      "fr": "Chimon et Lévi"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.34.25"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מֵאֵיזוֹ מִלָּה בָּא הַשֵּׁם דִּינָה?",
+     "fr": "Selon Rachi, d’où vient le nom Dina ?"
+    },
+    "options": [
+     {
+      "he": "דֶּלֶת",
+      "fr": "Porte (délet)"
+     },
+     {
+      "he": "דִּין",
+      "fr": "Jugement (din)"
+     },
+     {
+      "he": "דָּג",
+      "fr": "Poisson (dag)"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.30.21",
+    "src": "midrash"
+   },
+   {
+    "q": {
+     "he": "לְיַד אֵיזוֹ עִיר גָּרָה הַמִּשְׁפָּחָה כְּשֶׁדִּינָה יָצְאָה?",
+     "fr": "Près de quelle ville la famille habitait-elle quand Dina est sortie ?"
+    },
+    "options": [
+     {
+      "he": "חָרָן",
+      "fr": "‘Haran"
+     },
+     {
+      "he": "בְּאֵר שֶׁבַע",
+      "fr": "Beer-Chéva"
+     },
+     {
+      "he": "שְׁכֶם",
+      "fr": "Chekhem"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.33.18"
+   }
+  ],
+  "notes": [
+   {
+    "key": "nameNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית ל׳:כ״א",
+     "fr": "Rachi sur Gn 30,21"
+    },
+    "ref": "Genesis.30.21",
+    "he": "הַתּוֹרָה אֵינָהּ מַסְבִּירָה אֶת הַשֵּׁם דִּינָה. לְפִי רַשִׁ״י, הוּא בָּא מִ״דִּין״, כִּי לֵאָה ״דָּנָה״ — שָׁקְלָה — וְהִתְפַּלְּלָה בִּשְׁבִיל רָחֵל.",
+    "fr": "La Torah n’explique pas le nom Dina. Selon Rachi, il vient de « din » (jugement), car Léa a réfléchi et prié pour Ra’hel."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "binyamin": {
+  "bio": {
+   "he": "בִּנְיָמִין הוּא הַבֵּן הַצָּעִיר שֶׁל יַעֲקֹב, וְהַבֵּן הַשֵּׁנִי שֶׁל רָחֵל. הוּא נוֹלַד בַּדֶּרֶךְ לְבֵית לֶחֶם; רָחֵל קָרְאָה לוֹ ״בֶּן אוֹנִי״, וְאָבִיו קָרָא לוֹ ״בִּנְיָמִין״. אַחֲרֵי שֶׁיּוֹסֵף נֶעְלַם, שָׁמַר עָלָיו יַעֲקֹב מְאוֹד וּפָחַד לִשְׁלֹחַ אוֹתוֹ לְמִצְרַיִם. בְּמִצְרַיִם נִמְצָא הַגָּבִיעַ שֶׁל יוֹסֵף בַּשַּׂק שֶׁלּוֹ, וְכָל הָאַחִים חָזְרוּ אִתּוֹ — וִיהוּדָה הִצִּיעַ לִהְיוֹת עֶבֶד בִּמְקוֹמוֹ. כְּשֶׁיּוֹסֵף גִּלָּה מִי הוּא, הוּא חִבֵּק אֶת בִּנְיָמִין וּבָכָה.",
+   "fr": "Binyamin est le plus jeune fils de Yaakov et le deuxième fils de Ra’hel. Il naît sur la route de Beit-Lé’hem ; Ra’hel l’appelle « Ben-Oni » et son père l’appelle « Binyamin ». Après la disparition de Yossef, Yaakov le protège beaucoup et a peur de l’envoyer en Égypte. En Égypte, la coupe de Yossef est trouvée dans son sac ; tous les frères reviennent avec lui, et Yehouda propose d’être esclave à sa place. Quand Yossef révèle qui il est, il serre Binyamin dans ses bras et pleure."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.35.16-18",
+    "parasha": "vayishlach",
+    "he": "נוֹלָד בַּדֶּרֶךְ; רָחֵל קוֹרֵאת לוֹ בֶּן אוֹנִי, וְיַעֲקֹב — בִּנְיָמִין",
+    "fr": "Naît en chemin ; Ra’hel l’appelle Ben-Oni, Yaakov l’appelle Binyamin"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.42.4",
+    "parasha": "miketz",
+    "he": "יַעֲקֹב לֹא שׁוֹלֵחַ אוֹתוֹ לְמִצְרַיִם עִם אֶחָיו",
+    "fr": "Yaakov ne l’envoie pas en Égypte avec ses frères"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.43.29-30",
+    "parasha": "miketz",
+    "he": "יוֹסֵף רוֹאֶה אוֹתוֹ וְיוֹצֵא לִבְכּוֹת",
+    "fr": "Yossef le voit et sort pour pleurer"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.44.1-12",
+    "parasha": "miketz",
+    "he": "הַגָּבִיעַ שֶׁל יוֹסֵף נִמְצָא בַּשַּׂק שֶׁלּוֹ",
+    "fr": "La coupe de Yossef est trouvée dans son sac"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.45.14",
+    "parasha": "vayigash",
+    "he": "יוֹסֵף וּבִנְיָמִין מִתְחַבְּקִים וּבוֹכִים",
+    "fr": "Yossef et Binyamin s’embrassent et pleurent"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.27",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״בִּנְיָמִין זְאֵב יִטְרָף״",
+    "fr": "Yaakov le bénit : « Binyamin est un loup qui saisit sa proie »"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.43.30",
+    "source": {
+     "he": "רש״י בראשית מ״ג:ל׳",
+     "fr": "Rachi sur Gn 43,30"
+    },
+    "he": "רַשִׁ״י מְסַפֵּר שֶׁבִּנְיָמִין קָרָא לַעֲשֶׂרֶת בָּנָיו שֵׁמוֹת שֶׁמַּזְכִּירִים אֶת אָחִיו יוֹסֵף. הוּא אַף פַּעַם לֹא שָׁכַח אֶת אָחִיו.",
+    "fr": "Rachi raconte que Binyamin a donné à ses dix fils des noms qui rappellent son frère Yossef. Il n’a jamais oublié son frère."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.44.13-33",
+    "he": "כְּשֶׁהַגָּבִיעַ נִמְצָא, כָּל הָאַחִים חָזְרוּ אִתּוֹ לָעִיר, וִיהוּדָה הִצִּיעַ אֶת עַצְמוֹ בִּמְקוֹמוֹ. הַפַּעַם הָאַחִים לֹא עָזְבוּ אֶת אֲחִיהֶם הַקָּטָן.",
+    "fr": "Quand la coupe est trouvée, tous les frères reviennent avec lui à la ville, et Yehouda s’offre à sa place. Cette fois, les frères n’abandonnent pas leur petit frère."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.49.27",
+    "source": {
+     "he": "רש״י בראשית מ״ט:כ״ז",
+     "fr": "Rachi sur Gn 49,27"
+    },
+    "he": "רַשִׁ״י אוֹמֵר שֶׁמִּשֵּׁבֶט בִּנְיָמִין יָצְאוּ שָׁאוּל, הַמֶּלֶךְ הָרִאשׁוֹן שֶׁל יִשְׂרָאֵל, וְגַם מָרְדְּכַי וְאֶסְתֵּר בִּימֵי הָמָן.",
+    "fr": "Rachi dit que de la tribu de Binyamin viendront Chaoul, le premier roi d’Israël, et aussi Mordekhaï et Esther, au temps de Haman."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "אֵיךְ קָרְאָה רָחֵל לְבִנְיָמִין?",
+     "fr": "Comment Ra’hel a-t-elle appelé Binyamin ?"
+    },
+    "options": [
+     {
+      "he": "יוֹסֵף",
+      "fr": "Yossef"
+     },
+     {
+      "he": "בֶּן אוֹנִי",
+      "fr": "Ben-Oni"
+     },
+     {
+      "he": "אָשֵׁר",
+      "fr": "Acher"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.35.18"
+   },
+   {
+    "q": {
+     "he": "אֵיפֹה נִמְצָא הַגָּבִיעַ שֶׁל יוֹסֵף?",
+     "fr": "Où a-t-on trouvé la coupe de Yossef ?"
+    },
+    "options": [
+     {
+      "he": "בַּשַּׂק שֶׁל בִּנְיָמִין",
+      "fr": "Dans le sac de Binyamin"
+     },
+     {
+      "he": "בָּאֹהֶל שֶׁל יַעֲקֹב",
+      "fr": "Dans la tente de Yaakov"
+     },
+     {
+      "he": "בַּבְּאֵר",
+      "fr": "Dans le puits"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.44.12"
+   },
+   {
+    "q": {
+     "he": "מִי הִצִּיעַ לִהְיוֹת עֶבֶד בִּמְקוֹם בִּנְיָמִין?",
+     "fr": "Qui a proposé d’être esclave à la place de Binyamin ?"
+    },
+    "options": [
+     {
+      "he": "רְאוּבֵן",
+      "fr": "Réouven"
+     },
+     {
+      "he": "לֵוִי",
+      "fr": "Lévi"
+     },
+     {
+      "he": "יְהוּדָה",
+      "fr": "Yehouda"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.44.33"
+   },
+   {
+    "q": {
+     "he": "לְאֵיזוֹ חַיָּה דִּמָּה יַעֲקֹב אֶת בִּנְיָמִין?",
+     "fr": "À quel animal Yaakov compare-t-il Binyamin ?"
+    },
+    "options": [
+     {
+      "he": "לְאַיָּלָה",
+      "fr": "À une biche"
+     },
+     {
+      "he": "לִזְאֵב",
+      "fr": "À un loup"
+     },
+     {
+      "he": "לַחֲמוֹר",
+      "fr": "À un âne"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.49.27"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, אֵיזֶה מֶלֶךְ יָצָא מִשֵּׁבֶט בִּנְיָמִין?",
+     "fr": "Selon Rachi, quel roi vient de la tribu de Binyamin ?"
+    },
+    "options": [
+     {
+      "he": "דָּוִד",
+      "fr": "David"
+     },
+     {
+      "he": "שְׁלֹמֹה",
+      "fr": "Chlomo"
+     },
+     {
+      "he": "שָׁאוּל",
+      "fr": "Chaoul"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.49.27",
+    "src": "midrash"
+   }
+  ],
+  "notes": [
+   {
+    "key": "nameNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית ל״ה:י״ח",
+     "fr": "Rachi sur Gn 35,18"
+    },
+    "ref": "Genesis.35.18",
+    "he": "לְפִי רַשִׁ״י: ״בֶּן אוֹנִי״ — בֵּן הַצַּעַר שֶׁלִּי. ״בִּנְיָמִין״ — בֵּן הַדָּרוֹם (״יָמִין״), כִּי הוּא הַיָּחִיד שֶׁנּוֹלַד בְּאֶרֶץ כְּנַעַן.",
+    "fr": "Selon Rachi : « Ben-Oni » = fils de ma douleur. « Binyamin » = fils du sud (yamin), car il est le seul né en terre de Canaan."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "shekhem": {
+  "bio": {
+   "he": "שְׁכֶם הָיָה הַבֵּן שֶׁל חֲמוֹר, נְשִׂיא הָאָרֶץ — נָסִיךְ שֶׁל הָעִיר שֶׁנִּקְרְאָה גַּם הִיא שְׁכֶם. הוּא פָּגַע בְּדִינָה, הַבַּת שֶׁל יַעֲקֹב, וְאַחֶיהָ שִׁמְעוֹן וְלֵוִי הֵגֵנּוּ עָלֶיהָ.",
+   "fr": "Chekhem est le fils de ‘Hamor, le chef du pays : un prince de la ville qui porte elle aussi le nom de Chekhem. Il fait du mal à Dina, la fille de Yaakov, et ses frères Chimon et Lévi la défendent."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.34.2",
+    "parasha": "vayishlach",
+    "he": "פּוֹגֵעַ בְּדִינָה",
+    "fr": "Fait du mal à Dina"
+   }
+  ]
+ },
+ "hamor": {
+  "bio": {
+   "he": "חֲמוֹר הָיָה נְשִׂיא הָאָרֶץ וְאָבִיו שֶׁל שְׁכֶם. יַעֲקֹב קָנָה מִבָּנָיו חֶלְקַת שָׂדֶה לְיַד הָעִיר בְּמֵאָה קְשִׂיטָה, וְאַחֲרֵי מַה שֶּׁקָּרָה לְדִינָה, בָּא חֲמוֹר לְדַבֵּר עִם יַעֲקֹב.",
+   "fr": "‘Hamor est le chef du pays et le père de Chekhem. Yaakov achète à ses fils un champ près de la ville pour cent kessita ; après ce qui est arrivé à Dina, ‘Hamor vient parler avec Yaakov."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.33.19",
+    "parasha": "vayishlach",
+    "he": "יַעֲקֹב קוֹנֶה מִבָּנָיו חֶלְקַת שָׂדֶה",
+    "fr": "Yaakov achète un champ à ses fils"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.34.6",
+    "parasha": "vayishlach",
+    "he": "בָּא לְדַבֵּר עִם יַעֲקֹב",
+    "fr": "Vient parler avec Yaakov"
+   }
+  ]
+ },
+ "devora": {
+  "bio": {
+   "he": "דְּבוֹרָה הָיְתָה הַמֵּינֶקֶת שֶׁל רִבְקָה. הִיא נִפְטְרָה וְנִקְבְּרָה מִתַּחַת לְעֵץ אַלּוֹן לְיַד בֵּית אֵל, וְהַמָּקוֹם נִקְרָא ״אַלּוֹן בָּכוּת״ — הָאַלּוֹן שֶׁל הַבֶּכִי.",
+   "fr": "Dévora était la nourrice de Rivka. Elle meurt et est enterrée sous un chêne près de Beit-El, et l’endroit est appelé « Alon Bakhout », le chêne des pleurs."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.35.8",
+    "parasha": "vayishlach",
+    "he": "נִפְטֶרֶת וְנִקְבֶּרֶת לְיַד בֵּית אֵל",
+    "fr": "Meurt et est enterrée près de Beit-El"
+   }
+  ],
+  "notes": [
+   {
+    "key": "identityNote",
+    "src": "torah",
+    "ref": "Genesis.35.8",
+    "he": "בְּפָרָשַׁת חַיֵּי שָׂרָה יוֹצֵאת עִם רִבְקָה ״מֵנִקְתָּהּ״, בְּלִי שֵׁם. כָּאן הַתּוֹרָה מְגַלָּה אֶת שְׁמָהּ: ״דְּבוֹרָה מֵינֶקֶת רִבְקָה״.",
+    "fr": "Dans ‘Hayé Sarah, « sa nourrice » part avec Rivka, sans être nommée. Ici la Torah donne son nom : « Dévora, la nourrice de Rivka »."
+   },
+   {
+    "key": "identityNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית ל״ה:ח׳",
+     "fr": "Rachi sur Gn 35,8"
+    },
+    "ref": "Genesis.35.8",
+    "he": "רַשִׁ״י מַסְבִּיר שֶׁרִבְקָה שָׁלְחָה אֶת דְּבוֹרָה לִקְרֹא לְיַעֲקֹב לַחֲזֹר הַבַּיְתָה, וְהִיא נִפְטְרָה בַּדֶּרֶךְ. עוֹד אוֹמֵר רַשִׁ״י שֶׁשָּׁם שָׁמַע יַעֲקֹב בְּשׂוֹרָה עֲצוּבָה נוֹסֶפֶת: רִבְקָה אִמּוֹ נִפְטְרָה.",
+    "fr": "Rachi explique que Rivka avait envoyé Dévora appeler Yaakov pour qu’il rentre, et qu’elle est morte en chemin. Rachi ajoute que c’est là que Yaakov apprit une autre triste nouvelle : la mort de sa mère Rivka."
+   }
+  ]
+ },
+ "elifaz": {
+  "bio": {
+   "he": "אֱלִיפַז הוּא הַבֵּן הַבְּכוֹר שֶׁל עֵשָׂו וְעָדָה. מִמֶּנּוּ יָצְאוּ אַלּוּפִים — רָאשִׁים — שֶׁל אֱדוֹם, וְגַם עֲמָלֵק.",
+   "fr": "Élifaz est le fils aîné d’Essav et d’Ada. De lui viennent des chefs (alloufim) d’Édom, et aussi Amalek."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.36.4",
+    "parasha": "vayishlach",
+    "he": "נוֹלָד לְעֵשָׂו וּלְעָדָה",
+    "fr": "Naît d’Essav et d’Ada"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.36.15-16",
+    "parasha": "vayishlach",
+    "he": "בָּנָיו נַעֲשִׂים אַלּוּפִים שֶׁל אֱדוֹם",
+    "fr": "Ses fils deviennent des chefs d’Édom"
+   }
+  ],
+  "notes": [
+   {
+    "key": "identityNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית כ״ט:י״א",
+     "fr": "Rachi sur Gn 29,11"
+    },
+    "ref": "Genesis.29.11",
+    "he": "רַשִׁ״י מְסַפֵּר שֶׁעֵשָׂו שָׁלַח אֶת אֱלִיפַז לִרְדֹּף אַחֲרֵי יַעֲקֹב, אֲבָל אֱלִיפַז גָּדַל אֵצֶל יִצְחָק וְלֹא רָצָה לִפְגֹּעַ בּוֹ: הוּא לָקַח רַק אֶת כָּל מַה שֶּׁהָיָה לְיַעֲקֹב.",
+    "fr": "Rachi raconte qu’Essav a envoyé Élifaz poursuivre Yaakov, mais qu’Élifaz, élevé auprès d’Yitzhak, n’a pas voulu lui faire de mal : il lui a seulement pris tout ce qu’il avait."
+   }
+  ]
+ },
+ "amalek": {
+  "bio": {
+   "he": "עֲמָלֵק הוּא הַבֵּן שֶׁל אֱלִיפַז וְשֶׁל תִּמְנָע, וְהַנֶּכֶד שֶׁל עֵשָׂו. מִמֶּנּוּ יָצָא עַם עֲמָלֵק, שֶׁיִּתְקֹף אֶת בְּנֵי יִשְׂרָאֵל בַּמִּדְבָּר אַחֲרֵי יְצִיאַת מִצְרַיִם, וְהַתּוֹרָה מְצַוָּה: ״זָכוֹר״.",
+   "fr": "Amalek est le fils d’Élifaz et de Timna, et le petit-fils d’Essav. De lui vient le peuple d’Amalek, qui attaquera les enfants d’Israël dans le désert après la sortie d’Égypte ; la Torah ordonne de s’en souvenir (« Zakhor »)."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.36.12",
+    "parasha": "vayishlach",
+    "he": "נוֹלָד לֶאֱלִיפַז וּלְתִמְנָע",
+    "fr": "Naît d’Élifaz et de Timna"
+   }
+  ]
+ },
+ "lavan": {
+  "bio": {
+   "he": "לָבָן הוּא הָאָח שֶׁל רִבְקָה וְהָאַבָּא שֶׁל לֵאָה וְרָחֵל. כְּשֶׁהָעֶבֶד שֶׁל אַבְרָהָם הִגִּיעַ, וְאַחַר כָּךְ גַּם יַעֲקֹב, רָץ לָבָן לִקְרָאתָם וְהִזְמִין אוֹתָם הַבַּיְתָה. יַעֲקֹב עָבַד אֶצְלוֹ שֶׁבַע שָׁנִים כְּדֵי לְהִתְחַתֵּן עִם רָחֵל, אֲבָל בְּלֵיל הַחֲתֻנָּה נָתַן לוֹ לָבָן אֶת לֵאָה. עֶשְׂרִים שָׁנָה עָבַד יַעֲקֹב אֵצֶל לָבָן, וְלָבָן שִׁנָּה אֶת שְׂכָרוֹ פְּעָמִים רַבּוֹת. כְּשֶׁיַּעֲקֹב בָּרַח עִם מִשְׁפַּחְתּוֹ, רָדַף לָבָן אַחֲרָיו, אֲבָל ה׳ הִזְהִיר אוֹתוֹ בַּחֲלוֹם. בַּסּוֹף כָּרְתוּ שְׁנֵיהֶם בְּרִית לְיַד גַּל אֲבָנִים, וְלָבָן נִשֵּׁק אֶת נְכָדָיו וְחָזַר לִמְקוֹמוֹ.",
+   "fr": "Lavan est le frère de Rivka et le père de Léa et de Ra’hel. Quand le serviteur d’Avraham arrive, puis plus tard Yaakov, Lavan court à leur rencontre et les invite chez lui. Yaakov travaille sept ans chez lui pour épouser Ra’hel, mais le soir du mariage Lavan lui donne Léa. Yaakov travaille vingt ans chez Lavan, qui change son salaire de nombreuses fois. Quand Yaakov s’enfuit avec sa famille, Lavan le poursuit, mais Dieu l’avertit en rêve. À la fin, ils font alliance près d’un tas de pierres, et Lavan embrasse ses petits-enfants avant de rentrer chez lui."
+  },
+  "addEvents": [
+   {
+    "am": 2185,
+    "datesrc": "midrash",
+    "ref": "Genesis.29.13-14",
+    "parasha": "vayetze",
+    "he": "רָץ לִקְרַאת יַעֲקֹב, מְחַבֵּק וּמְנַשֵּׁק אוֹתוֹ וּמֵבִיא אוֹתוֹ הַבַּיְתָה",
+    "fr": "Court vers Yaakov, l’embrasse et l’amène à la maison"
+   },
+   {
+    "am": 2185,
+    "datesrc": "midrash",
+    "ref": "Genesis.29.15-19",
+    "parasha": "vayetze",
+    "he": "מַסְכִּים שֶׁיַּעֲקֹב יַעֲבֹד שֶׁבַע שָׁנִים בִּשְׁבִיל רָחֵל",
+    "fr": "Accepte que Yaakov travaille sept ans pour Ra’hel"
+   },
+   {
+    "am": 2192,
+    "datesrc": "midrash",
+    "ref": "Genesis.29.23-25",
+    "parasha": "vayetze",
+    "he": "נוֹתֵן לְיַעֲקֹב אֶת לֵאָה בִּמְקוֹם רָחֵל",
+    "fr": "Donne Léa à Yaakov à la place de Ra’hel"
+   },
+   {
+    "am": 2192,
+    "datesrc": "midrash",
+    "ref": "Genesis.29.26-27",
+    "parasha": "vayetze",
+    "he": "אוֹמֵר: אֵצְלֵנוּ לֹא נוֹתְנִים אֶת הַצְּעִירָה לִפְנֵי הַבְּכִירָה",
+    "fr": "Dit : « Chez nous, on ne marie pas la cadette avant l’aînée »"
+   },
+   {
+    "am": null,
+    "datesrc": null,
+    "ref": "Genesis.31.7",
+    "parasha": "vayetze",
+    "he": "מַחְלִיף אֶת שְׂכָרוֹ שֶׁל יַעֲקֹב עֲשֶׂרֶת מֹנִים",
+    "fr": "Change dix fois le salaire de Yaakov"
+   },
+   {
+    "am": 2205,
+    "datesrc": "midrash",
+    "ref": "Genesis.31.22-24",
+    "parasha": "vayetze",
+    "he": "רוֹדֵף אַחֲרֵי יַעֲקֹב, וְה׳ מַזְהִיר אוֹתוֹ בַּחֲלוֹם",
+    "fr": "Poursuit Yaakov ; Dieu l’avertit en rêve"
+   },
+   {
+    "am": 2205,
+    "datesrc": "midrash",
+    "ref": "Genesis.31.44-54",
+    "parasha": "vayetze",
+    "he": "כּוֹרֵת בְּרִית עִם יַעֲקֹב לְיַד גַּל אֲבָנִים",
+    "fr": "Fait alliance avec Yaakov près d’un tas de pierres"
+   },
+   {
+    "am": 2205,
+    "datesrc": "midrash",
+    "ref": "Genesis.32.1",
+    "parasha": "vayetze",
+    "he": "מְנַשֵּׁק וּמְבָרֵךְ אֶת נְכָדָיו וְאֶת בְּנוֹתָיו, וְחוֹזֵר לִמְקוֹמוֹ",
+    "fr": "Embrasse et bénit ses petits-enfants et ses filles, puis rentre chez lui"
+   }
+  ],
+  "addLessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.31.38-42",
+    "he": "יַעֲקֹב עָבַד בְּיֹשֶׁר עֶשְׂרִים שָׁנָה, גַּם כְּשֶׁלָּבָן שִׁנָּה אֶת שְׂכָרוֹ. ה׳ רָאָה אֶת עֲבוֹדָתוֹ וְשָׁמַר עָלָיו.",
+    "fr": "Yaakov a travaillé honnêtement pendant vingt ans, même quand Lavan changeait son salaire. Dieu a vu son travail et l’a protégé."
+   }
+  ]
+ }
+}

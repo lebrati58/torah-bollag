@@ -1,0 +1,1816 @@
+{
+ "lot": {
+  "bio": {
+   "he": "לוֹט הָיָה הַבֵּן שֶׁל הָרָן, אֲחִי אַבְרָם. הוּא יָצָא עִם אַבְרָם מֵחָרָן לְאֶרֶץ כְּנַעַן, וְגַם לוֹ הָיוּ צֹאן וּבָקָר רַבִּים. כְּשֶׁהָרוֹעִים רָבוּ, אַבְרָם הִצִּיעַ לְהִפָּרֵד, וְלוֹט בָּחַר בְּכִכַּר הַיַּרְדֵּן, שֶׁהָיוּ בָּהּ מַיִם רַבִּים, וְגָר לְיַד סְדוֹם. כְּשֶׁנִּשְׁבָּה בַּמִּלְחָמָה, אַבְרָם יָצָא לְהַצִּיל אוֹתוֹ. לִפְנֵי שֶׁסְּדוֹם נֶהֶפְכָה, לוֹט הִכְנִיס לְבֵיתוֹ שְׁנֵי מַלְאָכִים, וְהֵם הוֹצִיאוּ אוֹתוֹ וְאֶת מִשְׁפַּחְתּוֹ מִן הָעִיר בָּרֶגַע הָאַחֲרוֹן.",
+   "fr": "Lot était le fils de Haran, le frère d’Avram. Il part avec Avram de Haran vers le pays de Canaan, et lui aussi a beaucoup de moutons et de bœufs. Quand les bergers se disputent, Avram propose de se séparer, et Lot choisit la plaine du Jourdain, pleine d’eau, et s’installe près de Sodome. Quand il est fait prisonnier pendant une guerre, Avram part le délivrer. Avant que Sodome ne soit détruite, Lot accueille chez lui deux anges, qui le font sortir de la ville avec sa famille au dernier moment."
+  },
+  "events": [
+   {
+    "am": 2023,
+    "datesrc": "torah",
+    "ref": "Genesis.12.4-5",
+    "parasha": "lech-lecha",
+    "he": "יוֹצֵא עִם אַבְרָם מֵחָרָן לְאֶרֶץ כְּנַעַן",
+    "fr": "Part de Haran avec Avram vers le pays de Canaan"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.13.7-12",
+    "parasha": "lech-lecha",
+    "he": "אַחֲרֵי מְרִיבַת הָרוֹעִים, בּוֹחֵר בְּכִכַּר הַיַּרְדֵּן וְגָר עַד סְדוֹם",
+    "fr": "Après la dispute des bergers, choisit la plaine du Jourdain et s’installe jusqu’à Sodome"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.14.12-16",
+    "parasha": "lech-lecha",
+    "he": "נִשְׁבָּה בְּמִלְחֶמֶת הַמְּלָכִים, וְאַבְרָם מַצִּיל אוֹתוֹ",
+    "fr": "Est fait prisonnier pendant la guerre des rois ; Avram le délivre"
+   },
+   {
+    "am": 2047,
+    "datesrc": "midrash",
+    "ref": "Genesis.19.1-3",
+    "parasha": "vayera",
+    "he": "יוֹשֵׁב בְּשַׁעַר סְדוֹם, מַזְמִין שְׁנֵי מַלְאָכִים לְבֵיתוֹ וְאוֹפֶה לָהֶם מַצּוֹת",
+    "fr": "Assis à la porte de Sodome, invite deux anges chez lui et leur cuit des matsot"
+   },
+   {
+    "am": 2047,
+    "datesrc": "midrash",
+    "ref": "Genesis.19.15-23",
+    "parasha": "vayera",
+    "he": "הַמַּלְאָכִים אוֹחֲזִים בְּיָדוֹ וּמוֹצִיאִים אוֹתוֹ מִסְּדוֹם; הוּא בּוֹרֵחַ לְצוֹעַר",
+    "fr": "Les anges le prennent par la main et le font sortir de Sodome ; il se réfugie à Tsoar"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.19.37-38",
+    "parasha": "vayera",
+    "he": "מִמֶּנּוּ יוֹצְאִים הָעַמִּים מוֹאָב וְעַמּוֹן",
+    "fr": "Les peuples de Moav et d’Ammon descendent de lui"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.13.10-13",
+    "he": "לוֹט בָּחַר בַּמָּקוֹם הֶעָשִׁיר, אֲבָל אַנְשֵׁי סְדוֹם הָיוּ רָעִים. כְּשֶׁבּוֹחֲרִים אֵיפֹה לָגוּר, חָשׁוּב לְהִסְתַּכֵּל גַּם עַל הַשְּׁכֵנִים.",
+    "fr": "Lot choisit l’endroit le plus riche, mais les gens de Sodome étaient méchants (13,13) : quand on choisit où habiter, il faut aussi regarder les voisins."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.19.1",
+    "source": {
+     "he": "רש״י בראשית י״ט:א׳",
+     "fr": "Rachi sur Gn 19,1"
+    },
+    "he": "לְפִי רַשִׁ״י, לוֹט לָמַד בְּבֵית אַבְרָהָם לְחַפֵּשׂ אוֹרְחִים. מָה שֶׁרוֹאִים בַּבַּיִת נִשְׁאָר אִתָּנוּ.",
+    "fr": "Selon Rachi, Lot a appris dans la maison d’Avraham à guetter les invités : ce qu’on voit à la maison reste avec nous."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.19.29",
+    "source": {
+     "he": "רש״י בראשית י״ט:כ״ט",
+     "fr": "Rachi sur Gn 19,29"
+    },
+    "he": "רַשִׁ״י: ה׳ הִצִּיל אֶת לוֹט, כִּי בְּמִצְרַיִם הוּא שָׁמַר עַל הַסּוֹד שֶׁל אַבְרָם וְלֹא גִּלָּה שֶׁשָּׂרַי אִשְׁתּוֹ.",
+    "fr": "Rachi : Dieu a sauvé Lot parce qu’en Égypte il avait gardé le secret d’Avram et n’avait pas révélé que Saraï était sa femme."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מָה הַקֶּשֶׁר בֵּין לוֹט לְאַבְרָם?",
+     "fr": "Quel lien entre Lot et Avram ?"
+    },
+    "options": [
+     {
+      "he": "בְּנוֹ",
+      "fr": "Son fils"
+     },
+     {
+      "he": "בֶּן אָחִיו",
+      "fr": "Son neveu"
+     },
+     {
+      "he": "עַבְדּוֹ",
+      "fr": "Son serviteur"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.12.5"
+   },
+   {
+    "q": {
+     "he": "אֵיזֶה מָקוֹם בָּחַר לוֹט?",
+     "fr": "Quel endroit Lot a-t-il choisi ?"
+    },
+    "options": [
+     {
+      "he": "אֶרֶץ מִצְרַיִם",
+      "fr": "Le pays d’Égypte"
+     },
+     {
+      "he": "חֶבְרוֹן",
+      "fr": "Hévron"
+     },
+     {
+      "he": "כִּכַּר הַיַּרְדֵּן",
+      "fr": "La plaine du Jourdain"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.13.11"
+   },
+   {
+    "q": {
+     "he": "מִי הִצִּיל אֶת לוֹט כְּשֶׁנִּשְׁבָּה?",
+     "fr": "Qui a délivré Lot quand il a été fait prisonnier ?"
+    },
+    "options": [
+     {
+      "he": "אַבְרָם",
+      "fr": "Avram"
+     },
+     {
+      "he": "מַלְכִּי־צֶדֶק",
+      "fr": "Malki-Tsédek"
+     },
+     {
+      "he": "פַּרְעֹה",
+      "fr": "Pharaon"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.14.14-16"
+   },
+   {
+    "q": {
+     "he": "כַּמָּה מַלְאָכִים בָּאוּ לִסְדוֹם?",
+     "fr": "Combien d’anges sont venus à Sodome ?"
+    },
+    "options": [
+     {
+      "he": "שְׁלֹשָׁה",
+      "fr": "3"
+     },
+     {
+      "he": "שְׁנַיִם",
+      "fr": "2"
+     },
+     {
+      "he": "עֲשָׂרָה",
+      "fr": "10"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.19.1"
+   },
+   {
+    "q": {
+     "he": "מָה אָפָה לוֹט לָאוֹרְחִים?",
+     "fr": "Qu’est-ce que Lot a cuit pour ses invités ?"
+    },
+    "options": [
+     {
+      "he": "עוּגַת דְּבַשׁ",
+      "fr": "Un gâteau au miel"
+     },
+     {
+      "he": "לֶחֶם שְׂעוֹרִים",
+      "fr": "Du pain d’orge"
+     },
+     {
+      "he": "מַצּוֹת",
+      "fr": "Des matsot"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.19.3"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "eshet-lot": {
+  "bio": {
+   "he": "הַתּוֹרָה אֵינָהּ אוֹמֶרֶת אֶת שְׁמָהּ שֶׁל אֵשֶׁת לוֹט. כְּשֶׁסְּדוֹם עָמְדָה לְהֵהָרֵס, הַמַּלְאָכִים אָחֲזוּ בְּיָדָהּ וְהוֹצִיאוּ אוֹתָהּ מִן הָעִיר עִם לוֹט וּשְׁתֵּי בְּנוֹתֶיהָ. הַמַּלְאָךְ אָמַר: ״אַל תַּבִּיט אַחֲרֶיךָ״. אֲבָל אֵשֶׁת לוֹט הִבִּיטָה אָחוֹרָה, וְהָיְתָה לִנְצִיב מֶלַח.",
+   "fr": "La Torah ne donne pas le nom de la femme de Lot. Quand Sodome va être détruite, les anges la prennent par la main et la font sortir de la ville avec Lot et leurs deux filles. L’ange dit : « Ne regarde pas derrière toi. » Mais la femme de Lot regarde en arrière, et elle devient une statue de sel."
+  },
+  "events": [
+   {
+    "am": 2047,
+    "datesrc": "midrash",
+    "ref": "Genesis.19.15",
+    "parasha": "vayera",
+    "he": "הַמַּלְאָכִים מְזָרְזִים אֶת לוֹט לָקַחַת אוֹתָהּ וְאֶת בְּנוֹתָיו",
+    "fr": "Les anges pressent Lot de l’emmener avec ses filles"
+   },
+   {
+    "am": 2047,
+    "datesrc": "midrash",
+    "ref": "Genesis.19.16",
+    "parasha": "vayera",
+    "he": "הַמַּלְאָכִים אוֹחֲזִים בְּיָדָהּ וּמוֹצִיאִים אוֹתָהּ מִן הָעִיר",
+    "fr": "Les anges la prennent par la main et la font sortir de la ville"
+   },
+   {
+    "am": 2047,
+    "datesrc": "midrash",
+    "ref": "Genesis.19.26",
+    "parasha": "vayera",
+    "he": "מַבִּיטָה אָחוֹרָה וְהוֹפֶכֶת לִנְצִיב מֶלַח",
+    "fr": "Regarde en arrière et devient une statue de sel"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.19.17",
+    "he": "הַמַּלְאָךְ אָמַר: ״אַל תַּבִּיט אַחֲרֶיךָ״. כְּשֶׁמְּקַבְּלִים הוֹרָאָה כְּדֵי לְהִנָּצֵל, חָשׁוּב לְהַקְשִׁיב לָהּ.",
+    "fr": "L’ange a dit : « Ne regarde pas derrière toi. » Quand on reçoit une consigne pour être sauvé, il est important de l’écouter."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.19.17",
+    "source": {
+     "he": "רש״י בראשית י״ט:י״ז",
+     "fr": "Rachi sur Gn 19,17"
+    },
+    "he": "לְפִי רַשִׁ״י, לוֹט נִצַּל רַק בִּזְכוּת אַבְרָהָם, וְלָכֵן לֹא הָיָה רָאוּי שֶׁיִּסְתַּכֵּל בְּעָנְשָׁם שֶׁל אַנְשֵׁי סְדוֹם.",
+    "fr": "Selon Rachi, Lot n’était sauvé que grâce à Avraham ; il ne convenait donc pas qu’il regarde la punition des gens de Sodome."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.19.26",
+    "source": {
+     "he": "רש״י בראשית י״ט:כ״ו",
+     "fr": "Rachi sur Gn 19,26"
+    },
+    "he": "לְפִי רַשִׁ״י, הִיא לֹא רָצְתָה לָתֵת מֶלַח לָאוֹרְחִים, וְלָכֵן הָיְתָה לִנְצִיב מֶלַח: ״בְּמֶלַח חָטְאָה וּבְמֶלַח לָקְתָה״.",
+    "fr": "Selon Rachi, elle n’a pas voulu donner de sel aux invités ; c’est pourquoi elle est devenue une statue de sel : « par le sel elle a fauté, par le sel elle a été punie »."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מִי הָיָה בַּעְלָהּ?",
+     "fr": "Qui était son mari ?"
+    },
+    "options": [
+     {
+      "he": "לוֹט",
+      "fr": "Lot"
+     },
+     {
+      "he": "אַבְרָם",
+      "fr": "Avram"
+     },
+     {
+      "he": "אֲבִימֶלֶךְ",
+      "fr": "Avimélekh"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.19.15"
+   },
+   {
+    "q": {
+     "he": "מָה אָמַר הַמַּלְאָךְ לֹא לַעֲשׂוֹת?",
+     "fr": "Qu’est-ce que l’ange a dit de ne pas faire ?"
+    },
+    "options": [
+     {
+      "he": "לֹא לָרוּץ",
+      "fr": "Ne pas courir"
+     },
+     {
+      "he": "לֹא לְהַבִּיט אָחוֹרָה",
+      "fr": "Ne pas regarder en arrière"
+     },
+     {
+      "he": "לֹא לְדַבֵּר",
+      "fr": "Ne pas parler"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.19.17"
+   },
+   {
+    "q": {
+     "he": "לְמָה הָפְכָה אֵשֶׁת לוֹט?",
+     "fr": "En quoi la femme de Lot a-t-elle été changée ?"
+    },
+    "options": [
+     {
+      "he": "לְאֶבֶן",
+      "fr": "En pierre"
+     },
+     {
+      "he": "לְעֵץ",
+      "fr": "En arbre"
+     },
+     {
+      "he": "לִנְצִיב מֶלַח",
+      "fr": "En statue de sel"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.19.26"
+   },
+   {
+    "q": {
+     "he": "מִי אָחַז בְּיָדָהּ וְהוֹצִיא אוֹתָהּ מִן הָעִיר?",
+     "fr": "Qui l’a prise par la main pour la faire sortir de la ville ?"
+    },
+    "options": [
+     {
+      "he": "הַמַּלְאָכִים",
+      "fr": "Les anges"
+     },
+     {
+      "he": "בְּנוֹתֶיהָ",
+      "fr": "Ses filles"
+     },
+     {
+      "he": "אַבְרָהָם",
+      "fr": "Avraham"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.19.16"
+   },
+   {
+    "q": {
+     "he": "לְפִי הַמִּדְרָשׁ, מָה הָיָה שְׁמָהּ?",
+     "fr": "Selon le midrash, comment s’appelait-elle ?"
+    },
+    "options": [
+     {
+      "he": "מִלְכָּה",
+      "fr": "Milka"
+     },
+     {
+      "he": "עִירִית",
+      "fr": "Irit"
+     },
+     {
+      "he": "יִסְכָּה",
+      "fr": "Yiska"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.19.26",
+    "src": "midrash"
+   }
+  ],
+  "notes": [
+   {
+    "key": "nameNote",
+    "src": "midrash",
+    "source": {
+     "he": "פרקי דרבי אליעזר כ״ה",
+     "fr": "Pirké de Rabbi Éliézer, ch. 25"
+    },
+    "ref": "Genesis.19.26",
+    "he": "הַתּוֹרָה קוֹרֵאת לָהּ רַק ״אִשְׁתּוֹ״ שֶׁל לוֹט. בְּפִרְקֵי דְּרַבִּי אֱלִיעֶזֶר הִיא נִקְרֵאת עִירִית.",
+    "fr": "La Torah l’appelle seulement « sa femme » (de Lot). Dans Pirké de Rabbi Éliézer, elle est appelée Irit."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "paro-avram": {
+  "bio": {
+   "he": "בִּימֵי אַבְרָם הָיָה רָעָב בְּאֶרֶץ כְּנַעַן, וְאַבְרָם וְשָׂרַי יָרְדוּ לְמִצְרַיִם. שָׂרֵי פַּרְעֹה רָאוּ אֶת שָׂרַי הַיָּפָה, וְהִיא נִלְקְחָה לְבֵית פַּרְעֹה. פַּרְעֹה נָתַן לְאַבְרָם צֹאן, בָּקָר, חֲמוֹרִים וּגְמַלִּים. אֲבָל ה׳ פָּגַע בְּפַרְעֹה וּבְבֵיתוֹ בִּנְגָעִים גְּדוֹלִים, וּפַרְעֹה הֶחֱזִיר אֶת שָׂרַי לְאַבְרָם וְשָׁלַח אוֹתָם מֵאַרְצוֹ עִם כָּל אֲשֶׁר לָהֶם.",
+   "fr": "Au temps d’Avram, une famine frappe le pays de Canaan, et Avram et Saraï descendent en Égypte. Les ministres de Pharaon voient la belle Saraï, et elle est emmenée dans le palais de Pharaon. Pharaon donne à Avram des moutons, des bœufs, des ânes et des chameaux. Mais Dieu frappe Pharaon et sa maison de grandes plaies, et Pharaon rend Saraï à Avram et les fait partir de son pays avec tout ce qu’ils ont."
+  },
+  "events": [
+   {
+    "am": null,
+    "ref": "Genesis.12.14-15",
+    "parasha": "lech-lecha",
+    "he": "שָׂרָיו מְהַלְלִים אֶת שָׂרַי, וְהִיא נִלְקַחַת לְבֵיתוֹ",
+    "fr": "Ses ministres font l’éloge de Saraï, et elle est emmenée dans son palais"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.12.16",
+    "parasha": "lech-lecha",
+    "he": "נוֹתֵן לְאַבְרָם צֹאן, בָּקָר, חֲמוֹרִים וּגְמַלִּים",
+    "fr": "Donne à Avram moutons, bœufs, ânes et chameaux"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.12.17",
+    "parasha": "lech-lecha",
+    "he": "ה׳ פּוֹגֵעַ בּוֹ וּבְבֵיתוֹ בִּנְגָעִים גְּדוֹלִים",
+    "fr": "Dieu le frappe, lui et sa maison, de grandes plaies"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.12.18-20",
+    "parasha": "lech-lecha",
+    "he": "מַחֲזִיר אֶת שָׂרַי לְאַבְרָם וְשׁוֹלֵחַ אוֹתָם מִמִּצְרַיִם",
+    "fr": "Rend Saraï à Avram et les fait partir d’Égypte"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.12.17",
+    "he": "ה׳ שָׁמַר עַל שָׂרַי גַּם בְּאֶרֶץ רְחוֹקָה, ״עַל דְּבַר שָׂרַי אֵשֶׁת אַבְרָם״.",
+    "fr": "Dieu protège Saraï même dans un pays lointain, « à cause de Saraï, la femme d’Avram »."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.16.1",
+    "source": {
+     "he": "רש״י בראשית ט״ז:א׳",
+     "fr": "Rachi sur Gn 16,1"
+    },
+    "he": "לְפִי רַשִׁ״י, פַּרְעֹה רָאָה אֶת הַנִּסִּים שֶׁנַּעֲשׂוּ לְשָׂרַי וְנָתַן לָהּ אֶת בִּתּוֹ הָגָר. הוּא אָמַר: מוּטָב שֶׁתִּהְיֶה בִּתִּי שִׁפְחָה בַּבַּיִת הַזֶּה מִגְּבִירָה בְּבַיִת אַחֵר.",
+    "fr": "Selon Rachi, Pharaon a vu les miracles faits pour Saraï et lui a donné sa fille Hagar. Il s’est dit : mieux vaut que ma fille soit servante dans cette maison que maîtresse dans une autre."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "לָמָּה יָרַד אַבְרָם לְמִצְרַיִם?",
+     "fr": "Pourquoi Avram est-il descendu en Égypte ?"
+    },
+    "options": [
+     {
+      "he": "בִּגְלַל רָעָב",
+      "fr": "À cause d’une famine"
+     },
+     {
+      "he": "כְּדֵי לִפְגֹּשׁ אֶת פַּרְעֹה",
+      "fr": "Pour rencontrer Pharaon"
+     },
+     {
+      "he": "כְּדֵי לִקְנוֹת גְּמַלִּים",
+      "fr": "Pour acheter des chameaux"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.12.10"
+   },
+   {
+    "q": {
+     "he": "מָה עָשָׂה ה׳ לְפַרְעֹה?",
+     "fr": "Qu’a fait Dieu à Pharaon ?"
+    },
+    "options": [
+     {
+      "he": "נָתַן לוֹ מַתָּנָה",
+      "fr": "Il lui a fait un cadeau"
+     },
+     {
+      "he": "פָּגַע בּוֹ בִּנְגָעִים",
+      "fr": "Il l’a frappé de plaies"
+     },
+     {
+      "he": "שָׁלַח לוֹ חֲלוֹם",
+      "fr": "Il lui a envoyé un rêve"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.12.17"
+   },
+   {
+    "q": {
+     "he": "מָה נָתַן פַּרְעֹה לְאַבְרָם?",
+     "fr": "Qu’a donné Pharaon à Avram ?"
+    },
+    "options": [
+     {
+      "he": "אַרְמוֹן",
+      "fr": "Un palais"
+     },
+     {
+      "he": "כֶּתֶר זָהָב",
+      "fr": "Une couronne d’or"
+     },
+     {
+      "he": "צֹאן, בָּקָר וּגְמַלִּים",
+      "fr": "Des moutons, des bœufs et des chameaux"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.12.16"
+   },
+   {
+    "q": {
+     "he": "מָה עָשָׂה פַּרְעֹה בַּסּוֹף?",
+     "fr": "Qu’a fait Pharaon à la fin ?"
+    },
+    "options": [
+     {
+      "he": "שָׂם אֶת אַבְרָם בַּכֶּלֶא",
+      "fr": "Il a mis Avram en prison"
+     },
+     {
+      "he": "הֶחֱזִיר אֶת שָׂרַי וְשָׁלַח אוֹתָם",
+      "fr": "Il a rendu Saraï et les a fait partir"
+     },
+     {
+      "he": "הִשְׁאִיר אֶת שָׂרַי אֶצְלוֹ",
+      "fr": "Il a gardé Saraï chez lui"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.12.19-20"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מִי הָיְתָה הַבַּת שֶׁל פַּרְעֹה?",
+     "fr": "Selon Rachi, qui était la fille de Pharaon ?"
+    },
+    "options": [
+     {
+      "he": "הָגָר",
+      "fr": "Hagar"
+     },
+     {
+      "he": "מִלְכָּה",
+      "fr": "Milka"
+     },
+     {
+      "he": "רִבְקָה",
+      "fr": "Rivka"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.16.1",
+    "src": "midrash"
+   }
+  ],
+  "notes": [
+   {
+    "key": "identityNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י תהלים ל״ד:א׳",
+     "fr": "Rachi sur Psaumes 34,1"
+    },
+    "he": "הַתּוֹרָה אֵינָהּ אוֹמֶרֶת אֶת שְׁמוֹ. לְפִי רַשִׁ״י, ״פַּרְעֹה״ הוּא הַשֵּׁם שֶׁל כָּל מַלְכֵי מִצְרַיִם, כְּמוֹ ״אֲבִימֶלֶךְ״ לְמַלְכֵי פְּלִשְׁתִּים. זֶה לֹא הַפַּרְעֹה שֶׁל יוֹסֵף, שֶׁחַי בְּעֶרֶךְ מָאתַיִם שָׁנָה אַחֲרָיו.",
+    "fr": "La Torah ne donne pas son nom. Selon Rachi, « Pharaon » est le titre de tous les rois d’Égypte, comme « Avimélekh » pour les rois philistins. Ce n’est pas le Pharaon de l’histoire de Yossef, qui vit environ deux siècles plus tard."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "malki-tzedek": {
+  "bio": {
+   "he": "מַלְכִּי־צֶדֶק הָיָה מֶלֶךְ שָׁלֵם וְכֹהֵן לְאֵל עֶלְיוֹן. כְּשֶׁאַבְרָם חָזַר מִן הַמִּלְחָמָה, אַחֲרֵי שֶׁהִצִּיל אֶת לוֹט, מַלְכִּי־צֶדֶק יָצָא לִקְרָאתוֹ עִם לֶחֶם וָיַיִן. הוּא בֵּרַךְ אֶת אַבְרָם, וּבֵרַךְ אֶת אֵל עֶלְיוֹן שֶׁנָּתַן אֶת הָאוֹיְבִים בְּיָדוֹ. אַבְרָם נָתַן לוֹ מַעֲשֵׂר מִכֹּל. לְפִי הַמִּדְרָשׁ, מַלְכִּי־צֶדֶק הוּא שֵׁם בֶּן נֹחַ, וּלְפִי הַתַּרְגּוּם, שָׁלֵם הִיא יְרוּשָׁלַיִם.",
+   "fr": "Malki-Tsédek était roi de Chalem et prêtre du « Dieu Très-Haut ». Quand Avram revient de la guerre après avoir délivré Lot, Malki-Tsédek vient à sa rencontre avec du pain et du vin. Il bénit Avram, et il bénit le Dieu Très-Haut qui lui a livré ses ennemis. Avram lui donne le dixième de tout. Selon le midrash, Malki-Tsédek est Chem, fils de Noa’h, et selon le Targoum, Chalem est Jérusalem."
+  },
+  "events": [
+   {
+    "am": null,
+    "ref": "Genesis.14.18",
+    "parasha": "lech-lecha",
+    "he": "יוֹצֵא לִקְרַאת אַבְרָם עִם לֶחֶם וָיַיִן",
+    "fr": "Vient à la rencontre d’Avram avec du pain et du vin"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.14.19-20",
+    "parasha": "lech-lecha",
+    "he": "מְבָרֵךְ אֶת אַבְרָם וְאֶת אֵל עֶלְיוֹן",
+    "fr": "Bénit Avram et le Dieu Très-Haut"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.14.20",
+    "parasha": "lech-lecha",
+    "he": "מְקַבֵּל מֵאַבְרָם מַעֲשֵׂר מִכֹּל",
+    "fr": "Reçoit d’Avram le dixième de tout"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.14.18",
+    "source": {
+     "he": "רש״י בראשית י״ד:י״ח",
+     "fr": "Rachi sur Gn 14,18"
+    },
+    "he": "לְפִי רַשִׁ״י, כָּךְ עוֹשִׂים לְמִי שֶׁעָיֵף מִן הַמִּלְחָמָה: נוֹתְנִים לוֹ לֶחֶם וָיַיִן. כָּךְ הֶרְאָה מַלְכִּי־צֶדֶק שֶׁאֵין בְּלִבּוֹ כַּעַס עַל אַבְרָם.",
+    "fr": "Selon Rachi, c’est ainsi qu’on reçoit celui qui est fatigué par la guerre : avec du pain et du vin. Malki-Tsédek montre ainsi qu’il n’a aucune rancune contre Avram."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.14.20",
+    "he": "מַלְכִּי־צֶדֶק בֵּרַךְ אֶת אֵל עֶלְיוֹן עַל הַנִּצָּחוֹן: הוּא יָדַע שֶׁהַהַצְלָחָה בָּאָה מִן הַשָּׁמַיִם.",
+    "fr": "Malki-Tsédek bénit le Dieu Très-Haut pour la victoire : il sait que la réussite vient du Ciel."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "שֶׁל אֵיזוֹ עִיר הָיָה מַלְכִּי־צֶדֶק מֶלֶךְ?",
+     "fr": "De quelle ville Malki-Tsédek était-il roi ?"
+    },
+    "options": [
+     {
+      "he": "סְדוֹם",
+      "fr": "Sodome"
+     },
+     {
+      "he": "שָׁלֵם",
+      "fr": "Chalem"
+     },
+     {
+      "he": "גְּרָר",
+      "fr": "Guérar"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.14.18"
+   },
+   {
+    "q": {
+     "he": "מָה הוֹצִיא מַלְכִּי־צֶדֶק לְאַבְרָם?",
+     "fr": "Qu’apporte Malki-Tsédek à Avram ?"
+    },
+    "options": [
+     {
+      "he": "לֶחֶם וָיַיִן",
+      "fr": "Du pain et du vin"
+     },
+     {
+      "he": "חָלָב וּדְבַשׁ",
+      "fr": "Du lait et du miel"
+     },
+     {
+      "he": "זָהָב וָכֶסֶף",
+      "fr": "De l’or et de l’argent"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.14.18"
+   },
+   {
+    "q": {
+     "he": "מָה הָיָה מַלְכִּי־צֶדֶק חוּץ מִמֶּלֶךְ?",
+     "fr": "Qu’était Malki-Tsédek, en plus d’être roi ?"
+    },
+    "options": [
+     {
+      "he": "רוֹעֵה צֹאן",
+      "fr": "Berger"
+     },
+     {
+      "he": "צַיָּד",
+      "fr": "Chasseur"
+     },
+     {
+      "he": "כֹּהֵן",
+      "fr": "Prêtre"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.14.18"
+   },
+   {
+    "q": {
+     "he": "מָה נָתַן לוֹ אַבְרָם?",
+     "fr": "Que lui a donné Avram ?"
+    },
+    "options": [
+     {
+      "he": "חֲצִי מִכֹּל",
+      "fr": "La moitié de tout"
+     },
+     {
+      "he": "מַעֲשֵׂר מִכֹּל",
+      "fr": "Le dixième de tout"
+     },
+     {
+      "he": "שׁוּם דָּבָר",
+      "fr": "Rien"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.14.20",
+    "src": "midrash"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מִי הָיָה מַלְכִּי־צֶדֶק?",
+     "fr": "Selon Rachi, qui était Malki-Tsédek ?"
+    },
+    "options": [
+     {
+      "he": "נִמְרֹד",
+      "fr": "Nimrod"
+     },
+     {
+      "he": "תֶּרַח",
+      "fr": "Téra’h"
+     },
+     {
+      "he": "שֵׁם בֶּן נֹחַ",
+      "fr": "Chem, fils de Noa’h"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.14.18",
+    "src": "midrash"
+   }
+  ],
+  "notes": [
+   {
+    "key": "identityNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית י״ד:י״ח; נדרים ל״ב ע״ב",
+     "fr": "Rachi sur Gn 14,18 ; Nedarim 32b"
+    },
+    "ref": "Genesis.14.18",
+    "he": "הַתּוֹרָה אֵינָהּ אוֹמֶרֶת מִי הָיוּ הוֹרָיו. לְפִי רַשִׁ״י, עַל פִּי הַמִּדְרָשׁ, מַלְכִּי־צֶדֶק הוּא שֵׁם בֶּן נֹחַ.",
+    "fr": "La Torah ne dit pas qui étaient ses parents. Selon Rachi, d’après le midrash, Malki-Tsédek est Chem, fils de Noa’h."
+   },
+   {
+    "key": "identityNote",
+    "src": "midrash",
+    "source": {
+     "he": "תרגום אונקלוס בראשית י״ד:י״ח",
+     "fr": "Targoum Onkelos sur Gn 14,18"
+    },
+    "ref": "Genesis.14.18",
+    "he": "הַתַּרְגּוּם מְתַרְגֵּם ״מֶלֶךְ שָׁלֵם״: מֶלֶךְ יְרוּשָׁלַיִם.",
+    "fr": "Le Targoum traduit « roi de Chalem » par « roi de Jérusalem »."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "avimelekh": {
+  "bio": {
+   "he": "אֲבִימֶלֶךְ הָיָה מֶלֶךְ גְּרָר, בְּאֶרֶץ פְּלִשְׁתִּים. כְּשֶׁאַבְרָהָם גָּר שָׁם, אֲבִימֶלֶךְ לָקַח אֶת שָׂרָה לְבֵיתוֹ, אֲבָל ה׳ בָּא אֵלָיו בַּחֲלוֹם וְהִזְהִיר אוֹתוֹ, וְהוּא הֶחֱזִיר אוֹתָהּ מִיָּד. אַחַר כָּךְ כָּרְתוּ אַבְרָהָם וַאֲבִימֶלֶךְ בְּרִית בִּבְאֵר שֶׁבַע. שָׁנִים רַבּוֹת אַחַר כָּךְ, מֶלֶךְ גְּרָר בְּשֵׁם אֲבִימֶלֶךְ שָׁמַר עַל יִצְחָק וְרִבְקָה, וּלְבַסּוֹף כָּרַת גַּם עִם יִצְחָק בְּרִית שָׁלוֹם.",
+   "fr": "Avimélekh était roi de Guérar, au pays des Philistins. Quand Avraham habite là, Avimélekh fait venir Sarah chez lui, mais Dieu vient à lui en rêve et l’avertit, et il la rend aussitôt. Ensuite, Avraham et Avimélekh font une alliance à Beer-Chéva. Bien des années plus tard, un roi de Guérar nommé Avimélekh protège Yitzhak et Rivka, et finit par conclure aussi une alliance de paix avec Yitzhak."
+  },
+  "events": [
+   {
+    "am": null,
+    "ref": "Genesis.20.2-3",
+    "parasha": "vayera",
+    "he": "לוֹקֵחַ אֶת שָׂרָה, וַה׳ מַזְהִיר אוֹתוֹ בַּחֲלוֹם",
+    "fr": "Fait venir Sarah ; Dieu l’avertit en rêve"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.20.14-17",
+    "parasha": "vayera",
+    "he": "מַחֲזִיר אֶת שָׂרָה, נוֹתֵן מַתָּנוֹת לְאַבְרָהָם, וְאַבְרָהָם מִתְפַּלֵּל עָלָיו",
+    "fr": "Rend Sarah, offre des cadeaux à Avraham, et Avraham prie pour lui"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.21.22-32",
+    "parasha": "vayera",
+    "he": "כּוֹרֵת בְּרִית עִם אַבְרָהָם בִּבְאֵר שֶׁבַע",
+    "fr": "Fait une alliance avec Avraham à Beer-Chéva"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.26.8-11",
+    "parasha": "toldot",
+    "he": "רוֹאֶה מִן הַחַלּוֹן שֶׁרִבְקָה הִיא אֵשֶׁת יִצְחָק, וּמְצַוֶּה לְהָגֵן עֲלֵיהֶם",
+    "fr": "Voit par la fenêtre que Rivka est la femme de Yitzhak, et ordonne de les protéger"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.26.16",
+    "parasha": "toldot",
+    "he": "אוֹמֵר לְיִצְחָק: ״לֵךְ מֵעִמָּנוּ, כִּי עָצַמְתָּ מִמֶּנּוּ מְאֹד״",
+    "fr": "Dit à Yitzhak : « Va-t’en de chez nous, car tu es devenu bien plus puissant que nous »"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.26.26-31",
+    "parasha": "toldot",
+    "he": "בָּא עִם פִּיכֹל וְכוֹרֵת בְּרִית שָׁלוֹם עִם יִצְחָק",
+    "fr": "Vient avec Pikhol et conclut une alliance de paix avec Yitzhak"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.21.1",
+    "source": {
+     "he": "רש״י בראשית כ״א:א׳",
+     "fr": "Rachi sur Gn 21,1"
+    },
+    "he": "רַשִׁ״י: אַבְרָהָם הִתְפַּלֵּל עַל אֲבִימֶלֶךְ, וּמִיָּד אַחַר כָּךְ ה׳ זָכַר אֶת שָׂרָה. מִי שֶׁמְּבַקֵּשׁ רַחֲמִים עַל חֲבֵרוֹ, וְהוּא צָרִיךְ לְאוֹתוֹ דָּבָר, נַעֲנֶה רִאשׁוֹן.",
+    "fr": "Rachi : Avraham prie pour Avimélekh, et juste après, Dieu se souvient de Sarah. Celui qui prie pour un autre alors qu’il a besoin de la même chose est exaucé en premier."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.26.28",
+    "he": "אֲבִימֶלֶךְ אָמַר לְיִצְחָק: ״רָאוֹ רָאִינוּ כִּי הָיָה ה׳ עִמָּךְ״. גַּם אֲחֵרִים רוֹאִים כְּשֶׁאָדָם הוֹלֵךְ בְּדֶרֶךְ טוֹבָה.",
+    "fr": "Avimélekh dit à Yitzhak : « Nous avons bien vu que Dieu est avec toi. » Les autres aussi remarquent quand quelqu’un suit un bon chemin."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "שֶׁל אֵיזוֹ עִיר הָיָה אֲבִימֶלֶךְ מֶלֶךְ?",
+     "fr": "De quelle ville Avimélekh était-il roi ?"
+    },
+    "options": [
+     {
+      "he": "חָרָן",
+      "fr": "Haran"
+     },
+     {
+      "he": "גְּרָר",
+      "fr": "Guérar"
+     },
+     {
+      "he": "סְדוֹם",
+      "fr": "Sodome"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.20.2"
+   },
+   {
+    "q": {
+     "he": "אֵיךְ הִזְהִיר ה׳ אֶת אֲבִימֶלֶךְ?",
+     "fr": "Comment Dieu a-t-il averti Avimélekh ?"
+    },
+    "options": [
+     {
+      "he": "בַּחֲלוֹם",
+      "fr": "Dans un rêve"
+     },
+     {
+      "he": "עַל יְדֵי נָבִיא",
+      "fr": "Par un prophète"
+     },
+     {
+      "he": "בְּמִכְתָּב",
+      "fr": "Par une lettre"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.20.3"
+   },
+   {
+    "q": {
+     "he": "כַּמָּה כֶּסֶף נָתַן אֲבִימֶלֶךְ לְאַבְרָהָם?",
+     "fr": "Combien de pièces d’argent Avimélekh a-t-il données à Avraham ?"
+    },
+    "options": [
+     {
+      "he": "מֵאָה",
+      "fr": "100"
+     },
+     {
+      "he": "אַרְבַּע מֵאוֹת",
+      "fr": "400"
+     },
+     {
+      "he": "אֶלֶף",
+      "fr": "1000"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.20.16"
+   },
+   {
+    "q": {
+     "he": "אֵיפֹה כָּרְתוּ אַבְרָהָם וַאֲבִימֶלֶךְ בְּרִית?",
+     "fr": "Où Avraham et Avimélekh ont-ils fait une alliance ?"
+    },
+    "options": [
+     {
+      "he": "בְּחֶבְרוֹן",
+      "fr": "À Hévron"
+     },
+     {
+      "he": "בִּבְאֵר שֶׁבַע",
+      "fr": "À Beer-Chéva"
+     },
+     {
+      "he": "בְּשָׁלֵם",
+      "fr": "À Chalem"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.21.31"
+   },
+   {
+    "q": {
+     "he": "אֵיךְ גִּלָּה אֲבִימֶלֶךְ שֶׁרִבְקָה הִיא אֵשֶׁת יִצְחָק?",
+     "fr": "Comment Avimélekh a-t-il découvert que Rivka était la femme de Yitzhak ?"
+    },
+    "options": [
+     {
+      "he": "מַלְאָךְ אָמַר לוֹ",
+      "fr": "Un ange le lui a dit"
+     },
+     {
+      "he": "רִבְקָה סִפְּרָה לוֹ",
+      "fr": "Rivka le lui a raconté"
+     },
+     {
+      "he": "הוּא רָאָה מִן הַחַלּוֹן",
+      "fr": "Il a regardé par la fenêtre"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.26.8"
+   }
+  ],
+  "notes": [
+   {
+    "key": "nameNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י תהלים ל״ד:א׳",
+     "fr": "Rachi sur Psaumes 34,1"
+    },
+    "he": "לְפִי רַשִׁ״י, ״אֲבִימֶלֶךְ״ הוּא כִּנּוּי לְכָל מַלְכֵי פְּלִשְׁתִּים, כְּמוֹ ״פַּרְעֹה״ לְמַלְכֵי מִצְרַיִם. הַתּוֹרָה אֵינָהּ אוֹמֶרֶת אִם אֲבִימֶלֶךְ שֶׁל יִצְחָק הוּא אוֹתוֹ מֶלֶךְ שֶׁל אַבְרָהָם.",
+    "fr": "Selon Rachi, « Avimélekh » est le titre de tous les rois philistins, comme « Pharaon » pour les rois d’Égypte. La Torah ne dit pas si l’Avimélekh de Yitzhak est le même roi que celui d’Avraham."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "esav": {
+  "bio": {
+   "he": "עֵשָׂו נוֹלַד רִאשׁוֹן, אַדְמוֹנִי וּמָלֵא שֵׂעָר, וְאַחֲרָיו יָצָא יַעֲקֹב, אָחִיו הַתְּאוֹם. הוּא גָּדַל וְהָיָה צַיָּד, ״אִישׁ שָׂדֶה״, וְיִצְחָק אָבִיו אָהַב אוֹתוֹ. יוֹם אֶחָד חָזַר עָיֵף מִן הַשָּׂדֶה וּמָכַר לְיַעֲקֹב אֶת הַבְּכוֹרָה בִּשְׁבִיל נְזִיד עֲדָשִׁים אָדֹם. כְּשֶׁיַּעֲקֹב קִבֵּל אֶת הַבְּרָכָה, עֵשָׂו בָּכָה וְכָעַס מְאֹד, וְיַעֲקֹב בָּרַח. אַחֲרֵי שָׁנִים רַבּוֹת רָץ עֵשָׂו לִקְרַאת יַעֲקֹב, חִבֵּק וְנִשֵּׁק אוֹתוֹ, וּמִמֶּנּוּ יָצָא עַם אֱדוֹם.",
+   "fr": "Essav naît le premier, roux et couvert de poils, et après lui sort Yaakov, son frère jumeau. Il devient chasseur, « homme des champs », et Yitzhak, son père, l’aime. Un jour, revenu épuisé des champs, il vend à Yaakov son droit d’aînesse contre un plat de lentilles rouges. Quand Yaakov reçoit la bénédiction, Essav pleure et se met très en colère, et Yaakov s’enfuit. Bien des années plus tard, Essav court à la rencontre de Yaakov, le serre dans ses bras et l’embrasse ; de lui descend le peuple d’Édom."
+  },
+  "events": [
+   {
+    "am": 2108,
+    "datesrc": "torah",
+    "ref": "Genesis.25.24-25",
+    "parasha": "toldot",
+    "he": "נוֹלַד רִאשׁוֹן, אַדְמוֹנִי וְכֻלּוֹ שֵׂעָר",
+    "fr": "Naît le premier, roux et tout couvert de poils"
+   },
+   {
+    "am": 2123,
+    "datesrc": "midrash",
+    "ref": "Genesis.25.29-34",
+    "parasha": "toldot",
+    "he": "מוֹכֵר אֶת הַבְּכוֹרָה לְיַעֲקֹב בִּנְזִיד עֲדָשִׁים (לְפִי רַשִׁ״י, בַּיּוֹם שֶׁאַבְרָהָם נִפְטַר)",
+    "fr": "Vend son droit d’aînesse à Yaakov pour un plat de lentilles (selon Rachi, le jour de la mort d’Avraham)"
+   },
+   {
+    "am": 2148,
+    "datesrc": "torah",
+    "ref": "Genesis.26.34",
+    "parasha": "toldot",
+    "he": "בְּגִיל 40 נוֹשֵׂא אֶת יְהוּדִית וְאֶת בָּשְׂמַת",
+    "fr": "À 40 ans, épouse Yehoudit et Basmat"
+   },
+   {
+    "am": 2171,
+    "datesrc": "midrash",
+    "ref": "Genesis.27.30-40",
+    "parasha": "toldot",
+    "he": "חוֹזֵר מִן הַצַּיִד, מְגַלֶּה שֶׁיַּעֲקֹב קִבֵּל אֶת הַבְּרָכָה, וּבוֹכֶה",
+    "fr": "Revient de la chasse, découvre que Yaakov a reçu la bénédiction, et pleure"
+   },
+   {
+    "am": 2205,
+    "datesrc": "midrash",
+    "ref": "Genesis.33.1-4",
+    "parasha": "vayishlach",
+    "he": "בָּא עִם אַרְבַּע מֵאוֹת אִישׁ, אֲבָל רָץ לִקְרַאת יַעֲקֹב וּמְחַבֵּק אוֹתוֹ",
+    "fr": "Arrive avec 400 hommes, mais court vers Yaakov et le serre dans ses bras"
+   },
+   {
+    "am": 2228,
+    "datesrc": "torah",
+    "ref": "Genesis.35.29",
+    "parasha": "vayishlach",
+    "he": "קוֹבֵר אֶת יִצְחָק אָבִיו יַחַד עִם יַעֲקֹב",
+    "fr": "Enterre son père Yitzhak avec Yaakov"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.25.34",
+    "he": "עֵשָׂו ״בָּזָה אֶת הַבְּכוֹרָה״: הוּא וִתֵּר עַל דָּבָר חָשׁוּב בִּשְׁבִיל אֹכֶל שֶׁל רֶגַע.",
+    "fr": "Essav « méprise le droit d’aînesse » : il renonce à quelque chose d’important pour un repas d’un instant."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.33.4",
+    "source": {
+     "he": "רש״י בראשית ל״ג:ד׳",
+     "fr": "Rachi sur Gn 33,4"
+    },
+    "he": "רַשִׁ״י מֵבִיא אֶת רַבִּי שִׁמְעוֹן בַּר יוֹחַאי: בְּאוֹתוֹ רֶגַע הִתְעוֹרְרוּ רַחֲמָיו שֶׁל עֵשָׂו, וְהוּא נִשֵּׁק אֶת יַעֲקֹב בְּכָל לִבּוֹ.",
+    "fr": "Rachi cite Rabbi Chimon bar Yo’haï : à ce moment, la tendresse d’Essav s’est réveillée, et il a embrassé Yaakov de tout son cœur."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "אֵיךְ נִרְאָה עֵשָׂו כְּשֶׁנּוֹלַד?",
+     "fr": "À quoi ressemblait Essav à sa naissance ?"
+    },
+    "options": [
+     {
+      "he": "קָטָן וְחִוֵּר",
+      "fr": "Petit et pâle"
+     },
+     {
+      "he": "אַדְמוֹנִי וּמָלֵא שֵׂעָר",
+      "fr": "Roux et couvert de poils"
+     },
+     {
+      "he": "בְּלִי שֵׂעָר בִּכְלָל",
+      "fr": "Sans aucun cheveu"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.25.25"
+   },
+   {
+    "q": {
+     "he": "מָה מָכַר עֵשָׂו לְיַעֲקֹב?",
+     "fr": "Qu’est-ce qu’Essav a vendu à Yaakov ?"
+    },
+    "options": [
+     {
+      "he": "אֶת הַקֶּשֶׁת שֶׁלּוֹ",
+      "fr": "Son arc"
+     },
+     {
+      "he": "אֶת הַצֹּאן שֶׁלּוֹ",
+      "fr": "Ses moutons"
+     },
+     {
+      "he": "אֶת הַבְּכוֹרָה",
+      "fr": "Son droit d’aînesse"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.25.33"
+   },
+   {
+    "q": {
+     "he": "מָה הָיָה עֵשָׂו?",
+     "fr": "Quel était le métier d’Essav ?"
+    },
+    "options": [
+     {
+      "he": "צַיָּד",
+      "fr": "Chasseur"
+     },
+     {
+      "he": "רוֹעֵה צֹאן",
+      "fr": "Berger"
+     },
+     {
+      "he": "נַגָּר",
+      "fr": "Menuisier"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.25.27"
+   },
+   {
+    "q": {
+     "he": "לָמָּה קָרְאוּ לְעֵשָׂו ״אֱדוֹם״?",
+     "fr": "Pourquoi Essav est-il appelé « Édom » ?"
+    },
+    "options": [
+     {
+      "he": "בִּגְלַל הַשֶּׁמֶשׁ",
+      "fr": "À cause du soleil"
+     },
+     {
+      "he": "בִּגְלַל הַנְּזִיד הָאָדֹם",
+      "fr": "À cause du plat rouge"
+     },
+     {
+      "he": "בִּגְלַל הֶהָרִים",
+      "fr": "À cause des montagnes"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.25.30"
+   },
+   {
+    "q": {
+     "he": "מָה עָשָׂה עֵשָׂו כְּשֶׁפָּגַשׁ שׁוּב אֶת יַעֲקֹב?",
+     "fr": "Qu’a fait Essav quand il a revu Yaakov ?"
+    },
+    "options": [
+     {
+      "he": "בָּרַח",
+      "fr": "Il s’est enfui"
+     },
+     {
+      "he": "לֹא דִּבֵּר אִתּוֹ",
+      "fr": "Il ne lui a pas parlé"
+     },
+     {
+      "he": "רָץ, חִבֵּק וְנִשֵּׁק אוֹתוֹ",
+      "fr": "Il a couru, l’a serré dans ses bras et l’a embrassé"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.33.4"
+   }
+  ],
+  "notes": [
+   {
+    "key": "nameNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית כ״ה:כ״ה",
+     "fr": "Rachi sur Gn 25,25"
+    },
+    "ref": "Genesis.25.25",
+    "he": "הַתּוֹרָה אוֹמֶרֶת ״וַיִּקְרְאוּ שְׁמוֹ עֵשָׂו״. לְפִי רַשִׁ״י, הַשֵּׁם בָּא מִ״עָשׂוּי״: הוּא נוֹלַד כְּבָר מָלֵא שֵׂעָר, כְּמוֹ אָדָם גָּדוֹל. שְׁמוֹ הַנּוֹסָף, אֱדוֹם, בָּא מִן הַנְּזִיד הָאָדֹם (כ״ה:ל׳).",
+    "fr": "La Torah dit : « on l’appela Essav ». Selon Rachi, ce nom vient de « fait, achevé » : il est né déjà couvert de poils, comme un adulte. Son autre nom, Édom, vient du plat rouge (25,30)."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "yaakov": {
+  "bio": {
+   "he": "יַעֲקֹב נוֹלַד אַחֲרֵי עֵשָׂו, וְיָדוֹ אוֹחֶזֶת בַּעֲקֵב אָחִיו; הוּא הָיָה ״אִישׁ תָּם, יֹשֵׁב אֹהָלִים״, קָנָה מֵעֵשָׂו אֶת הַבְּכוֹרָה וְקִבֵּל מִיִּצְחָק אֶת הַבְּרָכָה. כְּשֶׁבָּרַח אֶל לָבָן, חָלַם בַּדֶּרֶךְ עַל סֻלָּם שֶׁמַּלְאָכִים עוֹלִים וְיוֹרְדִים בּוֹ. בְּחָרָן עָבַד אֵצֶל לָבָן עֶשְׂרִים שָׁנָה, נָשָׂא אֶת לֵאָה וְאֶת רָחֵל, וְשָׁם נוֹלְדוּ לוֹ אַחַד עָשָׂר בָּנִים וּבַת. בַּדֶּרֶךְ חֲזָרָה נֶאֱבַק עִם ״אִישׁ״ מִסְתּוֹרִי (לְפִי רַשִׁ״י, מַלְאָךְ), קִבֵּל אֶת הַשֵּׁם יִשְׂרָאֵל, וְהִשְׁלִים עִם עֵשָׂו. אַחֲרֵי שָׁנִים שֶׁל עֶצֶב עַל יוֹסֵף, שָׂמַח לִשְׁמֹעַ שֶׁהוּא חַי, וּבְגִיל מֵאָה וּשְׁלֹשִׁים יָרַד לְמִצְרַיִם. שָׁם בֵּרַךְ אֶת בָּנָיו וְנִפְטַר בְּגִיל מֵאָה אַרְבָּעִים וָשֶׁבַע, וּבָנָיו קָבְרוּ אוֹתוֹ בִּמְעָרַת הַמַּכְפֵּלָה.",
+   "fr": "Yaakov naît après Essav, la main tenant le talon de son frère ; « homme intègre, qui demeure sous les tentes », il achète à Essav le droit d’aînesse et reçoit la bénédiction de Yitzhak. En fuyant vers Lavan, il rêve en chemin d’une échelle où des anges montent et descendent. À Haran, il travaille vingt ans chez Lavan, épouse Léa et Ra’hel, et là naissent onze fils et une fille. Sur le chemin du retour, il lutte avec un mystérieux « homme » (un ange, selon Rachi), reçoit le nom d’Israël et se réconcilie avec Essav. Après des années de tristesse pour Yossef, il se réjouit d’apprendre qu’il est vivant, et à 130 ans il descend en Égypte. Là, il bénit ses fils et meurt à 147 ans ; ses fils l’enterrent dans la grotte de Makhpéla."
+  },
+  "events": [
+   {
+    "am": 2108,
+    "datesrc": "torah",
+    "ref": "Genesis.25.26",
+    "parasha": "toldot",
+    "he": "נוֹלַד אַחֲרֵי עֵשָׂו, וְיָדוֹ אוֹחֶזֶת בַּעֲקֵב אָחִיו",
+    "fr": "Naît après Essav, la main tenant le talon de son frère"
+   },
+   {
+    "am": 2171,
+    "datesrc": "midrash",
+    "ref": "Genesis.27.18-29",
+    "parasha": "toldot",
+    "he": "מְקַבֵּל מִיִּצְחָק אֶת הַבְּרָכָה: ״וְיִתֶּן לְךָ הָאֱלֹהִים מִטַּל הַשָּׁמַיִם״",
+    "fr": "Reçoit la bénédiction de Yitzhak : « Que Dieu te donne de la rosée du ciel »"
+   },
+   {
+    "am": 2185,
+    "datesrc": "midrash",
+    "ref": "Genesis.28.10-17",
+    "parasha": "vayetze",
+    "he": "בַּדֶּרֶךְ לְחָרָן חוֹלֵם עַל סֻלָּם שֶׁמַּלְאָכִים עוֹלִים וְיוֹרְדִים בּוֹ",
+    "fr": "En route vers Haran, rêve d’une échelle où des anges montent et descendent"
+   },
+   {
+    "am": 2192,
+    "datesrc": "midrash",
+    "ref": "Genesis.29.18-28",
+    "parasha": "vayetze",
+    "he": "עוֹבֵד שֶׁבַע שָׁנִים בִּשְׁבִיל רָחֵל; לָבָן נוֹתֵן לוֹ קֹדֶם אֶת לֵאָה, וְאַחַר כָּךְ אֶת רָחֵל",
+    "fr": "Travaille sept ans pour Ra’hel ; Lavan lui donne d’abord Léa, puis Ra’hel"
+   },
+   {
+    "am": 2205,
+    "datesrc": "midrash",
+    "ref": "Genesis.32.25-29",
+    "parasha": "vayishlach",
+    "he": "נֶאֱבָק עִם ״אִישׁ״ עַד עֲלוֹת הַשַּׁחַר, וּמְקַבֵּל אֶת הַשֵּׁם יִשְׂרָאֵל",
+    "fr": "Lutte avec « un homme » jusqu’à l’aube et reçoit le nom d’Israël"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.46.1-30",
+    "parasha": "vayigash",
+    "he": "בְּגִיל 130 (בראשית מ״ז:ט׳) יוֹרֵד לְמִצְרַיִם עִם כָּל מִשְׁפַּחְתּוֹ וּפוֹגֵשׁ שׁוּב אֶת יוֹסֵף",
+    "fr": "À 130 ans (Gn 47,9), descend en Égypte avec toute sa famille et retrouve Yossef"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.48.20-50.13",
+    "parasha": "vayechi",
+    "he": "מְבָרֵךְ אֶת אֶפְרַיִם וּמְנַשֶּׁה וְאֶת שְׁנֵים עָשָׂר בָּנָיו, וְנִפְטָר בְּגִיל 147 (בראשית מ״ז:כ״ח); בָּנָיו קוֹבְרִים אוֹתוֹ בִּמְעָרַת הַמַּכְפֵּלָה",
+    "fr": "Bénit Efraïm et Ménaché, puis ses douze fils, et meurt à 147 ans (Gn 47,28) ; ses fils l’enterrent dans la grotte de Makhpéla"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.28.16",
+    "he": "כְּשֶׁהִתְעוֹרֵר, אָמַר יַעֲקֹב: ״אָכֵן יֵשׁ ה׳ בַּמָּקוֹם הַזֶּה וְאָנֹכִי לֹא יָדָעְתִּי״. גַּם בְּמָקוֹם פָּשׁוּט אֶפְשָׁר לְהַרְגִּישׁ קָרוֹב לַה׳.",
+    "fr": "En se réveillant, Yaakov dit : « Dieu est vraiment en ce lieu, et moi je ne le savais pas. » Même dans un endroit simple, on peut se sentir proche de Dieu."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.29.20",
+    "he": "שֶׁבַע שָׁנִים עָבַד יַעֲקֹב בִּשְׁבִיל רָחֵל, ״וַיִּהְיוּ בְעֵינָיו כְּיָמִים אֲחָדִים בְּאַהֲבָתוֹ אֹתָהּ״. כְּשֶׁאוֹהֲבִים, הַזְּמַן עוֹבֵר מַהֵר.",
+    "fr": "Yaakov travaille sept ans pour Ra’hel, « et ils furent à ses yeux comme quelques jours, tant il l’aimait ». Quand on aime, le temps passe vite."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.28.11",
+    "source": {
+     "he": "רש״י בראשית כ״ח:י״א; ברכות כ״ו ע״ב",
+     "fr": "Rachi sur Gn 28,11 ; Berakhot 26b"
+    },
+    "he": "לְפִי רַשִׁ״י, ״וַיִּפְגַּע בַּמָּקוֹם״ פֵּרוּשׁוֹ שֶׁהִתְפַּלֵּל: יַעֲקֹב תִּקֵּן אֶת תְּפִלַּת עַרְבִית, כְּמוֹ שֶׁיִּצְחָק תִּקֵּן אֶת תְּפִלַּת מִנְחָה.",
+    "fr": "Selon Rachi, « il rencontra l’endroit » veut dire qu’il pria : Yaakov a institué la prière du soir (Arvit), comme Yitzhak a institué celle de Min’ha."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "בְּמָה אָחַז יַעֲקֹב כְּשֶׁנּוֹלַד?",
+     "fr": "Que tenait Yaakov à sa naissance ?"
+    },
+    "options": [
+     {
+      "he": "בְּיַד אִמּוֹ",
+      "fr": "La main de sa mère"
+     },
+     {
+      "he": "בַּעֲקֵב שֶׁל עֵשָׂו",
+      "fr": "Le talon d’Essav"
+     },
+     {
+      "he": "בִּשְׂמִיכָה",
+      "fr": "Une couverture"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.25.26"
+   },
+   {
+    "q": {
+     "he": "עַל מָה חָלַם יַעֲקֹב בַּדֶּרֶךְ לְחָרָן?",
+     "fr": "De quoi Yaakov a-t-il rêvé en route vers Haran ?"
+    },
+    "options": [
+     {
+      "he": "עַל שֶׁבַע פָּרוֹת",
+      "fr": "De sept vaches"
+     },
+     {
+      "he": "עַל כּוֹכָבִים",
+      "fr": "D’étoiles"
+     },
+     {
+      "he": "עַל סֻלָּם עִם מַלְאָכִים",
+      "fr": "D’une échelle avec des anges"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.28.12"
+   },
+   {
+    "q": {
+     "he": "כַּמָּה שָׁנִים עָבַד יַעֲקֹב בִּשְׁבִיל רָחֵל בַּפַּעַם הָרִאשׁוֹנָה?",
+     "fr": "Combien d’années Yaakov a-t-il d’abord travaillé pour Ra’hel ?"
+    },
+    "options": [
+     {
+      "he": "שֶׁבַע",
+      "fr": "7 ans"
+     },
+     {
+      "he": "שָׁלֹשׁ",
+      "fr": "3 ans"
+     },
+     {
+      "he": "עֶשְׂרִים",
+      "fr": "20 ans"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.29.20"
+   },
+   {
+    "q": {
+     "he": "אֵיזֶה שֵׁם חָדָשׁ קִבֵּל יַעֲקֹב?",
+     "fr": "Quel nouveau nom Yaakov a-t-il reçu ?"
+    },
+    "options": [
+     {
+      "he": "אַבְרָהָם",
+      "fr": "Avraham"
+     },
+     {
+      "he": "יִשְׂרָאֵל",
+      "fr": "Israël"
+     },
+     {
+      "he": "אֱדוֹם",
+      "fr": "Édom"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.32.29"
+   },
+   {
+    "q": {
+     "he": "בֶּן כַּמָּה הָיָה יַעֲקֹב כְּשֶׁיָּרַד לְמִצְרַיִם?",
+     "fr": "Quel âge avait Yaakov quand il est descendu en Égypte ?"
+    },
+    "options": [
+     {
+      "he": "130",
+      "fr": "130 ans"
+     },
+     {
+      "he": "100",
+      "fr": "100 ans"
+     },
+     {
+      "he": "147",
+      "fr": "147 ans"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.47.9"
+   }
+  ],
+  "notes": [
+   {
+    "key": "nameNote",
+    "src": "torah",
+    "ref": "Genesis.32.29",
+    "he": "הוּא נִקְרָא יַעֲקֹב כִּי יָדוֹ אָחֲזָה בַּעֲקֵב עֵשָׂו (כ״ה:כ״ו). אַחֲרֵי הַמַּאֲבָק קִבֵּל אֶת הַשֵּׁם יִשְׂרָאֵל, ״כִּי שָׂרִיתָ עִם אֱלֹהִים וְעִם אֲנָשִׁים וַתּוּכָל״ (ל״ב:כ״ט), וְה׳ חָזַר עַל כָּךְ בְּבֵית אֵל (ל״ה:י׳).",
+    "fr": "Il s’appelle Yaakov parce que sa main tenait le talon (‘akev) d’Essav (25,26). Après la lutte, il reçoit le nom d’Israël, « car tu as lutté avec Dieu et avec des hommes, et tu l’as emporté » (32,29), et Dieu le confirme à Beth-El (35,10)."
+   },
+   {
+    "key": "identityNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית ל״ב:כ״ה",
+     "fr": "Rachi sur Gn 32,25"
+    },
+    "ref": "Genesis.32.25",
+    "he": "הַתּוֹרָה קוֹרֵאת לְמִי שֶׁנֶּאֱבַק עִם יַעֲקֹב ״אִישׁ״. לְפִי רַשִׁ״י, זֶה הָיָה שָׂרוֹ שֶׁל עֵשָׂו, הַמַּלְאָךְ שֶׁלּוֹ.",
+    "fr": "La Torah appelle celui qui lutte avec Yaakov « un homme ». Selon Rachi, c’était l’ange protecteur d’Essav."
+   }
+  ],
+  "historical": {
+   "he": "אוֹתָהּ תְּקוּפָה מֻצַּעַת כְּמוֹ לְאַבְרָהָם; יֵשׁ עָלֶיהָ וִכּוּחַ.",
+   "fr": "Même époque proposée que pour Avraham ; débattue."
+  }
+ },
+ "avraham": {
+  "bio": {
+   "he": "אַבְרָם יָשַׁב בְּחָרָן עִם מִשְׁפַּחְתּוֹ, וּבְגִיל שִׁבְעִים וְחָמֵשׁ ה׳ אָמַר לוֹ: ״לֶךְ לְךָ״, וְהוּא יָצָא עִם שָׂרַי וְלוֹט לְאֶרֶץ כְּנַעַן. בִּגְלַל רָעָב יָרַד לְמִצְרַיִם; אַחַר כָּךְ נִפְרַד מִלּוֹט בְּשָׁלוֹם, וְהִצִּיל אוֹתוֹ כְּשֶׁנִּשְׁבָּה בַּמִּלְחָמָה. ה׳ כָּרַת אִתּוֹ בְּרִית וְשִׁנָּה אֶת שְׁמוֹ לְאַבְרָהָם, ״אַב הֲמוֹן גּוֹיִם״. הוּא רָץ לְהַכְנִיס אוֹרְחִים לְאָהֳלוֹ, וְהִתְפַּלֵּל אֲפִלּוּ עַל אַנְשֵׁי סְדוֹם. בְּגִיל מֵאָה נוֹלַד לוֹ יִצְחָק, וְאַחַר כָּךְ עָמַד בַּנִּסָּיוֹן הַגָּדוֹל שֶׁל הָעֲקֵדָה. בְּסוֹף יָמָיו קָנָה אֶת מְעָרַת הַמַּכְפֵּלָה, דָּאַג לְאִשָּׁה לְיִצְחָק, וְנִפְטַר בְּגִיל מֵאָה שִׁבְעִים וְחָמֵשׁ, ״זָקֵן וְשָׂבֵעַ״.",
+   "fr": "Avram habite à Haran avec sa famille quand, à 75 ans, Dieu lui dit : « Va pour toi ! » ; il part avec Saraï et Lot vers le pays de Canaan. À cause d’une famine il descend en Égypte ; plus tard, il se sépare de Lot en paix et le délivre quand il est fait prisonnier pendant une guerre. Dieu fait une alliance avec lui et change son nom en Avraham, « père d’une multitude de nations ». Il court accueillir des invités dans sa tente, et il prie même pour les habitants de Sodome. À 100 ans naît Yitzhak, puis Avraham traverse la grande épreuve de la Akéda. À la fin de sa vie, il achète la grotte de Makhpéla, trouve une épouse pour Yitzhak et meurt à 175 ans, « âgé et rassasié de jours »."
+  },
+  "addEvents": [
+   {
+    "am": 2023,
+    "datesrc": "torah",
+    "ref": "Genesis.12.1-5",
+    "parasha": "lech-lecha",
+    "he": "יוֹצֵא מֵחָרָן לְאֶרֶץ כְּנַעַן בְּגִיל 75, כְּמוֹ שֶׁאָמַר לוֹ ה׳: ״לֶךְ לְךָ״",
+    "fr": "Quitte Haran pour le pays de Canaan à 75 ans, comme Dieu le lui a dit : « Va pour toi »"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.14.14-20",
+    "parasha": "lech-lecha",
+    "he": "מַצִּיל אֶת לוֹט בְּמִלְחֶמֶת הַמְּלָכִים, וּמַלְכִּי־צֶדֶק מְבָרֵךְ אוֹתוֹ",
+    "fr": "Délivre Lot pendant la guerre des rois ; Malki-Tsédek le bénit"
+   },
+   {
+    "am": 2047,
+    "datesrc": "torah",
+    "ref": "Genesis.17.1-5",
+    "parasha": "lech-lecha",
+    "he": "בְּגִיל 99 ה׳ מְשַׁנֶּה אֶת שְׁמוֹ מֵאַבְרָם לְאַבְרָהָם",
+    "fr": "À 99 ans, Dieu change son nom d’Avram en Avraham"
+   },
+   {
+    "am": 2047,
+    "datesrc": "midrash",
+    "ref": "Genesis.18.1-8",
+    "parasha": "vayera",
+    "he": "רָץ לִקְרַאת שְׁלֹשָׁה אוֹרְחִים וּמַגִּישׁ לָהֶם עוּגוֹת, חֶמְאָה, חָלָב וּבָשָׂר",
+    "fr": "Court à la rencontre de trois visiteurs et leur sert galettes, beurre, lait et viande"
+   },
+   {
+    "am": 2047,
+    "datesrc": "midrash",
+    "ref": "Genesis.18.23-32",
+    "parasha": "vayera",
+    "he": "מִתְפַּלֵּל עַל סְדוֹם: אוּלַי יֵשׁ בָּהּ חֲמִשִּׁים צַדִּיקִים… וְעַד עֲשָׂרָה",
+    "fr": "Prie pour Sodome : peut-être y a-t-il cinquante justes… et jusqu’à dix"
+   },
+   {
+    "am": 2048,
+    "datesrc": "torah",
+    "ref": "Genesis.21.1-5",
+    "parasha": "vayera",
+    "he": "בְּגִיל 100 נוֹלַד לוֹ יִצְחָק",
+    "fr": "À 100 ans, son fils Yitzhak naît"
+   },
+   {
+    "am": 2085,
+    "datesrc": "midrash",
+    "ref": "Genesis.22.1-14",
+    "parasha": "vayera",
+    "he": "עוֹמֵד בַּנִּסָּיוֹן שֶׁל עֲקֵדַת יִצְחָק בְּאֶרֶץ הַמֹּרִיָּה; מַלְאָךְ קוֹרֵא לוֹ: ״אַל תִּשְׁלַח יָדְךָ אֶל הַנַּעַר״",
+    "fr": "Traverse l’épreuve de la Akéda au pays de Moriah ; un ange l’appelle : « Ne porte pas la main sur le garçon »"
+   }
+  ],
+  "addLessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.18.1-5",
+    "he": "אַבְרָהָם רָץ לִקְרַאת הָאוֹרְחִים, אַף שֶׁהָיָה ״כְּחֹם הַיּוֹם״. כָּךְ לוֹמְדִים כַּמָּה חָשׁוּב לְהַכְנִיס אוֹרְחִים.",
+    "fr": "Avraham court vers les invités, même « au plus chaud du jour » : on apprend ainsi combien il est important d’accueillir des invités."
+   }
+  ]
+ },
+ "sarah": {
+  "bio": {
+   "he": "שָׂרַי יָצְאָה עִם אַבְרָם מֵחָרָן לְאֶרֶץ כְּנַעַן. שָׁנִים רַבּוֹת לֹא הָיוּ לָהּ יְלָדִים, וְהִיא נָתְנָה לְאַבְרָם אֶת שִׁפְחָתָהּ הָגָר. ה׳ שִׁנָּה אֶת שְׁמָהּ לְשָׂרָה וְהִבְטִיחַ שֶׁיִּהְיֶה לָהּ בֵּן. כְּשֶׁשָּׁמְעָה אֶת הַבְּשׂוֹרָה מִן הָאוֹרְחִים, צָחֲקָה; וּבְגִיל תִּשְׁעִים נוֹלַד לָהּ יִצְחָק, וְהִיא אָמְרָה: ״צְחֹק עָשָׂה לִי אֱלֹהִים״. הִיא נִפְטְרָה בְּגִיל מֵאָה עֶשְׂרִים וָשֶׁבַע, וְאַבְרָהָם קָבַר אוֹתָהּ בִּמְעָרַת הַמַּכְפֵּלָה בְּחֶבְרוֹן.",
+   "fr": "Saraï quitte Haran avec Avram pour le pays de Canaan. Pendant de longues années elle n’a pas d’enfant, et elle donne à Avram sa servante Hagar. Dieu change son nom en Sarah et promet qu’elle aura un fils. Quand elle entend la nouvelle annoncée par les visiteurs, elle rit ; à 90 ans naît Yitzhak, et elle dit : « Dieu m’a donné de quoi rire. » Elle meurt à 127 ans, et Avraham l’enterre dans la grotte de Makhpéla, à Hévron."
+  },
+  "addEvents": [
+   {
+    "am": 2023,
+    "datesrc": "torah",
+    "ref": "Genesis.12.5",
+    "parasha": "lech-lecha",
+    "he": "יוֹצֵאת עִם אַבְרָם מֵחָרָן לְאֶרֶץ כְּנַעַן",
+    "fr": "Quitte Haran avec Avram pour le pays de Canaan"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.12.14-20",
+    "parasha": "lech-lecha",
+    "he": "בְּמִצְרַיִם לוֹקְחִים אוֹתָהּ לְבֵית פַּרְעֹה; אַחֲרֵי שֶׁה׳ פּוֹגֵעַ בּוֹ בִּנְגָעִים, פַּרְעֹה מַחֲזִיר אוֹתָהּ לְאַבְרָם",
+    "fr": "En Égypte, elle est emmenée au palais de Pharaon ; après les plaies envoyées par Dieu, Pharaon la rend à Avram"
+   },
+   {
+    "am": 2033,
+    "datesrc": "torah",
+    "ref": "Genesis.16.1-3",
+    "parasha": "lech-lecha",
+    "he": "נוֹתֶנֶת לְאַבְרָם אֶת הָגָר שִׁפְחָתָהּ לְאִשָּׁה",
+    "fr": "Donne à Avram sa servante Hagar pour épouse"
+   },
+   {
+    "am": 2047,
+    "datesrc": "torah",
+    "ref": "Genesis.17.15-16",
+    "parasha": "lech-lecha",
+    "he": "ה׳ מְשַׁנֶּה אֶת שְׁמָהּ מִשָּׂרַי לְשָׂרָה וּמַבְטִיחַ לָהּ בֵּן",
+    "fr": "Dieu change son nom de Saraï en Sarah et lui promet un fils"
+   },
+   {
+    "am": 2047,
+    "datesrc": "midrash",
+    "ref": "Genesis.18.9-15",
+    "parasha": "vayera",
+    "he": "שׁוֹמַעַת מִפֶּתַח הָאֹהֶל שֶׁיִּהְיֶה לָהּ בֵּן, וְצוֹחֶקֶת",
+    "fr": "Entend depuis l’entrée de la tente qu’elle aura un fils, et rit"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.20.2-14",
+    "parasha": "vayera",
+    "he": "בִּגְרָר אֲבִימֶלֶךְ לוֹקֵחַ אוֹתָהּ, וּמַחֲזִיר אוֹתָהּ אַחֲרֵי חֲלוֹם",
+    "fr": "À Guérar, Avimélekh la fait venir chez lui, puis la rend après un rêve"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.21.10-12",
+    "parasha": "vayera",
+    "he": "מְבַקֶּשֶׁת לְשַׁלֵּחַ אֶת הָגָר וְיִשְׁמָעֵאל, וַה׳ אוֹמֵר לְאַבְרָהָם: ״שְׁמַע בְּקֹלָהּ״",
+    "fr": "Demande de renvoyer Hagar et Yishmaël ; Dieu dit à Avraham : « Écoute sa voix »"
+   }
+  ],
+  "addLessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.21.12",
+    "source": {
+     "he": "רש״י בראשית כ״א:י״ב",
+     "fr": "Rachi sur Gn 21,12"
+    },
+    "he": "רַשִׁ״י לוֹמֵד מִן הַמִּלִּים ״שְׁמַע בְּקֹלָהּ״ שֶׁשָּׂרָה הָיְתָה גְּדוֹלָה מֵאַבְרָהָם בִּנְבוּאָה.",
+    "fr": "Rachi apprend des mots « écoute sa voix » que Sarah était plus grande qu’Avraham en prophétie."
+   }
+  ]
+ },
+ "hagar": {
+  "bio": {
+   "he": "הָגָר הַמִּצְרִית הָיְתָה הַשִּׁפְחָה שֶׁל שָׂרַי. שָׂרַי נָתְנָה אוֹתָהּ לְאַבְרָם לְאִשָּׁה, וּכְשֶׁשָּׂרַי הִקְשְׁתָה עָלֶיהָ, הָגָר בָּרְחָה לַמִּדְבָּר. שָׁם, לְיַד עֵין מַיִם, מַלְאַךְ ה׳ אָמַר לָהּ לַחְזֹר וּבִשֵּׂר לָהּ שֶׁיִּוָּלֵד לָהּ בֵּן בְּשֵׁם יִשְׁמָעֵאל. שָׁנִים אַחַר כָּךְ, כְּשֶׁאַבְרָהָם שָׁלַח אוֹתָהּ וְאֶת יִשְׁמָעֵאל, נִגְמְרוּ לָהֶם הַמַּיִם בַּמִּדְבָּר. ה׳ שָׁמַע אֶת קוֹל הַנַּעַר, וְהָגָר רָאֲתָה בְּאֵר מַיִם וְהִשְׁקְתָה אֶת בְּנָהּ.",
+   "fr": "Hagar l’Égyptienne était la servante de Saraï. Saraï la donne pour épouse à Avram ; quand Saraï se montre dure avec elle, Hagar s’enfuit dans le désert. Là, près d’une source, un ange de Dieu lui dit de revenir et lui annonce qu’elle aura un fils nommé Yishmaël. Des années plus tard, quand Avraham la renvoie avec Yishmaël, l’eau vient à manquer dans le désert. Dieu entend la voix du garçon, Hagar voit un puits et donne à boire à son fils."
+  },
+  "addEvents": [
+   {
+    "am": 2033,
+    "datesrc": "torah",
+    "ref": "Genesis.16.3",
+    "parasha": "lech-lecha",
+    "he": "שָׂרַי נוֹתֶנֶת אוֹתָהּ לְאַבְרָם לְאִשָּׁה",
+    "fr": "Saraï la donne pour épouse à Avram"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.16.6-13",
+    "parasha": "lech-lecha",
+    "he": "בּוֹרַחַת לַמִּדְבָּר; מַלְאָךְ פּוֹגֵשׁ אוֹתָהּ לְיַד עֵין הַמַּיִם, וְהִיא קוֹרֵאת לַה׳ ״אֵל רֳאִי״",
+    "fr": "S’enfuit dans le désert ; un ange la rencontre près de la source, et elle appelle Dieu « El Roï » (le Dieu qui voit)"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.21.14",
+    "parasha": "vayera",
+    "he": "אַבְרָהָם שׁוֹלֵחַ אוֹתָהּ עִם יִשְׁמָעֵאל, עִם לֶחֶם וְחֵמַת מַיִם",
+    "fr": "Avraham la renvoie avec Yishmaël, avec du pain et une outre d’eau"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.21.17-19",
+    "parasha": "vayera",
+    "he": "ה׳ שׁוֹמֵעַ אֶת קוֹל הַנַּעַר וּפוֹקֵחַ אֶת עֵינֶיהָ: הִיא רוֹאָה בְּאֵר מַיִם",
+    "fr": "Dieu entend la voix du garçon et lui ouvre les yeux : elle voit un puits"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.21.21",
+    "parasha": "vayera",
+    "he": "לוֹקַחַת לְיִשְׁמָעֵאל אִשָּׁה מֵאֶרֶץ מִצְרַיִם",
+    "fr": "Prend pour Yishmaël une épouse du pays d’Égypte"
+   }
+  ],
+  "addLessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.16.1",
+    "source": {
+     "he": "רש״י בראשית ט״ז:א׳",
+     "fr": "Rachi sur Gn 16,1"
+    },
+    "he": "לְפִי רַשִׁ״י, הָגָר הָיְתָה בַּת פַּרְעֹה. פַּרְעֹה רָאָה אֶת הַנִּסִּים שֶׁנַּעֲשׂוּ לְשָׂרָה, וְאָמַר: מוּטָב שֶׁתִּהְיֶה בִּתִּי שִׁפְחָה בְּבֵית אַבְרָהָם מִגְּבִירָה בְּבַיִת אַחֵר.",
+    "fr": "Selon Rachi, Hagar était la fille de Pharaon. Ayant vu les miracles faits pour Sarah, il s’est dit : mieux vaut que ma fille soit servante chez Avraham que maîtresse dans une autre maison."
+   }
+  ]
+ },
+ "yishmael": {
+  "bio": {
+   "he": "יִשְׁמָעֵאל נוֹלַד לְאַבְרָם וּלְהָגָר כְּשֶׁאַבְרָם הָיָה בֶּן שְׁמוֹנִים וָשֵׁשׁ, וּשְׁמוֹ פֵּרוּשׁוֹ ״ה׳ שָׁמַע״. בְּגִיל שְׁלֹשׁ עֶשְׂרֵה נִמּוֹל יַחַד עִם אָבִיו. אַחֲרֵי שֶׁנּוֹלַד יִצְחָק, אַבְרָהָם שָׁלַח אוֹתוֹ וְאֶת הָגָר, וּבַמִּדְבָּר ה׳ שָׁמַע אֶת קוֹלוֹ וְהִצִּיל אוֹתוֹ. הוּא גָּדַל בַּמִּדְבָּר וְהָיָה רֹבֶה קַשָּׁת. כְּשֶׁאַבְרָהָם נִפְטַר, יִשְׁמָעֵאל וְיִצְחָק קָבְרוּ אוֹתוֹ יַחַד; נוֹלְדוּ לוֹ שְׁנֵים עָשָׂר נְשִׂיאִים, וְהוּא חַי מֵאָה שְׁלֹשִׁים וָשֶׁבַע שָׁנִים.",
+   "fr": "Yishmaël naît d’Avram et de Hagar quand Avram a 86 ans ; son nom veut dire « Dieu a entendu ». À 13 ans, il est circoncis avec son père. Après la naissance de Yitzhak, Avraham le renvoie avec Hagar, et dans le désert Dieu entend sa voix et le sauve. Il grandit dans le désert et devient tireur à l’arc. À la mort d’Avraham, Yishmaël et Yitzhak l’enterrent ensemble ; il a douze fils, des princes, et vit 137 ans."
+  },
+  "addEvents": [
+   {
+    "am": 2034,
+    "datesrc": "torah",
+    "ref": "Genesis.16.15-16",
+    "parasha": "lech-lecha",
+    "he": "נוֹלַד לְאַבְרָם וּלְהָגָר; אַבְרָם בֶּן 86",
+    "fr": "Naît d’Avram et de Hagar ; Avram a 86 ans"
+   },
+   {
+    "am": 2047,
+    "datesrc": "torah",
+    "ref": "Genesis.17.25-26",
+    "parasha": "lech-lecha",
+    "he": "נִמּוֹל בְּגִיל 13, בְּאוֹתוֹ יוֹם כְּמוֹ אַבְרָהָם",
+    "fr": "Est circoncis à 13 ans, le même jour qu’Avraham"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.21.14-19",
+    "parasha": "vayera",
+    "he": "נִשְׁלָח עִם הָגָר לַמִּדְבָּר; ה׳ שׁוֹמֵעַ אֶת קוֹלוֹ וּמַרְאֶה לְהָגָר בְּאֵר",
+    "fr": "Est renvoyé avec Hagar dans le désert ; Dieu entend sa voix et montre un puits à Hagar"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.21.20-21",
+    "parasha": "vayera",
+    "he": "גָּדֵל בְּמִדְבַּר פָּארָן וְנַעֲשֶׂה רֹבֶה קַשָּׁת",
+    "fr": "Grandit dans le désert de Paran et devient tireur à l’arc"
+   },
+   {
+    "am": 2171,
+    "datesrc": "midrash",
+    "ref": "Genesis.28.9",
+    "parasha": "toldot",
+    "he": "מַחֲלַת בִּתּוֹ נִשֵּׂאת לְעֵשָׂו",
+    "fr": "Sa fille Ma’halat épouse Essav"
+   }
+  ],
+  "addLessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.21.17",
+    "source": {
+     "he": "רש״י בראשית כ״א:י״ז",
+     "fr": "Rachi sur Gn 21,17"
+    },
+    "he": "רַשִׁ״י: ה׳ שָׁפַט אֶת יִשְׁמָעֵאל ״בַּאֲשֶׁר הוּא שָׁם״, לְפִי מַה שֶּׁהוּא עוֹשֶׂה עַכְשָׁו, וְלֹא לְפִי מַה שֶּׁיִּהְיֶה בֶּעָתִיד.",
+    "fr": "Rachi : Dieu juge Yishmaël « là où il est », c’est-à-dire d’après ce qu’il fait maintenant, et non d’après l’avenir."
+   }
+  ]
+ },
+ "yitzhak": {
+  "bio": {
+   "he": "יִצְחָק נוֹלַד לְאַבְרָהָם וּלְשָׂרָה כְּשֶׁאַבְרָהָם הָיָה בֶּן מֵאָה, וּשְׁמוֹ בָּא מִן הַצְּחוֹק וְהַשִּׂמְחָה. בָּעֲקֵדָה הָלַךְ עִם אָבִיו ״יַחְדָּו״ אֶל הָהָר, וּמַלְאָךְ עָצַר אֶת אַבְרָהָם. אַחֲרֵי מוֹת שָׂרָה נָשָׂא אֶת רִבְקָה וְאָהַב אוֹתָהּ, וּבְגִיל שִׁשִּׁים נוֹלְדוּ לָהֶם תְּאוֹמִים: עֵשָׂו וְיַעֲקֹב. הוּא חָפַר מֵחָדָשׁ אֶת הַבְּאֵרוֹת שֶׁל אָבִיו וְעָשָׂה שָׁלוֹם עִם אֲבִימֶלֶךְ. כְּשֶׁהִזְדַּקֵּן וְעֵינָיו כָּהוּ, בֵּרַךְ אֶת יַעֲקֹב. הוּא נִפְטַר בְּגִיל מֵאָה וּשְׁמוֹנִים, וּבָנָיו עֵשָׂו וְיַעֲקֹב קָבְרוּ אוֹתוֹ.",
+   "fr": "Yitzhak naît d’Avraham et de Sarah quand Avraham a 100 ans ; son nom vient du rire et de la joie. Lors de la Akéda, il marche « ensemble » avec son père vers la montagne, et un ange arrête Avraham. Après la mort de Sarah, il épouse Rivka et l’aime ; à 60 ans naissent leurs jumeaux, Essav et Yaakov. Il recreuse les puits de son père et fait la paix avec Avimélekh. Devenu vieux, les yeux affaiblis, il bénit Yaakov. Il meurt à 180 ans, et ses fils Essav et Yaakov l’enterrent."
+  },
+  "addEvents": [
+   {
+    "am": 2048,
+    "datesrc": "torah",
+    "ref": "Genesis.21.2-5",
+    "parasha": "vayera",
+    "he": "נוֹלַד לְשָׂרָה וּלְאַבְרָהָם, וְנִמּוֹל בֶּן שְׁמוֹנָה יָמִים",
+    "fr": "Naît de Sarah et d’Avraham, et est circoncis à 8 jours"
+   },
+   {
+    "am": 2085,
+    "datesrc": "midrash",
+    "ref": "Genesis.22.6-12",
+    "parasha": "vayera",
+    "he": "הוֹלֵךְ עִם אָבִיו ״יַחְדָּו״ לָעֲקֵדָה; לְפִי רַשִׁ״י (כ״ה:כ׳) הָיָה בֶּן 37",
+    "fr": "Marche « ensemble » avec son père vers la Akéda ; selon Rachi (25,20), il avait 37 ans"
+   },
+   {
+    "am": 2108,
+    "datesrc": "torah",
+    "ref": "Genesis.25.21-26",
+    "parasha": "toldot",
+    "he": "מִתְפַּלֵּל עַל רִבְקָה, וּבְגִיל 60 נוֹלְדוּ לוֹ עֵשָׂו וְיַעֲקֹב",
+    "fr": "Prie pour Rivka ; à 60 ans naissent Essav et Yaakov"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.26.6-11",
+    "parasha": "toldot",
+    "he": "גָּר בִּגְרָר אֵצֶל אֲבִימֶלֶךְ, שֶׁמַּגֵּן עָלָיו וְעַל רִבְקָה",
+    "fr": "Habite à Guérar chez Avimélekh, qui le protège avec Rivka"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.26.18-22",
+    "parasha": "toldot",
+    "he": "חוֹפֵר מֵחָדָשׁ אֶת בְּאֵרוֹת אָבִיו, וּבְאֵרוֹת חֲדָשׁוֹת: עֵשֶׂק, שִׂטְנָה וּרְחֹבוֹת",
+    "fr": "Recreuse les puits de son père, puis de nouveaux puits : Essek, Sitna et Rehovot"
+   },
+   {
+    "am": 2171,
+    "datesrc": "midrash",
+    "ref": "Genesis.27.18-29",
+    "parasha": "toldot",
+    "he": "בְּגִיל 123 (לְפִי רַשִׁ״י) מְבָרֵךְ אֶת יַעֲקֹב, שֶׁבָּא בְּבִגְדֵי עֵשָׂו",
+    "fr": "Vers 123 ans (selon Rachi), bénit Yaakov venu avec les habits d’Essav"
+   },
+   {
+    "am": 2228,
+    "datesrc": "torah",
+    "ref": "Genesis.35.28-29",
+    "parasha": "vayishlach",
+    "he": "נִפְטָר בְּגִיל 180; עֵשָׂו וְיַעֲקֹב קוֹבְרִים אוֹתוֹ",
+    "fr": "Meurt à 180 ans ; Essav et Yaakov l’enterrent"
+   }
+  ],
+  "addLessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.26.18",
+    "he": "יִצְחָק נָתַן לַבְּאֵרוֹת אֶת אוֹתָם שֵׁמוֹת שֶׁנָּתַן לָהֶן אָבִיו: הוּא מַמְשִׁיךְ אֶת דַּרְכּוֹ שֶׁל אַבְרָהָם.",
+    "fr": "Yitzhak donne aux puits les mêmes noms que son père leur avait donnés : il continue le chemin d’Avraham."
+   }
+  ]
+ },
+ "rivka": {
+  "bio": {
+   "he": "רִבְקָה גָּרָה בְּעִיר נָחוֹר, וּלְיַד הַבְּאֵר הִשְׁקְתָה בְּחֶסֶד אֶת עֶבֶד אַבְרָהָם וְאֶת כָּל גְּמַלָּיו. כְּשֶׁשָּׁאֲלוּ אוֹתָהּ אִם תֵּלֵךְ לְיִצְחָק, עָנְתָה: ״אֵלֵךְ!״, וְיִצְחָק נָשָׂא אוֹתָהּ וְאָהַב אוֹתָהּ. עֶשְׂרִים שָׁנָה לֹא נוֹלְדוּ לָהּ יְלָדִים, עַד שֶׁיִּצְחָק הִתְפַּלֵּל, וְהִיא הָרְתָה תְּאוֹמִים שֶׁהִתְרוֹצְצוּ בְּקִרְבָּהּ. ה׳ אָמַר לָהּ שֶׁשְּׁנֵי עַמִּים בְּבִטְנָהּ, וְהַגָּדוֹל יַעֲבֹד אֶת הַצָּעִיר. כְּשֶׁיִּצְחָק רָצָה לְבָרֵךְ אֶת עֵשָׂו, רִבְקָה דָּאֲגָה שֶׁיַּעֲקֹב יְקַבֵּל אֶת הַבְּרָכָה, וְאַחַר כָּךְ שָׁלְחָה אוֹתוֹ אֶל לָבָן אָחִיהָ בְּחָרָן. הִיא נִקְבְּרָה בִּמְעָרַת הַמַּכְפֵּלָה.",
+   "fr": "Rivka habitait la ville de Na’hor ; au puits, elle abreuve avec bonté le serviteur d’Avraham et tous ses chameaux. Quand on lui demande si elle veut partir vers Yitzhak, elle répond : « J’irai ! », et Yitzhak l’épouse et l’aime. Pendant vingt ans, elle n’a pas d’enfant ; puis Yitzhak prie, et elle attend des jumeaux qui se bousculent en elle. Dieu lui dit que deux peuples sont en elle, et que l’aîné servira le cadet. Quand Yitzhak veut bénir Essav, Rivka fait en sorte que Yaakov reçoive la bénédiction, puis elle l’envoie chez Lavan, son frère, à Haran. Elle est enterrée dans la grotte de Makhpéla."
+  },
+  "addEvents": [
+   {
+    "am": null,
+    "ref": "Genesis.25.22-23",
+    "parasha": "toldot",
+    "he": "הַבָּנִים מִתְרוֹצְצִים בְּקִרְבָּהּ; הִיא הוֹלֶכֶת לִדְרֹשׁ אֶת ה׳",
+    "fr": "Les enfants se bousculent en elle ; elle va interroger Dieu"
+   },
+   {
+    "am": 2108,
+    "datesrc": "torah",
+    "ref": "Genesis.25.24-26",
+    "parasha": "toldot",
+    "he": "אַחֲרֵי עֶשְׂרִים שָׁנָה וּתְפִלַּת יִצְחָק, יוֹלֶדֶת תְּאוֹמִים: עֵשָׂו וְיַעֲקֹב",
+    "fr": "Après vingt ans et la prière de Yitzhak, donne naissance à des jumeaux : Essav et Yaakov"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.25.28",
+    "parasha": "toldot",
+    "he": "אוֹהֶבֶת אֶת יַעֲקֹב",
+    "fr": "Aime Yaakov"
+   },
+   {
+    "am": 2171,
+    "datesrc": "midrash",
+    "ref": "Genesis.27.5-17",
+    "parasha": "toldot",
+    "he": "מְכִינָה מַטְעַמִּים וּבִגְדֵי עֵשָׂו כְּדֵי שֶׁיַּעֲקֹב יְקַבֵּל אֶת הַבְּרָכָה",
+    "fr": "Prépare un bon plat et les habits d’Essav pour que Yaakov reçoive la bénédiction"
+   },
+   {
+    "am": 2171,
+    "datesrc": "midrash",
+    "ref": "Genesis.27.42-28.5",
+    "parasha": "toldot",
+    "he": "שׁוֹלַחַת אֶת יַעֲקֹב אֶל לָבָן אָחִיהָ בְּחָרָן",
+    "fr": "Envoie Yaakov chez Lavan, son frère, à Haran"
+   },
+   {
+    "am": null,
+    "ref": "Genesis.49.31",
+    "parasha": "vayechi",
+    "he": "נִקְבֶּרֶת בִּמְעָרַת הַמַּכְפֵּלָה, כְּמוֹ שֶׁיַּעֲקֹב מַזְכִּיר לִפְנֵי מוֹתוֹ",
+    "fr": "Est enterrée dans la grotte de Makhpéla, comme Yaakov le rappelle avant sa mort"
+   }
+  ],
+  "addLessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.25.22",
+    "source": {
+     "he": "רש״י בראשית כ״ה:כ״ב",
+     "fr": "Rachi sur Gn 25,22"
+    },
+    "he": "רִבְקָה לֹא הֵבִינָה מָה קוֹרֶה לָהּ, וְהָלְכָה לִשְׁאֹל; לְפִי רַשִׁ״י, הִיא הָלְכָה לְבֵית מִדְרָשׁוֹ שֶׁל שֵׁם. כְּשֶׁלֹּא מְבִינִים, הוֹלְכִים לִשְׁאֹל.",
+    "fr": "Rivka ne comprend pas ce qui lui arrive et va demander ; selon Rachi, elle va à la maison d’étude de Chem. Quand on ne comprend pas, on va demander."
+   }
+  ]
+ },
+ "eliezer": {
+  "bio": {
+   "he": "אֱלִיעֶזֶר הָיָה הָעֶבֶד הַנֶּאֱמָן שֶׁל אַבְרָהָם. כְּשֶׁעוֹד לֹא הָיוּ לְאַבְרָם יְלָדִים, הוּא אָמַר לַה׳ שֶׁ״דַּמֶּשֶׂק אֱלִיעֶזֶר״, בֶּן בֵּיתוֹ, יִירַשׁ אוֹתוֹ. שָׁנִים רַבּוֹת אַחַר כָּךְ קִבֵּל הָעֶבֶד שְׁלִיחוּת חֲשׁוּבָה: לִמְצֹא אִשָּׁה לְיִצְחָק, וְהוּא נָסַע רָחוֹק עִם עֲשָׂרָה גְּמַלִּים. לְיַד הַבְּאֵר הִתְפַּלֵּל וּבִקֵּשׁ סִימָן, וְעוֹד לִפְנֵי שֶׁסִּיֵּם לְדַבֵּר, הִגִּיעָה רִבְקָה. בְּבֵית הַמִּשְׁפָּחָה לֹא רָצָה לֶאֱכֹל עַד שֶׁסִּפֵּר לָמָּה בָּא.",
+   "fr": "Éliézer était le fidèle serviteur d’Avraham. Quand Avram n’avait pas encore d’enfant, il a dit à Dieu que « Damessek Éliézer », l’homme de sa maison, hériterait de lui. Bien des années plus tard, le serviteur reçoit une mission importante : trouver une épouse pour Yitzhak, et il voyage loin avec dix chameaux. Près du puits, il prie et demande un signe, et avant même qu’il ait fini de parler, Rivka arrive. Chez la famille, il refuse de manger tant qu’il n’a pas expliqué pourquoi il est venu."
+  },
+  "addEvents": [
+   {
+    "am": null,
+    "ref": "Genesis.15.2-3",
+    "parasha": "lech-lecha",
+    "he": "אַבְרָם אוֹמֵר לַה׳ שֶׁאֵין לוֹ בֵּן, וְשֶׁ״דַּמֶּשֶׂק אֱלִיעֶזֶר״ יִירַשׁ אוֹתוֹ",
+    "fr": "Avram dit à Dieu qu’il n’a pas de fils et que « Damessek Éliézer » héritera de lui"
+   }
+  ],
+  "addLessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.14.14",
+    "source": {
+     "he": "רש״י בראשית י״ד:י״ד; נדרים ל״ב ע״א",
+     "fr": "Rachi sur Gn 14,14 ; Nedarim 32a"
+    },
+    "he": "לְפִי רַשִׁ״י, הַמִּסְפָּר 318 שָׁוֶה בְּגִימַטְרִיָּה לַשֵּׁם ״אֱלִיעֶזֶר״: אֱלִיעֶזֶר לְבַדּוֹ יָצָא עִם אַבְרָם לְהַצִּיל אֶת לוֹט.",
+    "fr": "Selon Rachi, le nombre 318 a la valeur du nom « Éliézer » en guématria : Éliézer seul est parti avec Avram pour délivrer Lot."
+   }
+  ]
+ },
+ "betuel": {
+  "addEvents": [
+   {
+    "am": 2085,
+    "datesrc": "midrash",
+    "ref": "Genesis.22.20-23",
+    "parasha": "vayera",
+    "he": "אַבְרָהָם שׁוֹמֵעַ שֶׁנּוֹלְדוּ בָּנִים לְנָחוֹר, וּבְתוּאֵל הוֹלִיד אֶת רִבְקָה",
+    "fr": "Avraham apprend que Na’hor a eu des fils, et que Betouël a eu une fille, Rivka"
+   }
+  ]
+ }
+}

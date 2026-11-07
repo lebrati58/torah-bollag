@@ -1,0 +1,2276 @@
+{
+ "yossef": {
+  "bio": {
+   "he": "יוֹסֵף הָיָה הַבֵּן הָאָהוּב שֶׁל יַעֲקֹב, וְקִבֵּל מִמֶּנּוּ כְּתֹנֶת פַּסִּים. הוּא חָלַם חֲלוֹמוֹת שֶׁבָּהֶם אֶחָיו מִשְׁתַּחֲוִים לוֹ, וְהָאַחִים קִנְּאוּ בּוֹ וּמָכְרוּ אוֹתוֹ, וְכָךְ הִגִּיעַ לְמִצְרַיִם. שָׁם הָיָה עֶבֶד בְּבֵית פּוֹטִיפַר, וְאַחַר כָּךְ יָשַׁב בְּבֵית הַסֹּהַר, אֲבָל ה׳ הָיָה אִתּוֹ בְּכָל מָקוֹם. בְּגִיל שְׁלֹשִׁים פָּתַר אֶת חֲלוֹמוֹת פַּרְעֹה, נַעֲשָׂה הַשַּׁלִּיט הַשֵּׁנִי בְּמִצְרַיִם וְהִצִּיל אֶת כֻּלָּם מִן הָרָעָב. כְּשֶׁאֶחָיו בָּאוּ לִקְנוֹת אֹכֶל, הוּא הִתְגַּלָּה אֲלֵיהֶם, הֵבִיא אֶת יַעֲקֹב לְמִצְרַיִם, וְלִפְנֵי מוֹתוֹ, בְּגִיל מֵאָה וָעֶשֶׂר, בִּקֵּשׁ שֶׁיַּעֲלוּ אֶת עַצְמוֹתָיו לָאָרֶץ.",
+   "fr": "Yossef est le fils préféré de Yaakov, qui lui offre une tunique rayée. Il rêve que ses frères se prosternent devant lui ; jaloux, ses frères le vendent, et il arrive en Égypte. Là, il est serviteur chez Potifar, puis il est mis en prison, mais Dieu est avec lui partout. À trente ans, il explique les rêves de Pharaon, devient le deuxième personnage d’Égypte et sauve tout le monde de la famine. Quand ses frères viennent acheter de la nourriture, il se fait reconnaître, fait venir Yaakov en Égypte, et avant de mourir, à 110 ans, demande qu’on remonte ses os vers la Terre promise."
+  },
+  "events": [
+   {
+    "am": 2216,
+    "datesrc": "torah",
+    "ref": "Genesis.37.2-11",
+    "parasha": "vayeshev",
+    "he": "מְקַבֵּל כְּתֹנֶת פַּסִּים וְחוֹלֵם חֲלוֹמוֹת",
+    "fr": "Reçoit une tunique rayée et fait des rêves"
+   },
+   {
+    "am": 2216,
+    "datesrc": "torah",
+    "ref": "Genesis.37.28",
+    "parasha": "vayeshev",
+    "he": "אֶחָיו מוֹכְרִים אוֹתוֹ בְּעֶשְׂרִים כֶּסֶף",
+    "fr": "Ses frères le vendent pour vingt pièces d’argent"
+   },
+   {
+    "am": 2227,
+    "datesrc": "midrash",
+    "ref": "Genesis.40.8-19",
+    "parasha": "vayeshev",
+    "he": "בְּבֵית הַסֹּהַר פּוֹתֵר אֶת חֲלוֹמוֹת שַׂר הַמַּשְׁקִים וְשַׂר הָאֹפִים",
+    "fr": "En prison, explique les rêves de l’échanson et du panetier"
+   },
+   {
+    "am": 2229,
+    "datesrc": "torah",
+    "ref": "Genesis.41.46",
+    "parasha": "miketz",
+    "he": "עוֹמֵד לִפְנֵי פַּרְעֹה בְּגִיל שְׁלֹשִׁים",
+    "fr": "Se tient devant Pharaon à trente ans"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.45.3-4",
+    "parasha": "vayigash",
+    "he": "״אֲנִי יוֹסֵף!״ – מִתְגַּלֶּה לְאֶחָיו",
+    "fr": "« Je suis Yossef ! » : se fait reconnaître de ses frères"
+   },
+   {
+    "am": 2309,
+    "datesrc": "torah",
+    "ref": "Genesis.50.25-26",
+    "parasha": "vayechi",
+    "he": "מַשְׁבִּיעַ אֶת אֶחָיו לְהַעֲלוֹת אֶת עַצְמוֹתָיו, וּמֵת בְּגִיל מֵאָה וָעֶשֶׂר",
+    "fr": "Fait jurer à ses frères d’emporter ses os, et meurt à 110 ans"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.39.9",
+    "he": "״וְחָטָאתִי לֵאלֹהִים״: גַּם כְּשֶׁהָיָה לְבַד, רָחוֹק מִמִּשְׁפַּחְתּוֹ, יוֹסֵף סֵרֵב לַעֲשׂוֹת מַה שֶּׁלֹּא טוֹב.",
+    "fr": "« Je pécherais contre Dieu » : même seul, loin de sa famille, Yossef refuse de faire ce qui est mal."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.41.16",
+    "he": "״בִּלְעָדָי, אֱלֹהִים יַעֲנֶה״: יוֹסֵף אוֹמֵר לְפַרְעֹה שֶׁהַכֹּחַ לִפְתֹּר חֲלוֹמוֹת בָּא מִה׳, לֹא מִמֶּנּוּ.",
+    "fr": "« Ce n’est pas moi, Dieu répondra » : Yossef dit à Pharaon que le don d’expliquer les rêves vient de Dieu, pas de lui."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.50.19-21",
+    "he": "״אַתֶּם חֲשַׁבְתֶּם עָלַי רָעָה, אֱלֹהִים חֲשָׁבָהּ לְטֹבָה״: יוֹסֵף לֹא נָקַם בְּאֶחָיו, אֶלָּא נִחֵם אוֹתָם וְדָאַג לָהֶם.",
+    "fr": "« Vous aviez pensé du mal contre moi, Dieu l’a pensé pour le bien » : Yossef ne se venge pas de ses frères, il les console et prend soin d’eux."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מָה נָתַן יַעֲקֹב לְיוֹסֵף?",
+     "fr": "Qu’est-ce que Yaakov a donné à Yossef ?"
+    },
+    "options": [
+     {
+      "he": "כֶּתֶר",
+      "fr": "Une couronne"
+     },
+     {
+      "he": "כְּתֹנֶת פַּסִּים",
+      "fr": "Une tunique rayée"
+     },
+     {
+      "he": "חֶרֶב",
+      "fr": "Une épée"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.37.3"
+   },
+   {
+    "q": {
+     "he": "מִי הִשְׁתַּחֲווּ לְיוֹסֵף בַּחֲלוֹם הַשֵּׁנִי?",
+     "fr": "Qui se prosterne devant Yossef dans son deuxième rêve ?"
+    },
+    "options": [
+     {
+      "he": "הַשֶּׁמֶשׁ, הַיָּרֵחַ וְאַחַד עָשָׂר כּוֹכָבִים",
+      "fr": "Le soleil, la lune et onze étoiles"
+     },
+     {
+      "he": "שֶׁבַע פָּרוֹת",
+      "fr": "Sept vaches"
+     },
+     {
+      "he": "שְׁלֹשָׁה סַלִּים",
+      "fr": "Trois corbeilles"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.37.9"
+   },
+   {
+    "q": {
+     "he": "בֶּן כַּמָּה הָיָה יוֹסֵף כְּשֶׁעָמַד לִפְנֵי פַּרְעֹה?",
+     "fr": "Quel âge avait Yossef quand il s’est tenu devant Pharaon ?"
+    },
+    "options": [
+     {
+      "he": "עֶשְׂרִים",
+      "fr": "20 ans"
+     },
+     {
+      "he": "מֵאָה",
+      "fr": "100 ans"
+     },
+     {
+      "he": "שְׁלֹשִׁים",
+      "fr": "30 ans"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.41.46"
+   },
+   {
+    "q": {
+     "he": "מָה אָמַר יוֹסֵף לְאֶחָיו כְּשֶׁהִתְגַּלָּה אֲלֵיהֶם?",
+     "fr": "Qu’a dit Yossef à ses frères quand il s’est fait reconnaître ?"
+    },
+    "options": [
+     {
+      "he": "״אֲנִי מֶלֶךְ מִצְרַיִם״",
+      "fr": "« Je suis le roi d’Égypte »"
+     },
+     {
+      "he": "״אֲנִי יוֹסֵף, הַעוֹד אָבִי חָי?״",
+      "fr": "« Je suis Yossef, mon père vit-il encore ? »"
+     },
+     {
+      "he": "״לְכוּ מִכָּאן״",
+      "fr": "« Partez d’ici »"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.45.3"
+   },
+   {
+    "q": {
+     "he": "מָה בִּקֵּשׁ יוֹסֵף שֶׁיַּעֲשׂוּ בְּעַצְמוֹתָיו?",
+     "fr": "Qu’a demandé Yossef pour ses os ?"
+    },
+    "options": [
+     {
+      "he": "לְהַשְׁאִיר אוֹתָן בְּבֵית פַּרְעֹה",
+      "fr": "Les laisser dans le palais de Pharaon"
+     },
+     {
+      "he": "לִשְׁלֹחַ אוֹתָן לְחָרָן",
+      "fr": "Les envoyer à ‘Haran"
+     },
+     {
+      "he": "לְהַעֲלוֹת אוֹתָן מִמִּצְרַיִם כְּשֶׁה׳ יִפְקֹד אֶת בְּנֵי יִשְׂרָאֵל",
+      "fr": "Les emporter hors d’Égypte quand Dieu se souviendra des enfants d’Israël"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.50.25"
+   }
+  ],
+  "notes": [
+   {
+    "key": "nameNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית מ״א:מ״ה",
+     "fr": "Rachi sur Gn 41,45"
+    },
+    "ref": "Genesis.41.45",
+    "he": "פַּרְעֹה נָתַן לְיוֹסֵף שֵׁם חָדָשׁ: ״צָפְנַת פַּעְנֵחַ״. לְפִי רַשִׁ״י, פֵּרוּשׁ הַשֵּׁם הוּא ״מְפָרֵשׁ הַצְּפוּנוֹת״ – מִי שֶׁמַּסְבִּיר דְּבָרִים נִסְתָּרִים.",
+    "fr": "Pharaon donne à Yossef un nouveau nom : « Tsafnat Paanéa’h ». Selon Rachi, ce nom veut dire « celui qui explique les choses cachées »."
+   }
+  ],
+  "historical": {
+   "he": "יֵשׁ חוֹקְרִים שֶׁמְּקָרְבִים אֶת סִפּוּר יוֹסֵף לַתְּקוּפָה שֶׁבָּהּ מָלְכוּ בְּמִצְרַיִם מְלָכִים זָרִים מֵאֵזוֹר כְּנַעַן (הַהִיקְסוֹס, בְּעֵרֶךְ 1650–1550 לִפְנֵי הַסְּפִירָה). אֵין לְכָךְ עֵדוּת יְשִׁירָה, וְיֵשׁ עַל זֶה וִכּוּחַ.",
+   "fr": "Des chercheurs rapprochent l’histoire de Yossef de l’époque où des rois étrangers venus de la région de Canaan (les Hyksôs) régnaient en Égypte (vers 1650-1550 avant l’ère commune). Aucune trace directe ; la question est débattue."
+  }
+ },
+ "yehuda": {
+  "bio": {
+   "he": "יְהוּדָה הוּא הַבֵּן הָרְבִיעִי שֶׁל יַעֲקֹב וְלֵאָה. כְּשֶׁהָאַחִים כָּעֲסוּ עַל יוֹסֵף, יְהוּדָה הִצִּיעַ לֹא לַהֲרֹג אוֹתוֹ אֶלָּא לִמְכֹּר אוֹתוֹ. מְאֻחָר יוֹתֵר הוּא לָמַד לְהוֹדוֹת בְּטָעוּת, וְאָמַר עַל תָּמָר: ״צָדְקָה מִמֶּנִּי״. כְּשֶׁבִּנְיָמִין הָיָה בְּסַכָּנָה בְּמִצְרַיִם, יְהוּדָה נִגַּשׁ אֶל יוֹסֵף וּבִקֵּשׁ לִהְיוֹת עֶבֶד בִּמְקוֹם אָחִיו הַקָּטָן. לִפְנֵי מוֹתוֹ, יַעֲקֹב בֵּרַךְ אוֹתוֹ שֶׁהַשֵּׁבֶט, סֵמֶל הַמַּלְכוּת, לֹא יָסוּר מִמֶּנּוּ.",
+   "fr": "Yehouda est le quatrième fils de Yaakov et de Léa. Quand les frères sont en colère contre Yossef, Yehouda propose de ne pas le tuer mais de le vendre. Plus tard, il apprend à reconnaître ses erreurs et dit de Tamar : « Elle a raison, plus que moi. » Quand Binyamin est en danger en Égypte, Yehouda s’avance vers Yossef et demande à devenir esclave à la place de son petit frère. Avant de mourir, Yaakov le bénit : le sceptre, signe de la royauté, ne s’éloignera pas de lui."
+  },
+  "events": [
+   {
+    "am": 2216,
+    "datesrc": "torah",
+    "ref": "Genesis.37.26-27",
+    "parasha": "vayeshev",
+    "he": "מַצִּיעַ לִמְכֹּר אֶת יוֹסֵף וְלֹא לַהֲרֹג אוֹתוֹ: ״מַה בֶּצַע?״",
+    "fr": "Propose de vendre Yossef plutôt que de le tuer : « Quel profit ? »"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.38.26",
+    "parasha": "vayeshev",
+    "he": "מוֹדֶה עַל תָּמָר: ״צָדְקָה מִמֶּנִּי״",
+    "fr": "Reconnaît au sujet de Tamar : « Elle a raison, plus que moi »"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.43.8-9",
+    "parasha": "miketz",
+    "he": "מִתְחַיֵּב לְיַעֲקֹב: ״אָנֹכִי אֶעֶרְבֶנּוּ״ – אֲנִי אַחְרַאי עַל בִּנְיָמִין",
+    "fr": "Promet à Yaakov : « Je m’en porte garant » – il répond de Binyamin"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.44.18-34",
+    "parasha": "vayigash",
+    "he": "נִגָּשׁ אֶל יוֹסֵף וּמְבַקֵּשׁ לִהְיוֹת עֶבֶד בִּמְקוֹם בִּנְיָמִין",
+    "fr": "S’avance vers Yossef et demande à être esclave à la place de Binyamin"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.49.8-10",
+    "parasha": "vayechi",
+    "he": "מְקַבֵּל אֶת בִּרְכַּת יַעֲקֹב: ״גּוּר אַרְיֵה יְהוּדָה״",
+    "fr": "Reçoit la bénédiction de Yaakov : « Yehouda est un jeune lion »"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.38.26",
+    "he": "״צָדְקָה מִמֶּנִּי״: יְהוּדָה אָמַר אֶת הָאֱמֶת לִפְנֵי כֻּלָּם, גַּם כְּשֶׁהָיָה קָשֶׁה לְהוֹדוֹת שֶׁטָּעָה.",
+    "fr": "« Elle a raison, plus que moi » : Yehouda dit la vérité devant tous, même quand il est difficile d’avouer son erreur."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.44.33",
+    "he": "יְהוּדָה הִבְטִיחַ לִשְׁמֹר עַל בִּנְיָמִין, וְקִיֵּם: הוּא הָיָה מוּכָן לִהְיוֹת עֶבֶד כְּדֵי שֶׁאָחִיו יַחְזֹר לְאַבָּא.",
+    "fr": "Yehouda avait promis de protéger Binyamin, et il tient parole : il est prêt à devenir esclave pour que son frère rentre auprès de leur père."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.49.9",
+    "source": {
+     "he": "רש״י בראשית מ״ט:ט׳",
+     "fr": "Rachi sur Gn 49,9"
+    },
+    "he": "״מִטֶּרֶף בְּנִי עָלִיתָ״: לְפִי רַשִׁ״י, יַעֲקֹב מְשַׁבֵּחַ אֶת יְהוּדָה שֶׁהִצִּיל אֶת יוֹסֵף מִמָּוֶת וְשֶׁהוֹדָה בָּאֱמֶת עַל תָּמָר.",
+    "fr": "« De la proie, mon fils, tu t’es élevé » : selon Rachi, Yaakov félicite Yehouda d’avoir sauvé Yossef de la mort et d’avoir reconnu la vérité au sujet de Tamar."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מָה הִצִּיעַ יְהוּדָה לַעֲשׂוֹת לְיוֹסֵף?",
+     "fr": "Qu’a proposé Yehouda de faire à Yossef ?"
+    },
+    "options": [
+     {
+      "he": "לְהַחֲזִיר אוֹתוֹ לְאַבָּא",
+      "fr": "Le ramener à leur père"
+     },
+     {
+      "he": "לִמְכֹּר אוֹתוֹ לַיִּשְׁמְעֵאלִים",
+      "fr": "Le vendre aux Ismaélites"
+     },
+     {
+      "he": "לְהַשְׁאִיר אוֹתוֹ בַּמִּדְבָּר",
+      "fr": "Le laisser dans le désert"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.37.27"
+   },
+   {
+    "q": {
+     "he": "מָה הִבְטִיחַ יְהוּדָה לְיַעֲקֹב עַל בִּנְיָמִין?",
+     "fr": "Qu’a promis Yehouda à Yaakov au sujet de Binyamin ?"
+    },
+    "options": [
+     {
+      "he": "שֶׁהוּא יִהְיֶה אַחְרַאי עָלָיו וְיַחְזִיר אוֹתוֹ",
+      "fr": "Qu’il répondrait de lui et le ramènerait"
+     },
+     {
+      "he": "שֶׁבִּנְיָמִין יִשָּׁאֵר בְּמִצְרַיִם",
+      "fr": "Que Binyamin resterait en Égypte"
+     },
+     {
+      "he": "שֶׁיִּקְנֶה לוֹ מַתָּנָה",
+      "fr": "Qu’il lui achèterait un cadeau"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.43.9"
+   },
+   {
+    "q": {
+     "he": "מָה בִּקֵּשׁ יְהוּדָה מִיּוֹסֵף?",
+     "fr": "Qu’a demandé Yehouda à Yossef ?"
+    },
+    "options": [
+     {
+      "he": "עוֹד אֹכֶל",
+      "fr": "Plus de nourriture"
+     },
+     {
+      "he": "לַחְזֹר הַבַּיְתָה בְּלִי בִּנְיָמִין",
+      "fr": "Rentrer à la maison sans Binyamin"
+     },
+     {
+      "he": "לִהְיוֹת עֶבֶד בִּמְקוֹם בִּנְיָמִין",
+      "fr": "Être esclave à la place de Binyamin"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.44.33"
+   },
+   {
+    "q": {
+     "he": "לְאֵיזוֹ חַיָּה דִּמָּה יַעֲקֹב אֶת יְהוּדָה?",
+     "fr": "À quel animal Yaakov compare-t-il Yehouda ?"
+    },
+    "options": [
+     {
+      "he": "זְאֵב",
+      "fr": "Un loup"
+     },
+     {
+      "he": "אַרְיֵה",
+      "fr": "Un lion"
+     },
+     {
+      "he": "נָחָשׁ",
+      "fr": "Un serpent"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.49.9"
+   },
+   {
+    "q": {
+     "he": "מָה אָמַר יְהוּדָה עַל תָּמָר?",
+     "fr": "Qu’a dit Yehouda au sujet de Tamar ?"
+    },
+    "options": [
+     {
+      "he": "״צָדְקָה מִמֶּנִּי״",
+      "fr": "« Elle a raison, plus que moi »"
+     },
+     {
+      "he": "״אֵינִי מַכִּיר אוֹתָהּ״",
+      "fr": "« Je ne la connais pas »"
+     },
+     {
+      "he": "״הִיא טוֹעָה״",
+      "fr": "« Elle se trompe »"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.38.26"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "tamar": {
+  "bio": {
+   "he": "תָּמָר הָיְתָה אֵשֶׁת עֵר, הַבֵּן הַגָּדוֹל שֶׁל יְהוּדָה. עֵר מֵת, וְגַם אָחִיו מֵת, וִיהוּדָה אָמַר לְתָמָר לְחַכּוֹת לִבְנוֹ שֵׁלָה. אֲבָל יְהוּדָה לֹא קִיֵּם אֶת הַהַבְטָחָה. בְּסוֹף הַסִּפּוּר תָּמָר שָׁלְחָה לִיהוּדָה חֲפָצִים שֶׁלּוֹ, וְהוּא הוֹדָה: ״צָדְקָה מִמֶּנִּי״ – הִיא צוֹדֶקֶת יוֹתֵר מִמֶּנִּי. תָּמָר יָלְדָה תְּאוֹמִים, פֶּרֶץ וְזֶרַח, וּמִפֶּרֶץ יֵצֵא דָּוִד הַמֶּלֶךְ.",
+   "fr": "Tamar est l’épouse d’Èr, le fils aîné de Yehouda. Èr meurt, puis son frère aussi, et Yehouda dit à Tamar d’attendre son fils Chéla. Mais Yehouda ne tient pas sa promesse. À la fin de l’histoire, Tamar fait porter à Yehouda des objets qui lui appartiennent, et il reconnaît : « Elle a raison, plus que moi. » Tamar met au monde des jumeaux, Pérets et Zéra’h, et de Pérets descendra le roi David."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.38.6",
+    "parasha": "vayeshev",
+    "he": "נַעֲשֵׂית אֵשֶׁת עֵר, בֶּן יְהוּדָה",
+    "fr": "Devient l’épouse d’Èr, fils de Yehouda"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.38.11",
+    "parasha": "vayeshev",
+    "he": "מְחַכָּה בְּבֵית אָבִיהָ לְשֵׁלָה",
+    "fr": "Attend Chéla dans la maison de son père"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.38.25-26",
+    "parasha": "vayeshev",
+    "he": "שׁוֹלַחַת לִיהוּדָה אֶת חֲפָצָיו, וִיהוּדָה מוֹדֶה",
+    "fr": "Fait porter à Yehouda ses objets, et Yehouda reconnaît la vérité"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.38.27-30",
+    "parasha": "vayeshev",
+    "he": "יוֹלֶדֶת תְּאוֹמִים: פֶּרֶץ וְזֶרַח",
+    "fr": "Met au monde des jumeaux : Pérets et Zéra’h"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "midrash",
+    "ref": "Genesis.38.25",
+    "source": {
+     "he": "רש״י בראשית ל״ח:כ״ה",
+     "fr": "Rachi sur Gn 38,25"
+    },
+    "he": "תָּמָר לֹא אָמְרָה שֶׁיְּהוּדָה הוּא הָאִישׁ. הִיא שָׁלְחָה לוֹ רַק אֶת הַחֲפָצִים וְאָמְרָה: ״הַכֶּר נָא״. לְפִי רַשִׁ״י, הִיא רָצְתָה שֶׁיּוֹדֶה בְּעַצְמוֹ.",
+    "fr": "Tamar ne dit pas que c’est Yehouda. Elle lui fait seulement porter les objets en disant : « Reconnais donc ». Selon Rachi, elle veut qu’il avoue de lui-même."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.38.25",
+    "source": {
+     "he": "רש״י בראשית ל״ח:כ״ה",
+     "fr": "Rachi sur Gn 38,25"
+    },
+    "he": "מִכָּאן לָמְדוּ חֲכָמִים: אָסוּר לְבַיֵּשׁ אָדָם אַחֵר לִפְנֵי אֲנָשִׁים, אֲפִלּוּ כְּשֶׁזֶּה קָשֶׁה מְאוֹד.",
+    "fr": "Les Sages en ont appris : il ne faut jamais faire honte à quelqu’un devant les autres, même quand c’est très difficile."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.38.26",
+    "source": {
+     "he": "רש״י בראשית ל״ח:כ״ו",
+     "fr": "Rachi sur Gn 38,26"
+    },
+    "he": "לְפִי רַשִׁ״י, בִּזְכוּת הַצְּנִיעוּת שֶׁל תָּמָר, ה׳ גָּזַר שֶׁמְּלָכִים יֵצְאוּ מִמֶּנָּה.",
+    "fr": "Selon Rachi, grâce à la discrétion de Tamar, Dieu décide que des rois descendront d’elle."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "שֶׁל מִי הָיְתָה תָּמָר אִשָּׁה בַּהַתְחָלָה?",
+     "fr": "De qui Tamar était-elle l’épouse au début ?"
+    },
+    "options": [
+     {
+      "he": "יוֹסֵף",
+      "fr": "Yossef"
+     },
+     {
+      "he": "רְאוּבֵן",
+      "fr": "Réouven"
+     },
+     {
+      "he": "עֵר",
+      "fr": "Èr"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.38.6"
+   },
+   {
+    "q": {
+     "he": "לְאֵיזֶה בֵּן אָמַר יְהוּדָה לְתָמָר לְחַכּוֹת?",
+     "fr": "Quel fils Yehouda a-t-il dit à Tamar d’attendre ?"
+    },
+    "options": [
+     {
+      "he": "שֵׁלָה",
+      "fr": "Chéla"
+     },
+     {
+      "he": "פֶּרֶץ",
+      "fr": "Pérets"
+     },
+     {
+      "he": "בִּנְיָמִין",
+      "fr": "Binyamin"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.38.11"
+   },
+   {
+    "q": {
+     "he": "מָה אָמַר יְהוּדָה כְּשֶׁרָאָה אֶת הַחֲפָצִים?",
+     "fr": "Qu’a dit Yehouda en voyant les objets ?"
+    },
+    "options": [
+     {
+      "he": "״אֵינִי מַכִּיר אוֹתָם״",
+      "fr": "« Je ne les reconnais pas »"
+     },
+     {
+      "he": "״צָדְקָה מִמֶּנִּי״",
+      "fr": "« Elle a raison, plus que moi »"
+     },
+     {
+      "he": "״לְכִי מִכָּאן״",
+      "fr": "« Va-t’en d’ici »"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.38.26"
+   },
+   {
+    "q": {
+     "he": "כַּמָּה תִּינוֹקוֹת יָלְדָה תָּמָר?",
+     "fr": "Combien de bébés Tamar a-t-elle eus ?"
+    },
+    "options": [
+     {
+      "he": "אֶחָד",
+      "fr": "1"
+     },
+     {
+      "he": "שְׁלֹשָׁה",
+      "fr": "3"
+     },
+     {
+      "he": "שְׁנַיִם – תְּאוֹמִים",
+      "fr": "2 – des jumeaux"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.38.27"
+   },
+   {
+    "q": {
+     "he": "מָה קָשְׁרָה הַמְיַלֶּדֶת עַל יַד זֶרַח?",
+     "fr": "Qu’a attaché la sage-femme à la main de Zéra’h ?"
+    },
+    "options": [
+     {
+      "he": "חוּט אָדֹם",
+      "fr": "Un fil rouge"
+     },
+     {
+      "he": "טַבַּעַת זָהָב",
+      "fr": "Une bague en or"
+     },
+     {
+      "he": "פַּעֲמוֹן",
+      "fr": "Une clochette"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.38.28"
+   }
+  ],
+  "notes": [
+   {
+    "key": "parentsNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית ל״ח:כ״ד",
+     "fr": "Rachi sur Gn 38,24"
+    },
+    "he": "הַתּוֹרָה אֵינָהּ אוֹמֶרֶת מִי הָיָה אָבִיהָ. לְפִי רַשִׁ״י, תָּמָר הָיְתָה בִּתּוֹ שֶׁל שֵׁם, בֶּן נֹחַ.",
+    "fr": "La Torah ne dit pas qui est son père. Selon Rachi, Tamar est la fille de Chem, fils de Noa’h."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "peretz": {
+  "bio": {
+   "he": "פֶּרֶץ וְזֶרַח הֵם תְּאוֹמִים, הַבָּנִים שֶׁל יְהוּדָה וְתָמָר. זֶרַח הוֹצִיא קֹדֶם אֶת יָדוֹ, וְהַמְיַלֶּדֶת קָשְׁרָה עָלֶיהָ חוּט אָדֹם, אֲבָל פֶּרֶץ יָצָא רִאשׁוֹן. לָכֵן קָרְאוּ לוֹ פֶּרֶץ, מִלְּשׁוֹן ״לִפְרֹץ״. הוּא יָרַד לְמִצְרַיִם עִם יַעֲקֹב וְעִם שְׁנֵי בָּנָיו, חֶצְרוֹן וְחָמוּל. מִמִּשְׁפַּחְתּוֹ יֵצֵא, הַרְבֵּה דּוֹרוֹת אַחֲרָיו, דָּוִד הַמֶּלֶךְ.",
+   "fr": "Pérets et Zéra’h sont des jumeaux, les fils de Yehouda et de Tamar. Zéra’h sort d’abord la main, et la sage-femme y attache un fil rouge, mais c’est Pérets qui naît le premier. C’est pourquoi on l’appelle Pérets, de « percer, faire une brèche ». Il descend en Égypte avec Yaakov et ses deux fils, ‘Hetsron et ‘Hamoul. De sa famille descendra, bien des générations plus tard, le roi David."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.38.29",
+    "parasha": "vayeshev",
+    "he": "נוֹלָד רִאשׁוֹן, לִפְנֵי אָחִיו הַתְּאוֹם",
+    "fr": "Naît le premier, avant son frère jumeau"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.46.12",
+    "parasha": "vayigash",
+    "he": "יוֹרֵד לְמִצְרַיִם עִם בָּנָיו חֶצְרוֹן וְחָמוּל",
+    "fr": "Descend en Égypte avec ses fils ‘Hetsron et ‘Hamoul"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Ruth.4.18-22",
+    "parasha": "",
+    "he": "רֹאשׁ הַשּׁוֹשֶׁלֶת שֶׁמַּגִּיעָה עַד דָּוִד הַמֶּלֶךְ",
+    "fr": "Premier ancêtre de la lignée qui mène au roi David"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.38.29",
+    "he": "בַּתּוֹרָה הַשֵּׁם מְסַפֵּר סִפּוּר: ״מַה פָּרַצְתָּ עָלֶיךָ פָּרֶץ״ – פֶּרֶץ קִבֵּל אֶת שְׁמוֹ בִּגְלַל הָרֶגַע שֶׁבּוֹ נוֹלַד.",
+    "fr": "Dans la Torah, un nom raconte une histoire : « Quelle brèche tu as faite ! » – Pérets reçoit son nom à cause du moment de sa naissance."
+   },
+   {
+    "src": "torah",
+    "ref": "Ruth.4.18-22",
+    "he": "מְגִלַּת רוּת מוֹנָה עֲשָׂרָה דּוֹרוֹת מִפֶּרֶץ עַד דָּוִד: מִשְׁפָּחָה שֶׁהִתְחִילָה בְּסִפּוּר קָשֶׁה הִגִּיעָה לְמַלְכוּת.",
+    "fr": "Le livre de Ruth compte dix générations de Pérets à David : une famille commencée dans une histoire difficile mène jusqu’à la royauté."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.38.26",
+    "source": {
+     "he": "רש״י בראשית ל״ח:כ״ו",
+     "fr": "Rachi sur Gn 38,26"
+    },
+    "he": "לְפִי רַשִׁ״י, ה׳ גָּזַר שֶׁמְּלָכִים יֵצְאוּ מִתָּמָר וּמִיהוּדָה – וּפֶרֶץ הוּא הַחֻלְיָה הָרִאשׁוֹנָה.",
+    "fr": "Selon Rachi, Dieu a décidé que des rois descendraient de Tamar et de Yehouda – et Pérets est le premier maillon."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מִי הָאָח הַתְּאוֹם שֶׁל פֶּרֶץ?",
+     "fr": "Qui est le frère jumeau de Pérets ?"
+    },
+    "options": [
+     {
+      "he": "שֵׁלָה",
+      "fr": "Chéla"
+     },
+     {
+      "he": "זֶרַח",
+      "fr": "Zéra’h"
+     },
+     {
+      "he": "בִּנְיָמִין",
+      "fr": "Binyamin"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.38.30"
+   },
+   {
+    "q": {
+     "he": "מִי נוֹלַד רִאשׁוֹן?",
+     "fr": "Qui est né le premier ?"
+    },
+    "options": [
+     {
+      "he": "פֶּרֶץ",
+      "fr": "Pérets"
+     },
+     {
+      "he": "זֶרַח",
+      "fr": "Zéra’h"
+     },
+     {
+      "he": "שְׁנֵיהֶם יַחַד",
+      "fr": "Les deux ensemble"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.38.29"
+   },
+   {
+    "q": {
+     "he": "מֵאֵיזוֹ מִלָּה בָּא הַשֵּׁם פֶּרֶץ?",
+     "fr": "De quel mot vient le nom Pérets ?"
+    },
+    "options": [
+     {
+      "he": "שִׂמְחָה",
+      "fr": "Joie"
+     },
+     {
+      "he": "אוֹר",
+      "fr": "Lumière"
+     },
+     {
+      "he": "לִפְרֹץ",
+      "fr": "Faire une brèche"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.38.29"
+   },
+   {
+    "q": {
+     "he": "אֵיךְ קָרְאוּ לִבְנֵי פֶּרֶץ?",
+     "fr": "Comment s’appellent les fils de Pérets ?"
+    },
+    "options": [
+     {
+      "he": "מְנַשֶּׁה וְאֶפְרַיִם",
+      "fr": "Ménaché et Efraïm"
+     },
+     {
+      "he": "חֶצְרוֹן וְחָמוּל",
+      "fr": "‘Hetsron et ‘Hamoul"
+     },
+     {
+      "he": "גֵּרְשׁוֹן וּמְרָרִי",
+      "fr": "Guerchon et Merari"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.46.12"
+   },
+   {
+    "q": {
+     "he": "אֵיזֶה מֶלֶךְ יֵצֵא מִמִּשְׁפַּחַת פֶּרֶץ?",
+     "fr": "Quel roi descendra de la famille de Pérets ?"
+    },
+    "options": [
+     {
+      "he": "פַּרְעֹה",
+      "fr": "Pharaon"
+     },
+     {
+      "he": "שָׁאוּל",
+      "fr": "Chaoul"
+     },
+     {
+      "he": "דָּוִד",
+      "fr": "David"
+     }
+    ],
+    "answer": 2,
+    "ref": "Ruth.4.18-22"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "potifar": {
+  "bio": {
+   "he": "פּוֹטִיפַר הָיָה שַׂר חָשׁוּב בְּמִצְרַיִם, שַׂר הַטַּבָּחִים שֶׁל פַּרְעֹה. הוּא קָנָה אֶת יוֹסֵף מִן הַיִּשְׁמְעֵאלִים. פּוֹטִיפַר רָאָה שֶׁה׳ עִם יוֹסֵף וְשֶׁכָּל מַה שֶּׁיּוֹסֵף עוֹשֶׂה מַצְלִיחַ, וְשָׂם אוֹתוֹ אַחְרַאי עַל כָּל בֵּיתוֹ. ה׳ בֵּרַךְ אֶת בֵּית פּוֹטִיפַר בִּגְלַל יוֹסֵף. אֲבָל אִשְׁתּוֹ שִׁקְּרָה עַל יוֹסֵף, וּפוֹטִיפַר כָּעַס וְשָׂם אוֹתוֹ בְּבֵית הַסֹּהַר.",
+   "fr": "Potifar est un haut personnage d’Égypte, le chef des gardes de Pharaon. Il achète Yossef aux Ismaélites. Potifar voit que Dieu est avec Yossef et que tout ce qu’il fait réussit, et il lui confie toute sa maison. Dieu bénit la maison de Potifar grâce à Yossef. Mais sa femme ment sur Yossef, et Potifar, en colère, le fait mettre en prison."
+  },
+  "events": [
+   {
+    "am": 2216,
+    "datesrc": "torah",
+    "ref": "Genesis.39.1",
+    "parasha": "vayeshev",
+    "he": "קוֹנֶה אֶת יוֹסֵף מִן הַיִּשְׁמְעֵאלִים",
+    "fr": "Achète Yossef aux Ismaélites"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.39.3-4",
+    "parasha": "vayeshev",
+    "he": "רוֹאֶה שֶׁה׳ עִם יוֹסֵף וְשָׂם אוֹתוֹ עַל כָּל בֵּיתוֹ",
+    "fr": "Voit que Dieu est avec Yossef et lui confie toute sa maison"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.39.5",
+    "parasha": "vayeshev",
+    "he": "בֵּיתוֹ מִתְבָּרֵךְ בִּגְלַל יוֹסֵף",
+    "fr": "Sa maison est bénie grâce à Yossef"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.39.19-20",
+    "parasha": "vayeshev",
+    "he": "מַאֲמִין לְשֶׁקֶר שֶׁל אִשְׁתּוֹ וְשָׂם אֶת יוֹסֵף בְּבֵית הַסֹּהַר",
+    "fr": "Croit le mensonge de sa femme et met Yossef en prison"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.39.3",
+    "he": "גַּם פּוֹטִיפַר הַמִּצְרִי רָאָה שֶׁה׳ עִם יוֹסֵף: מַעֲשִׂים טוֹבִים רוֹאִים מִבַּחוּץ.",
+    "fr": "Même Potifar l’Égyptien voit que Dieu est avec Yossef : les bonnes actions se voient de l’extérieur."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.39.5",
+    "he": "בִּזְכוּת אָדָם אֶחָד יָשָׁר, כָּל הַבַּיִת הִתְבָּרֵךְ.",
+    "fr": "Grâce à une seule personne droite, toute la maison est bénie."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מָה הָיָה הַתַּפְקִיד שֶׁל פּוֹטִיפַר?",
+     "fr": "Quel était le rôle de Potifar ?"
+    },
+    "options": [
+     {
+      "he": "מֶלֶךְ מִצְרַיִם",
+      "fr": "Roi d’Égypte"
+     },
+     {
+      "he": "רוֹעֶה צֹאן",
+      "fr": "Berger"
+     },
+     {
+      "he": "שַׂר הַטַּבָּחִים שֶׁל פַּרְעֹה",
+      "fr": "Chef des gardes de Pharaon"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.39.1"
+   },
+   {
+    "q": {
+     "he": "מִמִּי קָנָה פּוֹטִיפַר אֶת יוֹסֵף?",
+     "fr": "À qui Potifar a-t-il acheté Yossef ?"
+    },
+    "options": [
+     {
+      "he": "מִן הַיִּשְׁמְעֵאלִים",
+      "fr": "Aux Ismaélites"
+     },
+     {
+      "he": "מִיַּעֲקֹב",
+      "fr": "À Yaakov"
+     },
+     {
+      "he": "מִפַּרְעֹה",
+      "fr": "À Pharaon"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.39.1"
+   },
+   {
+    "q": {
+     "he": "מָה רָאָה פּוֹטִיפַר אֵצֶל יוֹסֵף?",
+     "fr": "Qu’a vu Potifar chez Yossef ?"
+    },
+    "options": [
+     {
+      "he": "שֶׁיּוֹסֵף עָצֵל",
+      "fr": "Que Yossef était paresseux"
+     },
+     {
+      "he": "שֶׁה׳ עִם יוֹסֵף",
+      "fr": "Que Dieu était avec Yossef"
+     },
+     {
+      "he": "שֶׁיּוֹסֵף רוֹצֶה לִבְרֹחַ",
+      "fr": "Que Yossef voulait s’enfuir"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.39.3"
+   },
+   {
+    "q": {
+     "he": "עַל מָה שָׂם פּוֹטִיפַר אֶת יוֹסֵף?",
+     "fr": "De quoi Potifar a-t-il chargé Yossef ?"
+    },
+    "options": [
+     {
+      "he": "עַל כָּל בֵּיתוֹ",
+      "fr": "De toute sa maison"
+     },
+     {
+      "he": "רַק עַל הַגִּנָּה",
+      "fr": "Seulement du jardin"
+     },
+     {
+      "he": "רַק עַל הַסּוּסִים",
+      "fr": "Seulement des chevaux"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.39.4"
+   },
+   {
+    "q": {
+     "he": "לְאָן שָׁלַח פּוֹטִיפַר אֶת יוֹסֵף אַחֲרֵי שֶׁאִשְׁתּוֹ שִׁקְּרָה?",
+     "fr": "Où Potifar a-t-il envoyé Yossef après le mensonge de sa femme ?"
+    },
+    "options": [
+     {
+      "he": "חֲזָרָה לִכְנַעַן",
+      "fr": "Retour à Canaan"
+     },
+     {
+      "he": "לְאַרְמוֹן פַּרְעֹה",
+      "fr": "Au palais de Pharaon"
+     },
+     {
+      "he": "לְבֵית הַסֹּהַר",
+      "fr": "En prison"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.39.20"
+   }
+  ],
+  "notes": [
+   {
+    "key": "identityNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית מ״א:מ״ה",
+     "fr": "Rachi sur Gn 41,45"
+    },
+    "ref": "Genesis.41.45",
+    "he": "לְפִי רַשִׁ״י, פּוֹטִיפַר הוּא פּוֹטִי פֶרַע, אֲבִי אָסְנַת, שֶׁיּוֹסֵף נָשָׂא לְאִשָּׁה. הַתּוֹרָה עַצְמָהּ אֵינָהּ אוֹמֶרֶת זֹאת.",
+    "fr": "Selon Rachi, Potifar est Poti-Féra, le père d’Osnat, que Yossef a épousée. La Torah elle-même ne le dit pas."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "sar-hamashkim": {
+  "bio": {
+   "he": "שַׂר הַמַּשְׁקִים הָיָה אַחְרַאי עַל הַמַּשְׁקִים שֶׁל פַּרְעֹה. פַּרְעֹה כָּעַס עָלָיו וְשָׂם אוֹתוֹ בְּבֵית הַסֹּהַר, וְשָׁם פָּגַשׁ אֶת יוֹסֵף. הוּא חָלַם עַל גֶּפֶן עִם שְׁלֹשָׁה שָׂרִיגִים, וְיוֹסֵף פָּתַר שֶׁבְּעוֹד שְׁלֹשָׁה יָמִים יַחְזֹר לְתַפְקִידוֹ – וְכָךְ הָיָה. יוֹסֵף בִּקֵּשׁ מִמֶּנּוּ לִזְכֹּר אוֹתוֹ, אֲבָל הוּא שָׁכַח. רַק אַחֲרֵי שְׁנָתַיִם, כְּשֶׁפַּרְעֹה חָלַם, הוּא נִזְכַּר וְסִפֵּר לְפַרְעֹה עַל יוֹסֵף.",
+   "fr": "Le chef des échansons s’occupe des boissons de Pharaon. Pharaon se fâche contre lui et le met en prison, où il rencontre Yossef. Il rêve d’une vigne à trois branches, et Yossef lui explique que dans trois jours il retrouvera sa place – et c’est ce qui arrive. Yossef lui demande de se souvenir de lui, mais il oublie. Deux ans plus tard seulement, quand Pharaon fait ses rêves, il se souvient et parle de Yossef à Pharaon."
+  },
+  "events": [
+   {
+    "am": 2227,
+    "datesrc": "midrash",
+    "ref": "Genesis.40.9-11",
+    "parasha": "vayeshev",
+    "he": "חוֹלֵם עַל גֶּפֶן עִם שְׁלֹשָׁה שָׂרִיגִים",
+    "fr": "Rêve d’une vigne à trois branches"
+   },
+   {
+    "am": 2227,
+    "datesrc": "midrash",
+    "ref": "Genesis.40.21",
+    "parasha": "vayeshev",
+    "he": "חוֹזֵר לְתַפְקִידוֹ וְנוֹתֵן אֶת הַכּוֹס לְפַרְעֹה",
+    "fr": "Retrouve sa place et tend la coupe à Pharaon"
+   },
+   {
+    "am": 2227,
+    "datesrc": "midrash",
+    "ref": "Genesis.40.23",
+    "parasha": "vayeshev",
+    "he": "שׁוֹכֵחַ אֶת יוֹסֵף",
+    "fr": "Oublie Yossef"
+   },
+   {
+    "am": 2229,
+    "datesrc": "torah",
+    "ref": "Genesis.41.9-13",
+    "parasha": "miketz",
+    "he": "נִזְכָּר וּמְסַפֵּר לְפַרְעֹה עַל יוֹסֵף",
+    "fr": "Se souvient et parle de Yossef à Pharaon"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.40.14",
+    "he": "יוֹסֵף עָזַר לְשַׂר הַמַּשְׁקִים וּבִקֵּשׁ רַק שֶׁיִּזְכֹּר אוֹתוֹ. חָשׁוּב לִזְכֹּר אֶת מִי שֶׁעָזַר לָנוּ.",
+    "fr": "Yossef a aidé l’échanson et lui a seulement demandé de se souvenir de lui. Il est important de se souvenir de ceux qui nous ont aidés."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.41.9",
+    "he": "״אֶת חֲטָאַי אֲנִי מַזְכִּיר הַיּוֹם״: כְּדֵי לְסַפֵּר עַל יוֹסֵף, שַׂר הַמַּשְׁקִים מַסְכִּים לְהַזְכִּיר לִפְנֵי פַּרְעֹה אֶת הַחֲטָאִים שֶׁלּוֹ.",
+    "fr": "« Je rappelle aujourd’hui mes fautes » : pour parler de Yossef, l’échanson accepte de rappeler devant Pharaon ses propres fautes."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.40.23",
+    "source": {
+     "he": "רש״י בראשית מ׳:כ״ג",
+     "fr": "Rachi sur Gn 40,23"
+    },
+    "he": "לְפִי רַשִׁ״י, מִפְּנֵי שֶׁיּוֹסֵף סָמַךְ עַל שַׂר הַמַּשְׁקִים, נִשְׁאַר עוֹד שְׁנָתַיִם בְּבֵית הַסֹּהַר: אֶת הַבִּטָּחוֹן שָׂמִים בַּה׳.",
+    "fr": "Selon Rachi, parce que Yossef a compté sur l’échanson, il est resté deux ans de plus en prison : c’est en Dieu qu’on place sa confiance."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "עַל מָה חָלַם שַׂר הַמַּשְׁקִים?",
+     "fr": "De quoi a rêvé le chef des échansons ?"
+    },
+    "options": [
+     {
+      "he": "עַל גֶּפֶן",
+      "fr": "D’une vigne"
+     },
+     {
+      "he": "עַל פָּרוֹת",
+      "fr": "De vaches"
+     },
+     {
+      "he": "עַל סַלִּים",
+      "fr": "De corbeilles"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.40.9"
+   },
+   {
+    "q": {
+     "he": "כַּמָּה שָׂרִיגִים הָיוּ בַּגֶּפֶן?",
+     "fr": "Combien de branches avait la vigne ?"
+    },
+    "options": [
+     {
+      "he": "שִׁבְעָה",
+      "fr": "7"
+     },
+     {
+      "he": "שְׁנַיִם",
+      "fr": "2"
+     },
+     {
+      "he": "שְׁלֹשָׁה",
+      "fr": "3"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.40.10"
+   },
+   {
+    "q": {
+     "he": "מָה בִּקֵּשׁ יוֹסֵף מִשַּׂר הַמַּשְׁקִים?",
+     "fr": "Qu’a demandé Yossef au chef des échansons ?"
+    },
+    "options": [
+     {
+      "he": "כֶּסֶף",
+      "fr": "De l’argent"
+     },
+     {
+      "he": "לִזְכֹּר אוֹתוֹ וּלְסַפֵּר עָלָיו לְפַרְעֹה",
+      "fr": "Se souvenir de lui et parler de lui à Pharaon"
+     },
+     {
+      "he": "כּוֹס יַיִן",
+      "fr": "Une coupe de vin"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.40.14"
+   },
+   {
+    "q": {
+     "he": "אַחֲרֵי כַּמָּה זְמַן נִזְכַּר שַׂר הַמַּשְׁקִים בְּיוֹסֵף?",
+     "fr": "Au bout de combien de temps l’échanson s’est-il souvenu de Yossef ?"
+    },
+    "options": [
+     {
+      "he": "שְׁנָתַיִם",
+      "fr": "Deux ans"
+     },
+     {
+      "he": "שָׁבוּעַ",
+      "fr": "Une semaine"
+     },
+     {
+      "he": "עֶשְׂרִים שָׁנָה",
+      "fr": "Vingt ans"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.41.1"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מָה נִמְצָא בַּכּוֹס שֶׁל פַּרְעֹה?",
+     "fr": "Selon Rachi, qu’a-t-on trouvé dans la coupe de Pharaon ?"
+    },
+    "options": [
+     {
+      "he": "אֶבֶן קְטַנָּה",
+      "fr": "Un petit caillou"
+     },
+     {
+      "he": "שַׂעֲרָה",
+      "fr": "Un cheveu"
+     },
+     {
+      "he": "זְבוּב",
+      "fr": "Une mouche"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.40.1",
+    "src": "midrash"
+   }
+  ],
+  "notes": [
+   {
+    "key": "nameNote",
+    "src": "torah",
+    "ref": "Genesis.40.2",
+    "he": "הַתּוֹרָה אֵינָהּ אוֹמֶרֶת אֶת שְׁמוֹ. הִיא קוֹרֵאת לוֹ רַק ״שַׂר הַמַּשְׁקִים״.",
+    "fr": "La Torah ne donne pas son nom. Elle l’appelle seulement « le chef des échansons »."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "sar-haofim": {
+  "bio": {
+   "he": "שַׂר הָאֹפִים הָיָה אַחְרַאי עַל הַלֶּחֶם וְהַמַּאֲפִים שֶׁל פַּרְעֹה. גַּם עָלָיו כָּעַס פַּרְעֹה, וְהוּא יָשַׁב בְּבֵית הַסֹּהַר עִם שַׂר הַמַּשְׁקִים וְעִם יוֹסֵף. כְּשֶׁרָאָה שֶׁיּוֹסֵף פָּתַר טוֹב אֶת הַחֲלוֹם שֶׁל חֲבֵרוֹ, סִפֵּר גַּם הוּא אֶת חֲלוֹמוֹ: שְׁלֹשָׁה סַלִּים עַל רֹאשׁוֹ, וְהָעוֹף אוֹכֵל מִן הַסַּל הָעֶלְיוֹן. יוֹסֵף אָמַר לוֹ אֶת הָאֱמֶת, גַּם כְּשֶׁהִיא לֹא הָיְתָה נְעִימָה. בְּיוֹם הֻלֶּדֶת פַּרְעֹה הַפִּתָּרוֹן הִתְקַיֵּם, וּפַרְעֹה גָּזַר עָלָיו מָוֶת.",
+   "fr": "Le chef des panetiers s’occupe du pain et des pâtisseries de Pharaon. Pharaon se fâche aussi contre lui, et il se retrouve en prison avec l’échanson et Yossef. Voyant que Yossef a bien expliqué le rêve de son compagnon, il raconte lui aussi son rêve : trois corbeilles sur sa tête, et les oiseaux mangent dans celle du haut. Yossef lui dit la vérité, même si elle n’est pas agréable. Le jour de l’anniversaire de Pharaon, l’explication se réalise, et Pharaon le condamne à mort."
+  },
+  "events": [
+   {
+    "am": 2227,
+    "datesrc": "midrash",
+    "ref": "Genesis.40.16-17",
+    "parasha": "vayeshev",
+    "he": "חוֹלֵם עַל שְׁלֹשָׁה סַלִּים עַל רֹאשׁוֹ",
+    "fr": "Rêve de trois corbeilles sur sa tête"
+   },
+   {
+    "am": 2227,
+    "datesrc": "midrash",
+    "ref": "Genesis.40.18-19",
+    "parasha": "vayeshev",
+    "he": "שׁוֹמֵעַ מִיּוֹסֵף פִּתָּרוֹן לֹא טוֹב",
+    "fr": "Reçoit de Yossef une explication qui n’est pas bonne"
+   },
+   {
+    "am": 2227,
+    "datesrc": "midrash",
+    "ref": "Genesis.40.20-22",
+    "parasha": "vayeshev",
+    "he": "בְּיוֹם הֻלֶּדֶת פַּרְעֹה הַפִּתָּרוֹן מִתְקַיֵּם",
+    "fr": "Le jour de l’anniversaire de Pharaon, l’explication se réalise"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.40.16",
+    "he": "״כִּי טוֹב פָּתָר״: שַׂר הָאֹפִים סִפֵּר אֶת חֲלוֹמוֹ רַק אַחֲרֵי שֶׁשָּׁמַע פִּתָּרוֹן טוֹב לַחֲבֵרוֹ.",
+    "fr": "« Il avait bien expliqué » : le panetier ne raconte son rêve qu’après avoir entendu une bonne explication pour son compagnon."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.40.18-19",
+    "he": "יוֹסֵף לֹא שִׁנָּה אֶת הַפִּתָּרוֹן כְּדֵי לְשַׂמֵּחַ: הוּא אָמַר אֶת הָאֱמֶת.",
+    "fr": "Yossef ne change pas l’explication pour faire plaisir : il dit la vérité."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.40.1",
+    "source": {
+     "he": "רש״י בראשית מ׳:א׳",
+     "fr": "Rachi sur Gn 40,1"
+    },
+    "he": "לְפִי רַשִׁ״י, פַּרְעֹה כָּעַס כִּי נִמְצְאָה אֶבֶן קְטַנָּה בַּלֶּחֶם שֶׁלּוֹ. אֵצֶל מֶלֶךְ, גַּם פְּרָט קָטָן חָשׁוּב.",
+    "fr": "Selon Rachi, Pharaon s’est fâché parce qu’on a trouvé un petit caillou dans son pain. Chez un roi, même un petit détail compte."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "כַּמָּה סַלִּים רָאָה שַׂר הָאֹפִים בַּחֲלוֹם?",
+     "fr": "Combien de corbeilles le panetier a-t-il vues en rêve ?"
+    },
+    "options": [
+     {
+      "he": "שְׁנַיִם",
+      "fr": "2"
+     },
+     {
+      "he": "שְׁלֹשָׁה",
+      "fr": "3"
+     },
+     {
+      "he": "שִׁבְעָה",
+      "fr": "7"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.40.16"
+   },
+   {
+    "q": {
+     "he": "מִי אָכַל מִן הַסַּל הָעֶלְיוֹן?",
+     "fr": "Qui mangeait dans la corbeille du haut ?"
+    },
+    "options": [
+     {
+      "he": "הַכְּלָבִים",
+      "fr": "Les chiens"
+     },
+     {
+      "he": "פַּרְעֹה",
+      "fr": "Pharaon"
+     },
+     {
+      "he": "הָעוֹף",
+      "fr": "Les oiseaux"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.40.17"
+   },
+   {
+    "q": {
+     "he": "אֵיפֹה הָיוּ הַסַּלִּים בַּחֲלוֹם?",
+     "fr": "Où étaient les corbeilles dans le rêve ?"
+    },
+    "options": [
+     {
+      "he": "עַל רֹאשׁוֹ",
+      "fr": "Sur sa tête"
+     },
+     {
+      "he": "בַּנָּהָר",
+      "fr": "Dans le fleuve"
+     },
+     {
+      "he": "עַל הַשֻּׁלְחָן",
+      "fr": "Sur la table"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.40.16"
+   },
+   {
+    "q": {
+     "he": "מָתַי הִתְקַיֵּם הַפִּתָּרוֹן?",
+     "fr": "Quand l’explication s’est-elle réalisée ?"
+    },
+    "options": [
+     {
+      "he": "בְּשַׁבָּת",
+      "fr": "Un Chabbat"
+     },
+     {
+      "he": "בְּיוֹם הֻלֶּדֶת שֶׁל פַּרְעֹה",
+      "fr": "Le jour de l’anniversaire de Pharaon"
+     },
+     {
+      "he": "אַחֲרֵי שָׁנָה",
+      "fr": "Un an après"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.40.20"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מָה נִמְצָא בַּלֶּחֶם שֶׁל פַּרְעֹה?",
+     "fr": "Selon Rachi, qu’a-t-on trouvé dans le pain de Pharaon ?"
+    },
+    "options": [
+     {
+      "he": "אֶבֶן קְטַנָּה",
+      "fr": "Un petit caillou"
+     },
+     {
+      "he": "זְבוּב",
+      "fr": "Une mouche"
+     },
+     {
+      "he": "מַטְבֵּעַ",
+      "fr": "Une pièce"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.40.1",
+    "src": "midrash"
+   }
+  ],
+  "notes": [
+   {
+    "key": "nameNote",
+    "src": "torah",
+    "ref": "Genesis.40.2",
+    "he": "הַתּוֹרָה אֵינָהּ אוֹמֶרֶת אֶת שְׁמוֹ. הִיא קוֹרֵאת לוֹ רַק ״שַׂר הָאֹפִים״.",
+    "fr": "La Torah ne donne pas son nom. Elle l’appelle seulement « le chef des panetiers »."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "paro-yossef": {
+  "bio": {
+   "he": "פַּרְעֹה, מֶלֶךְ מִצְרַיִם, חָלַם שְׁנֵי חֲלוֹמוֹת: שֶׁבַע פָּרוֹת שְׁמֵנוֹת וְשֶׁבַע רָזוֹת, וְשֶׁבַע שִׁבֳּלִים מְלֵאוֹת וְשֶׁבַע דַּקּוֹת. אַף אֶחָד מֵחֲכָמָיו לֹא יָדַע לִפְתֹּר אוֹתָם, עַד שֶׁהֵבִיאוּ אֶת יוֹסֵף מִבֵּית הַסֹּהַר. פַּרְעֹה הֵבִין שֶׁרוּחַ אֱלֹהִים בְּיוֹסֵף, וְשָׂם אוֹתוֹ שֵׁנִי לוֹ עַל כָּל אֶרֶץ מִצְרַיִם. כְּשֶׁאֲחֵי יוֹסֵף בָּאוּ, פַּרְעֹה שָׂמַח וְהִזְמִין אֶת כָּל הַמִּשְׁפָּחָה לָגוּר בְּאֶרֶץ גֹּשֶׁן. יַעֲקֹב בֵּרַךְ אֶת פַּרְעֹה, וּכְשֶׁיַּעֲקֹב מֵת, פַּרְעֹה הִרְשָׁה לְיוֹסֵף לַעֲלוֹת וְלִקְבֹּר אוֹתוֹ.",
+   "fr": "Pharaon, roi d’Égypte, fait deux rêves : sept vaches grasses et sept maigres, puis sept épis pleins et sept épis maigres. Aucun de ses sages ne sait les expliquer, jusqu’à ce qu’on fasse sortir Yossef de prison. Pharaon comprend que l’esprit de Dieu est en Yossef et le nomme deuxième après lui sur toute l’Égypte. Quand les frères de Yossef arrivent, Pharaon se réjouit et invite toute la famille à habiter le pays de Gochen. Yaakov bénit Pharaon, et quand Yaakov meurt, Pharaon permet à Yossef d’aller l’enterrer."
+  },
+  "events": [
+   {
+    "am": 2229,
+    "datesrc": "torah",
+    "ref": "Genesis.41.1-7",
+    "parasha": "miketz",
+    "he": "חוֹלֵם עַל פָּרוֹת וְעַל שִׁבֳּלִים",
+    "fr": "Rêve de vaches et d’épis"
+   },
+   {
+    "am": 2229,
+    "datesrc": "torah",
+    "ref": "Genesis.41.38-43",
+    "parasha": "miketz",
+    "he": "שָׂם אֶת יוֹסֵף שֵׁנִי לוֹ עַל כָּל מִצְרַיִם",
+    "fr": "Nomme Yossef deuxième après lui sur toute l’Égypte"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.45.16-20",
+    "parasha": "vayigash",
+    "he": "מַזְמִין אֶת מִשְׁפַּחַת יוֹסֵף לָבוֹא לְמִצְרַיִם",
+    "fr": "Invite la famille de Yossef à venir en Égypte"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.47.7-10",
+    "parasha": "vayigash",
+    "he": "פּוֹגֵשׁ אֶת יַעֲקֹב וּמְקַבֵּל מִמֶּנּוּ בְּרָכָה",
+    "fr": "Rencontre Yaakov et reçoit sa bénédiction"
+   },
+   {
+    "am": 2255,
+    "datesrc": "torah",
+    "ref": "Genesis.50.6",
+    "parasha": "vayechi",
+    "he": "מַרְשֶׁה לְיוֹסֵף לַעֲלוֹת וְלִקְבֹּר אֶת אָבִיו",
+    "fr": "Permet à Yossef d’aller enterrer son père"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.41.38",
+    "he": "״הֲנִמְצָא כָזֶה אִישׁ אֲשֶׁר רוּחַ אֱלֹהִים בּוֹ?״: מֶלֶךְ גָּדוֹל יָדַע לְהַכִּיר בְּחָכְמָה שֶׁל אָסִיר צָעִיר.",
+    "fr": "« Trouverons-nous un homme comme lui, en qui est l’esprit de Dieu ? » : un grand roi sait reconnaître la sagesse d’un jeune prisonnier."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.41.55",
+    "he": "״לְכוּ אֶל יוֹסֵף״: כְּשֶׁהָעָם רָעֵב, פַּרְעֹה סָמַךְ עַל יוֹסֵף וְשָׁלַח אֵלָיו אֶת כֻּלָּם.",
+    "fr": "« Allez vers Yossef » : quand le peuple a faim, Pharaon fait confiance à Yossef et lui envoie tout le monde."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.47.7",
+    "he": "יַעֲקֹב הַזָּקֵן בֵּרַךְ אֶת פַּרְעֹה: גַּם מֶלֶךְ חָזָק מְקַבֵּל בְּרָכָה מֵאָדָם צַדִּיק.",
+    "fr": "Le vieux Yaakov bénit Pharaon : même un roi puissant reçoit la bénédiction d’un juste."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "אֵילוּ חַיּוֹת רָאָה פַּרְעֹה בַּחֲלוֹם הָרִאשׁוֹן?",
+     "fr": "Quels animaux Pharaon a-t-il vus dans son premier rêve ?"
+    },
+    "options": [
+     {
+      "he": "אֲרָיוֹת",
+      "fr": "Des lions"
+     },
+     {
+      "he": "פָּרוֹת",
+      "fr": "Des vaches"
+     },
+     {
+      "he": "כְּבָשִׂים",
+      "fr": "Des moutons"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.41.2"
+   },
+   {
+    "q": {
+     "he": "כַּמָּה פָּרוֹת שְׁמֵנוֹת עָלוּ מִן הַיְאֹר?",
+     "fr": "Combien de vaches grasses sont sorties du fleuve ?"
+    },
+    "options": [
+     {
+      "he": "שָׁלֹשׁ",
+      "fr": "3"
+     },
+     {
+      "he": "עֶשֶׂר",
+      "fr": "10"
+     },
+     {
+      "he": "שֶׁבַע",
+      "fr": "7"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.41.2"
+   },
+   {
+    "q": {
+     "he": "מָה נָתַן פַּרְעֹה לְיוֹסֵף?",
+     "fr": "Qu’a donné Pharaon à Yossef ?"
+    },
+    "options": [
+     {
+      "he": "אֶת טַבַּעְתּוֹ, בִּגְדֵי שֵׁשׁ וּרְבִיד זָהָב",
+      "fr": "Son anneau, des habits de lin fin et un collier d’or"
+     },
+     {
+      "he": "עֲשָׂרָה גְּמַלִּים",
+      "fr": "Dix chameaux"
+     },
+     {
+      "he": "כְּתֹנֶת פַּסִּים",
+      "fr": "Une tunique rayée"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.41.42"
+   },
+   {
+    "q": {
+     "he": "בְּאֵיזֶה אֵזוֹר גָּרָה מִשְׁפַּחַת יַעֲקֹב בְּמִצְרַיִם?",
+     "fr": "Dans quelle région la famille de Yaakov habite-t-elle en Égypte ?"
+    },
+    "options": [
+     {
+      "he": "כְּנַעַן",
+      "fr": "Canaan"
+     },
+     {
+      "he": "גֹּשֶׁן",
+      "fr": "Gochen"
+     },
+     {
+      "he": "חָרָן",
+      "fr": "‘Haran"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.47.6"
+   },
+   {
+    "q": {
+     "he": "מִי בֵּרַךְ אֶת פַּרְעֹה?",
+     "fr": "Qui a béni Pharaon ?"
+    },
+    "options": [
+     {
+      "he": "יוֹסֵף",
+      "fr": "Yossef"
+     },
+     {
+      "he": "שַׂר הַמַּשְׁקִים",
+      "fr": "Le chef des échansons"
+     },
+     {
+      "he": "יַעֲקֹב",
+      "fr": "Yaakov"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.47.7"
+   }
+  ],
+  "notes": [
+   {
+    "key": "nameNote",
+    "src": "torah",
+    "ref": "Genesis.41.1",
+    "he": "הַתּוֹרָה אֵינָהּ אוֹמֶרֶת אֶת שְׁמוֹ הַפְּרָטִי. ״פַּרְעֹה״ הוּא הַתֹּאַר שֶׁל מַלְכֵי מִצְרַיִם.",
+    "fr": "La Torah ne donne pas son nom propre. « Pharaon » est le titre des rois d’Égypte."
+   }
+  ],
+  "historical": {
+   "he": "הַתּוֹרָה אֵינָהּ נוֹתֶנֶת אֶת שְׁמוֹ. חוֹקְרִים הִצִּיעוּ כַּמָּה מְלָכִים (לְמָשָׁל מִתְּקוּפַת הַהִיקְסוֹס), אֲבָל אֵין זִהוּי בָּטוּחַ, וְיֵשׁ עַל זֶה וִכּוּחַ.",
+   "fr": "Le texte ne donne pas son nom. Des chercheurs ont proposé plusieurs rois (par exemple de l’époque des Hyksôs), mais aucune identification n’est sûre ; la question est débattue."
+  }
+ },
+ "osnat": {
+  "bio": {
+   "he": "אָסְנַת הִיא אֵשֶׁת יוֹסֵף. פַּרְעֹה נָתַן אוֹתָהּ לְיוֹסֵף לְאִשָּׁה כְּשֶׁנַּעֲשָׂה שַׁלִּיט בְּמִצְרַיִם. הַתּוֹרָה אוֹמֶרֶת שֶׁהִיא בַּת פּוֹטִי פֶרַע, כֹּהֵן אֹן. לִפְנֵי שְׁנוֹת הָרָעָב הִיא יָלְדָה לְיוֹסֵף שְׁנֵי בָּנִים, מְנַשֶּׁה וְאֶפְרַיִם, שֶׁיִּהְיוּ לִשְׁנֵי שְׁבָטִים בְּעַם יִשְׂרָאֵל.",
+   "fr": "Osnat est l’épouse de Yossef. Pharaon la lui donne pour femme quand il devient gouverneur de l’Égypte. La Torah dit qu’elle est la fille de Poti-Féra, prêtre d’On. Avant les années de famine, elle donne à Yossef deux fils, Ménaché et Efraïm, qui deviendront deux tribus du peuple d’Israël."
+  },
+  "events": [
+   {
+    "am": 2229,
+    "datesrc": "torah",
+    "ref": "Genesis.41.45",
+    "parasha": "miketz",
+    "he": "פַּרְעֹה נוֹתֵן אוֹתָהּ לְיוֹסֵף לְאִשָּׁה",
+    "fr": "Pharaon la donne pour épouse à Yossef"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.41.50-52",
+    "parasha": "miketz",
+    "he": "יוֹלֶדֶת אֶת מְנַשֶּׁה וְאֶת אֶפְרַיִם לִפְנֵי שְׁנוֹת הָרָעָב",
+    "fr": "Met au monde Ménaché et Efraïm avant les années de famine"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.46.20",
+    "parasha": "vayigash",
+    "he": "נִזְכֶּרֶת בִּרְשִׁימַת מִשְׁפַּחַת יַעֲקֹב בְּמִצְרַיִם",
+    "fr": "Est mentionnée dans la liste de la famille de Yaakov en Égypte"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.41.51-52",
+    "he": "הַשֵּׁמוֹת שֶׁל שְׁנֵי הַבָּנִים מוֹדִים לַה׳: עַל שֶׁעָזַר לִשְׁכֹּחַ אֶת הַצָּרוֹת, וְעַל הַהַצְלָחָה בְּאֶרֶץ זָרָה.",
+    "fr": "Les noms des deux fils remercient Dieu : de faire oublier les malheurs, et de la réussite dans un pays étranger."
+   },
+   {
+    "src": "torah",
+    "ref": "Genesis.48.20",
+    "he": "״יְשִׂמְךָ אֱלֹהִים כְּאֶפְרַיִם וְכִמְנַשֶּׁה״: עַד הַיּוֹם הוֹרִים מְבָרְכִים אֶת בְּנֵיהֶם בְּשֵׁם הַבָּנִים שֶׁל אָסְנַת וְיוֹסֵף.",
+    "fr": "« Que Dieu te rende comme Efraïm et Ménaché » : aujourd’hui encore, les parents bénissent leurs fils avec les noms des enfants d’Osnat et de Yossef."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מִי נָתַן אֶת אָסְנַת לְיוֹסֵף לְאִשָּׁה?",
+     "fr": "Qui a donné Osnat pour épouse à Yossef ?"
+    },
+    "options": [
+     {
+      "he": "פַּרְעֹה",
+      "fr": "Pharaon"
+     },
+     {
+      "he": "יַעֲקֹב",
+      "fr": "Yaakov"
+     },
+     {
+      "he": "שַׂר הַמַּשְׁקִים",
+      "fr": "Le chef des échansons"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.41.45"
+   },
+   {
+    "q": {
+     "he": "מִי הָיָה אֲבִי אָסְנַת?",
+     "fr": "Qui était le père d’Osnat ?"
+    },
+    "options": [
+     {
+      "he": "לָבָן",
+      "fr": "Lavan"
+     },
+     {
+      "he": "יְהוּדָה",
+      "fr": "Yehouda"
+     },
+     {
+      "he": "פּוֹטִי פֶרַע, כֹּהֵן אֹן",
+      "fr": "Poti-Féra, prêtre d’On"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.41.45"
+   },
+   {
+    "q": {
+     "he": "כַּמָּה בָּנִים יָלְדָה אָסְנַת לְיוֹסֵף?",
+     "fr": "Combien de fils Osnat a-t-elle donnés à Yossef ?"
+    },
+    "options": [
+     {
+      "he": "אֶחָד",
+      "fr": "1"
+     },
+     {
+      "he": "שְׁנַיִם",
+      "fr": "2"
+     },
+     {
+      "he": "שְׁנֵים עָשָׂר",
+      "fr": "12"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.41.50"
+   },
+   {
+    "q": {
+     "he": "אֵיךְ קָרְאוּ לַבָּנִים שֶׁל אָסְנַת?",
+     "fr": "Comment s’appellent les fils d’Osnat ?"
+    },
+    "options": [
+     {
+      "he": "פֶּרֶץ וְזֶרַח",
+      "fr": "Pérets et Zéra’h"
+     },
+     {
+      "he": "גֵּרְשׁוֹן וּמְרָרִי",
+      "fr": "Guerchon et Merari"
+     },
+     {
+      "he": "מְנַשֶּׁה וְאֶפְרַיִם",
+      "fr": "Ménaché et Efraïm"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.41.51-52"
+   },
+   {
+    "q": {
+     "he": "מָתַי נוֹלְדוּ הַבָּנִים?",
+     "fr": "Quand les fils sont-ils nés ?"
+    },
+    "options": [
+     {
+      "he": "אַחֲרֵי מוֹת יַעֲקֹב",
+      "fr": "Après la mort de Yaakov"
+     },
+     {
+      "he": "לִפְנֵי שְׁנוֹת הָרָעָב",
+      "fr": "Avant les années de famine"
+     },
+     {
+      "he": "בְּאֶרֶץ כְּנַעַן",
+      "fr": "En terre de Canaan"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.41.50"
+   }
+  ],
+  "notes": [
+   {
+    "key": "identityNote",
+    "src": "midrash",
+    "source": {
+     "he": "תרגום יונתן בראשית מ״א:מ״ה",
+     "fr": "Targoum Yonatan sur Gn 41,45"
+    },
+    "ref": "Genesis.41.45",
+    "he": "לְפִי מִדְרָשׁ (תַּרְגּוּם יוֹנָתָן), אָסְנַת הָיְתָה בִּתָּהּ שֶׁל דִּינָה, בַּת יַעֲקֹב, וְגָדְלָה בְּמִצְרַיִם בְּבֵית אֵשֶׁת פּוֹטִי פֶרַע. הַתּוֹרָה עַצְמָהּ אוֹמֶרֶת רַק שֶׁהִיא ״בַּת פּוֹטִי פֶרַע״.",
+    "fr": "Selon un midrash (Targoum Yonatan), Osnat est la fille de Dina, fille de Yaakov, et elle a grandi en Égypte chez l’épouse de Poti-Féra. La Torah elle-même dit seulement qu’elle est « fille de Poti-Féra »."
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "menashe": {
+  "bio": {
+   "he": "מְנַשֶּׁה הוּא הַבֵּן הַבְּכוֹר שֶׁל יוֹסֵף וְאָסְנַת, וְנוֹלַד בְּמִצְרַיִם. יוֹסֵף קָרָא לוֹ מְנַשֶּׁה כִּי ״נַשַּׁנִי אֱלֹהִים אֶת כָּל עֲמָלִי״ – ה׳ עָזַר לוֹ לִשְׁכֹּחַ אֶת הַקְּשָׁיִים. כְּשֶׁיַּעֲקֹב הָיָה חוֹלֶה, יוֹסֵף הֵבִיא אֵלָיו אֶת מְנַשֶּׁה וְאֶת אֶפְרַיִם, וְיַעֲקֹב אָמַר שֶׁהֵם יִהְיוּ לוֹ כְּמוֹ בָּנָיו. יַעֲקֹב שָׂם אֶת יַד יְמִינוֹ עַל אֶפְרַיִם הַצָּעִיר, אֲבָל אָמַר עַל מְנַשֶּׁה: ״גַּם הוּא יִהְיֶה לְעָם, וְגַם הוּא יִגְדָּל״. כָּךְ נַעֲשָׂה מְנַשֶּׁה שֵׁבֶט שָׁלֵם בְּעַם יִשְׂרָאֵל.",
+   "fr": "Ménaché est le fils aîné de Yossef et d’Osnat, né en Égypte. Yossef l’appelle Ménaché car « Dieu m’a fait oublier toute ma peine » : Dieu l’a aidé à oublier ses difficultés. Quand Yaakov est malade, Yossef lui amène Ménaché et Efraïm, et Yaakov dit qu’ils seront pour lui comme ses propres fils. Yaakov pose sa main droite sur Efraïm, le plus jeune, mais dit de Ménaché : « Lui aussi deviendra un peuple, lui aussi sera grand. » Ainsi Ménaché devient une tribu entière du peuple d’Israël."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.41.51",
+    "parasha": "miketz",
+    "he": "נוֹלָד בְּמִצְרַיִם, הַבְּכוֹר שֶׁל יוֹסֵף",
+    "fr": "Naît en Égypte, fils aîné de Yossef"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.48.1",
+    "parasha": "vayechi",
+    "he": "בָּא עִם יוֹסֵף וְאֶפְרַיִם אֶל יַעֲקֹב הַחוֹלֶה",
+    "fr": "Vient avec Yossef et Efraïm auprès de Yaakov malade"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.48.5",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב אוֹמֵר: ״כִּרְאוּבֵן וְשִׁמְעוֹן יִהְיוּ לִי״",
+    "fr": "Yaakov dit : « Ils seront à moi comme Réouven et Chimon »"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.48.14-20",
+    "parasha": "vayechi",
+    "he": "מְקַבֵּל בְּרָכָה מִיַּד שְׂמֹאל שֶׁל יַעֲקֹב",
+    "fr": "Reçoit la bénédiction de la main gauche de Yaakov"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.41.51",
+    "he": "יוֹסֵף נָתַן לִבְנוֹ שֵׁם שֶׁל תּוֹדָה: אַחֲרֵי שָׁנִים קָשׁוֹת, הוּא הוֹדָה לַה׳ עַל הַטּוֹב.",
+    "fr": "Yossef donne à son fils un nom de remerciement : après des années difficiles, il remercie Dieu pour le bien."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.48.19",
+    "source": {
+     "he": "רש״י בראשית מ״ח:י״ט",
+     "fr": "Rachi sur Gn 48,19"
+    },
+    "he": "״גַּם הוּא יִגְדָּל״: לְפִי רַשִׁ״י, מִשֵּׁבֶט מְנַשֶּׁה יֵצֵא גִּדְעוֹן, שֶׁעַל יָדוֹ ה׳ יַעֲשֶׂה נֵס.",
+    "fr": "« Lui aussi sera grand » : selon Rachi, de la tribu de Ménaché sortira Guidon, par qui Dieu fera un miracle."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.42.23",
+    "source": {
+     "he": "רש״י בראשית מ״ב:כ״ג",
+     "fr": "Rachi sur Gn 42,23"
+    },
+    "he": "לְפִי רַשִׁ״י, הַמְּתֻרְגְּמָן שֶׁעָמַד בֵּין יוֹסֵף לְאֶחָיו הָיָה מְנַשֶּׁה: הוּא עָזַר לְאָבִיו בִּשְׁעַת הַצֹּרֶךְ.",
+    "fr": "Selon Rachi, l’interprète qui se tenait entre Yossef et ses frères était Ménaché : il aide son père quand il en a besoin."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מִי הַבֵּן הַגָּדוֹל שֶׁל יוֹסֵף?",
+     "fr": "Qui est le fils aîné de Yossef ?"
+    },
+    "options": [
+     {
+      "he": "אֶפְרַיִם",
+      "fr": "Efraïm"
+     },
+     {
+      "he": "מְנַשֶּׁה",
+      "fr": "Ménaché"
+     },
+     {
+      "he": "הֵם תְּאוֹמִים",
+      "fr": "Ce sont des jumeaux"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.41.51"
+   },
+   {
+    "q": {
+     "he": "עַל רֹאשׁ מִי שָׂם יַעֲקֹב אֶת יַד יְמִינוֹ?",
+     "fr": "Sur la tête de qui Yaakov pose-t-il sa main droite ?"
+    },
+    "options": [
+     {
+      "he": "מְנַשֶּׁה",
+      "fr": "Ménaché"
+     },
+     {
+      "he": "יוֹסֵף",
+      "fr": "Yossef"
+     },
+     {
+      "he": "אֶפְרַיִם",
+      "fr": "Efraïm"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.48.14"
+   },
+   {
+    "q": {
+     "he": "מָה אָמַר יַעֲקֹב עַל מְנַשֶּׁה?",
+     "fr": "Qu’a dit Yaakov de Ménaché ?"
+    },
+    "options": [
+     {
+      "he": "״גַּם הוּא יִהְיֶה לְעָם״",
+      "fr": "« Lui aussi deviendra un peuple »"
+     },
+     {
+      "he": "״הוּא לֹא יְבֹרַךְ״",
+      "fr": "« Il ne sera pas béni »"
+     },
+     {
+      "he": "״הוּא יִהְיֶה מֶלֶךְ מִצְרַיִם״",
+      "fr": "« Il sera roi d’Égypte »"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.48.19"
+   },
+   {
+    "q": {
+     "he": "אֵיפֹה נוֹלַד מְנַשֶּׁה?",
+     "fr": "Où est né Ménaché ?"
+    },
+    "options": [
+     {
+      "he": "בִּכְנַעַן",
+      "fr": "En Canaan"
+     },
+     {
+      "he": "בְּמִצְרַיִם",
+      "fr": "En Égypte"
+     },
+     {
+      "he": "בְּחָרָן",
+      "fr": "À ‘Haran"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.46.20"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, מִי הָיָה הַמְּתֻרְגְּמָן בֵּין יוֹסֵף לְאֶחָיו?",
+     "fr": "Selon Rachi, qui était l’interprète entre Yossef et ses frères ?"
+    },
+    "options": [
+     {
+      "he": "אֶפְרַיִם",
+      "fr": "Efraïm"
+     },
+     {
+      "he": "פַּרְעֹה",
+      "fr": "Pharaon"
+     },
+     {
+      "he": "מְנַשֶּׁה",
+      "fr": "Ménaché"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.42.23",
+    "src": "midrash"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "efraim": {
+  "bio": {
+   "he": "אֶפְרַיִם הוּא הַבֵּן הַצָּעִיר שֶׁל יוֹסֵף וְאָסְנַת. יוֹסֵף קָרָא לוֹ אֶפְרַיִם כִּי ״הִפְרַנִי אֱלֹהִים בְּאֶרֶץ עָנְיִי״ – ה׳ נָתַן לוֹ הַצְלָחָה בַּמָּקוֹם שֶׁבּוֹ סָבַל. כְּשֶׁיַּעֲקֹב בֵּרַךְ אֶת הַנְּכָדִים, הוּא שִׂכֵּל אֶת יָדָיו וְשָׂם אֶת יַד יְמִינוֹ עַל רֹאשׁ אֶפְרַיִם. יוֹסֵף חָשַׁב שֶׁזּוֹ טָעוּת, אֲבָל יַעֲקֹב עָנָה: ״יָדַעְתִּי בְנִי, יָדַעְתִּי״ – אֶפְרַיִם יִהְיֶה גָּדוֹל מִמְּנַשֶּׁה. מֵאָז מְבָרְכִים יְלָדִים: ״יְשִׂמְךָ אֱלֹהִים כְּאֶפְרַיִם וְכִמְנַשֶּׁה״.",
+   "fr": "Efraïm est le fils cadet de Yossef et d’Osnat. Yossef l’appelle Efraïm car « Dieu m’a rendu fécond dans le pays de ma souffrance » : Dieu l’a fait réussir là où il avait souffert. Quand Yaakov bénit ses petits-fils, il croise les mains et pose sa main droite sur la tête d’Efraïm. Yossef croit à une erreur, mais Yaakov répond : « Je sais, mon fils, je sais » – Efraïm sera plus grand que Ménaché. Depuis, on bénit les enfants ainsi : « Que Dieu te rende comme Efraïm et Ménaché. »"
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.41.52",
+    "parasha": "miketz",
+    "he": "נוֹלָד בְּמִצְרַיִם, הַבֵּן הַשֵּׁנִי שֶׁל יוֹסֵף",
+    "fr": "Naît en Égypte, deuxième fils de Yossef"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.48.14",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב מְשַׂכֵּל אֶת יָדָיו וְשָׂם אֶת יְמִינוֹ עַל אֶפְרַיִם",
+    "fr": "Yaakov croise les mains et pose sa droite sur Efraïm"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.48.17-19",
+    "parasha": "vayechi",
+    "he": "יוֹסֵף רוֹצֶה לְהַזִּיז אֶת הַיָּד, וְיַעֲקֹב אוֹמֵר: ״יָדַעְתִּי בְנִי״",
+    "fr": "Yossef veut déplacer la main, et Yaakov dit : « Je sais, mon fils »"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.48.20",
+    "parasha": "vayechi",
+    "he": "יַעֲקֹב שָׂם אֶת אֶפְרַיִם לִפְנֵי מְנַשֶּׁה בַּבְּרָכָה",
+    "fr": "Yaakov place Efraïm avant Ménaché dans la bénédiction"
+   }
+  ],
+  "lessons": [
+   {
+    "src": "torah",
+    "ref": "Genesis.48.14-19",
+    "he": "״שִׂכֵּל אֶת יָדָיו״: יַעֲקֹב לֹא טָעָה; הוּא בָּחַר בְּכַוָּנָה, כִּי רָאָה מָה יִהְיֶה בֶּעָתִיד.",
+    "fr": "« Il croisa ses mains » : Yaakov ne se trompe pas ; il choisit exprès, car il voit l’avenir."
+   },
+   {
+    "src": "midrash",
+    "ref": "Genesis.48.19",
+    "source": {
+     "he": "רש״י בראשית מ״ח:י״ט",
+     "fr": "Rachi sur Gn 48,19"
+    },
+    "he": "״אָחִיו הַקָּטֹן יִגְדַּל מִמֶּנּוּ״: לְפִי רַשִׁ״י, מֵאֶפְרַיִם יֵצֵא יְהוֹשֻׁעַ, שֶׁיַּכְנִיס אֶת עַם יִשְׂרָאֵל לָאָרֶץ וִילַמֵּד אוֹתָם תּוֹרָה.",
+    "fr": "« Son frère cadet sera plus grand que lui » : selon Rachi, d’Efraïm sortira Yehochoua, qui fera entrer le peuple d’Israël dans le pays et lui enseignera la Torah."
+   },
+   {
+    "src": "adaptation",
+    "ref": "Genesis.48.20",
+    "he": "הַבְּרָכָה ״יְשִׂמְךָ אֱלֹהִים כְּאֶפְרַיִם וְכִמְנַשֶּׁה״ מְבָרֶכֶת שְׁנֵי אַחִים יַחַד, בְּלִי קִנְאָה.",
+    "fr": "La bénédiction « Que Dieu te rende comme Efraïm et Ménaché » bénit deux frères ensemble, sans jalousie."
+   }
+  ],
+  "quiz": [
+   {
+    "q": {
+     "he": "מָה פֵּרוּשׁ הַשֵּׁם אֶפְרַיִם?",
+     "fr": "Que veut dire le nom Efraïm ?"
+    },
+    "options": [
+     {
+      "he": "ה׳ נָתַן לִי פְּרִי וְהַצְלָחָה",
+      "fr": "Dieu m’a donné fruit et réussite"
+     },
+     {
+      "he": "אֲנִי מֶלֶךְ",
+      "fr": "Je suis roi"
+     },
+     {
+      "he": "אֲנִי עָצוּב",
+      "fr": "Je suis triste"
+     }
+    ],
+    "answer": 0,
+    "ref": "Genesis.41.52"
+   },
+   {
+    "q": {
+     "he": "אֵיזוֹ יָד שָׂם יַעֲקֹב עַל רֹאשׁ אֶפְרַיִם?",
+     "fr": "Quelle main Yaakov a-t-il posée sur la tête d’Efraïm ?"
+    },
+    "options": [
+     {
+      "he": "אֶת יַד שְׂמֹאל",
+      "fr": "La main gauche"
+     },
+     {
+      "he": "אֶת יַד יָמִין",
+      "fr": "La main droite"
+     },
+     {
+      "he": "לֹא שָׂם יָד",
+      "fr": "Aucune main"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.48.14"
+   },
+   {
+    "q": {
+     "he": "מָה רָצָה יוֹסֵף לַעֲשׂוֹת?",
+     "fr": "Qu’a voulu faire Yossef ?"
+    },
+    "options": [
+     {
+      "he": "לְהַחְבִּיא אֶת אֶפְרַיִם",
+      "fr": "Cacher Efraïm"
+     },
+     {
+      "he": "לָלֶכֶת מִן הַחֶדֶר",
+      "fr": "Quitter la pièce"
+     },
+     {
+      "he": "לְהַעֲבִיר אֶת יַד יָמִין שֶׁל אָבִיו לְרֹאשׁ מְנַשֶּׁה",
+      "fr": "Déplacer la main droite de son père sur la tête de Ménaché"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.48.17"
+   },
+   {
+    "q": {
+     "he": "אֵיךְ מְבָרְכִים יְלָדִים עַד הַיּוֹם?",
+     "fr": "Comment bénit-on les enfants encore aujourd’hui ?"
+    },
+    "options": [
+     {
+      "he": "״יְשִׂמְךָ אֱלֹהִים כְּפַרְעֹה״",
+      "fr": "« Que Dieu te rende comme Pharaon »"
+     },
+     {
+      "he": "״יְשִׂמְךָ אֱלֹהִים כְּאֶפְרַיִם וְכִמְנַשֶּׁה״",
+      "fr": "« Que Dieu te rende comme Efraïm et Ménaché »"
+     },
+     {
+      "he": "״לֵךְ לְמִצְרַיִם״",
+      "fr": "« Va en Égypte »"
+     }
+    ],
+    "answer": 1,
+    "ref": "Genesis.48.20"
+   },
+   {
+    "q": {
+     "he": "לְפִי רַשִׁ״י, אֵיזֶה מַנְהִיג גָּדוֹל יֵצֵא מֵאֶפְרַיִם?",
+     "fr": "Selon Rachi, quel grand chef sortira d’Efraïm ?"
+    },
+    "options": [
+     {
+      "he": "דָּוִד",
+      "fr": "David"
+     },
+     {
+      "he": "גִּדְעוֹן",
+      "fr": "Guidon"
+     },
+     {
+      "he": "יְהוֹשֻׁעַ",
+      "fr": "Yehochoua"
+     }
+    ],
+    "answer": 2,
+    "ref": "Genesis.48.19",
+    "src": "midrash"
+   }
+  ],
+  "historical": {
+   "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+   "fr": "Non datable."
+  }
+ },
+ "er": {
+  "bio": {
+   "he": "עֵר הוּא הַבֵּן הַבְּכוֹר שֶׁל יְהוּדָה, וְהַבַּעַל הָרִאשׁוֹן שֶׁל תָּמָר. הַתּוֹרָה אוֹמֶרֶת שֶׁהוּא הָיָה רַע בְּעֵינֵי ה׳, וְהוּא מֵת עוֹד בְּאֶרֶץ כְּנַעַן (ל״ח:ז׳; מ״ו:י״ב).",
+   "fr": "Èr est le fils aîné de Yehouda et le premier mari de Tamar. La Torah dit qu’il n’était pas bon aux yeux de Dieu, et il meurt, encore en terre de Canaan (38,7 ; 46,12)."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.38.6-7",
+    "parasha": "vayeshev",
+    "he": "נוֹשֵׂא אֶת תָּמָר וּמֵת",
+    "fr": "Épouse Tamar et meurt"
+   }
+  ]
+ },
+ "onan": {
+  "bio": {
+   "he": "אוֹנָן הוּא הַבֵּן הַשֵּׁנִי שֶׁל יְהוּדָה. גַּם הוּא עָשָׂה מַה שֶּׁלֹּא טוֹב בְּעֵינֵי ה׳, וּמֵת בְּאֶרֶץ כְּנַעַן (ל״ח:י׳; מ״ו:י״ב).",
+   "fr": "Onan est le deuxième fils de Yehouda. Lui aussi fait ce qui n’est pas bon aux yeux de Dieu, et il meurt en terre de Canaan (38,10 ; 46,12)."
+  }
+ },
+ "shela": {
+  "bio": {
+   "he": "שֵׁלָה הוּא הַבֵּן הַשְּׁלִישִׁי שֶׁל יְהוּדָה, וְנוֹלַד בִּכְזִיב. יְהוּדָה אָמַר לְתָמָר לְחַכּוֹת לוֹ, אֲבָל לֹא קִיֵּם אֶת הַהַבְטָחָה (ל״ח:י״א, י״ד).",
+   "fr": "Chéla est le troisième fils de Yehouda, né à Kezib. Yehouda dit à Tamar de l’attendre, mais il ne tient pas sa promesse (38,11.14)."
+  },
+  "events": [
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.46.12",
+    "parasha": "vayigash",
+    "he": "יוֹרֵד לְמִצְרַיִם עִם יַעֲקֹב",
+    "fr": "Descend en Égypte avec Yaakov"
+   }
+  ]
+ },
+ "zerah": {
+  "bio": {
+   "he": "זֶרַח הוּא הָאָח הַתְּאוֹם שֶׁל פֶּרֶץ. הוּא הוֹצִיא רִאשׁוֹן אֶת יָדוֹ, וְהַמְיַלֶּדֶת קָשְׁרָה עָלֶיהָ חוּט שָׁנִי (אָדֹם), אֲבָל פֶּרֶץ נוֹלַד לְפָנָיו.",
+   "fr": "Zéra’h est le frère jumeau de Pérets. Il sort la main le premier, et la sage-femme y attache un fil écarlate, mais c’est Pérets qui naît avant lui."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Genesis.38.28-30",
+    "parasha": "vayeshev",
+    "he": "נוֹלָד עִם חוּט שָׁנִי עַל יָדוֹ",
+    "fr": "Naît avec un fil écarlate à la main"
+   },
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.46.12",
+    "parasha": "vayigash",
+    "he": "יוֹרֵד לְמִצְרַיִם עִם יַעֲקֹב",
+    "fr": "Descend en Égypte avec Yaakov"
+   }
+  ]
+ },
+ "serah": {
+  "bio": {
+   "he": "שֶׂרַח הִיא בַּת אָשֵׁר, וְהִיא אַחַת הַבָּנוֹת הַמְּעַטּוֹת שֶׁהַתּוֹרָה מַזְכִּירָה בִּשְׁמָן בִּרְשִׁימַת הַיּוֹרְדִים לְמִצְרַיִם. שְׁמָהּ מוֹפִיעַ שׁוּב בְּמִפְקַד בְּנֵי יִשְׂרָאֵל בַּמִּדְבָּר (בְּמִדְבַּר כ״ו:מ״ו).",
+   "fr": "Séra’h est la fille d’Acher, l’une des rares filles que la Torah nomme dans la liste de ceux qui descendent en Égypte. Son nom réapparaît dans le recensement des enfants d’Israël dans le désert (Nb 26,46)."
+  },
+  "events": [
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.46.17",
+    "parasha": "vayigash",
+    "he": "יוֹרֶדֶת לְמִצְרַיִם עִם אֲחֶיהָ וְעִם יַעֲקֹב",
+    "fr": "Descend en Égypte avec ses frères et Yaakov"
+   },
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Numbers.26.46",
+    "parasha": "",
+    "he": "נִזְכֶּרֶת בְּמִפְקַד בְּנֵי יִשְׂרָאֵל בַּמִּדְבָּר",
+    "fr": "Est mentionnée dans le recensement du désert"
+   }
+  ],
+  "notes": [
+   {
+    "key": "identityNote",
+    "src": "midrash",
+    "source": {
+     "he": "תרגום יונתן בראשית מ״ו:י״ז",
+     "fr": "Targoum Yonatan sur Gn 46,17"
+    },
+    "ref": "Genesis.46.17",
+    "he": "לְפִי מִדְרָשׁ (תַּרְגּוּם יוֹנָתָן), שֶׂרַח הִיא שֶׁבִּשְּׂרָה לְיַעֲקֹב שֶׁיּוֹסֵף עוֹד חַי, וּבִזְכוּת זֶה נִכְנְסָה בַּחַיִּים לְגַן עֵדֶן. הַתּוֹרָה עַצְמָהּ אֵינָהּ אוֹמֶרֶת זֹאת.",
+    "fr": "Selon un midrash (Targoum Yonatan), c’est Séra’h qui annonce à Yaakov que Yossef est encore vivant, et pour cela elle entre vivante au Gan Éden. La Torah elle-même ne le dit pas."
+   }
+  ]
+ },
+ "gershon": {
+  "bio": {
+   "he": "גֵּרְשׁוֹן הוּא הָרִאשׁוֹן בִּרְשִׁימַת בְּנֵי לֵוִי, וְיָרַד עִם יַעֲקֹב לְמִצְרַיִם. בַּמִּדְבָּר, בְּנֵי גֵּרְשׁוֹן יִשְׂאוּ אֶת הַיְרִיעוֹת שֶׁל הַמִּשְׁכָּן (בְּמִדְבַּר ד׳:כ״ד–כ״ו).",
+   "fr": "Guerchon est le premier nommé des fils de Lévi, et il descend en Égypte avec Yaakov. Dans le désert, les descendants de Guerchon porteront les tentures du Michkan (Nb 4,24-26)."
+  },
+  "events": [
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.46.11",
+    "parasha": "vayigash",
+    "he": "יוֹרֵד לְמִצְרַיִם עִם לֵוִי וְיַעֲקֹב",
+    "fr": "Descend en Égypte avec Lévi et Yaakov"
+   }
+  ]
+ },
+ "kehat": {
+  "bio": {
+   "he": "קְהָת הוּא בֶּן לֵוִי, וְיָרַד עִם יַעֲקֹב לְמִצְרַיִם. הוּא הַסָּבָא שֶׁל אַהֲרֹן, מֹשֶׁה וּמִרְיָם, וְחַי מֵאָה שְׁלֹשִׁים וְשָׁלֹשׁ שָׁנָה (שְׁמוֹת ו׳:י״ח). בַּמִּדְבָּר, בְּנֵי קְהָת יִשְׂאוּ אֶת כְּלֵי הַקֹּדֶשׁ שֶׁל הַמִּשְׁכָּן (בְּמִדְבַּר ד׳:ד׳–ט״ו).",
+   "fr": "Kehat est un fils de Lévi, et il descend en Égypte avec Yaakov. C’est le grand-père d’Aharon, Moché et Myriam, et il vit 133 ans (Ex 6,18). Dans le désert, ses descendants porteront les objets saints du Michkan (Nb 4,4-15)."
+  },
+  "events": [
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.46.11",
+    "parasha": "vayigash",
+    "he": "יוֹרֵד לְמִצְרַיִם עִם לֵוִי וְיַעֲקֹב",
+    "fr": "Descend en Égypte avec Lévi et Yaakov"
+   }
+  ]
+ },
+ "merari": {
+  "bio": {
+   "he": "מְרָרִי הוּא הַשְּׁלִישִׁי בִּרְשִׁימַת בְּנֵי לֵוִי, וְיָרַד עִם יַעֲקֹב לְמִצְרַיִם. בַּמִּדְבָּר, בְּנֵי מְרָרִי יִשְׂאוּ אֶת הַקְּרָשִׁים וְהָעַמּוּדִים שֶׁל הַמִּשְׁכָּן (בְּמִדְבַּר ד׳:ל״א–ל״ב).",
+   "fr": "Merari est le troisième nommé des fils de Lévi, et il descend en Égypte avec Yaakov. Dans le désert, ses descendants porteront les planches et les piliers du Michkan (Nb 4,31-32)."
+  },
+  "events": [
+   {
+    "am": 2238,
+    "datesrc": "torah",
+    "ref": "Genesis.46.11",
+    "parasha": "vayigash",
+    "he": "יוֹרֵד לְמִצְרַיִם עִם לֵוִי וְיַעֲקֹב",
+    "fr": "Descend en Égypte avec Lévi et Yaakov"
+   }
+  ]
+ },
+ "amram": {
+  "bio": {
+   "he": "עַמְרָם הוּא בֶּן קְהָת, אִישׁ יוֹכֶבֶד וַאֲבִי אַהֲרֹן, מֹשֶׁה וּמִרְיָם; הוּא חַי מֵאָה שְׁלֹשִׁים וָשֶׁבַע שָׁנָה (שְׁמוֹת ו׳:י״ח–כ׳). הוּא שַׁיָּךְ לְסֵפֶר שְׁמוֹת, וְהַדַּף הַמָּלֵא שֶׁלּוֹ יָבוֹא עִם הַסֵּפֶר הַזֶּה.",
+   "fr": "Amram est le fils de Kehat, le mari de Yokhéved et le père d’Aharon, Moché et Myriam ; il vit 137 ans (Ex 6,18-20). Il appartient au livre de Chemot : sa fiche complète viendra avec ce livre."
+  },
+  "events": [
+   {
+    "am": null,
+    "datesrc": "torah",
+    "ref": "Exodus.6.20",
+    "parasha": "",
+    "he": "נוֹשֵׂא אֶת יוֹכֶבֶד, וְנוֹלָדִים לָהֶם אַהֲרֹן וּמֹשֶׁה",
+    "fr": "Épouse Yokhéved ; Aharon et Moché naissent"
+   }
+  ]
+ },
+ "yokheved": {
+  "bio": {
+   "he": "יוֹכֶבֶד הִיא בַּת לֵוִי, שֶׁנּוֹלְדָה בְּמִצְרַיִם (בְּמִדְבַּר כ״ו:נ״ט), אֵשֶׁת עַמְרָם וְאִמָּם שֶׁל אַהֲרֹן, מֹשֶׁה וּמִרְיָם (שְׁמוֹת ו׳:כ׳). הִיא שַׁיֶּכֶת לְסֵפֶר שְׁמוֹת, וְהַדַּף הַמָּלֵא שֶׁלָּהּ יָבוֹא עִם הַסֵּפֶר הַזֶּה.",
+   "fr": "Yokhéved est une fille de Lévi née en Égypte (Nb 26,59), l’épouse d’Amram et la mère d’Aharon, Moché et Myriam (Ex 6,20). Elle appartient au livre de Chemot : sa fiche complète viendra avec ce livre."
+  },
+  "notes": [
+   {
+    "key": "identityNote",
+    "src": "midrash",
+    "source": {
+     "he": "רש״י בראשית מ״ו:ט״ו",
+     "fr": "Rachi sur Gn 46,15"
+    },
+    "ref": "Genesis.46.15",
+    "he": "בִּרְשִׁימַת בְּנֵי לֵאָה יֵשׁ שְׁלֹשִׁים וְשָׁלֹשׁ נְפָשׁוֹת, אֲבָל רַק שְׁלֹשִׁים וּשְׁנַיִם שֵׁמוֹת. לְפִי רַשִׁ״י, הַנֶּפֶשׁ הַחֲסֵרָה הִיא יוֹכֶבֶד, שֶׁנּוֹלְדָה ״בֵּין הַחוֹמוֹת״, בְּדִיּוּק כְּשֶׁהַמִּשְׁפָּחָה נִכְנְסָה לְמִצְרַיִם.",
+    "fr": "Dans la liste des descendants de Léa, il y a 33 personnes mais seulement 32 noms. Selon Rachi, la personne manquante est Yokhéved, née « entre les murailles », juste au moment où la famille entrait en Égypte."
+   }
+  ]
+ },
+ "aharon": {
+  "bio": {
+   "he": "אַהֲרֹן הוּא בְּנָם שֶׁל עַמְרָם וְיוֹכֶבֶד, וְאָחִיו הַגָּדוֹל שֶׁל מֹשֶׁה (שְׁמוֹת ו׳:כ׳; ז׳:ז׳); הוּא יָמוּת בְּהֹר הָהָר בְּגִיל מֵאָה עֶשְׂרִים וְשָׁלֹשׁ (בְּמִדְבַּר ל״ג:ל״ט). הוּא שַׁיָּךְ לְסֵפֶר שְׁמוֹת, וְהַדַּף הַמָּלֵא שֶׁלּוֹ יָבוֹא עִם הַסֵּפֶר הַזֶּה.",
+   "fr": "Aharon est le fils d’Amram et de Yokhéved, et le grand frère de Moché (Ex 6,20 ; 7,7) ; il mourra sur le mont Hor à 123 ans (Nb 33,39). Il appartient au livre de Chemot : sa fiche complète viendra avec ce livre."
+  },
+  "events": [
+   {
+    "am": 2488,
+    "datesrc": "midrash",
+    "ref": "Numbers.33.38-39",
+    "parasha": "",
+    "he": "מֵת בְּהֹר הָהָר בְּגִיל מֵאָה עֶשְׂרִים וְשָׁלֹשׁ",
+    "fr": "Meurt sur le mont Hor à 123 ans"
+   }
+  ]
+ },
+ "moshe": {
+  "bio": {
+   "he": "מֹשֶׁה הוּא בְּנָם שֶׁל עַמְרָם וְיוֹכֶבֶד (שְׁמוֹת ו׳:כ׳), שֶׁיּוֹצִיא אֶת בְּנֵי יִשְׂרָאֵל מִמִּצְרַיִם וְיָמוּת בְּגִיל מֵאָה וְעֶשְׂרִים שָׁנָה (דְּבָרִים ל״ד:ז׳). הוּא שַׁיָּךְ לְסֵפֶר שְׁמוֹת, וְהַדַּף הַמָּלֵא שֶׁלּוֹ יָבוֹא עִם הַסֵּפֶר הַזֶּה.",
+   "fr": "Moché est le fils d’Amram et de Yokhéved (Ex 6,20) ; il fera sortir les enfants d’Israël d’Égypte et mourra à 120 ans (Dt 34,7). Il appartient au livre de Chemot : sa fiche complète viendra avec ce livre."
+  },
+  "events": [
+   {
+    "am": 2488,
+    "datesrc": "midrash",
+    "ref": "Deuteronomy.34.7",
+    "parasha": "",
+    "he": "מֵת בְּגִיל מֵאָה וְעֶשְׂרִים שָׁנָה",
+    "fr": "Meurt à 120 ans"
+   }
+  ]
+ },
+ "miriam": {
+  "bio": {
+   "he": "מִרְיָם הִיא בִּתָּם שֶׁל עַמְרָם וְיוֹכֶבֶד, וַאֲחוֹתָם שֶׁל אַהֲרֹן וּמֹשֶׁה (בְּמִדְבַּר כ״ו:נ״ט); אַחֲרֵי קְרִיעַת יַם סוּף הִיא תִּקַּח תֹּף וְתָשִׁיר עִם הַנָּשִׁים (שְׁמוֹת ט״ו:כ׳–כ״א). הִיא שַׁיֶּכֶת לְסֵפֶר שְׁמוֹת, וְהַדַּף הַמָּלֵא שֶׁלָּהּ יָבוֹא עִם הַסֵּפֶר הַזֶּה.",
+   "fr": "Myriam est la fille d’Amram et de Yokhéved, et la sœur d’Aharon et de Moché (Nb 26,59) ; après la traversée de la mer, elle prendra un tambourin et chantera avec les femmes (Ex 15,20-21). Elle appartient au livre de Chemot : sa fiche complète viendra avec ce livre."
+  }
+ }
+}

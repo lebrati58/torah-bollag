@@ -1,0 +1,2559 @@
+{
+  "adam": {
+    "bio": {
+      "he": "אָדָם הוּא הָאָדָם הָרִאשׁוֹן. ה׳ יָצַר אוֹתוֹ מֵעָפָר מִן הָאֲדָמָה וְנָתַן בּוֹ נִשְׁמַת חַיִּים. ה׳ שָׂם אוֹתוֹ בְּגַן עֵדֶן כְּדֵי לַעֲבֹד וְלִשְׁמֹר אֶת הַגָּן, וְאָדָם נָתַן שֵׁמוֹת לְכָל הַחַיּוֹת. אֲבָל הוּא אָכַל מִן הָעֵץ שֶׁה׳ אָסַר, וְיָצָא מִן הַגָּן לַעֲבֹד אֶת הָאֲדָמָה. אָדָם חַי 930 שָׁנָה.",
+      "fr": "Adam est le tout premier être humain. Dieu le forme avec la poussière de la terre et lui donne le souffle de vie. Dieu le place dans le jardin d’Éden pour le cultiver et le garder, et Adam donne un nom à tous les animaux. Mais il mange du fruit de l’arbre que Dieu avait interdit, et il doit quitter le jardin pour travailler la terre. Adam vit 930 ans."
+    },
+    "events": [
+      {
+        "am": 1,
+        "datesrc": "torah",
+        "ref": "Genesis.1.27",
+        "parasha": "bereshit",
+        "he": "נִבְרָא בְּצֶלֶם אֱלֹהִים, זָכָר וּנְקֵבָה",
+        "fr": "Est créé à l’image de Dieu, homme et femme"
+      },
+      {
+        "am": 1,
+        "datesrc": "torah",
+        "ref": "Genesis.2.7-8",
+        "parasha": "bereshit",
+        "he": "נוֹצָר מֵעָפָר מִן הָאֲדָמָה וּמוּשָׂם בְּגַן עֵדֶן",
+        "fr": "Est formé de la poussière de la terre et placé dans le jardin d’Éden"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.2.19-20",
+        "parasha": "bereshit",
+        "he": "נוֹתֵן שֵׁמוֹת לַבְּהֵמוֹת, לָעוֹפוֹת וְלַחַיּוֹת",
+        "fr": "Donne un nom à tous les animaux et aux oiseaux"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.3.6-23",
+        "parasha": "bereshit",
+        "he": "אוֹכֵל מִן הָעֵץ הָאָסוּר וְיוֹצֵא מִגַּן עֵדֶן",
+        "fr": "Mange de l’arbre interdit et quitte le jardin d’Éden"
+      },
+      {
+        "am": 130,
+        "datesrc": "torah",
+        "ref": "Genesis.5.3",
+        "parasha": "bereshit",
+        "he": "בֶּן 130 כְּשֶׁנּוֹלָד שֵׁת",
+        "fr": "A 130 ans à la naissance de Chet"
+      },
+      {
+        "am": 930,
+        "datesrc": "torah",
+        "ref": "Genesis.5.5",
+        "parasha": "bereshit",
+        "he": "נִפְטָר בְּגִיל 930",
+        "fr": "Meurt à 930 ans"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "torah",
+        "ref": "Genesis.2.15",
+        "he": "ה׳ שָׂם אֶת אָדָם בַּגָּן ״לְעָבְדָהּ וּלְשָׁמְרָהּ״: הָעוֹלָם נִתַּן לָנוּ כְּדֵי שֶׁנִּדְאַג לוֹ.",
+        "fr": "Dieu place Adam dans le jardin « pour le cultiver et le garder » : le monde nous est confié pour qu’on en prenne soin."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.3.9",
+        "source": {
+          "he": "רש״י בראשית ג׳:ט׳",
+          "fr": "Rachi sur Gn 3,9"
+        },
+        "he": "ה׳ יָדַע אֵיפֹה אָדָם. רַשִׁ״י מְסַבֵּר שֶׁה׳ שָׁאַל ״אַיֶּכָּה?״ כְּדֵי לִפְתֹּחַ אִתּוֹ שִׂיחָה בְּנַחַת, וְלֹא לְהַבְהִיל אוֹתוֹ.",
+        "fr": "Dieu savait où était Adam. Rachi explique qu’il demande « Où es-tu ? » pour commencer à lui parler doucement, sans l’effrayer."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.2.7",
+        "source": {
+          "he": "רש״י בראשית ב׳:ז׳",
+          "fr": "Rachi sur Gn 2,7"
+        },
+        "he": "רַשִׁ״י מֵבִיא שֶׁה׳ אָסַף אֶת הֶעָפָר מִכָּל הָאָרֶץ, מֵאַרְבַּע רוּחוֹת הָעוֹלָם: כָּךְ, בְּכָל מָקוֹם שֶׁהָאָדָם יְסַיֵּם אֶת חַיָּיו, הָאֲדָמָה תְּקַבֵּל אוֹתוֹ.",
+        "fr": "Rachi rapporte que Dieu a pris la poussière de toute la terre, des quatre coins du monde : ainsi, où que l’homme finisse sa vie, la terre l’accueillera."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "מִמָּה יָצַר ה׳ אֶת אָדָם?",
+          "fr": "Avec quoi Dieu a-t-il formé Adam ?"
+        },
+        "options": [
+          {
+            "he": "מִמַּיִם",
+            "fr": "De l’eau"
+          },
+          {
+            "he": "מֵעָפָר מִן הָאֲדָמָה",
+            "fr": "De la poussière de la terre"
+          },
+          {
+            "he": "מֵאֵשׁ",
+            "fr": "Du feu"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.2.7"
+      },
+      {
+        "q": {
+          "he": "מִי נָתַן שֵׁמוֹת לַחַיּוֹת?",
+          "fr": "Qui a donné un nom aux animaux ?"
+        },
+        "options": [
+          {
+            "he": "אָדָם",
+            "fr": "Adam"
+          },
+          {
+            "he": "חַוָּה",
+            "fr": "‘Hava"
+          },
+          {
+            "he": "הַנָּחָשׁ",
+            "fr": "Le serpent"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.2.19-20"
+      },
+      {
+        "q": {
+          "he": "לָמָּה שָׂם ה׳ אֶת אָדָם בְּגַן עֵדֶן?",
+          "fr": "Pourquoi Dieu a-t-il placé Adam dans le jardin d’Éden ?"
+        },
+        "options": [
+          {
+            "he": "כְּדֵי לִישֹׁן כָּל הַיּוֹם",
+            "fr": "Pour dormir toute la journée"
+          },
+          {
+            "he": "כְּדֵי לְשַׂחֵק בִּלְבַד",
+            "fr": "Seulement pour jouer"
+          },
+          {
+            "he": "״לְעָבְדָהּ וּלְשָׁמְרָהּ״",
+            "fr": "« Pour le cultiver et le garder »"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.2.15"
+      },
+      {
+        "q": {
+          "he": "מָה שָׁאַל ה׳ אֶת אָדָם כְּשֶׁהִתְחַבֵּא בַּגָּן?",
+          "fr": "Quelle question Dieu pose-t-il à Adam caché dans le jardin ?"
+        },
+        "options": [
+          {
+            "he": "״אַיֶּכָּה?״",
+            "fr": "« Où es-tu ? »"
+          },
+          {
+            "he": "״בֶּן כַּמָּה אַתָּה?״",
+            "fr": "« Quel âge as-tu ? »"
+          },
+          {
+            "he": "״מַה שִּׁמְךָ?״",
+            "fr": "« Comment t’appelles-tu ? »"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.3.9"
+      },
+      {
+        "q": {
+          "he": "כַּמָּה שָׁנִים חַי אָדָם?",
+          "fr": "Combien d’années Adam a-t-il vécu ?"
+        },
+        "options": [
+          {
+            "he": "100",
+            "fr": "100"
+          },
+          {
+            "he": "930",
+            "fr": "930"
+          },
+          {
+            "he": "969",
+            "fr": "969"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.5.5"
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "hava": {
+    "bio": {
+      "he": "חַוָּה הִיא הָאִשָּׁה הָרִאשׁוֹנָה. ה׳ אָמַר שֶׁלֹּא טוֹב שֶׁאָדָם יִהְיֶה לְבַד, וּבָנָה אוֹתָהּ מִן הַצֵּלָע שֶׁל אָדָם. בְּגַן עֵדֶן הַנָּחָשׁ דִּבֵּר אִתָּהּ, וְהִיא אָכְלָה מִן הָעֵץ הָאָסוּר וְנָתְנָה גַּם לְאָדָם. אָדָם קָרָא לָהּ חַוָּה, כִּי הִיא ״אֵם כָּל חָי״. הִיא הָאִמָּא שֶׁל קַיִן, שֶׁל הֶבֶל וְשֶׁל שֵׁת.",
+      "fr": "‘Hava est la toute première femme. Dieu dit qu’il n’est pas bon qu’Adam soit seul, et il la construit à partir d’une côte (ou d’un côté) d’Adam. Dans le jardin d’Éden, le serpent lui parle ; elle mange de l’arbre interdit et en donne aussi à Adam. Adam l’appelle ‘Hava, car elle est « la mère de tous les vivants ». Elle est la maman de Kaïn, de Hével et de Chet."
+    },
+    "events": [
+      {
+        "am": null,
+        "ref": "Genesis.2.21-22",
+        "parasha": "bereshit",
+        "he": "נִבְנֵית מִן הַצֵּלָע שֶׁל אָדָם",
+        "fr": "Est construite à partir d’une côte d’Adam"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.3.1-6",
+        "parasha": "bereshit",
+        "he": "מְדַבֶּרֶת עִם הַנָּחָשׁ וְאוֹכֶלֶת מִן הָעֵץ",
+        "fr": "Parle avec le serpent et mange de l’arbre"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.3.20",
+        "parasha": "bereshit",
+        "he": "אָדָם קוֹרֵא לָהּ חַוָּה",
+        "fr": "Adam l’appelle ‘Hava"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.4.1-2",
+        "parasha": "bereshit",
+        "he": "יוֹלֶדֶת אֶת קַיִן וְאֶת הֶבֶל",
+        "fr": "Donne naissance à Kaïn et à Hével"
+      },
+      {
+        "am": 130,
+        "datesrc": "torah",
+        "ref": "Genesis.4.25",
+        "parasha": "bereshit",
+        "he": "יוֹלֶדֶת אֶת שֵׁת: ״שָׁת לִי אֱלֹהִים זֶרַע אַחֵר״",
+        "fr": "Donne naissance à Chet : « Dieu m’a donné un autre enfant »"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "torah",
+        "ref": "Genesis.2.18",
+        "he": "ה׳ אָמַר: ״לֹא טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ״. בְּנֵי הָאָדָם צְרִיכִים זֶה אֶת זֶה.",
+        "fr": "Dieu dit : « Il n’est pas bon que l’homme soit seul. » Les humains ont besoin les uns des autres."
+      },
+      {
+        "src": "torah",
+        "ref": "Genesis.4.25",
+        "he": "אַחֲרֵי הַצַּעַר עַל הֶבֶל, חַוָּה קָרְאָה לִבְנָהּ הֶחָדָשׁ שֵׁת, וְאָמְרָה שֶׁה׳ נָתַן לָהּ יֶלֶד אַחֵר. גַּם אַחֲרֵי עֶצֶב אֶפְשָׁר לִמְצֹא נֶחָמָה.",
+        "fr": "Après la tristesse pour Hével, ‘Hava appelle son nouveau fils Chet et dit que Dieu lui a donné un autre enfant. Même après un chagrin, on peut trouver du réconfort."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "לָמָּה קָרָא אָדָם לְאִשְׁתּוֹ חַוָּה?",
+          "fr": "Pourquoi Adam appelle-t-il sa femme ‘Hava ?"
+        },
+        "options": [
+          {
+            "he": "כִּי הִיא אָהֲבָה פְּרָחִים",
+            "fr": "Parce qu’elle aimait les fleurs"
+          },
+          {
+            "he": "כִּי הִיא ״אֵם כָּל חָי״",
+            "fr": "Parce qu’elle est « la mère de tous les vivants »"
+          },
+          {
+            "he": "כִּי הִיא הָיְתָה גְּבוֹהָה",
+            "fr": "Parce qu’elle était grande"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.3.20"
+      },
+      {
+        "q": {
+          "he": "מִי דִּבֵּר עִם חַוָּה בְּגַן עֵדֶן?",
+          "fr": "Qui a parlé à ‘Hava dans le jardin d’Éden ?"
+        },
+        "options": [
+          {
+            "he": "צִפּוֹר",
+            "fr": "Un oiseau"
+          },
+          {
+            "he": "אַרְיֵה",
+            "fr": "Un lion"
+          },
+          {
+            "he": "הַנָּחָשׁ",
+            "fr": "Le serpent"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.3.1"
+      },
+      {
+        "q": {
+          "he": "מִמָּה בָּנָה ה׳ אֶת חַוָּה?",
+          "fr": "À partir de quoi Dieu a-t-il construit ‘Hava ?"
+        },
+        "options": [
+          {
+            "he": "מִן הַצֵּלָע שֶׁל אָדָם",
+            "fr": "D’une côte d’Adam"
+          },
+          {
+            "he": "מֵאֶבֶן",
+            "fr": "D’une pierre"
+          },
+          {
+            "he": "מִמַּיִם",
+            "fr": "De l’eau"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.2.21-22"
+      },
+      {
+        "q": {
+          "he": "אֵיךְ קוֹרְאִים לִשְׁנֵי הַבָּנִים הָרִאשׁוֹנִים שֶׁל חַוָּה?",
+          "fr": "Comment s’appellent les deux premiers fils de ‘Hava ?"
+        },
+        "options": [
+          {
+            "he": "שֵׁם וְחָם",
+            "fr": "Chem et ‘Ham"
+          },
+          {
+            "he": "קַיִן וְהֶבֶל",
+            "fr": "Kaïn et Hével"
+          },
+          {
+            "he": "נֹחַ וְלֶמֶךְ",
+            "fr": "Noa’h et Lémekh"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.4.1-2"
+      },
+      {
+        "q": {
+          "he": "מָה אָמְרָה חַוָּה כְּשֶׁנּוֹלַד שֵׁת?",
+          "fr": "Qu’a dit ‘Hava à la naissance de Chet ?"
+        },
+        "options": [
+          {
+            "he": "שֶׁה׳ נָתַן לָהּ יֶלֶד אַחֵר תַּחַת הֶבֶל",
+            "fr": "Que Dieu lui a donné un autre enfant à la place de Hével"
+          },
+          {
+            "he": "שֶׁהוּא יִהְיֶה מֶלֶךְ",
+            "fr": "Qu’il serait roi"
+          },
+          {
+            "he": "שֶׁהוּא יִהְיֶה רוֹעֵה צֹאן",
+            "fr": "Qu’il serait berger"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.4.25"
+      }
+    ],
+    "notes": [
+      {
+        "key": "parentsNote",
+        "src": "torah",
+        "ref": "Genesis.2.21-22",
+        "he": "לְחַוָּה אֵין אַבָּא וְאִמָּא: ה׳ בָּנָה אוֹתָהּ מִן הַצֵּלָע שֶׁל אָדָם.",
+        "fr": "‘Hava n’a ni père ni mère : Dieu l’a construite à partir d’une côte d’Adam."
+      },
+      {
+        "key": "nameNote",
+        "src": "torah",
+        "ref": "Genesis.3.20",
+        "he": "בַּהַתְחָלָה אָדָם קוֹרֵא לָהּ ״אִשָּׁה״ (ב׳:כ״ג), וְאַחַר כָּךְ ״חַוָּה״, כִּי הִיא ״אֵם כָּל חָי״ (ג׳:כ׳).",
+        "fr": "D’abord, Adam l’appelle « isha », femme (2,23) ; ensuite « ‘Hava », car elle est « la mère de tous les vivants » (3,20)."
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "kayin": {
+    "bio": {
+      "he": "קַיִן הוּא הַבֵּן הַבְּכוֹר שֶׁל אָדָם וְחַוָּה, וְהוּא עָבַד אֶת הָאֲדָמָה. הוּא הֵבִיא לַה׳ מִנְחָה מִפְּרִי הָאֲדָמָה, אֲבָל ה׳ לֹא קִבֵּל אֶת הַמִּנְחָה שֶׁלּוֹ, וְקַיִן כָּעַס מְאוֹד. ה׳ אָמַר לוֹ שֶׁהוּא יָכוֹל לִהְיוֹת חָזָק יוֹתֵר מִן הַחֵטְא. אֲבָל קַיִן לֹא הִקְשִׁיב: הוּא פָּגַע בְּאָחִיו הֶבֶל, וְהֶבֶל מֵת. מֵאָז קַיִן נָדַד, וְיָשַׁב בְּאֶרֶץ נוֹד, קִדְמַת עֵדֶן.",
+      "fr": "Kaïn est le fils aîné d’Adam et ‘Hava, et il travaille la terre. Il apporte à Dieu une offrande des fruits de la terre, mais Dieu n’accepte pas son offrande, et Kaïn se met très en colère. Dieu lui dit qu’il peut être plus fort que l’envie de mal faire. Mais Kaïn n’écoute pas : il fait du mal à son frère Hével, et Hével meurt. Depuis, Kaïn erre, et il s’installe au pays de Nod, à l’est d’Éden."
+    },
+    "events": [
+      {
+        "am": null,
+        "ref": "Genesis.4.1",
+        "parasha": "bereshit",
+        "he": "נוֹלָד לְאָדָם וּלְחַוָּה",
+        "fr": "Naît d’Adam et ‘Hava"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.4.3-5",
+        "parasha": "bereshit",
+        "he": "מֵבִיא מִנְחָה מִפְּרִי הָאֲדָמָה, וּמִנְחָתוֹ לֹא מִתְקַבֶּלֶת",
+        "fr": "Apporte une offrande des fruits de la terre, qui n’est pas acceptée"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.4.7",
+        "parasha": "bereshit",
+        "he": "ה׳ אוֹמֵר לוֹ: ״וְאַתָּה תִּמְשָׁל בּוֹ״",
+        "fr": "Dieu lui dit : « Toi, tu peux le dominer »"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.4.8-9",
+        "parasha": "bereshit",
+        "he": "פּוֹגֵעַ בְּהֶבֶל וְעוֹנֶה: ״הֲשֹׁמֵר אָחִי אָנֹכִי?״",
+        "fr": "Fait du mal à Hével et répond : « Suis-je le gardien de mon frère ? »"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.4.16-17",
+        "parasha": "bereshit",
+        "he": "יוֹשֵׁב בְּאֶרֶץ נוֹד; נוֹלָד לוֹ חֲנוֹךְ וְהוּא בּוֹנֶה עִיר",
+        "fr": "S’installe au pays de Nod ; son fils ‘Hanokh naît et il bâtit une ville"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "torah",
+        "ref": "Genesis.4.7",
+        "he": "ה׳ אָמַר לְקַיִן: ״וְאַתָּה תִּמְשָׁל בּוֹ״. גַּם כְּשֶׁכּוֹעֲסִים, אֶפְשָׁר לִבְחֹר לֹא לַעֲשׂוֹת רַע.",
+        "fr": "Dieu dit à Kaïn : « Toi, tu peux le dominer. » Même en colère, on peut choisir de ne pas faire le mal."
+      },
+      {
+        "src": "torah",
+        "ref": "Genesis.4.9",
+        "he": "קַיִן שָׁאַל: ״הֲשֹׁמֵר אָחִי אָנֹכִי?״ הַסִּפּוּר מְלַמֵּד שֶׁכֵּן: אָנוּ אַחְרָאִים זֶה לָזֶה.",
+        "fr": "Kaïn demande : « Suis-je le gardien de mon frère ? » L’histoire nous apprend que oui : nous sommes responsables les uns des autres."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.4.3",
+        "source": {
+          "he": "רש״י בראשית ד׳:ג׳",
+          "fr": "Rachi sur Gn 4,3"
+        },
+        "he": "רַשִׁ״י מְלַמֵּד שֶׁקַּיִן הֵבִיא מִן הַפֵּרוֹת הַפְּחוּתִים, וְהֶבֶל הֵבִיא מִן הַמֻּבְחָר: לַה׳ נוֹתְנִים מִן הַטּוֹב בְּיוֹתֵר.",
+        "fr": "Rachi enseigne que Kaïn a apporté les moins bons fruits, alors que Hével a apporté le meilleur : à Dieu, on donne ce qu’on a de mieux."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "מָה הָיְתָה הָעֲבוֹדָה שֶׁל קַיִן?",
+          "fr": "Quel était le métier de Kaïn ?"
+        },
+        "options": [
+          {
+            "he": "רוֹעֵה צֹאן",
+            "fr": "Berger"
+          },
+          {
+            "he": "עוֹבֵד אֲדָמָה",
+            "fr": "Il travaillait la terre"
+          },
+          {
+            "he": "צַיָּד",
+            "fr": "Chasseur"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.4.2"
+      },
+      {
+        "q": {
+          "he": "מָה אָמַר ה׳ לְקַיִן כְּשֶׁכָּעַס?",
+          "fr": "Qu’a dit Dieu à Kaïn quand il était en colère ?"
+        },
+        "options": [
+          {
+            "he": "שֶׁהוּא יָכוֹל לִהְיוֹת חָזָק יוֹתֵר מִן הַחֵטְא",
+            "fr": "Qu’il pouvait être plus fort que le mal"
+          },
+          {
+            "he": "שֶׁיֵּלֵךְ לִישֹׁן",
+            "fr": "D’aller dormir"
+          },
+          {
+            "he": "שֶׁיִּבְנֶה תֵּבָה",
+            "fr": "De construire une arche"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.4.7"
+      },
+      {
+        "q": {
+          "he": "מָה עָנָה קַיִן כְּשֶׁה׳ שָׁאַל אֵיפֹה הֶבֶל?",
+          "fr": "Qu’a répondu Kaïn quand Dieu lui a demandé où était Hével ?"
+        },
+        "options": [
+          {
+            "he": "״אֲנִי עָיֵף״",
+            "fr": "« Je suis fatigué »"
+          },
+          {
+            "he": "״הוּא בַּבַּיִת״",
+            "fr": "« Il est à la maison »"
+          },
+          {
+            "he": "״הֲשֹׁמֵר אָחִי אָנֹכִי?״",
+            "fr": "« Suis-je le gardien de mon frère ? »"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.4.9"
+      },
+      {
+        "q": {
+          "he": "לְפִי רַשִׁ״י, אֵילוּ פֵּרוֹת הֵבִיא קַיִן?",
+          "fr": "Selon Rachi, quels fruits Kaïn a-t-il apportés ?"
+        },
+        "options": [
+          {
+            "he": "אֶת הַטּוֹבִים בְּיוֹתֵר",
+            "fr": "Les meilleurs"
+          },
+          {
+            "he": "אֶת הַפְּחוּתִים",
+            "fr": "Les moins bons"
+          },
+          {
+            "he": "שׁוּם פְּרִי",
+            "fr": "Aucun fruit"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.4.3",
+        "src": "midrash"
+      },
+      {
+        "q": {
+          "he": "אֵיפֹה יָשַׁב קַיִן בַּסּוֹף?",
+          "fr": "Où Kaïn est-il allé habiter ?"
+        },
+        "options": [
+          {
+            "he": "בְּאֶרֶץ נוֹד, קִדְמַת עֵדֶן",
+            "fr": "Au pays de Nod, à l’est d’Éden"
+          },
+          {
+            "he": "בְּמִצְרַיִם",
+            "fr": "En Égypte"
+          },
+          {
+            "he": "עַל הָרֵי אֲרָרָט",
+            "fr": "Sur les monts Ararat"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.4.16"
+      }
+    ],
+    "notes": [
+      {
+        "key": "nameNote",
+        "src": "torah",
+        "ref": "Genesis.4.1",
+        "he": "חַוָּה אָמְרָה: ״קָנִיתִי אִישׁ אֶת ה׳״. הַשֵּׁם קַיִן דּוֹמֶה לַמִּלָּה ״קָנִיתִי״.",
+        "fr": "‘Hava dit : « J’ai acquis un homme avec Dieu. » Le nom Kaïn ressemble au mot « kaniti », « j’ai acquis »."
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "hevel": {
+    "bio": {
+      "he": "הֶבֶל הוּא הַבֵּן הַשֵּׁנִי שֶׁל אָדָם וְחַוָּה, וְהוּא הָיָה רוֹעֵה צֹאן. הוּא הֵבִיא לַה׳ מִנְחָה מִן הַבְּכוֹרוֹת שֶׁל הַצֹּאן שֶׁלּוֹ, מִן הַטּוֹבוֹת בְּיוֹתֵר. ה׳ פָּנָה אֶל הֶבֶל וְקִבֵּל אֶת הַמִּנְחָה שֶׁלּוֹ. אֲבָל אָחִיו קַיִן כָּעַס, פָּגַע בּוֹ בַּשָּׂדֶה, וְהֶבֶל מֵת. אַחֲרָיו נוֹלַד לְאָדָם וּלְחַוָּה בֵּן חָדָשׁ: שֵׁת.",
+      "fr": "Hével est le deuxième fils d’Adam et ‘Hava, et il est berger. Il apporte à Dieu une offrande des premiers-nés de son troupeau, les meilleurs. Dieu se tourne vers Hével et accepte son offrande. Mais son frère Kaïn se met en colère, lui fait du mal dans les champs, et Hével meurt. Après lui, Adam et ‘Hava ont un nouveau fils : Chet."
+    },
+    "events": [
+      {
+        "am": null,
+        "ref": "Genesis.4.2",
+        "parasha": "bereshit",
+        "he": "נוֹלָד וְנַעֲשֶׂה רוֹעֵה צֹאן",
+        "fr": "Naît et devient berger"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.4.4",
+        "parasha": "bereshit",
+        "he": "מֵבִיא מִנְחָה מִבְּכֹרוֹת צֹאנוֹ, וּמִנְחָתוֹ מִתְקַבֶּלֶת",
+        "fr": "Apporte une offrande des premiers-nés de son troupeau, qui est acceptée"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.4.8",
+        "parasha": "bereshit",
+        "he": "קַיִן פּוֹגֵעַ בּוֹ בַּשָּׂדֶה, וְהוּא מֵת",
+        "fr": "Kaïn lui fait du mal dans les champs, et il meurt"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "torah",
+        "ref": "Genesis.4.4",
+        "he": "הֶבֶל הֵבִיא ״מִבְּכֹרוֹת צֹאנוֹ וּמֵחֶלְבֵהֶן״, כְּלוֹמַר אֶת הַטּוֹב בְּיוֹתֵר. כְּשֶׁנּוֹתְנִים מִכָּל הַלֵּב, נוֹתְנִים אֶת הַמֻּבְחָר.",
+        "fr": "Hével apporte « les premiers-nés de son troupeau et les plus gras », c’est-à-dire le meilleur. Quand on donne de tout son cœur, on donne ce qu’on a de mieux."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.4.4",
+        "source": {
+          "he": "רש״י בראשית ד׳:ד׳",
+          "fr": "Rachi sur Gn 4,4"
+        },
+        "he": "אֵיךְ יָדְעוּ שֶׁה׳ קִבֵּל אֶת הַמִּנְחָה שֶׁל הֶבֶל? רַשִׁ״י מְסַבֵּר: יָרְדָה אֵשׁ מִן הַשָּׁמַיִם וְאָכְלָה אֶת הַמִּנְחָה.",
+        "fr": "Comment sait-on que Dieu a accepté l’offrande de Hével ? Rachi explique : un feu est descendu du ciel et a consumé l’offrande."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "מָה הָיְתָה הָעֲבוֹדָה שֶׁל הֶבֶל?",
+          "fr": "Quel était le métier de Hével ?"
+        },
+        "options": [
+          {
+            "he": "עוֹבֵד אֲדָמָה",
+            "fr": "Il travaillait la terre"
+          },
+          {
+            "he": "רוֹעֵה צֹאן",
+            "fr": "Berger"
+          },
+          {
+            "he": "בַּנַּאי",
+            "fr": "Constructeur"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.4.2"
+      },
+      {
+        "q": {
+          "he": "מָה הֵבִיא הֶבֶל לַה׳?",
+          "fr": "Qu’a apporté Hével à Dieu ?"
+        },
+        "options": [
+          {
+            "he": "מִבְּכֹרוֹת צֹאנוֹ, מִן הַטּוֹבוֹת בְּיוֹתֵר",
+            "fr": "Les premiers-nés et les meilleurs de son troupeau"
+          },
+          {
+            "he": "אֲבָנִים",
+            "fr": "Des pierres"
+          },
+          {
+            "he": "לֶחֶם",
+            "fr": "Du pain"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.4.4"
+      },
+      {
+        "q": {
+          "he": "לְפִי רַשִׁ״י, מָה קָרָה לַמִּנְחָה שֶׁל הֶבֶל?",
+          "fr": "Selon Rachi, qu’est-il arrivé à l’offrande de Hével ?"
+        },
+        "options": [
+          {
+            "he": "יָרַד גֶּשֶׁם",
+            "fr": "Il a plu"
+          },
+          {
+            "he": "הוֹפִיעָה קֶשֶׁת",
+            "fr": "Un arc-en-ciel est apparu"
+          },
+          {
+            "he": "יָרְדָה אֵשׁ מִן הַשָּׁמַיִם",
+            "fr": "Un feu est descendu du ciel"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.4.4",
+        "src": "midrash"
+      },
+      {
+        "q": {
+          "he": "מִי הָאָח הַגָּדוֹל שֶׁל הֶבֶל?",
+          "fr": "Qui est le grand frère de Hével ?"
+        },
+        "options": [
+          {
+            "he": "שֵׁת",
+            "fr": "Chet"
+          },
+          {
+            "he": "נֹחַ",
+            "fr": "Noa’h"
+          },
+          {
+            "he": "קַיִן",
+            "fr": "Kaïn"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.4.1-2"
+      },
+      {
+        "q": {
+          "he": "אֵיזֶה בֵּן נוֹלַד לְחַוָּה ״תַּחַת הֶבֶל״?",
+          "fr": "Quel fils est né à ‘Hava « à la place de Hével » ?"
+        },
+        "options": [
+          {
+            "he": "שֵׁת",
+            "fr": "Chet"
+          },
+          {
+            "he": "אֱנוֹשׁ",
+            "fr": "Énoch"
+          },
+          {
+            "he": "קַיִן",
+            "fr": "Kaïn"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.4.25"
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "shet": {
+    "bio": {
+      "he": "שֵׁת נוֹלַד לְאָדָם וּלְחַוָּה אַחֲרֵי שֶׁהֶבֶל מֵת, כְּשֶׁאָדָם הָיָה בֶּן 130. חַוָּה קָרְאָה לוֹ שֵׁת, כִּי אָמְרָה: ״שָׁת לִי אֱלֹהִים זֶרַע אַחֵר תַּחַת הֶבֶל״. הַתּוֹרָה אוֹמֶרֶת שֶׁהוּא נוֹלַד ״בִּדְמוּתוֹ כְּצַלְמוֹ״ שֶׁל אָדָם. לְשֵׁת נוֹלַד בֵּן, אֱנוֹשׁ, וּמִמִּשְׁפַּחְתּוֹ בָּא אַחַר כָּךְ נֹחַ. שֵׁת חַי 912 שָׁנָה.",
+      "fr": "Chet naît à Adam et ‘Hava après la mort de Hével, quand Adam a 130 ans. ‘Hava l’appelle Chet, car elle dit : « Dieu m’a accordé un autre enfant à la place de Hével. » La Torah dit qu’il ressemble à Adam, « à sa ressemblance, selon son image ». Chet a un fils, Énoch, et c’est de sa famille que viendra plus tard Noa’h. Chet vit 912 ans."
+    },
+    "events": [
+      {
+        "am": 130,
+        "datesrc": "torah",
+        "ref": "Genesis.5.3",
+        "parasha": "bereshit",
+        "he": "נוֹלָד כְּשֶׁאָדָם בֶּן 130",
+        "fr": "Naît quand Adam a 130 ans"
+      },
+      {
+        "am": 235,
+        "datesrc": "torah",
+        "ref": "Genesis.5.6",
+        "parasha": "bereshit",
+        "he": "בֶּן 105 כְּשֶׁנּוֹלָד אֱנוֹשׁ",
+        "fr": "A 105 ans à la naissance d’Énoch"
+      },
+      {
+        "am": 1042,
+        "datesrc": "torah",
+        "ref": "Genesis.5.8",
+        "parasha": "bereshit",
+        "he": "נִפְטָר בְּגִיל 912",
+        "fr": "Meurt à 912 ans"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "torah",
+        "ref": "Genesis.4.25",
+        "he": "שֵׁת נוֹלַד אַחֲרֵי זְמַן עָצוּב, וְהַשֵּׁם שֶׁלּוֹ מַזְכִּיר מַתָּנָה חֲדָשָׁה מֵה׳. גַּם אַחֲרֵי צַעַר, הַחַיִּים מַמְשִׁיכִים.",
+        "fr": "Chet naît après un moment triste, et son nom rappelle un nouveau cadeau de Dieu. Même après un chagrin, la vie continue."
+      },
+      {
+        "src": "torah",
+        "ref": "Genesis.5.3",
+        "he": "שֵׁת נוֹלַד ״בִּדְמוּתוֹ כְּצַלְמוֹ״ שֶׁל אָדָם: דַּרְכּוֹ נִמְשֶׁכֶת הַמִּשְׁפָּחָה שֶׁל אָדָם, עַד נֹחַ.",
+        "fr": "Chet naît « à la ressemblance » d’Adam : c’est par lui que continue la famille d’Adam, jusqu’à Noa’h."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "בֶּן כַּמָּה הָיָה אָדָם כְּשֶׁנּוֹלַד שֵׁת?",
+          "fr": "Quel âge avait Adam à la naissance de Chet ?"
+        },
+        "options": [
+          {
+            "he": "130",
+            "fr": "130"
+          },
+          {
+            "he": "30",
+            "fr": "30"
+          },
+          {
+            "he": "500",
+            "fr": "500"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.5.3"
+      },
+      {
+        "q": {
+          "he": "לָמָּה קָרְאָה חַוָּה לִבְנָהּ שֵׁת?",
+          "fr": "Pourquoi ‘Hava a-t-elle appelé son fils Chet ?"
+        },
+        "options": [
+          {
+            "he": "כִּי הוּא נוֹלַד בַּחֹרֶף",
+            "fr": "Parce qu’il est né en hiver"
+          },
+          {
+            "he": "כִּי ה׳ נָתַן לָהּ יֶלֶד אַחֵר תַּחַת הֶבֶל",
+            "fr": "Parce que Dieu lui a donné un autre enfant à la place de Hével"
+          },
+          {
+            "he": "כִּי הוּא אָהַב חַיּוֹת",
+            "fr": "Parce qu’il aimait les animaux"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.4.25"
+      },
+      {
+        "q": {
+          "he": "אֵיךְ קוֹרְאִים לַבֵּן שֶׁל שֵׁת?",
+          "fr": "Comment s’appelle le fils de Chet ?"
+        },
+        "options": [
+          {
+            "he": "נֹחַ",
+            "fr": "Noa’h"
+          },
+          {
+            "he": "לֶמֶךְ",
+            "fr": "Lémekh"
+          },
+          {
+            "he": "אֱנוֹשׁ",
+            "fr": "Énoch"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.4.26"
+      },
+      {
+        "q": {
+          "he": "כַּמָּה שָׁנִים חַי שֵׁת?",
+          "fr": "Combien d’années Chet a-t-il vécu ?"
+        },
+        "options": [
+          {
+            "he": "912",
+            "fr": "912"
+          },
+          {
+            "he": "120",
+            "fr": "120"
+          },
+          {
+            "he": "2000",
+            "fr": "2000"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.5.8"
+      },
+      {
+        "q": {
+          "he": "לְמִי דּוֹמֶה שֵׁת, לְפִי הַתּוֹרָה?",
+          "fr": "À qui Chet ressemble-t-il, selon la Torah ?"
+        },
+        "options": [
+          {
+            "he": "לְקַיִן",
+            "fr": "À Kaïn"
+          },
+          {
+            "he": "לְאָבִיו אָדָם",
+            "fr": "À son père Adam"
+          },
+          {
+            "he": "לְנֹחַ",
+            "fr": "À Noa’h"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.5.3"
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "hanokh": {
+    "bio": {
+      "he": "חֲנוֹךְ הוּא הַבֵּן שֶׁל יֶרֶד וְהָאַבָּא שֶׁל מְתוּשֶׁלַח. הַתּוֹרָה אוֹמֶרֶת עָלָיו פַּעֲמַיִם: ״וַיִּתְהַלֵּךְ חֲנוֹךְ אֶת הָאֱלֹהִים״. הוּא חַי 365 שָׁנָה, הַרְבֵּה פָּחוֹת מִשְּׁאָר הָאֲנָשִׁים בָּרְשִׁימָה שֶׁל הַדּוֹרוֹת. בְּסוֹף חַיָּיו הַתּוֹרָה לֹא כּוֹתֶבֶת ״וַיָּמֹת״, אֶלָּא ״וְאֵינֶנּוּ כִּי לָקַח אֹתוֹ אֱלֹהִים״.",
+      "fr": "‘Hanokh est le fils de Yéred et le père de Métouchéla’h. La Torah dit deux fois de lui : « ‘Hanokh marchait avec Dieu. » Il vit 365 ans, bien moins que les autres personnes de la liste des générations. À la fin de sa vie, la Torah n’écrit pas « il mourut », mais « il ne fut plus, car Dieu l’avait pris »."
+    },
+    "events": [
+      {
+        "am": 622,
+        "datesrc": "torah",
+        "ref": "Genesis.5.18",
+        "parasha": "bereshit",
+        "he": "נוֹלָד כְּשֶׁיֶּרֶד בֶּן 162",
+        "fr": "Naît quand Yéred a 162 ans"
+      },
+      {
+        "am": 687,
+        "datesrc": "torah",
+        "ref": "Genesis.5.21",
+        "parasha": "bereshit",
+        "he": "בֶּן 65 כְּשֶׁנּוֹלָד מְתוּשֶׁלַח",
+        "fr": "A 65 ans à la naissance de Métouchéla’h"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.5.22",
+        "parasha": "bereshit",
+        "he": "״מִתְהַלֵּךְ אֶת הָאֱלֹהִים״ 300 שָׁנָה",
+        "fr": "« Marche avec Dieu » pendant 300 ans"
+      },
+      {
+        "am": 987,
+        "datesrc": "torah",
+        "ref": "Genesis.5.24",
+        "parasha": "bereshit",
+        "he": "״וְאֵינֶנּוּ כִּי לָקַח אֹתוֹ אֱלֹהִים״, בְּגִיל 365",
+        "fr": "« Il ne fut plus, car Dieu l’avait pris », à 365 ans"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "torah",
+        "ref": "Genesis.5.24",
+        "he": "״וַיִּתְהַלֵּךְ חֲנוֹךְ אֶת הָאֱלֹהִים״: אֶפְשָׁר לָלֶכֶת עִם ה׳ כָּל יוֹם, בְּכָל מָה שֶׁעוֹשִׂים.",
+        "fr": "« ‘Hanokh marchait avec Dieu » : on peut marcher avec Dieu chaque jour, dans tout ce qu’on fait."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.5.24",
+        "source": {
+          "he": "רש״י בראשית ה׳:כ״ד",
+          "fr": "Rachi sur Gn 5,24"
+        },
+        "he": "רַשִׁ״י מְסַבֵּר: חֲנוֹךְ הָיָה צַדִּיק, אֲבָל הָיָה קַל לְהַשְׁפִּיעַ עָלָיו לְרַע. לָכֵן ה׳ לָקַח אוֹתוֹ לִפְנֵי זְמַנּוֹ, כְּשֶׁהוּא עוֹד צַדִּיק.",
+        "fr": "Rachi explique : ‘Hanokh était juste, mais il pouvait facilement se laisser entraîner vers le mal. C’est pourquoi Dieu l’a pris avant son temps, alors qu’il était encore juste."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "מָה אוֹמֶרֶת הַתּוֹרָה עַל חֲנוֹךְ?",
+          "fr": "Que dit la Torah sur ‘Hanokh ?"
+        },
+        "options": [
+          {
+            "he": "שֶׁהוּא הִתְהַלֵּךְ אֶת הָאֱלֹהִים",
+            "fr": "Qu’il marchait avec Dieu"
+          },
+          {
+            "he": "שֶׁהוּא הָיָה מֶלֶךְ",
+            "fr": "Qu’il était roi"
+          },
+          {
+            "he": "שֶׁהוּא בָּנָה סְפִינוֹת",
+            "fr": "Qu’il construisait des bateaux"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.5.24"
+      },
+      {
+        "q": {
+          "he": "כַּמָּה שָׁנִים חַי חֲנוֹךְ?",
+          "fr": "Combien d’années a vécu ‘Hanokh ?"
+        },
+        "options": [
+          {
+            "he": "969",
+            "fr": "969"
+          },
+          {
+            "he": "365",
+            "fr": "365"
+          },
+          {
+            "he": "120",
+            "fr": "120"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.5.23"
+      },
+      {
+        "q": {
+          "he": "מִי הַבֵּן שֶׁל חֲנוֹךְ?",
+          "fr": "Qui est le fils de ‘Hanokh ?"
+        },
+        "options": [
+          {
+            "he": "נֹחַ",
+            "fr": "Noa’h"
+          },
+          {
+            "he": "אָדָם",
+            "fr": "Adam"
+          },
+          {
+            "he": "מְתוּשֶׁלַח",
+            "fr": "Métouchéla’h"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.5.21"
+      },
+      {
+        "q": {
+          "he": "לְפִי רַשִׁ״י, לָמָּה לָקַח ה׳ אֶת חֲנוֹךְ מֻקְדָּם?",
+          "fr": "Selon Rachi, pourquoi Dieu a-t-il pris ‘Hanokh tôt ?"
+        },
+        "options": [
+          {
+            "he": "כְּדֵי שֶׁיִּשָּׁאֵר צַדִּיק",
+            "fr": "Pour qu’il reste juste"
+          },
+          {
+            "he": "כִּי הוּא הָיָה עָיֵף",
+            "fr": "Parce qu’il était fatigué"
+          },
+          {
+            "he": "כִּי הוּא רָצָה לָטוּס",
+            "fr": "Parce qu’il voulait voler"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.5.24",
+        "src": "midrash"
+      },
+      {
+        "q": {
+          "he": "מִי הָאַבָּא שֶׁל חֲנוֹךְ?",
+          "fr": "Qui est le père de ‘Hanokh ?"
+        },
+        "options": [
+          {
+            "he": "קַיִן",
+            "fr": "Kaïn"
+          },
+          {
+            "he": "יֶרֶד",
+            "fr": "Yéred"
+          },
+          {
+            "he": "שֵׁת",
+            "fr": "Chet"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.5.18"
+      }
+    ],
+    "notes": [
+      {
+        "key": "identityNote",
+        "src": "torah",
+        "ref": "Genesis.4.17",
+        "he": "יֵשׁ בַּתּוֹרָה עוֹד חֲנוֹךְ: הַבֵּן שֶׁל קַיִן (ד׳:י״ז). זֶה אָדָם אַחֵר.",
+        "fr": "Il y a dans la Torah un autre ‘Hanokh : le fils de Kaïn (4,17). C’est une autre personne."
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "metushelah": {
+    "bio": {
+      "he": "מְתוּשֶׁלַח הוּא הַבֵּן שֶׁל חֲנוֹךְ וְהַסַּבָּא שֶׁל נֹחַ. הוּא חַי 969 שָׁנָה – יוֹתֵר מִכָּל אָדָם אַחֵר בַּתּוֹרָה! כְּשֶׁהָיָה בֶּן 187 נוֹלַד לוֹ לֶמֶךְ, הָאַבָּא שֶׁל נֹחַ. לְפִי חֶשְׁבּוֹן הַשָּׁנִים בַּתּוֹרָה, הוּא נִפְטַר בִּשְׁנַת הַמַּבּוּל. רַשִׁ״י מְסַפֵּר שֶׁה׳ חִכָּה שִׁבְעָה יָמִים לִפְנֵי הַמַּבּוּל: יְמֵי הָאֵבֶל עַל מְתוּשֶׁלַח הַצַּדִּיק.",
+      "fr": "Métouchéla’h est le fils de ‘Hanokh et le grand-père de Noa’h. Il vit 969 ans : plus que tout autre personne dans la Torah ! À 187 ans, il a un fils, Lémekh, le père de Noa’h. D’après le calcul des années de la Torah, il meurt l’année du déluge. Rachi raconte que Dieu a attendu sept jours avant le déluge : les jours de deuil pour Métouchéla’h le juste."
+    },
+    "events": [
+      {
+        "am": 687,
+        "datesrc": "torah",
+        "ref": "Genesis.5.21",
+        "parasha": "bereshit",
+        "he": "נוֹלָד כְּשֶׁחֲנוֹךְ בֶּן 65",
+        "fr": "Naît quand ‘Hanokh a 65 ans"
+      },
+      {
+        "am": 874,
+        "datesrc": "torah",
+        "ref": "Genesis.5.25",
+        "parasha": "bereshit",
+        "he": "בֶּן 187 כְּשֶׁנּוֹלָד לֶמֶךְ",
+        "fr": "A 187 ans à la naissance de Lémekh"
+      },
+      {
+        "am": 1056,
+        "datesrc": "torah",
+        "ref": "Genesis.5.28-29",
+        "parasha": "bereshit",
+        "he": "נוֹלָד לוֹ נֶכֶד: נֹחַ",
+        "fr": "Naissance de son petit-fils Noa’h"
+      },
+      {
+        "am": 1656,
+        "datesrc": "torah",
+        "ref": "Genesis.5.27",
+        "parasha": "bereshit",
+        "he": "נִפְטָר בְּגִיל 969, בִּשְׁנַת הַמַּבּוּל",
+        "fr": "Meurt à 969 ans, l’année du déluge"
+      },
+      {
+        "am": 1656,
+        "datesrc": "midrash",
+        "ref": "Genesis.7.4",
+        "parasha": "noach",
+        "he": "לְפִי רַשִׁ״י, שִׁבְעָה יְמֵי אֵבֶל עָלָיו לִפְנֵי הַמַּבּוּל",
+        "fr": "Selon Rachi, sept jours de deuil pour lui avant le déluge"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "torah",
+        "ref": "Genesis.5.27",
+        "he": "לְפִי הַשָּׁנִים בַּתּוֹרָה, מְתוּשֶׁלַח חַי בְּאוֹתוֹ זְמַן עִם אָדָם וְגַם עִם נֹחַ: הוּא כְּמוֹ גֶּשֶׁר בֵּין הַדּוֹרוֹת.",
+        "fr": "D’après les années de la Torah, Métouchéla’h a vécu en même temps qu’Adam et aussi que Noa’h : il est comme un pont entre les générations."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.7.4",
+        "source": {
+          "he": "רש״י בראשית ז׳:ד׳",
+          "fr": "Rachi sur Gn 7,4"
+        },
+        "he": "רַשִׁ״י מְלַמֵּד שֶׁה׳ דָּחָה אֶת הַמַּבּוּל שִׁבְעָה יָמִים, כְּדֵי לְכַבֵּד אֶת מְתוּשֶׁלַח הַצַּדִּיק. כָּבוֹד לְצַדִּיק חָשׁוּב מְאוֹד.",
+        "fr": "Rachi enseigne que Dieu a repoussé le déluge de sept jours pour honorer Métouchéla’h le juste. Honorer un juste est très important."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "כַּמָּה שָׁנִים חַי מְתוּשֶׁלַח?",
+          "fr": "Combien d’années a vécu Métouchéla’h ?"
+        },
+        "options": [
+          {
+            "he": "365",
+            "fr": "365"
+          },
+          {
+            "he": "969",
+            "fr": "969"
+          },
+          {
+            "he": "100",
+            "fr": "100"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.5.27"
+      },
+      {
+        "q": {
+          "he": "מִי הָאַבָּא שֶׁל מְתוּשֶׁלַח?",
+          "fr": "Qui est le père de Métouchéla’h ?"
+        },
+        "options": [
+          {
+            "he": "נֹחַ",
+            "fr": "Noa’h"
+          },
+          {
+            "he": "אָדָם",
+            "fr": "Adam"
+          },
+          {
+            "he": "חֲנוֹךְ",
+            "fr": "‘Hanokh"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.5.21"
+      },
+      {
+        "q": {
+          "he": "מִי הַנֶּכֶד שֶׁל מְתוּשֶׁלַח?",
+          "fr": "Qui est le petit-fils de Métouchéla’h ?"
+        },
+        "options": [
+          {
+            "he": "נֹחַ",
+            "fr": "Noa’h"
+          },
+          {
+            "he": "אַבְרָהָם",
+            "fr": "Avraham"
+          },
+          {
+            "he": "קַיִן",
+            "fr": "Kaïn"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.5.25-29"
+      },
+      {
+        "q": {
+          "he": "לְפִי רַשִׁ״י, לָמָּה חִכָּה ה׳ שִׁבְעָה יָמִים לִפְנֵי הַמַּבּוּל?",
+          "fr": "Selon Rachi, pourquoi Dieu a-t-il attendu sept jours avant le déluge ?"
+        },
+        "options": [
+          {
+            "he": "בִּגְלַל הָאֵבֶל עַל מְתוּשֶׁלַח",
+            "fr": "Pour le deuil de Métouchéla’h"
+          },
+          {
+            "he": "כְּדֵי לִצְבֹּעַ אֶת הַתֵּבָה",
+            "fr": "Pour peindre l’arche"
+          },
+          {
+            "he": "כְּדֵי לְחַכּוֹת לַחֹרֶף",
+            "fr": "Pour attendre l’hiver"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.7.4",
+        "src": "midrash"
+      },
+      {
+        "q": {
+          "he": "בֶּן כַּמָּה הָיָה מְתוּשֶׁלַח כְּשֶׁנּוֹלַד לֶמֶךְ?",
+          "fr": "Quel âge avait Métouchéla’h à la naissance de Lémekh ?"
+        },
+        "options": [
+          {
+            "he": "12",
+            "fr": "12"
+          },
+          {
+            "he": "500",
+            "fr": "500"
+          },
+          {
+            "he": "187",
+            "fr": "187"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.5.25"
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "noah": {
+    "bio": {
+      "he": "נֹחַ הוּא הַבֵּן שֶׁל לֶמֶךְ. בְּדוֹר שֶׁהָיָה מָלֵא חָמָס, נֹחַ הָיָה ״אִישׁ צַדִּיק תָּמִים״, וְהוּא מָצָא חֵן בְּעֵינֵי ה׳. ה׳ צִוָּה אוֹתוֹ לִבְנוֹת תֵּבָה גְּדוֹלָה, וְנֹחַ נִכְנַס אֵלֶיהָ עִם מִשְׁפַּחְתּוֹ וְעִם הַחַיּוֹת, לִפְנֵי שֶׁהַמַּבּוּל כִּסָּה אֶת הָאָרֶץ. בְּסוֹף הַמַּבּוּל הוּא שָׁלַח יוֹנָה, וְהִיא חָזְרָה עִם עֲלֵה זַיִת. כְּשֶׁיָּצָא מִן הַתֵּבָה, ה׳ כָּרַת אִתּוֹ בְּרִית וְשָׂם אֶת הַקֶּשֶׁת בֶּעָנָן, סִימָן שֶׁלֹּא יִהְיֶה עוֹד מַבּוּל.",
+      "fr": "Noa’h est le fils de Lémekh. Dans une génération pleine de violence, Noa’h est « un homme juste et intègre », et il trouve grâce aux yeux de Dieu. Dieu lui ordonne de construire une grande arche, et Noa’h y entre avec sa famille et les animaux, avant que le déluge recouvre la terre. À la fin du déluge, il envoie une colombe, qui revient avec une feuille d’olivier. Quand il sort de l’arche, Dieu fait une alliance avec lui et place l’arc-en-ciel dans les nuages, signe qu’il n’y aura plus de déluge."
+    },
+    "events": [
+      {
+        "am": 1056,
+        "datesrc": "torah",
+        "ref": "Genesis.5.28-29",
+        "parasha": "bereshit",
+        "he": "נוֹלָד; אָבִיו לֶמֶךְ קוֹרֵא לוֹ נֹחַ",
+        "fr": "Naît ; son père Lémekh l’appelle Noa’h"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.6.14-22",
+        "parasha": "noach",
+        "he": "בּוֹנֶה תֵּבָה מֵעֲצֵי גֹפֶר",
+        "fr": "Construit une arche en bois de gopher"
+      },
+      {
+        "am": 1656,
+        "datesrc": "torah",
+        "ref": "Genesis.7.11",
+        "parasha": "noach",
+        "he": "בֶּן 600: מַתְחִיל הַמַּבּוּל, וְהוּא בַּתֵּבָה",
+        "fr": "À 600 ans : le déluge commence, il est dans l’arche"
+      },
+      {
+        "am": 1656,
+        "datesrc": "torah",
+        "ref": "Genesis.8.11",
+        "parasha": "noach",
+        "he": "הַיּוֹנָה חוֹזֶרֶת עִם עֲלֵה זַיִת",
+        "fr": "La colombe revient avec une feuille d’olivier"
+      },
+      {
+        "am": 1657,
+        "datesrc": "torah",
+        "ref": "Genesis.8.18-9.13",
+        "parasha": "noach",
+        "he": "יוֹצֵא מִן הַתֵּבָה; ה׳ שָׂם אֶת הַקֶּשֶׁת בֶּעָנָן",
+        "fr": "Sort de l’arche ; Dieu place l’arc-en-ciel dans les nuages"
+      },
+      {
+        "am": 2006,
+        "datesrc": "torah",
+        "ref": "Genesis.9.29",
+        "parasha": "noach",
+        "he": "נִפְטָר בְּגִיל 950",
+        "fr": "Meurt à 950 ans"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "torah",
+        "ref": "Genesis.6.9",
+        "he": "״נֹחַ אִישׁ צַדִּיק תָּמִים הָיָה בְּדֹרֹתָיו״: גַּם כְּשֶׁכֻּלָּם סְבִיבוֹ עָשׂוּ רַע, נֹחַ נִשְׁאַר טוֹב.",
+        "fr": "« Noa’h était un homme juste et intègre dans sa génération » : même quand tout le monde autour faisait le mal, Noa’h est resté bon."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.6.14",
+        "source": {
+          "he": "רש״י בראשית ו׳:י״ד",
+          "fr": "Rachi sur Gn 6,14"
+        },
+        "he": "רַשִׁ״י מְסַבֵּר שֶׁנֹּחַ בָּנָה אֶת הַתֵּבָה 120 שָׁנָה, כְּדֵי שֶׁהָאֲנָשִׁים יִשְׁאֲלוּ ״מָה אַתָּה עוֹשֶׂה?״ וְיַחְזְרוּ בִּתְשׁוּבָה.",
+        "fr": "Rachi explique que Noa’h a construit l’arche pendant 120 ans, pour que les gens demandent « Que fais-tu ? » et changent leur conduite."
+      },
+      {
+        "src": "torah",
+        "ref": "Genesis.9.13-15",
+        "he": "הַקֶּשֶׁת בֶּעָנָן הִיא סִימָן לַבְּרִית: ה׳ זוֹכֵר אֶת הַהַבְטָחָה שֶׁלֹּא יִהְיֶה עוֹד מַבּוּל.",
+        "fr": "L’arc-en-ciel est le signe de l’alliance : Dieu se souvient de sa promesse qu’il n’y aura plus de déluge."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "מָה בָּנָה נֹחַ?",
+          "fr": "Qu’a construit Noa’h ?"
+        },
+        "options": [
+          {
+            "he": "מִגְדָּל",
+            "fr": "Une tour"
+          },
+          {
+            "he": "תֵּבָה",
+            "fr": "Une arche"
+          },
+          {
+            "he": "עִיר",
+            "fr": "Une ville"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.6.14"
+      },
+      {
+        "q": {
+          "he": "אֵיזוֹ צִפּוֹר חָזְרָה עִם עֲלֵה זַיִת?",
+          "fr": "Quel oiseau est revenu avec une feuille d’olivier ?"
+        },
+        "options": [
+          {
+            "he": "הַיּוֹנָה",
+            "fr": "La colombe"
+          },
+          {
+            "he": "הָעוֹרֵב",
+            "fr": "Le corbeau"
+          },
+          {
+            "he": "הַנֶּשֶׁר",
+            "fr": "L’aigle"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.8.11"
+      },
+      {
+        "q": {
+          "he": "אֵיזֶה סִימָן שָׂם ה׳ בֶּעָנָן?",
+          "fr": "Quel signe Dieu a-t-il placé dans les nuages ?"
+        },
+        "options": [
+          {
+            "he": "כּוֹכָב",
+            "fr": "Une étoile"
+          },
+          {
+            "he": "יָרֵחַ",
+            "fr": "La lune"
+          },
+          {
+            "he": "קֶשֶׁת",
+            "fr": "L’arc-en-ciel"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.9.13"
+      },
+      {
+        "q": {
+          "he": "בֶּן כַּמָּה הָיָה נֹחַ כְּשֶׁהִתְחִיל הַמַּבּוּל?",
+          "fr": "Quel âge avait Noa’h quand le déluge a commencé ?"
+        },
+        "options": [
+          {
+            "he": "100",
+            "fr": "100"
+          },
+          {
+            "he": "600",
+            "fr": "600"
+          },
+          {
+            "he": "950",
+            "fr": "950"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.7.11"
+      },
+      {
+        "q": {
+          "he": "לְפִי רַשִׁ״י, לָמָּה בָּנָה נֹחַ אֶת הַתֵּבָה זְמַן כָּל כָּךְ אָרֹךְ?",
+          "fr": "Selon Rachi, pourquoi Noa’h a-t-il construit l’arche pendant si longtemps ?"
+        },
+        "options": [
+          {
+            "he": "כִּי לֹא הָיוּ לוֹ מַסְפִּיק עֵצִים",
+            "fr": "Parce qu’il n’avait pas assez de bois"
+          },
+          {
+            "he": "כִּי הוּא רָצָה לַעֲשׂוֹת מְסִבָּה",
+            "fr": "Parce qu’il voulait faire une fête"
+          },
+          {
+            "he": "כְּדֵי שֶׁהָאֲנָשִׁים יִשְׁאֲלוּ וְיַחְזְרוּ בִּתְשׁוּבָה",
+            "fr": "Pour que les gens posent des questions et changent leur conduite"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.6.14",
+        "src": "midrash"
+      }
+    ],
+    "notes": [
+      {
+        "key": "nameNote",
+        "src": "midrash",
+        "ref": "Genesis.5.29",
+        "source": {
+          "he": "רש״י בראשית ה׳:כ״ט",
+          "fr": "Rachi sur Gn 5,29"
+        },
+        "he": "לֶמֶךְ אָמַר: ״זֶה יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ וּמֵעִצְּבוֹן יָדֵינוּ״. רַשִׁ״י מְסַבֵּר שֶׁהַשֵּׁם נֹחַ קָשׁוּר לִמְנוּחָה: נֹחַ הֵכִין כְּלֵי מַחֲרֵשָׁה, וְהָעֲבוֹדָה בַּשָּׂדֶה נַעַשְׂתָה קַלָּה יוֹתֵר.",
+        "fr": "Lémekh dit : « Celui-ci nous soulagera de notre travail et de la peine de nos mains. » Rachi explique que le nom Noa’h évoque le repos : Noa’h a préparé des outils pour labourer, et le travail des champs est devenu plus facile."
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "shem": {
+    "bio": {
+      "he": "שֵׁם הוּא אֶחָד מִשְּׁלֹשֶׁת הַבָּנִים שֶׁל נֹחַ, וְהוּא נִכְנַס עִם כָּל הַמִּשְׁפָּחָה לַתֵּבָה. אַחֲרֵי הַמַּבּוּל, כְּשֶׁנֹּחַ נִרְדַּם בְּאָהֳלוֹ בְּלִי כִּסּוּי, שֵׁם וְיֶפֶת לָקְחוּ שִׂמְלָה, הָלְכוּ אֲחוֹרַנִּית וְכִסּוּ אֶת אֲבִיהֶם בְּכָבוֹד. נֹחַ אָמַר: ״בָּרוּךְ ה׳ אֱלֹהֵי שֵׁם״. מִמִּשְׁפַּחַת שֵׁם, דּוֹר אַחֲרֵי דּוֹר, נוֹלַד אַבְרָם. שֵׁם חַי 600 שָׁנָה.",
+      "fr": "Chem est l’un des trois fils de Noa’h, et il entre dans l’arche avec toute la famille. Après le déluge, quand Noa’h s’est endormi dans sa tente sans couverture, Chem et Yéfet prennent un manteau, marchent à reculons et couvrent leur père avec respect. Noa’h dit : « Béni soit Dieu, le Dieu de Chem. » De la famille de Chem, génération après génération, naîtra Avram. Chem vit 600 ans."
+    },
+    "events": [
+      {
+        "am": 1656,
+        "datesrc": "torah",
+        "ref": "Genesis.7.13",
+        "parasha": "noach",
+        "he": "נִכְנָס לַתֵּבָה עִם נֹחַ וְאֶחָיו",
+        "fr": "Entre dans l’arche avec Noa’h et ses frères"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.9.23",
+        "parasha": "noach",
+        "he": "מְכַסֶּה אֶת אָבִיו בַּשִּׂמְלָה יַחַד עִם יֶפֶת",
+        "fr": "Couvre son père d’un manteau avec Yéfet"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.9.26",
+        "parasha": "noach",
+        "he": "נֹחַ אוֹמֵר: ״בָּרוּךְ ה׳ אֱלֹהֵי שֵׁם״",
+        "fr": "Noa’h dit : « Béni soit Dieu, le Dieu de Chem »"
+      },
+      {
+        "am": 1658,
+        "datesrc": "torah",
+        "ref": "Genesis.11.10",
+        "parasha": "noach",
+        "he": "בֶּן 100, שְׁנָתַיִם אַחֲרֵי הַמַּבּוּל: נוֹלָד לוֹ אַרְפַּכְשַׁד",
+        "fr": "À 100 ans, deux ans après le déluge : naissance de son fils Arpakhchad"
+      },
+      {
+        "am": 2158,
+        "datesrc": "torah",
+        "ref": "Genesis.11.11",
+        "parasha": "noach",
+        "he": "נִפְטָר בְּגִיל 600",
+        "fr": "Meurt à 600 ans"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "torah",
+        "ref": "Genesis.9.23",
+        "he": "שֵׁם וְיֶפֶת כִּסּוּ אֶת אֲבִיהֶם בְּלִי לְהִסְתַּכֵּל: שׁוֹמְרִים עַל הַכָּבוֹד שֶׁל הַהוֹרִים.",
+        "fr": "Chem et Yéfet couvrent leur père sans regarder : on protège l’honneur de ses parents."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.9.23",
+        "source": {
+          "he": "רש״י בראשית ט׳:כ״ג",
+          "fr": "Rachi sur Gn 9,23"
+        },
+        "he": "הַתּוֹרָה כּוֹתֶבֶת ״וַיִּקַּח״ בִּלְשׁוֹן יָחִיד. רַשִׁ״י לוֹמֵד מִזֶּה שֶׁשֵּׁם הִשְׁתַּדֵּל בַּמִּצְוָה יוֹתֵר מִיֶּפֶת, וְלָכֵן זָכוּ צֶאֱצָאָיו לְמִצְוַת צִיצִית.",
+        "fr": "La Torah écrit « il prit » au singulier. Rachi en déduit que Chem s’est donné plus de peine que Yéfet pour faire cette mitsva, et c’est pourquoi ses descendants ont mérité la mitsva des tsitsit."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.25.22",
+        "source": {
+          "he": "רש״י בראשית כ״ה:כ״ב",
+          "fr": "Rachi sur Gn 25,22"
+        },
+        "he": "רַשִׁ״י מְסַפֵּר שֶׁלְּשֵׁם הָיָה בֵּית מִדְרָשׁ, וְשָׁם בָּאָה רִבְקָה לִשְׁאֹל אֶת ה׳.",
+        "fr": "Rachi raconte que Chem avait une maison d’étude (beit midrach), où Rivka est venue interroger Dieu."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "כַּמָּה בָּנִים הָיוּ לְנֹחַ?",
+          "fr": "Combien de fils avait Noa’h ?"
+        },
+        "options": [
+          {
+            "he": "שְׁנַיִם",
+            "fr": "2"
+          },
+          {
+            "he": "שְׁלֹשָׁה",
+            "fr": "3"
+          },
+          {
+            "he": "שִׁבְעָה",
+            "fr": "7"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.5.32"
+      },
+      {
+        "q": {
+          "he": "מָה עָשׂוּ שֵׁם וְיֶפֶת לַאֲבִיהֶם?",
+          "fr": "Qu’ont fait Chem et Yéfet pour leur père ?"
+        },
+        "options": [
+          {
+            "he": "כִּסּוּ אוֹתוֹ בְּכָבוֹד",
+            "fr": "Ils l’ont couvert avec respect"
+          },
+          {
+            "he": "הָלְכוּ לְטַיֵּל",
+            "fr": "Ils sont partis se promener"
+          },
+          {
+            "he": "צָחֲקוּ עָלָיו",
+            "fr": "Ils se sont moqués de lui"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.9.23"
+      },
+      {
+        "q": {
+          "he": "לְפִי רַשִׁ״י, אֵיזֶה מֶלֶךְ הוּא בְּעֶצֶם שֵׁם?",
+          "fr": "Selon Rachi, quel roi est en fait Chem ?"
+        },
+        "options": [
+          {
+            "he": "נִמְרֹד",
+            "fr": "Nimrod"
+          },
+          {
+            "he": "פַּרְעֹה",
+            "fr": "Pharaon"
+          },
+          {
+            "he": "מַלְכִּי־צֶדֶק",
+            "fr": "Malki-Tsédek"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.14.18",
+        "src": "midrash"
+      },
+      {
+        "q": {
+          "he": "לְפִי רַשִׁ״י, לְאָן הָלְכָה רִבְקָה לִשְׁאֹל אֶת ה׳?",
+          "fr": "Selon Rachi, où Rivka est-elle allée interroger Dieu ?"
+        },
+        "options": [
+          {
+            "he": "לְבֵית הַמִּדְרָשׁ שֶׁל שֵׁם",
+            "fr": "À la maison d’étude de Chem"
+          },
+          {
+            "he": "לְבֵית לָבָן",
+            "fr": "Chez Lavan"
+          },
+          {
+            "he": "לְמִגְדַּל בָּבֶל",
+            "fr": "À la tour de Babel"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.25.22",
+        "src": "midrash"
+      },
+      {
+        "q": {
+          "he": "כַּמָּה שָׁנִים חַי שֵׁם?",
+          "fr": "Combien d’années Chem a-t-il vécu ?"
+        },
+        "options": [
+          {
+            "he": "969",
+            "fr": "969"
+          },
+          {
+            "he": "600",
+            "fr": "600"
+          },
+          {
+            "he": "175",
+            "fr": "175"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.11.10-11"
+      }
+    ],
+    "notes": [
+      {
+        "key": "identityNote",
+        "src": "midrash",
+        "ref": "Genesis.14.18",
+        "source": {
+          "he": "רש״י בראשית י״ד:י״ח",
+          "fr": "Rachi sur Gn 14,18"
+        },
+        "he": "רַשִׁ״י מֵבִיא שֶׁמַּלְכִּי־צֶדֶק, מֶלֶךְ שָׁלֵם שֶׁהוֹצִיא לֶחֶם וָיַיִן לְאַבְרָם, הוּא שֵׁם בֶּן נֹחַ.",
+        "fr": "Rachi rapporte que Malki-Tsédek, roi de Chalem, qui apporte du pain et du vin à Avram, est Chem, fils de Noa’h."
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "ham": {
+    "bio": {
+      "he": "חָם הוּא אֶחָד מִשְּׁלֹשֶׁת הַבָּנִים שֶׁל נֹחַ, וְגַם הוּא נִצַּל בַּתֵּבָה. אַחֲרֵי הַמַּבּוּל, כְּשֶׁנֹּחַ נִרְדַּם בְּאָהֳלוֹ בְּלִי כִּסּוּי, חָם רָאָה אוֹתוֹ, וּבִמְקוֹם לְכַסּוֹת אוֹתוֹ, יָצָא וְסִפֵּר לְאֶחָיו בַּחוּץ. אֶחָיו שֵׁם וְיֶפֶת הֵם שֶׁכִּסּוּ אֶת אֲבִיהֶם בְּכָבוֹד. לְחָם הָיוּ אַרְבָּעָה בָּנִים: כּוּשׁ, מִצְרַיִם, פּוּט וּכְנָעַן. נֹחַ אָמַר שֶׁכְּנַעַן יִהְיֶה עֶבֶד לְאֶחָיו.",
+      "fr": "‘Ham est l’un des trois fils de Noa’h, et lui aussi est sauvé dans l’arche. Après le déluge, quand Noa’h s’est endormi dans sa tente sans couverture, ‘Ham le voit et, au lieu de le couvrir, sort le raconter à ses frères dehors. Ce sont ses frères Chem et Yéfet qui couvrent leur père avec respect. ‘Ham a quatre fils : Kouch, Mitsraïm, Pout et Kenaan. Noa’h dit que Kenaan sera serviteur de ses frères."
+    },
+    "events": [
+      {
+        "am": null,
+        "ref": "Genesis.5.32",
+        "parasha": "bereshit",
+        "he": "נוֹלָד לְנֹחַ, אַחֲרֵי שֶׁנֹּחַ בֶּן 500",
+        "fr": "Naît à Noa’h, après ses 500 ans"
+      },
+      {
+        "am": 1656,
+        "datesrc": "torah",
+        "ref": "Genesis.7.13",
+        "parasha": "noach",
+        "he": "נִכְנָס לַתֵּבָה עִם נֹחַ וְאֶחָיו",
+        "fr": "Entre dans l’arche avec Noa’h et ses frères"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.9.22",
+        "parasha": "noach",
+        "he": "רוֹאֶה אֶת אָבִיו בְּלִי כִּסּוּי וּמְסַפֵּר לְאֶחָיו בַּחוּץ",
+        "fr": "Voit son père sans couverture et le raconte à ses frères dehors"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.10.6",
+        "parasha": "noach",
+        "he": "בָּנָיו: כּוּשׁ, מִצְרַיִם, פּוּט וּכְנָעַן",
+        "fr": "Ses fils : Kouch, Mitsraïm, Pout et Kenaan"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "torah",
+        "ref": "Genesis.9.22-23",
+        "he": "חָם סִפֵּר לַאֲחֵרִים עַל מַצָּב מֵבִיךְ שֶׁל אָבִיו, וְאֶחָיו כִּסּוּ אוֹתוֹ. כְּשֶׁמִּישֶׁהוּ בְּמַצָּב מֵבִיךְ, עוֹזְרִים לוֹ וְלֹא מְסַפְּרִים לְכֻלָּם.",
+        "fr": "‘Ham raconte aux autres la situation gênante de son père, alors que ses frères le couvrent. Quand quelqu’un est dans une situation gênante, on l’aide, on ne le raconte pas à tout le monde."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.10.21",
+        "source": {
+          "he": "רש״י בראשית י׳:כ״א",
+          "fr": "Rachi sur Gn 10,21"
+        },
+        "he": "הַתּוֹרָה קוֹרֵאת לְשֵׁם ״אֲחִי יֶפֶת״ וְלֹא ״אֲחִי חָם״. רַשִׁ״י מְסַבֵּר: שֵׁם וְיֶפֶת כִּבְּדוּ אֶת אֲבִיהֶם, וְחָם לֹא.",
+        "fr": "La Torah appelle Chem « frère de Yéfet » et non « frère de ‘Ham ». Rachi explique : Chem et Yéfet ont honoré leur père, ‘Ham non."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "מִי מֵאֵלֶּה הוּא בֵּן שֶׁל חָם?",
+          "fr": "Lequel de ces noms est un fils de ‘Ham ?"
+        },
+        "options": [
+          {
+            "he": "כְּנַעַן",
+            "fr": "Kenaan"
+          },
+          {
+            "he": "אַבְרָהָם",
+            "fr": "Avraham"
+          },
+          {
+            "he": "שֵׁת",
+            "fr": "Chet"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.10.6"
+      },
+      {
+        "q": {
+          "he": "מָה עָשָׂה חָם כְּשֶׁרָאָה אֶת אָבִיו בְּלִי כִּסּוּי?",
+          "fr": "Qu’a fait ‘Ham quand il a vu son père sans couverture ?"
+        },
+        "options": [
+          {
+            "he": "כִּסָּה אוֹתוֹ",
+            "fr": "Il l’a couvert"
+          },
+          {
+            "he": "יָצָא וְסִפֵּר לְאֶחָיו",
+            "fr": "Il est sorti le raconter à ses frères"
+          },
+          {
+            "he": "הָלַךְ לִישֹׁן",
+            "fr": "Il est allé dormir"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.9.22"
+      },
+      {
+        "q": {
+          "he": "מִי הָאַחִים שֶׁל חָם?",
+          "fr": "Qui sont les frères de ‘Ham ?"
+        },
+        "options": [
+          {
+            "he": "קַיִן וְהֶבֶל",
+            "fr": "Kaïn et Hével"
+          },
+          {
+            "he": "לוֹט וְנָחוֹר",
+            "fr": "Lot et Na’hor"
+          },
+          {
+            "he": "שֵׁם וְיֶפֶת",
+            "fr": "Chem et Yéfet"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.5.32"
+      },
+      {
+        "q": {
+          "he": "אֵיפֹה הָיָה חָם בִּזְמַן הַמַּבּוּל?",
+          "fr": "Où était ‘Ham pendant le déluge ?"
+        },
+        "options": [
+          {
+            "he": "בַּתֵּבָה",
+            "fr": "Dans l’arche"
+          },
+          {
+            "he": "עַל הַר גָּבוֹהַּ",
+            "fr": "Sur une haute montagne"
+          },
+          {
+            "he": "בְּמִגְדָּל",
+            "fr": "Dans une tour"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.7.13"
+      },
+      {
+        "q": {
+          "he": "לְפִי רַשִׁ״י, לָמָּה הַתּוֹרָה לֹא קוֹרֵאת לְשֵׁם ״אֲחִי חָם״?",
+          "fr": "Selon Rachi, pourquoi la Torah n’appelle-t-elle pas Chem « frère de ‘Ham » ?"
+        },
+        "options": [
+          {
+            "he": "כִּי הֵם גָּרוּ רָחוֹק",
+            "fr": "Parce qu’ils habitaient loin"
+          },
+          {
+            "he": "כִּי חָם לֹא כִּבֵּד אֶת אָבִיו",
+            "fr": "Parce que ‘Ham n’a pas honoré son père"
+          },
+          {
+            "he": "כִּי הֵם לֹא הִכִּירוּ זֶה אֶת זֶה",
+            "fr": "Parce qu’ils ne se connaissaient pas"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.10.21",
+        "src": "midrash"
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "yefet": {
+    "bio": {
+      "he": "יֶפֶת הוּא אֶחָד מִשְּׁלֹשֶׁת הַבָּנִים שֶׁל נֹחַ, וְהוּא נִכְנַס עִם כָּל הַמִּשְׁפָּחָה לַתֵּבָה. כְּשֶׁנֹּחַ נִרְדַּם בְּאָהֳלוֹ בְּלִי כִּסּוּי, יֶפֶת וְשֵׁם לָקְחוּ שִׂמְלָה וְכִסּוּ אוֹתוֹ בְּלִי לְהִסְתַּכֵּל. נֹחַ בֵּרַךְ אוֹתוֹ: ״יַפְתְּ אֱלֹהִים לְיֶפֶת״. מִבָּנָיו שֶׁל יֶפֶת, כְּמוֹ גֹּמֶר, מָדַי וְיָוָן, יָצְאוּ עַמִּים רַבִּים.",
+      "fr": "Yéfet est l’un des trois fils de Noa’h, et il entre dans l’arche avec toute la famille. Quand Noa’h s’est endormi dans sa tente sans couverture, Yéfet et Chem prennent un manteau et le couvrent sans regarder. Noa’h le bénit : « Que Dieu élargisse Yéfet. » De ses fils, comme Gomer, Madaï et Yavan, sont sortis de nombreux peuples."
+    },
+    "events": [
+      {
+        "am": null,
+        "ref": "Genesis.5.32",
+        "parasha": "bereshit",
+        "he": "נוֹלָד לְנֹחַ, אַחֲרֵי שֶׁנֹּחַ בֶּן 500",
+        "fr": "Naît à Noa’h, après ses 500 ans"
+      },
+      {
+        "am": 1656,
+        "datesrc": "torah",
+        "ref": "Genesis.7.13",
+        "parasha": "noach",
+        "he": "נִכְנָס לַתֵּבָה עִם נֹחַ וְאֶחָיו",
+        "fr": "Entre dans l’arche avec Noa’h et ses frères"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.9.23",
+        "parasha": "noach",
+        "he": "מְכַסֶּה אֶת אָבִיו בַּשִּׂמְלָה יַחַד עִם שֵׁם",
+        "fr": "Couvre son père d’un manteau avec Chem"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.9.27",
+        "parasha": "noach",
+        "he": "מְקַבֵּל בְּרָכָה: ״יַפְתְּ אֱלֹהִים לְיֶפֶת״",
+        "fr": "Reçoit la bénédiction : « Que Dieu élargisse Yéfet »"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.10.2",
+        "parasha": "noach",
+        "he": "בָּנָיו: גֹּמֶר, מָגוֹג, מָדַי, יָוָן, תֻּבָל, מֶשֶׁךְ וְתִירָס",
+        "fr": "Ses fils : Gomer, Magog, Madaï, Yavan, Toubal, Méchekh et Tiras"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "torah",
+        "ref": "Genesis.9.23",
+        "he": "יֶפֶת וְשֵׁם הָלְכוּ אֲחוֹרַנִּית כְּדֵי לֹא לִרְאוֹת: כָּבוֹד אֲמִתִּי שׁוֹמֵר גַּם עַל הַבּוּשָׁה שֶׁל הַזּוּלַת.",
+        "fr": "Yéfet et Chem marchent à reculons pour ne pas voir : le vrai respect protège aussi la pudeur de l’autre."
+      },
+      {
+        "src": "torah",
+        "ref": "Genesis.9.26-27",
+        "he": "נֹחַ בֵּרַךְ אֶת שֵׁם וְאֶת יֶפֶת, שְׁנֵי הָאַחִים שֶׁכִּסּוּ אוֹתוֹ יַחַד: מִי שֶׁעוֹשֶׂה טוֹב זוֹכֶה לִבְרָכָה.",
+        "fr": "Noa’h bénit Chem et Yéfet, les deux frères qui l’ont couvert ensemble : celui qui fait le bien reçoit une bénédiction."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "עִם מִי כִּסָּה יֶפֶת אֶת אָבִיו?",
+          "fr": "Avec qui Yéfet a-t-il couvert son père ?"
+        },
+        "options": [
+          {
+            "he": "עִם חָם",
+            "fr": "Avec ‘Ham"
+          },
+          {
+            "he": "עִם שֵׁם",
+            "fr": "Avec Chem"
+          },
+          {
+            "he": "עִם לוֹט",
+            "fr": "Avec Lot"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.9.23"
+      },
+      {
+        "q": {
+          "he": "אֵיזוֹ בְּרָכָה נָתַן נֹחַ לְיֶפֶת?",
+          "fr": "Quelle bénédiction Noa’h a-t-il donnée à Yéfet ?"
+        },
+        "options": [
+          {
+            "he": "״יַפְתְּ אֱלֹהִים לְיֶפֶת״",
+            "fr": "« Que Dieu élargisse Yéfet »"
+          },
+          {
+            "he": "שֶׁיִּהְיֶה מֶלֶךְ מִצְרַיִם",
+            "fr": "Qu’il soit roi d’Égypte"
+          },
+          {
+            "he": "שֶׁיִּחְיֶה אֶלֶף שָׁנָה",
+            "fr": "Qu’il vive mille ans"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.9.27"
+      },
+      {
+        "q": {
+          "he": "מִי מֵאֵלֶּה הוּא בֵּן שֶׁל יֶפֶת?",
+          "fr": "Lequel de ces noms est un fils de Yéfet ?"
+        },
+        "options": [
+          {
+            "he": "כְּנַעַן",
+            "fr": "Kenaan"
+          },
+          {
+            "he": "כּוּשׁ",
+            "fr": "Kouch"
+          },
+          {
+            "he": "יָוָן",
+            "fr": "Yavan"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.10.2"
+      },
+      {
+        "q": {
+          "he": "לְפִי רַשִׁ״י, מִי הַבֵּן הַגָּדוֹל שֶׁל נֹחַ?",
+          "fr": "Selon Rachi, qui est le fils aîné de Noa’h ?"
+        },
+        "options": [
+          {
+            "he": "שֵׁם",
+            "fr": "Chem"
+          },
+          {
+            "he": "יֶפֶת",
+            "fr": "Yéfet"
+          },
+          {
+            "he": "חָם",
+            "fr": "‘Ham"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.10.21",
+        "src": "midrash"
+      },
+      {
+        "q": {
+          "he": "אֵיךְ הָלְכוּ יֶפֶת וְשֵׁם כְּדֵי לְכַסּוֹת אֶת אֲבִיהֶם?",
+          "fr": "Comment Yéfet et Chem ont-ils marché pour couvrir leur père ?"
+        },
+        "options": [
+          {
+            "he": "אֲחוֹרַנִּית, בְּלִי לְהִסְתַּכֵּל",
+            "fr": "À reculons, sans regarder"
+          },
+          {
+            "he": "בְּרִיצָה",
+            "fr": "En courant"
+          },
+          {
+            "he": "בִּקְפִיצוֹת",
+            "fr": "En sautant"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.9.23"
+      }
+    ],
+    "notes": [
+      {
+        "key": "identityNote",
+        "src": "midrash",
+        "ref": "Genesis.10.21",
+        "source": {
+          "he": "רש״י בראשית י׳:כ״א",
+          "fr": "Rachi sur Gn 10,21"
+        },
+        "he": "הַתּוֹרָה מוֹנָה בְּדֶרֶךְ כְּלָל ״שֵׁם, חָם וָיָפֶת״. רַשִׁ״י מְחַשֵּׁב מִן הַשָּׁנִים שֶׁיֶּפֶת הוּא בְּעֶצֶם הַבֵּן הַגָּדוֹל.",
+        "fr": "La Torah cite d’habitude « Chem, ‘Ham et Yéfet ». Rachi calcule d’après les années que Yéfet est en fait l’aîné."
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "nimrod": {
+    "bio": {
+      "he": "נִמְרֹד הוּא הַבֵּן שֶׁל כּוּשׁ וְהַנֶּכֶד שֶׁל חָם. הַתּוֹרָה אוֹמֶרֶת שֶׁהוּא ״הֵחֵל לִהְיוֹת גִּבֹּר בָּאָרֶץ״, וְשֶׁהָיָה ״גִבֹּר צַיִד לִפְנֵי ה׳״. הַמַּמְלָכָה שֶׁלּוֹ הִתְחִילָה בְּבָבֶל וּבְעָרִים נוֹסָפוֹת בְּאֶרֶץ שִׁנְעָר. רַשִׁ״י מְסַבֵּר שֶׁהוּא ״צָד״ אֶת הָאֲנָשִׁים בְּדִבּוּרִים, וְגָרַם לָהֶם לִמְרֹד בַּה׳, בִּזְמַן מִגְדַּל בָּבֶל.",
+      "fr": "Nimrod est le fils de Kouch et le petit-fils de ‘Ham. La Torah dit qu’il « fut le premier puissant sur la terre » et qu’il était « un puissant chasseur devant Dieu ». Son royaume commence à Babel et dans d’autres villes du pays de Chinear. Rachi explique qu’il « chassait » les gens avec ses paroles et les poussait à se révolter contre Dieu, à l’époque de la tour de Babel."
+    },
+    "events": [
+      {
+        "am": null,
+        "ref": "Genesis.10.8",
+        "parasha": "noach",
+        "he": "״הֵחֵל לִהְיוֹת גִּבֹּר בָּאָרֶץ״",
+        "fr": "« Fut le premier puissant sur la terre »"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.10.9",
+        "parasha": "noach",
+        "he": "״גִבֹּר צַיִד לִפְנֵי ה׳״",
+        "fr": "« Un puissant chasseur devant Dieu »"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.10.10",
+        "parasha": "noach",
+        "he": "מוֹלֵךְ בְּבָבֶל, אֶרֶךְ, אַכַּד וְכַלְנֵה בְּאֶרֶץ שִׁנְעָר",
+        "fr": "Règne sur Babel, Érekh, Akkad et Kalné, au pays de Chinear"
+      },
+      {
+        "am": 1996,
+        "datesrc": "midrash",
+        "ref": "Genesis.11.1-9",
+        "parasha": "noach",
+        "he": "מִגְדַּל בָּבֶל: ה׳ מְבַלְבֵּל אֶת הַשָּׂפוֹת. לְפִי רַשִׁ״י, נִמְרֹד הֵסִית אֶת הָאֲנָשִׁים",
+        "fr": "Tour de Babel : Dieu mélange les langues. Selon Rachi, Nimrod poussait les gens à la révolte"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "midrash",
+        "ref": "Genesis.10.9",
+        "source": {
+          "he": "רש״י בראשית י׳:ט׳",
+          "fr": "Rachi sur Gn 10,9"
+        },
+        "he": "רַשִׁ״י מְסַבֵּר שֶׁנִּמְרֹד ״צָד״ אֶת לֵב הָאֲנָשִׁים בְּדִבּוּרִים, כְּדֵי שֶׁיִּמְרְדוּ בַּה׳. לְמִלִּים יֵשׁ כֹּחַ גָּדוֹל: צָרִיךְ לְהִשְׁתַּמֵּשׁ בָּהֶן לְטוֹב.",
+        "fr": "Rachi explique que Nimrod « chassait » le cœur des gens par ses paroles, pour qu’ils se révoltent contre Dieu. Les mots ont une grande force : il faut les utiliser pour le bien."
+      },
+      {
+        "src": "torah",
+        "ref": "Genesis.11.4-8",
+        "he": "בּוֹנֵי הַמִּגְדָּל רָצוּ ״לַעֲשׂוֹת לָנוּ שֵׁם״, וּבַסּוֹף לֹא גָּמְרוּ לִבְנוֹת אֶת הָעִיר. גַּאֲוָה לֹא בּוֹנָה דָּבָר שֶׁמַּחֲזִיק.",
+        "fr": "Les bâtisseurs de la tour voulaient « se faire un nom », et finalement ils n’ont pas terminé la ville. L’orgueil ne construit rien de solide."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.11.9",
+        "source": {
+          "he": "רש״י בראשית י״א:ט׳",
+          "fr": "Rachi sur Gn 11,9"
+        },
+        "he": "רַשִׁ״י שׁוֹאֵל: לָמָּה דּוֹר הַמַּבּוּל נֶעֱנַשׁ קָשֶׁה יוֹתֵר מִדּוֹר הַמִּגְדָּל? כִּי בְּדוֹר הַמִּגְדָּל הָאֲנָשִׁים חָיוּ בְּשָׁלוֹם זֶה עִם זֶה. גָּדוֹל הַשָּׁלוֹם!",
+        "fr": "Rachi demande : pourquoi la génération du déluge a-t-elle été punie plus durement que celle de la tour ? Parce qu’à l’époque de la tour, les gens vivaient en paix entre eux. La paix est très grande !"
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "מִי הָאַבָּא שֶׁל נִמְרֹד?",
+          "fr": "Qui est le père de Nimrod ?"
+        },
+        "options": [
+          {
+            "he": "כּוּשׁ",
+            "fr": "Kouch"
+          },
+          {
+            "he": "נֹחַ",
+            "fr": "Noa’h"
+          },
+          {
+            "he": "אָדָם",
+            "fr": "Adam"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.10.8"
+      },
+      {
+        "q": {
+          "he": "אֵיךְ הַתּוֹרָה מְתָאֶרֶת אֶת נִמְרֹד?",
+          "fr": "Comment la Torah décrit-elle Nimrod ?"
+        },
+        "options": [
+          {
+            "he": "רוֹעֶה שָׁקֵט",
+            "fr": "Un berger tranquille"
+          },
+          {
+            "he": "״גִבֹּר צַיִד״",
+            "fr": "« Un puissant chasseur »"
+          },
+          {
+            "he": "בּוֹנֶה תֵּבוֹת",
+            "fr": "Un constructeur d’arches"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.10.9"
+      },
+      {
+        "q": {
+          "he": "בְּאֵיזוֹ עִיר הִתְחִילָה הַמַּמְלָכָה שֶׁל נִמְרֹד?",
+          "fr": "Dans quelle ville commence le royaume de Nimrod ?"
+        },
+        "options": [
+          {
+            "he": "חָרָן",
+            "fr": "‘Haran"
+          },
+          {
+            "he": "יְרוּשָׁלַיִם",
+            "fr": "Jérusalem"
+          },
+          {
+            "he": "בָּבֶל",
+            "fr": "Babel"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.10.10"
+      },
+      {
+        "q": {
+          "he": "לְפִי רַשִׁ״י, אֶת מָה ״צָד״ נִמְרֹד בְּדִבּוּרָיו?",
+          "fr": "Selon Rachi, que « chassait » Nimrod avec ses paroles ?"
+        },
+        "options": [
+          {
+            "he": "אֶת לֵב הָאֲנָשִׁים, כְּדֵי שֶׁיִּמְרְדוּ בַּה׳",
+            "fr": "Le cœur des gens, pour qu’ils se révoltent contre Dieu"
+          },
+          {
+            "he": "אֲרָיוֹת",
+            "fr": "Des lions"
+          },
+          {
+            "he": "דָּגִים",
+            "fr": "Des poissons"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.10.9",
+        "src": "midrash"
+      },
+      {
+        "q": {
+          "he": "מָה קָרָה בְּמִגְדַּל בָּבֶל?",
+          "fr": "Que s’est-il passé à la tour de Babel ?"
+        },
+        "options": [
+          {
+            "he": "יָרַד שֶׁלֶג",
+            "fr": "Il a neigé"
+          },
+          {
+            "he": "ה׳ בִּלְבֵּל אֶת הַשָּׂפוֹת וּפִזֵּר אֶת הָאֲנָשִׁים",
+            "fr": "Dieu a mélangé les langues et dispersé les gens"
+          },
+          {
+            "he": "מָצְאוּ אוֹצָר",
+            "fr": "On a trouvé un trésor"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.11.7-9"
+      }
+    ],
+    "notes": [
+      {
+        "key": "parentsNote",
+        "src": "torah",
+        "ref": "Genesis.10.6-8",
+        "he": "נִמְרֹד הוּא הַבֵּן שֶׁל כּוּשׁ, וְכוּשׁ הוּא הַבֵּן שֶׁל חָם (י׳:ו׳–ח׳).",
+        "fr": "Nimrod est le fils de Kouch, et Kouch est le fils de ‘Ham (10,6-8)."
+      },
+      {
+        "key": "identityNote",
+        "src": "midrash",
+        "ref": "Genesis.14.1",
+        "source": {
+          "he": "רש״י בראשית י״ד:א׳",
+          "fr": "Rachi sur Gn 14,1"
+        },
+        "he": "רַשִׁ״י מְזַהֶה אֶת אַמְרָפֶל, מֶלֶךְ שִׁנְעָר בִּימֵי אַבְרָם, עִם נִמְרֹד, שֶׁהִתְנַגֵּד לְאַבְרָהָם.",
+        "fr": "Rachi identifie Amrafel, roi de Chinear au temps d’Avram, à Nimrod, qui s’était opposé à Avraham."
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "terah": {
+    "bio": {
+      "he": "תֶּרַח הוּא הַבֵּן שֶׁל נָחוֹר, וְהוּא הָאַבָּא שֶׁל אַבְרָם, נָחוֹר וְהָרָן. הוּא גָּר בְּאוּר כַּשְׂדִּים, וְשָׁם מֵת בְּנוֹ הָרָן, עוֹד בְּחַיֵּי אָבִיו. תֶּרַח לָקַח אֶת אַבְרָם, אֶת שָׂרַי וְאֶת לוֹט הַנֶּכֶד, וְיָצָא לָלֶכֶת לְאֶרֶץ כְּנַעַן, אֲבָל הֵם עָצְרוּ בְּחָרָן וְיָשְׁבוּ שָׁם. סֵפֶר יְהוֹשֻׁעַ מְסַפֵּר שֶׁתֶּרַח עָבַד אֱלֹהִים אֲחֵרִים, וְרַשִׁ״י מְלַמֵּד שֶׁהוּא חָזַר בִּתְשׁוּבָה. תֶּרַח נִפְטַר בְּחָרָן בְּגִיל 205.",
+      "fr": "Téra’h est le fils de Na’hor, et le père d’Avram, de Na’hor et de Haran. Il habite à Our-Kasdim, où son fils Haran meurt alors que Téra’h est encore en vie. Téra’h prend Avram, Saraï et son petit-fils Lot, et part vers le pays de Canaan ; mais ils s’arrêtent dans la ville de ‘Haran et s’y installent. Le livre de Josué raconte que Téra’h servait d’autres dieux, et Rachi enseigne qu’il a fait téchouva (il s’est repenti). Téra’h meurt à ‘Haran, à 205 ans."
+    },
+    "events": [
+      {
+        "am": 1878,
+        "datesrc": "torah",
+        "ref": "Genesis.11.24",
+        "parasha": "noach",
+        "he": "נוֹלָד כְּשֶׁנָּחוֹר אָבִיו בֶּן 29",
+        "fr": "Naît quand son père Na’hor a 29 ans"
+      },
+      {
+        "am": 1948,
+        "datesrc": "torah",
+        "ref": "Genesis.11.26",
+        "parasha": "noach",
+        "he": "בֶּן 70: נוֹלָדִים לוֹ אַבְרָם, נָחוֹר וְהָרָן",
+        "fr": "À 70 ans : naissance d’Avram, Na’hor et Haran"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.11.28",
+        "parasha": "noach",
+        "he": "בְּנוֹ הָרָן מֵת בְּאוּר כַּשְׂדִּים, בְּחַיֵּי תֶּרַח",
+        "fr": "Son fils Haran meurt à Our-Kasdim, du vivant de Téra’h"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.11.31",
+        "parasha": "noach",
+        "he": "יוֹצֵא מֵאוּר כַּשְׂדִּים עִם אַבְרָם, שָׂרַי וְלוֹט, וְיוֹשֵׁב בְּחָרָן",
+        "fr": "Quitte Our-Kasdim avec Avram, Saraï et Lot, et s’installe à ‘Haran"
+      },
+      {
+        "am": 2083,
+        "datesrc": "torah",
+        "ref": "Genesis.11.32",
+        "parasha": "noach",
+        "he": "נִפְטָר בְּחָרָן בְּגִיל 205",
+        "fr": "Meurt à ‘Haran à 205 ans"
+      }
+    ],
+    "lessons": [
+      {
+        "src": "midrash",
+        "ref": "Genesis.11.28",
+        "source": {
+          "he": "בראשית רבה ל״ח:י״ג",
+          "fr": "Bereshit Rabba 38,13"
+        },
+        "he": "לְפִי הַמִּדְרָשׁ, לְתֶרַח הָיְתָה חֲנוּת שֶׁל פְּסִלִים. אַבְרָם שָׁבַר אוֹתָם וְהֶרְאָה שֶׁהַפְּסִלִים לֹא יְכוֹלִים לַעֲשׂוֹת כְּלוּם.",
+        "fr": "Selon le midrash, Téra’h avait une boutique d’idoles. Avram les a cassées et a montré que les idoles ne peuvent rien faire."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.15.15",
+        "source": {
+          "he": "רש״י בראשית ט״ו:ט״ו",
+          "fr": "Rachi sur Gn 15,15"
+        },
+        "he": "ה׳ אָמַר לְאַבְרָם: ״וְאַתָּה תָּבוֹא אֶל אֲבֹתֶיךָ בְּשָׁלוֹם״. רַשִׁ״י לוֹמֵד מִזֶּה שֶׁתֶּרַח עָשָׂה תְּשׁוּבָה: אַף פַּעַם לֹא מְאֻחָר לְהִשְׁתַּנּוֹת.",
+        "fr": "Dieu dit à Avram : « Toi, tu rejoindras tes pères en paix. » Rachi en apprend que Téra’h a fait téchouva : il n’est jamais trop tard pour changer."
+      },
+      {
+        "src": "midrash",
+        "ref": "Genesis.11.32",
+        "source": {
+          "he": "רש״י בראשית י״א:ל״ב",
+          "fr": "Rachi sur Gn 11,32"
+        },
+        "he": "אַבְרָם יָצָא מֵחָרָן כְּשֶׁתֶּרַח עוֹד הָיָה חַי. רַשִׁ״י מְסַבֵּר שֶׁהַתּוֹרָה סִפְּרָה עַל מוֹת תֶּרַח לִפְנֵי כֵן, כְּדֵי שֶׁלֹּא יֹאמְרוּ שֶׁאַבְרָם לֹא כִּבֵּד אֶת אָבִיו.",
+        "fr": "Avram a quitté ‘Haran alors que Téra’h était encore vivant. Rachi explique que la Torah raconte la mort de Téra’h avant, pour qu’on ne dise pas qu’Avram n’a pas honoré son père."
+      }
+    ],
+    "quiz": [
+      {
+        "q": {
+          "he": "בֶּן כַּמָּה הָיָה תֶּרַח כְּשֶׁנּוֹלְדוּ בָּנָיו?",
+          "fr": "Quel âge avait Téra’h quand ses fils sont nés ?"
+        },
+        "options": [
+          {
+            "he": "70",
+            "fr": "70"
+          },
+          {
+            "he": "7",
+            "fr": "7"
+          },
+          {
+            "he": "500",
+            "fr": "500"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.11.26"
+      },
+      {
+        "q": {
+          "he": "מֵאֵיפֹה יָצָא תֶּרַח עִם מִשְׁפַּחְתּוֹ?",
+          "fr": "D’où Téra’h est-il parti avec sa famille ?"
+        },
+        "options": [
+          {
+            "he": "מִמִּצְרַיִם",
+            "fr": "D’Égypte"
+          },
+          {
+            "he": "מֵאוּר כַּשְׂדִּים",
+            "fr": "D’Our-Kasdim"
+          },
+          {
+            "he": "מִבָּבֶל",
+            "fr": "De Babel"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.11.31"
+      },
+      {
+        "q": {
+          "he": "אֵיפֹה עָצַר תֶּרַח וְיָשַׁב?",
+          "fr": "Où Téra’h s’est-il arrêté pour habiter ?"
+        },
+        "options": [
+          {
+            "he": "בִּירוּשָׁלַיִם",
+            "fr": "À Jérusalem"
+          },
+          {
+            "he": "בִּסְדוֹם",
+            "fr": "À Sodome"
+          },
+          {
+            "he": "בְּחָרָן",
+            "fr": "À ‘Haran"
+          }
+        ],
+        "answer": 2,
+        "ref": "Genesis.11.31"
+      },
+      {
+        "q": {
+          "he": "לְפִי רַשִׁ״י, מָה עָשָׂה תֶּרַח?",
+          "fr": "Selon Rachi, qu’a fait Téra’h ?"
+        },
+        "options": [
+          {
+            "he": "חָזַר בִּתְשׁוּבָה",
+            "fr": "Il a fait téchouva (il s’est repenti)"
+          },
+          {
+            "he": "הִפְלִיג בַּיָּם",
+            "fr": "Il a navigué sur la mer"
+          },
+          {
+            "he": "בָּנָה מִגְדָּל",
+            "fr": "Il a construit une tour"
+          }
+        ],
+        "answer": 0,
+        "ref": "Genesis.15.15",
+        "src": "midrash"
+      },
+      {
+        "q": {
+          "he": "בְּאֵיזֶה גִּיל נִפְטַר תֶּרַח?",
+          "fr": "À quel âge Téra’h est-il mort ?"
+        },
+        "options": [
+          {
+            "he": "120",
+            "fr": "120"
+          },
+          {
+            "he": "205",
+            "fr": "205"
+          },
+          {
+            "he": "969",
+            "fr": "969"
+          }
+        ],
+        "answer": 1,
+        "ref": "Genesis.11.32"
+      }
+    ],
+    "notes": [
+      {
+        "key": "parentsNote",
+        "src": "torah",
+        "ref": "Genesis.11.24",
+        "he": "הָאַבָּא שֶׁל תֶּרַח נִקְרָא נָחוֹר (י״א:כ״ד), כְּמוֹ אֶחָד מִבָּנָיו.",
+        "fr": "Le père de Téra’h s’appelle Na’hor (11,24), comme l’un de ses fils."
+      }
+    ],
+    "historical": {
+      "he": "לֹא נִתָּן לְתַאֲרֵךְ.",
+      "fr": "Non datable."
+    }
+  },
+  "enosh": {
+    "bio": {
+      "he": "אֱנוֹשׁ הוּא הַבֵּן שֶׁל שֵׁת וְהַנֶּכֶד שֶׁל אָדָם, וְהוּא חַי 905 שָׁנָה. הַתּוֹרָה אוֹמֶרֶת שֶׁבְּיָמָיו ״הוּחַל לִקְרֹא בְּשֵׁם ה׳״, וְרַשִׁ״י מְסַבֵּר שֶׁאָז הִתְחִילוּ אֲנָשִׁים לָתֵת לַפְּסִלִים אֶת הַשֵּׁם שֶׁל ה׳.",
+      "fr": "Énoch est le fils de Chet et le petit-fils d’Adam ; il vit 905 ans. La Torah dit qu’à son époque « on commença à appeler du nom de Dieu », et Rachi explique qu’alors des gens se mirent à donner le nom de Dieu à des idoles."
+    },
+    "events": [
+      {
+        "am": 235,
+        "datesrc": "torah",
+        "ref": "Genesis.5.6",
+        "parasha": "bereshit",
+        "he": "נוֹלָד כְּשֶׁשֵּׁת בֶּן 105",
+        "fr": "Naît quand Chet a 105 ans"
+      }
+    ]
+  },
+  "kenan": {
+    "bio": {
+      "he": "קֵינָן הוּא הַבֵּן שֶׁל אֱנוֹשׁ. כְּשֶׁהָיָה בֶּן 70 נוֹלַד לוֹ מַהֲלַלְאֵל, וְהוּא חַי 910 שָׁנָה.",
+      "fr": "Kénan est le fils d’Énoch. À 70 ans, il a un fils, Mahalalel, et il vit 910 ans."
+    }
+  },
+  "mahalalel": {
+    "bio": {
+      "he": "מַהֲלַלְאֵל הוּא הַבֵּן שֶׁל קֵינָן. כְּשֶׁהָיָה בֶּן 65 נוֹלַד לוֹ יֶרֶד, וְהוּא חַי 895 שָׁנָה.",
+      "fr": "Mahalalel est le fils de Kénan. À 65 ans, il a un fils, Yéred, et il vit 895 ans."
+    }
+  },
+  "yered": {
+    "bio": {
+      "he": "יֶרֶד הוּא הַבֵּן שֶׁל מַהֲלַלְאֵל וְהָאַבָּא שֶׁל חֲנוֹךְ. הוּא חַי 962 שָׁנָה – הַשֵּׁנִי בְּאֹרֶךְ הַחַיִּים בַּתּוֹרָה, אַחֲרֵי נֶכְדּוֹ מְתוּשֶׁלַח.",
+      "fr": "Yéred est le fils de Mahalalel et le père de ‘Hanokh. Il vit 962 ans : c’est la deuxième vie la plus longue de la Torah, après celle de son petit-fils Métouchéla’h."
+    }
+  },
+  "lemekh": {
+    "bio": {
+      "he": "לֶמֶךְ הוּא הַבֵּן שֶׁל מְתוּשֶׁלַח וְהָאַבָּא שֶׁל נֹחַ. הוּא קָרָא לִבְנוֹ נֹחַ וְאָמַר: ״זֶה יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ״, וְחַי 777 שָׁנָה.",
+      "fr": "Lémekh est le fils de Métouchéla’h et le père de Noa’h. Il appelle son fils Noa’h en disant : « Celui-ci nous soulagera de notre travail », et il vit 777 ans."
+    },
+    "events": [
+      {
+        "am": 1056,
+        "datesrc": "torah",
+        "ref": "Genesis.5.28-29",
+        "parasha": "bereshit",
+        "he": "בֶּן 182: נוֹלָד לוֹ נֹחַ",
+        "fr": "À 182 ans : naissance de Noa’h"
+      },
+      {
+        "am": 1651,
+        "datesrc": "torah",
+        "ref": "Genesis.5.31",
+        "parasha": "bereshit",
+        "he": "נִפְטָר בְּגִיל 777, חָמֵשׁ שָׁנִים לִפְנֵי הַמַּבּוּל",
+        "fr": "Meurt à 777 ans, cinq ans avant le déluge"
+      }
+    ],
+    "notes": [
+      {
+        "key": "identityNote",
+        "src": "torah",
+        "ref": "Genesis.4.18",
+        "he": "יֵשׁ בַּתּוֹרָה עוֹד לֶמֶךְ, מִצֶּאֱצָאֵי קַיִן (ד׳:י״ח). זֶה אָדָם אַחֵר.",
+        "fr": "Il y a dans la Torah un autre Lémekh, descendant de Kaïn (4,18). C’est une autre personne."
+      }
+    ]
+  },
+  "kenaan": {
+    "bio": {
+      "he": "כְּנַעַן הוּא הַבֵּן שֶׁל חָם וְהַנֶּכֶד שֶׁל נֹחַ. מִפְּנֵי שֶׁחָם לֹא כִּבֵּד אֶת אָבִיו, נֹחַ אָמַר שֶׁכְּנַעַן יִהְיֶה עֶבֶד לְאֶחָיו; מִמֶּנּוּ יָצְאוּ מִשְׁפְּחוֹת הַכְּנַעֲנִי, שֶׁיָּשְׁבוּ בְּאֶרֶץ כְּנַעַן.",
+      "fr": "Kenaan est le fils de ‘Ham et le petit-fils de Noa’h. Parce que ‘Ham n’avait pas respecté son père, Noa’h dit que Kenaan sera serviteur de ses frères ; de lui viennent les familles cananéennes, qui habitent le pays de Canaan."
+    },
+    "events": [
+      {
+        "am": null,
+        "ref": "Genesis.9.25",
+        "parasha": "noach",
+        "he": "נֹחַ אוֹמֵר שֶׁיִּהְיֶה עֶבֶד לְאֶחָיו",
+        "fr": "Noa’h dit qu’il sera serviteur de ses frères"
+      },
+      {
+        "am": null,
+        "ref": "Genesis.10.15-19",
+        "parasha": "noach",
+        "he": "מִשְׁפְּחוֹתָיו מִתְפַּזְּרוֹת, וְזֶה ״גְּבוּל הַכְּנַעֲנִי״",
+        "fr": "Ses familles se répandent : c’est « le territoire du Cananéen »"
+      }
+    ]
+  },
+  "haran": {
+    "bio": {
+      "he": "הָרָן הוּא הַבֵּן שֶׁל תֶּרַח וְהָאָח שֶׁל אַבְרָם וְנָחוֹר. הוּא הָאַבָּא שֶׁל לוֹט וְשֶׁל מִלְכָּה, וְהוּא מֵת בְּאוּר כַּשְׂדִּים, עוֹד בְּחַיֵּי אָבִיו.",
+      "fr": "Haran est le fils de Téra’h et le frère d’Avram et de Na’hor. Il est le père de Lot et de Milka, et il meurt à Our-Kasdim, du vivant de son père."
+    },
+    "events": [
+      {
+        "am": null,
+        "ref": "Genesis.11.28",
+        "parasha": "noach",
+        "he": "מֵת בְּאוּר כַּשְׂדִּים, בְּחַיֵּי אָבִיו תֶּרַח",
+        "fr": "Meurt à Our-Kasdim, du vivant de son père Téra’h"
+      }
+    ]
+  }
+}
