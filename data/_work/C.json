@@ -74,8 +74,8 @@
      "he": "רש״י בראשית כ״ט:י״ז",
      "fr": "Rachi sur Gn 29,17"
     },
-    "he": "רַשִׁ״י מַסְבִּיר שֶׁעֵינֶיהָ שֶׁל לֵאָה הָיוּ רַכּוֹת מִבֶּכִי: הִיא בָּכְתָה וְהִתְפַּלְּלָה, כִּי פָּחֲדָה שֶׁתִּצְטָרֵךְ לְהִתְחַתֵּן עִם עֵשָׂו.",
-    "fr": "Rachi explique que les yeux de Léa étaient délicats à force de pleurer : elle pleurait et priait, car elle avait peur de devoir épouser Essav."
+    "he": "רַשִׁ״י מַסְבִּיר שֶׁעֵינֶיהָ שֶׁל לֵאָה הָיוּ רַכּוֹת מִבֶּכִי: הִיא בָּכְתָה, כִּי פָּחֲדָה שֶׁתִּצְטָרֵךְ לְהִתְחַתֵּן עִם עֵשָׂו.",
+    "fr": "Rachi explique que les yeux de Léa étaient délicats à force de pleurer : elle pleurait, car elle avait peur de devoir épouser Essav."
    }
   ],
   "quiz": [
@@ -611,8 +611,12 @@
   ],
   "lessons": [
    {
-    "src": "torah",
-    "ref": "Genesis.30.11-13",
+    "src": "midrash",
+    "ref": "Genesis.30.11",
+    "source": {
+     "he": "רש״י בראשית ל׳:י״א",
+     "fr": "Rachi sur Gn 30,11"
+    },
     "he": "לֵאָה שָׂמְחָה בִּבְנֵי זִלְפָּה וְקָרְאָה לָהֶם שֵׁמוֹת שֶׁל מַזָּל וְאֹשֶׁר. אֶפְשָׁר לִשְׂמֹחַ בְּכָל יֶלֶד שֶׁנּוֹלָד בַּמִּשְׁפָּחָה.",
     "fr": "Léa se réjouit des fils de Zilpa et leur donne des noms de chance et de bonheur. On peut se réjouir de chaque enfant qui naît dans la famille."
    },
@@ -1335,7 +1339,7 @@
  },
  "dan": {
   "bio": {
-   "he": "דָּן הוּא הַבֵּן הָרִאשׁוֹן שֶׁל בִּלְהָה, הַשִּׁפְחָה שֶׁל רָחֵל. רָחֵל קָרְאָה לוֹ דָּן, כִּי אָמְרָה שֶׁה׳ ״דָּן״ אוֹתָהּ — שָׁפַט אוֹתָהּ — וְשָׁמַע בְּקוֹלָהּ. דָּן יָרַד עִם אֶחָיו לְמִצְרַיִם. לִפְנֵי מוֹתוֹ בֵּרֵךְ אוֹתוֹ יַעֲקֹב: ״דָּן יָדִין עַמּוֹ״, וְכְמוֹ נָחָשׁ עַל הַדֶּרֶךְ, הוּא יָכוֹל לְהַפִּיל גַּם רוֹכֵב גָּדוֹל. בְּסוֹף הַבְּרָכָה הִתְפַּלֵּל יַעֲקֹב: ״לִישׁוּעָתְךָ קִוִּיתִי ה׳״.",
+   "he": "דָּן הוּא הַבֵּן הָרִאשׁוֹן שֶׁל בִּלְהָה, הַשִּׁפְחָה שֶׁל רָחֵל. רָחֵל קָרְאָה לוֹ דָּן, כִּי אָמְרָה שֶׁה׳ ״דָּן״ אוֹתָהּ — שָׁפַט אוֹתָהּ — וְשָׁמַע בְּקוֹלָהּ. דָּן יָרַד עִם אֶחָיו לְמִצְרַיִם. לִפְנֵי מוֹתוֹ בֵּרֵךְ אוֹתוֹ יַעֲקֹב: ״דָּן יָדִין עַמּוֹ״, וּכְמוֹ נָחָשׁ עַל הַדֶּרֶךְ, הוּא יָכוֹל לְהַפִּיל גַּם רוֹכֵב גָּדוֹל. בְּסוֹף הַבְּרָכָה הִתְפַּלֵּל יַעֲקֹב: ״לִישׁוּעָתְךָ קִוִּיתִי ה׳״.",
    "fr": "Dan est le premier fils de Bilha, la servante de Ra’hel. Ra’hel l’appelle Dan, car elle dit que Dieu l’a « jugée » (dan) et a écouté sa voix. Dan descend en Égypte avec ses frères. Avant de mourir, Yaakov le bénit : « Dan jugera son peuple » ; comme un serpent sur le chemin, il peut faire tomber même un grand cavalier. À la fin de cette bénédiction, Yaakov prie : « J’espère en ton salut, ô Dieu ! »"
   },
   "events": [
@@ -1362,14 +1366,6 @@
     "parasha": "vayechi",
     "he": "״יְהִי דָן נָחָשׁ עֲלֵי דֶרֶךְ״, וְיַעֲקֹב מִתְפַּלֵּל: ״לִישׁוּעָתְךָ קִוִּיתִי ה׳״",
     "fr": "« Dan sera un serpent sur le chemin », et Yaakov prie : « J’espère en ton salut »"
-   },
-   {
-    "am": 2255,
-    "datesrc": "torah",
-    "ref": "Genesis.50.12-13",
-    "parasha": "vayechi",
-    "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-    "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
    }
   ],
   "lessons": [
@@ -1472,8 +1468,8 @@
       "fr": "Dan s’enfuira"
      },
      {
-      "he": "דָּן יִשְׁפֹּט וְיָגֵן עַל עַמּוֹ",
-      "fr": "Dan jugera et défendra son peuple"
+      "he": "דָּן יִהְיֶה שׁוֹפֵט לְעַמּוֹ",
+      "fr": "Dan sera un juge pour son peuple"
      }
     ],
     "answer": 2,
@@ -1510,7 +1506,7 @@
  },
  "naftali": {
   "bio": {
-   "he": "נַפְתָּלִי הוּא הַבֵּן הַשֵּׁנִי שֶׁל בִּלְהָה. רָחֵל קָרְאָה לוֹ נַפְתָּלִי, מִלְּשׁוֹן ״נַפְתּוּלִים״ — מַאֲבָק גָּדוֹל: הִיא אָמְרָה שֶׁנֶּאֶבְקָה וְגַם הִצְלִיחָה. נַפְתָּלִי יָרַד עִם אֶחָיו לְמִצְרַיִם. בַּבְּרָכָה שֶׁלּוֹ דִּמָּה אוֹתוֹ יַעֲקֹב לְ״אַיָּלָה שְׁלֻחָה״ — אַיָּלָה שֶׁרָצָה מַהֵר וְחָפְשִׁי. יַעֲקֹב אָמַר גַּם שֶׁהוּא ״הַנֹּתֵן אִמְרֵי שָׁפֶר״ — אוֹמֵר מִלִּים יָפוֹת.",
+   "he": "נַפְתָּלִי הוּא הַבֵּן הַשֵּׁנִי שֶׁל בִּלְהָה. רָחֵל קָרְאָה לוֹ נַפְתָּלִי, מִלְּשׁוֹן ״נַפְתּוּלִים״ — מַאֲבָק גָּדוֹל: הִיא אָמְרָה שֶׁנֶּאֶבְקָה וְגַם הִצְלִיחָה. נַפְתָּלִי יָרַד עִם אֶחָיו לְמִצְרַיִם. בַּבְּרָכָה שֶׁלּוֹ דִּמָּה אוֹתוֹ יַעֲקֹב לְ״אַיָּלָה שְׁלֻחָה״ — אַיָּלָה שֶׁרָצָה מַהֵר וּבְחֹפֶשׁ. יַעֲקֹב אָמַר גַּם שֶׁהוּא ״הַנֹּתֵן אִמְרֵי שָׁפֶר״ — אוֹמֵר מִלִּים יָפוֹת.",
    "fr": "Naftali est le deuxième fils de Bilha. Ra’hel l’appelle Naftali, de « naftoulim », un grand combat : elle dit qu’elle a lutté et qu’elle a réussi. Naftali descend en Égypte avec ses frères. Dans sa bénédiction, Yaakov le compare à « une biche élancée », qui court vite et librement. Yaakov dit aussi qu’il « prononce de belles paroles »."
   },
   "events": [
@@ -1529,14 +1525,6 @@
     "parasha": "vayechi",
     "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״נַפְתָּלִי אַיָּלָה שְׁלֻחָה״",
     "fr": "Yaakov le bénit : « Naftali est une biche élancée »"
-   },
-   {
-    "am": 2255,
-    "datesrc": "torah",
-    "ref": "Genesis.50.12-13",
-    "parasha": "vayechi",
-    "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-    "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
    }
   ],
   "lessons": [
@@ -1706,14 +1694,6 @@
     "parasha": "vayechi",
     "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״גָּד גְּדוּד יְגוּדֶנּוּ, וְהוּא יָגֻד עָקֵב״",
     "fr": "Yaakov le bénit : « Des troupes l’attaqueront, et il les repoussera »"
-   },
-   {
-    "am": 2255,
-    "datesrc": "torah",
-    "ref": "Genesis.50.12-13",
-    "parasha": "vayechi",
-    "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-    "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
    }
   ],
   "lessons": [
@@ -1886,14 +1866,6 @@
     "parasha": "vayechi",
     "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״מֵאָשֵׁר שְׁמֵנָה לַחְמוֹ״",
     "fr": "Yaakov le bénit : « D’Acher viendra un pain riche »"
-   },
-   {
-    "am": 2255,
-    "datesrc": "torah",
-    "ref": "Genesis.50.12-13",
-    "parasha": "vayechi",
-    "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-    "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
    }
   ],
   "lessons": [
@@ -2053,14 +2025,6 @@
     "parasha": "vayechi",
     "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״יִשָּׂשכָר חֲמֹר גָּרֶם״",
     "fr": "Yaakov le bénit : « Issakhar est un âne robuste »"
-   },
-   {
-    "am": 2255,
-    "datesrc": "torah",
-    "ref": "Genesis.50.12-13",
-    "parasha": "vayechi",
-    "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-    "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
    }
   ],
   "lessons": [
@@ -2225,14 +2189,6 @@
     "parasha": "vayechi",
     "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״זְבוּלֻן לְחוֹף יַמִּים יִשְׁכֹּן״",
     "fr": "Yaakov le bénit : « Zevouloun habitera au bord des mers »"
-   },
-   {
-    "am": 2255,
-    "datesrc": "torah",
-    "ref": "Genesis.50.12-13",
-    "parasha": "vayechi",
-    "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-    "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
    }
   ],
   "lessons": [
@@ -2769,8 +2725,8 @@
      "fr": "Rachi sur Gn 35,18"
     },
     "ref": "Genesis.35.18",
-    "he": "לְפִי רַשִׁ״י: ״בֶּן אוֹנִי״ — בֵּן הַצַּעַר שֶׁלִּי. ״בִּנְיָמִין״ — בֵּן הַדָּרוֹם (״יָמִין״), כִּי הוּא הַיָּחִיד שֶׁנּוֹלַד בְּאֶרֶץ כְּנַעַן; אוֹ ״בֶּן יָמִים״ — בֵּן שֶׁנּוֹלַד בְּזִקְנַת אָבִיו.",
-    "fr": "Selon Rachi : « Ben-Oni » = fils de ma douleur. « Binyamin » = fils du sud (yamin), car il est le seul né en terre de Canaan ; ou « ben yamim », fils de la vieillesse de son père."
+    "he": "לְפִי רַשִׁ״י: ״בֶּן אוֹנִי״ — בֵּן הַצַּעַר שֶׁלִּי. ״בִּנְיָמִין״ — בֵּן הַדָּרוֹם (״יָמִין״), כִּי הוּא הַיָּחִיד שֶׁנּוֹלַד בְּאֶרֶץ כְּנַעַן.",
+    "fr": "Selon Rachi : « Ben-Oni » = fils de ma douleur. « Binyamin » = fils du sud (yamin), car il est le seul né en terre de Canaan."
    }
   ],
   "historical": {
