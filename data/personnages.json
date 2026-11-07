@@ -2281,8 +2281,8 @@
  "trees": [
   {
    "id": "terah-family",
-   "he": "מִשְׁפַּחַת תֶּרַח: אַבְרָהָם וְרִבְקָה",
-   "fr": "La famille de Téra’h : d’Avraham à Rivka",
+   "he": "חַיֵּי שָׂרָה: מִשְׁפַּחַת אַבְרָהָם וּמִשְׁפַּחַת רִבְקָה",
+   "fr": "‘Hayé Sarah : la famille d’Avraham et celle de Rivka",
    "rows": [
     [
      [
@@ -2320,7 +2320,8 @@
    "note": {
     "he": "יִצְחָק וְרִבְקָה מִתְחַתְּנִים: שְׁנֵי הָעֲנָפִים נִפְגָּשִׁים.",
     "fr": "Yitzhak épouse Rivka : les deux branches se rejoignent."
-   }
+   },
+   "parasha": "chaye-sarah"
   }
  ]
 }
