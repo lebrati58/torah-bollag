@@ -148,7 +148,7 @@
     },
     {
      "src": "torah",
-     "ref": "Genesis.24.3-4",
+     "ref": "Genesis.24.38",
      "he": "אַבְרָהָם דָּאַג לָעֲתִיד שֶׁל הַמִּשְׁפָּחָה וּבִקֵּשׁ לְיִצְחָק אִשָּׁה מִמִּשְׁפַּחְתּוֹ.",
      "fr": "Avraham prépare l’avenir de sa famille et veut pour Yitzhak une épouse de sa famille."
     },
@@ -193,7 +193,7 @@
      },
      "options": [
       {
-       "he": "עֶשֶׂר שְׁקָלִים",
+       "he": "עֲשָׂרָה שְׁקָלִים",
        "fr": "10 sicles"
       },
       {
@@ -338,7 +338,7 @@
     },
     {
      "am": 2085,
-     "datesrc": "torah",
+     "datesrc": "midrash",
      "ref": "Genesis.23.19",
      "he": "נִקְבֶּרֶת בִּמְעָרַת הַמַּכְפֵּלָה",
      "fr": "Est enterrée dans la grotte de Makhpéla"
@@ -476,7 +476,7 @@
        "fr": "La bougie qui brûlait d’un Chabbat à l’autre"
       },
       {
-       "he": "עֶשֶׂר גְּמַלִּים",
+       "he": "עֲשָׂרָה גְּמַלִּים",
        "fr": "Dix chameaux"
       },
       {
@@ -543,21 +543,21 @@
     },
     {
      "am": 2088,
-     "datesrc": "torah",
+     "datesrc": "midrash",
      "ref": "Genesis.24.67",
      "he": "נוֹשֵׂא אֶת רִבְקָה בְּגִיל אַרְבָּעִים (בראשית כ״ה:כ׳)",
      "fr": "Épouse Rivka à 40 ans (Gn 25,20)"
     },
     {
      "am": 2123,
-     "datesrc": "torah",
+     "datesrc": "midrash",
      "ref": "Genesis.25.9",
      "he": "קוֹבֵר אֶת אַבְרָהָם יַחַד עִם יִשְׁמָעֵאל",
      "fr": "Enterre Avraham avec Yishmaël"
     },
     {
      "am": 2123,
-     "datesrc": "torah",
+     "datesrc": "midrash",
      "ref": "Genesis.25.11",
      "he": "ה׳ מְבָרֵךְ אוֹתוֹ, וְהוּא יוֹשֵׁב לְיַד בְּאֵר לַחַי רֹאִי",
      "fr": "Dieu le bénit ; il s’installe près du puits de Lahaï-Roï"
@@ -601,7 +601,7 @@
        "fr": "Avraham et Hagar"
       },
       {
-       "he": "בְּתוּאֵל וְמִלְכָּה",
+       "he": "בְּתוּאֵל וּמִלְכָּה",
        "fr": "Betouël et Milka"
       }
      ],
@@ -628,7 +628,8 @@
       }
      ],
      "answer": 1,
-     "ref": "Genesis.24.63"
+     "ref": "Genesis.24.63",
+     "src": "midrash"
     },
     {
      "q": {
@@ -759,14 +760,14 @@
     },
     {
      "am": 2088,
-     "datesrc": "torah",
+     "datesrc": "midrash",
      "ref": "Genesis.24.64-67",
      "he": "פּוֹגֶשֶׁת אֶת יִצְחָק וּמִתְחַתֶּנֶת אִתּוֹ",
      "fr": "Rencontre Yitzhak et l’épouse"
     }
    ],
    "bio": {
-    "he": "רִבְקָה גָּרָה בַּעִיר נָחוֹר. עֶרֶב אֶחָד יָצְאָה לַבְּאֵר עִם כַּד עַל כְּתֵפָהּ. אוֹרֵחַ עָיֵף בִּקֵּשׁ מְעַט מַיִם, וְרִבְקָה נָתְנָה לוֹ וְגַם רָצָה לְהַשְׁקוֹת אֶת כָּל הַגְּמַלִּים שֶׁלּוֹ! כְּשֶׁשָּׁאֲלוּ אוֹתָהּ אִם הִיא רוֹצָה לָלֶכֶת לְיִצְחָק, עָנְתָה מִיָּד: ״אֵלֵךְ!״",
+    "he": "רִבְקָה גָּרָה בְּעִיר נָחוֹר. עֶרֶב אֶחָד יָצְאָה לַבְּאֵר עִם כַּד עַל כְּתֵפָהּ. אוֹרֵחַ עָיֵף בִּקֵּשׁ מְעַט מַיִם, וְרִבְקָה נָתְנָה לוֹ וְגַם רָצָה לְהַשְׁקוֹת אֶת כָּל הַגְּמַלִּים שֶׁלּוֹ! כְּשֶׁשָּׁאֲלוּ אוֹתָהּ אִם הִיא רוֹצָה לָלֶכֶת לְיִצְחָק, עָנְתָה מִיָּד: ״אֵלֵךְ!״",
     "fr": "Rivka habitait la ville de Na’hor. Un soir, elle va au puits, une cruche sur l’épaule. Un voyageur fatigué lui demande un peu d’eau : Rivka lui en donne, puis court abreuver tous ses chameaux ! Quand on lui demande si elle veut partir vers Yitzhak, elle répond tout de suite : « J’irai ! »"
    },
    "lessons": [
@@ -966,7 +967,7 @@
     },
     {
      "src": "adaptation",
-     "he": "בַּקּוֹמִיקְס יֵשׁ לְאֱלִיעֶזֶר זָקָן חוּם, טוּרְבָּן טוּרְקִיז וּגְלִימָה חוּמָה־צְהֻבָּה. זוֹ בְּחִירָה שֶׁל הָאִיּוּר, לֹא תֵּאוּר מֵהַתּוֹרָה.",
+     "he": "בַּקּוֹמִיקְס יֵשׁ לֶאֱלִיעֶזֶר זָקָן חוּם, טוּרְבָּן טוּרְקִיז וּגְלִימָה חוּמָה־צְהֻבָּה. זוֹ בְּחִירָה שֶׁל הָאִיּוּר, לֹא תֵּאוּר מֵהַתּוֹרָה.",
      "fr": "Dans la BD, Éliézer a une barbe brune, un turban turquoise et une tunique ocre : c’est un choix d’illustration, pas une description de la Torah."
     }
    ],
@@ -1145,9 +1146,9 @@
    "lessons": [
     {
      "src": "torah",
-     "ref": "Genesis.24.30",
-     "he": "הַתּוֹרָה מְסַפֶּרֶת שֶׁלָּבָן רָץ אַחֲרֵי שֶׁרָאָה אֶת הַתַּכְשִׁיטִים.",
-     "fr": "La Torah raconte que Lavan court après avoir vu les bijoux."
+     "ref": "Genesis.24.29-30",
+     "he": "לָבָן רָץ אֶל הָאוֹרֵחַ, וְהַתּוֹרָה מְסַפֶּרֶת שֶׁהוּא רָאָה אֶת הַתַּכְשִׁיטִים שֶׁל אֲחוֹתוֹ.",
+     "fr": "Lavan court vers le voyageur, et la Torah précise qu’il a vu les bijoux de sa sœur."
     },
     {
      "src": "midrash",
@@ -1229,8 +1230,8 @@
     },
     {
      "q": {
-      "he": "מָה בִּקֵּשׁ לָבָן בַּבֹּקֶר?",
-      "fr": "Qu’a demandé Lavan le matin ?"
+      "he": "מָה בִּקְּשׁוּ הָאָח וְהָאֵם שֶׁל רִבְקָה בַּבֹּקֶר?",
+      "fr": "Qu’ont demandé le frère et la mère de Rivka le matin ?"
      },
      "options": [
       {
@@ -1282,12 +1283,12 @@
    "parents": [
     {
      "id": "nahor",
-     "ref": "Genesis.22.22",
+     "ref": "Genesis.22.20-23",
      "src": "torah"
     },
     {
      "id": "milka",
-     "ref": "Genesis.22.22",
+     "ref": "Genesis.22.20-23",
      "src": "torah"
     }
    ],
@@ -1330,8 +1331,8 @@
       "fr": "Rachi sur Gn 24,55"
      },
      "ref": "Genesis.24.55",
-     "he": "בַּבֹּקֶר הַתּוֹרָה מַזְכִּירָה רַק אֶת הָאָח וְהָאֵם. רַשִׁ״י מֵבִיא מִדְרָשׁ שֶׁבְּתוּאֵל נִפְטַר בַּלַּיְלָה.",
-     "fr": "Le matin, la Torah ne mentionne que le frère et la mère. Rachi cite un midrash selon lequel Betouël est mort pendant la nuit."
+     "he": "בַּבֹּקֶר הַתּוֹרָה מַזְכִּירָה רַק אֶת הָאָח וְהָאֵם. רַשִׁ״י מֵבִיא מִדְרָשׁ שֶׁבְּתוּאֵל רָצָה לְעַכֵּב אֶת רִבְקָה, וּמַלְאָךְ הֵמִית אוֹתוֹ.",
+     "fr": "Le matin, la Torah ne mentionne que le frère et la mère. Rachi cite un midrash : Betouël voulait retenir Rivka, et un ange l’a fait mourir."
     }
    ],
    "quiz": [
@@ -1377,7 +1378,7 @@
       }
      ],
      "answer": 1,
-     "ref": "Genesis.22.22"
+     "ref": "Genesis.22.20-23"
     },
     {
      "q": {
@@ -1399,7 +1400,7 @@
       }
      ],
      "answer": 0,
-     "ref": "Genesis.22.22"
+     "ref": "Genesis.22.20-23"
     },
     {
      "q": {
@@ -1489,8 +1490,8 @@
     }
    ],
    "bio": {
-    "he": "עֶפְרוֹן הַחִתִּי הָיָה הַבְּעָלִים שֶׁל הַשָּׂדֶה וְהַמְּעָרָה בְּחֶבְרוֹן. בַּהַתְחָלָה אָמַר לְאַבְרָהָם: ״אֶתֵּן לְךָ אוֹתָהּ בְּמַתָּנָה״. אֲבָל בַּסּוֹף הִזְכִּיר מְחִיר גָּבוֹהַּ מְאֹד, אַרְבַּע מֵאוֹת שֶׁקֶל כֶּסֶף, וְאַבְרָהָם שִׁלֵּם הַכֹּל.",
-    "fr": "Efron le Hittite possédait le champ et la grotte à Hévron. D’abord, il dit à Avraham : « Je te la donne en cadeau. » Mais à la fin il cite un prix très élevé, 400 sicles d’argent, et Avraham paie tout."
+    "he": "עֶפְרוֹן הַחִתִּי הָיָה הַבְּעָלִים שֶׁל הַשָּׂדֶה וְהַמְּעָרָה בְּחֶבְרוֹן. בַּהַתְחָלָה אָמַר לְאַבְרָהָם שֶׁהוּא נוֹתֵן לוֹ אֶת הַשָּׂדֶה. אֲבָל בַּסּוֹף הִזְכִּיר מְחִיר: אַרְבַּע מֵאוֹת שֶׁקֶל כֶּסֶף, וְאַבְרָהָם שִׁלֵּם הַכֹּל. רַשִׁ״י מַסְבִּיר שֶׁזֶּה הָיָה מְחִיר גָּבוֹהַּ מְאֹד.",
+    "fr": "Efron le Hittite possédait le champ et la grotte à Hévron. D’abord, il dit à Avraham qu’il lui donne le champ. Mais à la fin il cite un prix : 400 sicles d’argent, et Avraham paie tout. Rachi explique que c’était un prix très élevé."
    },
    "lessons": [
     {
@@ -1845,7 +1846,7 @@
    "events": [
     {
      "am": 2123,
-     "datesrc": "torah",
+     "datesrc": "midrash",
      "ref": "Genesis.25.9",
      "he": "קוֹבֵר אֶת אַבְרָהָם יַחַד עִם יִצְחָק",
      "fr": "Enterre Avraham avec Yitzhak"
@@ -2058,8 +2059,8 @@
       "fr": "Rachi sur Gn 25,1"
      },
      "ref": "Genesis.25.1",
-     "he": "לְפִי רַשִׁ״י, הָגָר הִיא קְטוּרָה, וְאַבְרָהָם נָשָׂא אוֹתָהּ שׁוּב.",
-     "fr": "Selon Rachi, Hagar est Ketoura, et Avraham l’a épousée de nouveau."
+     "he": "לְפִי רַשִׁ״י, קְטוּרָה הִיא הָגָר.",
+     "fr": "Selon Rachi, Ketoura est Hagar."
     }
    ],
    "quiz": [
@@ -2250,7 +2251,7 @@
    "status": "link",
    "parentsNote": {
     "src": "torah",
-    "ref": "Genesis.11.29",
+    "ref": "Genesis.11.27-29",
     "he": "בַּת הָרָן, אֲחִי אַבְרָהָם.",
     "fr": "Fille de Haran, frère d’Avraham."
    },
