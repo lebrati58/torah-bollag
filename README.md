@@ -17,7 +17,8 @@ Bandes dessinées pour enfants à partir des enseignements de Bollag. Hébreu si
 - Données : `data/personnages.json`, une seule source pour la frise, les fiches et les arbres. Chaque personnage a un identifiant permanent, ses relations avec le verset, ses parachiot, ses dates et leur origine (texte, Rachi/Midrash, adaptation).
 - Portraits : `assets/portraits.js` est une copie exacte du dessin utilisé dans les épisodes. Un personnage sans portrait garde une silhouette ; aucun visage n’est inventé.
 - Vidéos : champ `video` par personnage (URL d’un hébergement média externe). Tant qu’il est vide, la fiche affiche « vidéo en préparation ».
-- Rythme : une paracha par semaine, ajoutée chaque jeudi. Paracha en ligne : חיי שרה.
+- Contenu : tout Sefer Bereshit (84 personnages, 285 questions, un arbre par paracha, un portrait par personnage).
+- Rythme : les épisodes avancent d’une paracha par semaine, mise à jour chaque jeudi. Paracha de la semaine : חיי שרה.
 
 ## Organisation
 

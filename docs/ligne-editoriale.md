@@ -30,3 +30,10 @@ Yossef Bollag est l’auteur des enseignements, jamais un personnage du comics.
 - Ne pas mettre son nom dans les bulles ou le récit des cases.
 - L’attribution à l’auteur est réservée aux crédits hors des cases ou à la présentation du site.
 - Appliquer cette règle à chaque demande de génération d’images et vérifier son respect avant publication.
+
+## Encyclopédie (encyclopedie.html) — règles pour chaque mise à jour
+- Sefer Bereshit est complet dans `data/personnages.json` : 84 personnages, une fiche par personnage, un arbre généalogique par paracha (`trees[].parasha`). La source des fiches est `data/_work/` (A à D) et `data/_work/merge.py`.
+- Chaque semaine (le jeudi) : mettre `week` sur la paracha du Shabbat suivant, ajouter ses épisodes, et relier les vidéos des personnages (`video`). Pour Chemot et les livres suivants, ajouter les personnages livre par livre, avec le même format et la même vérification.
+- Portraits : la bibliothèque officielle est `assets/portraits.js` (et les PNG de `assets/portraits/`). Chaque personnage a UN portrait, le même dans les épisodes, les fiches, les arbres et les vidéos. Un nouveau personnage reçoit un portrait créé une seule fois dans ce style ; on ne modifie jamais un portrait existant et on ne crée jamais de second visage.
+- Dates : années depuis la création en chiffres dans le JSON (`am`), affichées en lettres hébraïques ; années avant l'ère commune affichées avec un signe moins (−1813).
+- Vérification : chaque fait porte un verset ; « torah » seulement si c'est explicite ; Rachi / Midrash / Targoum avec la source ; adaptation artistique signalée. Faire relire par un vérificateur indépendant avant de publier.

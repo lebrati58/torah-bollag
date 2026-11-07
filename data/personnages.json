@@ -306,8 +306,8 @@
       "he": "רש״י בראשית ב׳:ז׳",
       "fr": "Rachi sur Gn 2,7"
      },
-     "he": "רַשִׁ״י מֵבִיא שֶׁה׳ אָסַף אֶת הֶעָפָר מֵאַרְבַּע רוּחוֹת הָעוֹלָם: בְּכָל מָקוֹם שֶׁהָאָדָם יִהְיֶה, הָאֲדָמָה תְּקַבֵּל אוֹתוֹ.",
-     "fr": "Rachi rapporte que Dieu a pris la poussière des quatre coins du monde : partout où l’homme ira, la terre l’accueillera."
+     "he": "רַשִׁ״י מֵבִיא שֶׁה׳ אָסַף אֶת הֶעָפָר מִכָּל הָאָרֶץ, מֵאַרְבַּע רוּחוֹת הָעוֹלָם: כָּךְ, בְּכָל מָקוֹם שֶׁהָאָדָם יְסַיֵּם אֶת חַיָּיו, הָאֲדָמָה תְּקַבֵּל אוֹתוֹ.",
+     "fr": "Rachi rapporte que Dieu a pris la poussière de toute la terre, des quatre coins du monde : ainsi, où que l’homme finisse sa vie, la terre l’accueillera."
     }
    ],
    "quiz": [
@@ -440,14 +440,14 @@
      "datesrc": "torah",
      "ref": "Genesis.2.7-8",
      "parasha": "bereshit",
-     "he": "נוֹצָר מֵעָפָר מִן הָאֲדָמָה וּמַגִּיעַ לְגַן עֵדֶן",
+     "he": "נוֹצָר מֵעָפָר מִן הָאֲדָמָה וּמוּשָׂם בְּגַן עֵדֶן",
      "fr": "Est formé de la poussière de la terre et placé dans le jardin d’Éden"
     },
     {
      "am": null,
      "ref": "Genesis.2.19-20",
      "parasha": "bereshit",
-     "he": "נוֹתֵן שֵׁמוֹת לְכָל הַבְּהֵמוֹת, הָעוֹף וְהַחַיּוֹת",
+     "he": "נוֹתֵן שֵׁמוֹת לַבְּהֵמוֹת, לָעוֹפוֹת וְלַחַיּוֹת",
      "fr": "Donne un nom à tous les animaux et aux oiseaux"
     },
     {
@@ -700,7 +700,7 @@
    ],
    "life": {},
    "bio": {
-    "he": "קַיִן הוּא הַבֵּן הַבְּכוֹר שֶׁל אָדָם וְחַוָּה, וְהוּא עָבַד אֶת הָאֲדָמָה. הוּא הֵבִיא לַה׳ מִנְחָה מִפְּרִי הָאֲדָמָה, אֲבָל ה׳ לֹא קִבֵּל אֶת הַמִּנְחָה שֶׁלּוֹ, וְקַיִן כָּעַס מְאוֹד. ה׳ אָמַר לוֹ שֶׁהוּא יָכוֹל לִהְיוֹת חָזָק מִן הַחֵטְא. אֲבָל קַיִן לֹא הִקְשִׁיב: הוּא פָּגַע בְּאָחִיו הֶבֶל, וְהֶבֶל מֵת. מֵאָז קַיִן נָדַד, וְיָשַׁב בְּאֶרֶץ נוֹד, קִדְמַת עֵדֶן.",
+    "he": "קַיִן הוּא הַבֵּן הַבְּכוֹר שֶׁל אָדָם וְחַוָּה, וְהוּא עָבַד אֶת הָאֲדָמָה. הוּא הֵבִיא לַה׳ מִנְחָה מִפְּרִי הָאֲדָמָה, אֲבָל ה׳ לֹא קִבֵּל אֶת הַמִּנְחָה שֶׁלּוֹ, וְקַיִן כָּעַס מְאוֹד. ה׳ אָמַר לוֹ שֶׁהוּא יָכוֹל לִהְיוֹת חָזָק יוֹתֵר מִן הַחֵטְא. אֲבָל קַיִן לֹא הִקְשִׁיב: הוּא פָּגַע בְּאָחִיו הֶבֶל, וְהֶבֶל מֵת. מֵאָז קַיִן נָדַד, וְיָשַׁב בְּאֶרֶץ נוֹד, קִדְמַת עֵדֶן.",
     "fr": "Kaïn est le fils aîné d’Adam et ‘Hava, et il travaille la terre. Il apporte à Dieu une offrande des fruits de la terre, mais Dieu n’accepte pas son offrande, et Kaïn se met très en colère. Dieu lui dit qu’il peut être plus fort que l’envie de mal faire. Mais Kaïn n’écoute pas : il fait du mal à son frère Hével, et Hével meurt. Depuis, Kaïn erre, et il s’installe au pays de Nod, à l’est d’Éden."
    },
    "lessons": [
@@ -757,7 +757,7 @@
      },
      "options": [
       {
-       "he": "שֶׁהוּא יָכוֹל לִהְיוֹת חָזָק מִן הַחֵטְא",
+       "he": "שֶׁהוּא יָכוֹל לִהְיוֹת חָזָק יוֹתֵר מִן הַחֵטְא",
        "fr": "Qu’il pouvait être plus fort que le mal"
       },
       {
@@ -962,7 +962,7 @@
      },
      "options": [
       {
-       "he": "אֶת הַבְּכוֹרוֹת וְהַטּוֹבוֹת שֶׁבַּצֹּאן שֶׁלּוֹ",
+       "he": "מִבְּכֹרוֹת צֹאנוֹ, מִן הַטּוֹבוֹת בְּיוֹתֵר",
        "fr": "Les premiers-nés et les meilleurs de son troupeau"
       },
       {
@@ -1109,13 +1109,13 @@
     {
      "src": "torah",
      "ref": "Genesis.4.25",
-     "he": "שֵׁת נוֹלַד אַחֲרֵי זְמַן עָצוּב, וְהַשֵּׁם שֶׁלּוֹ אוֹמֵר תּוֹדָה עַל מַתָּנָה חֲדָשָׁה. גַּם אַחֲרֵי צַעַר, הַחַיִּים מַמְשִׁיכִים.",
-     "fr": "Chet naît après un moment triste, et son nom dit merci pour un nouveau cadeau. Même après un chagrin, la vie continue."
+     "he": "שֵׁת נוֹלַד אַחֲרֵי זְמַן עָצוּב, וְהַשֵּׁם שֶׁלּוֹ מַזְכִּיר מַתָּנָה חֲדָשָׁה מֵה׳. גַּם אַחֲרֵי צַעַר, הַחַיִּים מַמְשִׁיכִים.",
+     "fr": "Chet naît après un moment triste, et son nom rappelle un nouveau cadeau de Dieu. Même après un chagrin, la vie continue."
     },
     {
      "src": "torah",
      "ref": "Genesis.5.3",
-     "he": "שֵׁת נוֹלַד ״בִּדְמוּתוֹ כְּצַלְמוֹ״ שֶׁל אָדָם: דַּרְכּוֹ מַמְשִׁיכָה הַמִּשְׁפָּחָה שֶׁל אָדָם, עַד נֹחַ.",
+     "he": "שֵׁת נוֹלַד ״בִּדְמוּתוֹ כְּצַלְמוֹ״ שֶׁל אָדָם: דַּרְכּוֹ נִמְשֶׁכֶת הַמִּשְׁפָּחָה שֶׁל אָדָם, עַד נֹחַ.",
      "fr": "Chet naît « à la ressemblance » d’Adam : c’est par lui que continue la famille d’Adam, jusqu’à Noa’h."
     }
    ],
@@ -2026,7 +2026,7 @@
     },
     {
      "am": null,
-     "ref": "Genesis.6.14",
+     "ref": "Genesis.6.14-22",
      "parasha": "noach",
      "he": "בּוֹנֶה תֵּבָה מֵעֲצֵי גֹפֶר",
      "fr": "Construit une arche en bois de gopher"
@@ -2050,7 +2050,7 @@
     {
      "am": 1657,
      "datesrc": "torah",
-     "ref": "Genesis.9.13",
+     "ref": "Genesis.8.18-9.13",
      "parasha": "noach",
      "he": "יוֹצֵא מִן הַתֵּבָה; ה׳ שָׂם אֶת הַקֶּשֶׁת בֶּעָנָן",
      "fr": "Sort de l’arche ; Dieu place l’arc-en-ciel dans les nuages"
@@ -2071,7 +2071,7 @@
      "he": "רש״י בראשית ה׳:כ״ט",
      "fr": "Rachi sur Gn 5,29"
     },
-    "he": "לֶמֶךְ אָמַר: ״זֶה יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ וּמֵעִצְּבוֹן יָדֵינוּ״. רַשִׁ״י מְסַבֵּר שֶׁהַשֵּׁם נֹחַ קָשׁוּר לִמְנוּחָה: נֹחַ הֵכִין כְּלֵי מַחֲרֵשָׁה, וְהָעֲבוֹדָה בַּשָּׂדֶה נַעֲשְׂתָה קַלָּה יוֹתֵר.",
+    "he": "לֶמֶךְ אָמַר: ״זֶה יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ וּמֵעִצְּבוֹן יָדֵינוּ״. רַשִׁ״י מְסַבֵּר שֶׁהַשֵּׁם נֹחַ קָשׁוּר לִמְנוּחָה: נֹחַ הֵכִין כְּלֵי מַחֲרֵשָׁה, וְהָעֲבוֹדָה בַּשָּׂדֶה נַעַשְׂתָה קַלָּה יוֹתֵר.",
     "fr": "Lémekh dit : « Celui-ci nous soulagera de notre travail et de la peine de nos mains. » Rachi explique que le nom Noa’h évoque le repos : Noa’h a préparé des outils pour labourer, et le travail des champs est devenu plus facile."
    }
   },
@@ -2116,8 +2116,8 @@
       "he": "רש״י בראשית ט׳:כ״ג",
       "fr": "Rachi sur Gn 9,23"
      },
-     "he": "הַתּוֹרָה כּוֹתֶבֶת ״וַיִּקַּח״ בִּלְשׁוֹן יָחִיד. רַשִׁ״י לוֹמֵד מִזֶּה שֶׁשֵּׁם מִהֵר יוֹתֵר לַעֲשׂוֹת אֶת הַמִּצְוָה, וְלָכֵן זָכוּ צֶאֱצָאָיו לְמִצְוַת צִיצִית.",
-     "fr": "La Torah écrit « il prit » au singulier. Rachi en déduit que Chem s’est empressé le premier de faire cette mitsva, et c’est pourquoi ses descendants ont mérité la mitsva des tsitsit."
+     "he": "הַתּוֹרָה כּוֹתֶבֶת ״וַיִּקַּח״ בִּלְשׁוֹן יָחִיד. רַשִׁ״י לוֹמֵד מִזֶּה שֶׁשֵּׁם הִשְׁתַּדֵּל בַּמִּצְוָה יוֹתֵר מִיֶּפֶת, וְלָכֵן זָכוּ צֶאֱצָאָיו לְמִצְוַת צִיצִית.",
+     "fr": "La Torah écrit « il prit » au singulier. Rachi en déduit que Chem s’est donné plus de peine que Yéfet pour faire cette mitsva, et c’est pourquoi ses descendants ont mérité la mitsva des tsitsit."
     },
     {
      "src": "midrash",
@@ -2442,7 +2442,7 @@
        "fr": "Parce que ‘Ham n’a pas honoré son père"
       },
       {
-       "he": "כִּי הֵם לֹא הִכִּירוּ",
+       "he": "כִּי הֵם לֹא הִכִּירוּ זֶה אֶת זֶה",
        "fr": "Parce qu’ils ne se connaissaient pas"
       }
      ],
@@ -2505,8 +2505,8 @@
    ],
    "life": {},
    "bio": {
-    "he": "יֶפֶת הוּא אֶחָד מִשְּׁלֹשֶׁת הַבָּנִים שֶׁל נֹחַ, וְהוּא נִכְנַס עִם כָּל הַמִּשְׁפָּחָה לַתֵּבָה. כְּשֶׁנֹּחַ נִרְדַּם בְּאָהֳלוֹ בְּלִי כִּסּוּי, יֶפֶת וְשֵׁם לָקְחוּ שִׂמְלָה וְכִסּוּ אוֹתוֹ בְּלִי לְהִסְתַּכֵּל. נֹחַ בֵּרַךְ אוֹתוֹ: ״יַפְתְּ אֱלֹהִים לְיֶפֶת וְיִשְׁכֹּן בְּאָהֳלֵי שֵׁם״. מִבָּנָיו שֶׁל יֶפֶת, כְּמוֹ גֹּמֶר, מָדַי וְיָוָן, יָצְאוּ עַמִּים רַבִּים.",
-    "fr": "Yéfet est l’un des trois fils de Noa’h, et il entre dans l’arche avec toute la famille. Quand Noa’h s’est endormi dans sa tente sans couverture, Yéfet et Chem prennent un manteau et le couvrent sans regarder. Noa’h le bénit : « Que Dieu élargisse Yéfet, et qu’il habite dans les tentes de Chem. » De ses fils, comme Gomer, Madaï et Yavan, sont sortis de nombreux peuples."
+    "he": "יֶפֶת הוּא אֶחָד מִשְּׁלֹשֶׁת הַבָּנִים שֶׁל נֹחַ, וְהוּא נִכְנַס עִם כָּל הַמִּשְׁפָּחָה לַתֵּבָה. כְּשֶׁנֹּחַ נִרְדַּם בְּאָהֳלוֹ בְּלִי כִּסּוּי, יֶפֶת וְשֵׁם לָקְחוּ שִׂמְלָה וְכִסּוּ אוֹתוֹ בְּלִי לְהִסְתַּכֵּל. נֹחַ בֵּרַךְ אוֹתוֹ: ״יַפְתְּ אֱלֹהִים לְיֶפֶת״. מִבָּנָיו שֶׁל יֶפֶת, כְּמוֹ גֹּמֶר, מָדַי וְיָוָן, יָצְאוּ עַמִּים רַבִּים.",
+    "fr": "Yéfet est l’un des trois fils de Noa’h, et il entre dans l’arche avec toute la famille. Quand Noa’h s’est endormi dans sa tente sans couverture, Yéfet et Chem prennent un manteau et le couvrent sans regarder. Noa’h le bénit : « Que Dieu élargisse Yéfet. » De ses fils, comme Gomer, Madaï et Yavan, sont sortis de nombreux peuples."
    },
    "lessons": [
     {
@@ -2517,9 +2517,9 @@
     },
     {
      "src": "torah",
-     "ref": "Genesis.9.27",
-     "he": "נֹחַ בֵּרַךְ שֶׁיֶּפֶת ״יִשְׁכֹּן בְּאָהֳלֵי שֵׁם״: אַחִים שֶׁעָשׂוּ טוֹב יַחַד מְבֹרָכִים יַחַד.",
-     "fr": "Noa’h souhaite que Yéfet « habite dans les tentes de Chem » : des frères qui ont fait le bien ensemble sont bénis ensemble."
+     "ref": "Genesis.9.26-27",
+     "he": "נֹחַ בֵּרַךְ אֶת שֵׁם וְאֶת יֶפֶת, שְׁנֵי הָאַחִים שֶׁכִּסּוּ אוֹתוֹ יַחַד: מִי שֶׁעוֹשֶׂה טוֹב זוֹכֶה לִבְרָכָה.",
+     "fr": "Noa’h bénit Chem et Yéfet, les deux frères qui l’ont couvert ensemble : celui qui fait le bien reçoit une bénédiction."
     }
    ],
    "quiz": [
@@ -2552,8 +2552,8 @@
      },
      "options": [
       {
-       "he": "״וְיִשְׁכֹּן בְּאָהֳלֵי שֵׁם״",
-       "fr": "« Qu’il habite dans les tentes de Chem »"
+       "he": "״יַפְתְּ אֱלֹהִים לְיֶפֶת״",
+       "fr": "« Que Dieu élargisse Yéfet »"
       },
       {
        "he": "שֶׁיִּהְיֶה מֶלֶךְ מִצְרַיִם",
@@ -2706,8 +2706,8 @@
    ],
    "life": {},
    "bio": {
-    "he": "כְּנַעַן הוּא הַבֵּן שֶׁל חָם וְהַנֶּכֶד שֶׁל נֹחַ. אַחֲרֵי שֶׁחָם לֹא כִּבֵּד אֶת אָבִיו, נֹחַ אָמַר שֶׁכְּנַעַן יִהְיֶה עֶבֶד לְאֶחָיו; מִמֶּנּוּ יָצְאוּ מִשְׁפְּחוֹת הַכְּנַעֲנִי, שֶׁיָּשְׁבוּ בְּאֶרֶץ כְּנַעַן.",
-    "fr": "Kenaan est le fils de ‘Ham et le petit-fils de Noa’h. Après que ‘Ham n’a pas respecté son père, Noa’h dit que Kenaan sera serviteur de ses frères ; de lui viennent les familles cananéennes, qui habitent le pays de Canaan."
+    "he": "כְּנַעַן הוּא הַבֵּן שֶׁל חָם וְהַנֶּכֶד שֶׁל נֹחַ. מִפְּנֵי שֶׁחָם לֹא כִּבֵּד אֶת אָבִיו, נֹחַ אָמַר שֶׁכְּנַעַן יִהְיֶה עֶבֶד לְאֶחָיו; מִמֶּנּוּ יָצְאוּ מִשְׁפְּחוֹת הַכְּנַעֲנִי, שֶׁיָּשְׁבוּ בְּאֶרֶץ כְּנַעַן.",
+    "fr": "Kenaan est le fils de ‘Ham et le petit-fils de Noa’h. Parce que ‘Ham n’avait pas respecté son père, Noa’h dit que Kenaan sera serviteur de ses frères ; de lui viennent les familles cananéennes, qui habitent le pays de Canaan."
    },
    "events": [
     {
@@ -3339,31 +3339,10 @@
     },
     {
      "am": null,
-     "ref": "Genesis.12.10-20",
-     "parasha": "lech-lecha",
-     "he": "יוֹרֵד לְמִצְרַיִם בִּגְלַל הָרָעָב",
-     "fr": "Descend en Égypte à cause de la famine"
-    },
-    {
-     "am": null,
-     "ref": "Genesis.13.8-11",
-     "parasha": "lech-lecha",
-     "he": "נִפְרָד מִלּוֹט בְּשָׁלוֹם: ״אַל נָא תְהִי מְרִיבָה בֵּינִי וּבֵינֶךָ״",
-     "fr": "Se sépare de Lot en paix : « Qu’il n’y ait pas de dispute entre moi et toi »"
-    },
-    {
-     "am": null,
      "ref": "Genesis.14.14-20",
      "parasha": "lech-lecha",
      "he": "מַצִּיל אֶת לוֹט בְּמִלְחֶמֶת הַמְּלָכִים, וּמַלְכִּי־צֶדֶק מְבָרֵךְ אוֹתוֹ",
      "fr": "Délivre Lot pendant la guerre des rois ; Malki-Tsédek le bénit"
-    },
-    {
-     "am": null,
-     "ref": "Genesis.15.5-18",
-     "parasha": "lech-lecha",
-     "he": "ה׳ מַרְאֶה לוֹ אֶת הַכּוֹכָבִים וְכוֹרֵת אִתּוֹ בְּרִית: ״כֹּה יִהְיֶה זַרְעֶךָ״",
-     "fr": "Dieu lui montre les étoiles et fait une alliance avec lui : « Ainsi sera ta descendance »"
     },
     {
      "am": 2047,
@@ -3372,14 +3351,6 @@
      "parasha": "lech-lecha",
      "he": "בְּגִיל 99 ה׳ מְשַׁנֶּה אֶת שְׁמוֹ מֵאַבְרָם לְאַבְרָהָם",
      "fr": "À 99 ans, Dieu change son nom d’Avram en Avraham"
-    },
-    {
-     "am": 2047,
-     "datesrc": "torah",
-     "ref": "Genesis.17.23-26",
-     "parasha": "lech-lecha",
-     "he": "נִמּוֹל בְּגִיל 99 יַחַד עִם יִשְׁמָעֵאל וְכָל אַנְשֵׁי בֵּיתוֹ",
-     "fr": "Est circoncis à 99 ans avec Yishmaël et tous les hommes de sa maison"
     },
     {
      "am": 2047,
@@ -4117,8 +4088,8 @@
       "he": "רש״י בראשית י״ט:י״ז",
       "fr": "Rachi sur Gn 19,17"
      },
-     "he": "לְפִי רַשִׁ״י, לוֹט וּמִשְׁפַּחְתּוֹ נִצְּלוּ בִּזְכוּת אַבְרָהָם, וְלָכֵן לֹא הָיָה רָאוּי שֶׁיִּסְתַּכְּלוּ בְּעָנְשָׁם שֶׁל אַנְשֵׁי סְדוֹם.",
-     "fr": "Selon Rachi, Lot et sa famille n’étaient sauvés que grâce à Avraham ; il ne convenait donc pas qu’ils regardent la punition des gens de Sodome."
+     "he": "לְפִי רַשִׁ״י, לוֹט נִצַּל רַק בִּזְכוּת אַבְרָהָם, וְלָכֵן לֹא הָיָה רָאוּי שֶׁיִּסְתַּכֵּל בְּעָנְשָׁם שֶׁל אַנְשֵׁי סְדוֹם.",
+     "fr": "Selon Rachi, Lot n’était sauvé que grâce à Avraham ; il ne convenait donc pas qu’il regarde la punition des gens de Sodome."
     },
     {
      "src": "midrash",
@@ -4593,7 +4564,8 @@
       }
      ],
      "answer": 1,
-     "ref": "Genesis.14.20"
+     "ref": "Genesis.14.20",
+     "src": "midrash"
     },
     {
      "q": {
@@ -5583,13 +5555,6 @@
      "parasha": "vayera",
      "he": "נוֹלַד לְשָׂרָה וּלְאַבְרָהָם, וְנִמּוֹל בֶּן שְׁמוֹנָה יָמִים",
      "fr": "Naît de Sarah et d’Avraham, et est circoncis à 8 jours"
-    },
-    {
-     "am": null,
-     "ref": "Genesis.21.8",
-     "parasha": "vayera",
-     "he": "אַבְרָהָם עוֹשֶׂה מִשְׁתֶּה גָּדוֹל בַּיּוֹם שֶׁהוּא נִגְמָל",
-     "fr": "Avraham fait un grand festin le jour où il est sevré"
     },
     {
      "am": 2085,
@@ -6876,8 +6841,8 @@
     "src": "torah"
    },
    "bio": {
-    "he": "עֵשָׂו נוֹלַד רִאשׁוֹן, אַדְמוֹנִי וּמָלֵא שֵׂעָר, וְאַחֲרָיו יָצָא יַעֲקֹב, אָחִיו הַתְּאוֹם. הוּא גָּדַל וְהָיָה צַיָּד, ״אִישׁ שָׂדֶה״, וְיִצְחָק אָבִיו אָהַב אוֹתוֹ. יוֹם אֶחָד חָזַר עָיֵף מִן הַשָּׂדֶה וּמָכַר לְיַעֲקֹב אֶת הַבְּכוֹרָה בִּשְׁבִיל נְזִיד עֲדָשִׁים אָדֹם. כְּשֶׁיַּעֲקֹב קִבֵּל אֶת הַבְּרָכָה, עֵשָׂו בָּכָה וְכָעַס מְאֹד, וְיַעֲקֹב בָּרַח. אַחֲרֵי עֶשְׂרִים שָׁנָה רָץ עֵשָׂו לִקְרַאת יַעֲקֹב, חִבֵּק וְנִשֵּׁק אוֹתוֹ, וּמִמֶּנּוּ יָצָא עַם אֱדוֹם.",
-    "fr": "Essav naît le premier, roux et couvert de poils, et après lui sort Yaakov, son frère jumeau. Il devient chasseur, « homme des champs », et Yitzhak, son père, l’aime. Un jour, revenu épuisé des champs, il vend à Yaakov son droit d’aînesse contre un plat de lentilles rouges. Quand Yaakov reçoit la bénédiction, Essav pleure et se met très en colère, et Yaakov s’enfuit. Vingt ans plus tard, Essav court à la rencontre de Yaakov, le serre dans ses bras et l’embrasse ; de lui descend le peuple d’Édom."
+    "he": "עֵשָׂו נוֹלַד רִאשׁוֹן, אַדְמוֹנִי וּמָלֵא שֵׂעָר, וְאַחֲרָיו יָצָא יַעֲקֹב, אָחִיו הַתְּאוֹם. הוּא גָּדַל וְהָיָה צַיָּד, ״אִישׁ שָׂדֶה״, וְיִצְחָק אָבִיו אָהַב אוֹתוֹ. יוֹם אֶחָד חָזַר עָיֵף מִן הַשָּׂדֶה וּמָכַר לְיַעֲקֹב אֶת הַבְּכוֹרָה בִּשְׁבִיל נְזִיד עֲדָשִׁים אָדֹם. כְּשֶׁיַּעֲקֹב קִבֵּל אֶת הַבְּרָכָה, עֵשָׂו בָּכָה וְכָעַס מְאֹד, וְיַעֲקֹב בָּרַח. אַחֲרֵי שָׁנִים רַבּוֹת רָץ עֵשָׂו לִקְרַאת יַעֲקֹב, חִבֵּק וְנִשֵּׁק אוֹתוֹ, וּמִמֶּנּוּ יָצָא עַם אֱדוֹם.",
+    "fr": "Essav naît le premier, roux et couvert de poils, et après lui sort Yaakov, son frère jumeau. Il devient chasseur, « homme des champs », et Yitzhak, son père, l’aime. Un jour, revenu épuisé des champs, il vend à Yaakov son droit d’aînesse contre un plat de lentilles rouges. Quand Yaakov reçoit la bénédiction, Essav pleure et se met très en colère, et Yaakov s’enfuit. Bien des années plus tard, Essav court à la rencontre de Yaakov, le serre dans ses bras et l’embrasse ; de lui descend le peuple d’Édom."
    },
    "lessons": [
     {
@@ -7131,8 +7096,8 @@
     "src": "torah"
    },
    "bio": {
-    "he": "יַעֲקֹב נוֹלַד אַחֲרֵי עֵשָׂו, וְיָדוֹ אוֹחֶזֶת בַּעֲקֵב אָחִיו; הוּא הָיָה ״אִישׁ תָּם, יֹשֵׁב אֹהָלִים״, קָנָה מֵעֵשָׂו אֶת הַבְּכוֹרָה וְקִבֵּל מִיִּצְחָק אֶת הַבְּרָכָה. כְּשֶׁבָּרַח אֶל לָבָן, חָלַם בַּדֶּרֶךְ עַל סֻלָּם שֶׁמַּלְאָכִים עוֹלִים וְיוֹרְדִים בּוֹ. בְּחָרָן עָבַד אֵצֶל לָבָן עֶשְׂרִים שָׁנָה, נָשָׂא אֶת לֵאָה וְאֶת רָחֵל, וְשָׁם נוֹלְדוּ לוֹ אַחַד עָשָׂר בָּנִים וּבַת. בַּדֶּרֶךְ חֲזָרָה נֶאֱבַק עִם מַלְאָךְ, קִבֵּל אֶת הַשֵּׁם יִשְׂרָאֵל, וְהִשְׁלִים עִם עֵשָׂו. אַחֲרֵי שָׁנִים שֶׁל עֶצֶב עַל יוֹסֵף, שָׂמַח לִשְׁמֹעַ שֶׁהוּא חַי, וּבְגִיל מֵאָה וּשְׁלֹשִׁים יָרַד לְמִצְרַיִם. שָׁם בֵּרַךְ אֶת בָּנָיו וְנִפְטַר בְּגִיל מֵאָה אַרְבָּעִים וָשֶׁבַע, וּבָנָיו קָבְרוּ אוֹתוֹ בִּמְעָרַת הַמַּכְפֵּלָה.",
-    "fr": "Yaakov naît après Essav, la main tenant le talon de son frère ; « homme intègre, qui demeure sous les tentes », il achète à Essav le droit d’aînesse et reçoit la bénédiction de Yitzhak. En fuyant vers Lavan, il rêve en chemin d’une échelle où des anges montent et descendent. À Haran, il travaille vingt ans chez Lavan, épouse Léa et Ra’hel, et là naissent onze fils et une fille. Sur le chemin du retour, il lutte avec un ange, reçoit le nom d’Israël et se réconcilie avec Essav. Après des années de tristesse pour Yossef, il se réjouit d’apprendre qu’il est vivant, et à 130 ans il descend en Égypte. Là, il bénit ses fils et meurt à 147 ans ; ses fils l’enterrent dans la grotte de Makhpéla."
+    "he": "יַעֲקֹב נוֹלַד אַחֲרֵי עֵשָׂו, וְיָדוֹ אוֹחֶזֶת בַּעֲקֵב אָחִיו; הוּא הָיָה ״אִישׁ תָּם, יֹשֵׁב אֹהָלִים״, קָנָה מֵעֵשָׂו אֶת הַבְּכוֹרָה וְקִבֵּל מִיִּצְחָק אֶת הַבְּרָכָה. כְּשֶׁבָּרַח אֶל לָבָן, חָלַם בַּדֶּרֶךְ עַל סֻלָּם שֶׁמַּלְאָכִים עוֹלִים וְיוֹרְדִים בּוֹ. בְּחָרָן עָבַד אֵצֶל לָבָן עֶשְׂרִים שָׁנָה, נָשָׂא אֶת לֵאָה וְאֶת רָחֵל, וְשָׁם נוֹלְדוּ לוֹ אַחַד עָשָׂר בָּנִים וּבַת. בַּדֶּרֶךְ חֲזָרָה נֶאֱבַק עִם ״אִישׁ״ מִסְתּוֹרִי (לְפִי רַשִׁ״י, מַלְאָךְ), קִבֵּל אֶת הַשֵּׁם יִשְׂרָאֵל, וְהִשְׁלִים עִם עֵשָׂו. אַחֲרֵי שָׁנִים שֶׁל עֶצֶב עַל יוֹסֵף, שָׂמַח לִשְׁמֹעַ שֶׁהוּא חַי, וּבְגִיל מֵאָה וּשְׁלֹשִׁים יָרַד לְמִצְרַיִם. שָׁם בֵּרַךְ אֶת בָּנָיו וְנִפְטַר בְּגִיל מֵאָה אַרְבָּעִים וָשֶׁבַע, וּבָנָיו קָבְרוּ אוֹתוֹ בִּמְעָרַת הַמַּכְפֵּלָה.",
+    "fr": "Yaakov naît après Essav, la main tenant le talon de son frère ; « homme intègre, qui demeure sous les tentes », il achète à Essav le droit d’aînesse et reçoit la bénédiction de Yitzhak. En fuyant vers Lavan, il rêve en chemin d’une échelle où des anges montent et descendent. À Haran, il travaille vingt ans chez Lavan, épouse Léa et Ra’hel, et là naissent onze fils et une fille. Sur le chemin du retour, il lutte avec un mystérieux « homme » (un ange, selon Rachi), reçoit le nom d’Israël et se réconcilie avec Essav. Après des années de tristesse pour Yossef, il se réjouit d’apprendre qu’il est vivant, et à 130 ans il descend en Égypte. Là, il bénit ses fils et meurt à 147 ans ; ses fils l’enterrent dans la grotte de Makhpéla."
    },
    "lessons": [
     {
@@ -7284,14 +7249,6 @@
      "fr": "Naît après Essav, la main tenant le talon de son frère"
     },
     {
-     "am": 2123,
-     "datesrc": "midrash",
-     "ref": "Genesis.25.29-34",
-     "parasha": "toldot",
-     "he": "קוֹנֶה מֵעֵשָׂו אֶת הַבְּכוֹרָה תְּמוּרַת נְזִיד עֲדָשִׁים",
-     "fr": "Achète à Essav le droit d’aînesse contre un plat de lentilles"
-    },
-    {
      "am": 2171,
      "datesrc": "midrash",
      "ref": "Genesis.27.18-29",
@@ -7324,17 +7281,9 @@
      "fr": "Lutte avec « un homme » jusqu’à l’aube et reçoit le nom d’Israël"
     },
     {
-     "am": 2216,
-     "datesrc": "midrash",
-     "ref": "Genesis.37.31-35",
-     "parasha": "vayeshev",
-     "he": "מְקַבֵּל אֶת כְּתֹנֶת יוֹסֵף, חוֹשֵׁב שֶׁיּוֹסֵף מֵת, וּמִתְאַבֵּל עָלָיו יָמִים רַבִּים",
-     "fr": "Reçoit la tunique de Yossef, croit que Yossef est mort et le pleure longtemps"
-    },
-    {
      "am": 2238,
      "datesrc": "torah",
-     "ref": "Genesis.46.1-7",
+     "ref": "Genesis.46.1-30",
      "parasha": "vayigash",
      "he": "בְּגִיל 130 (בראשית מ״ז:ט׳) יוֹרֵד לְמִצְרַיִם עִם כָּל מִשְׁפַּחְתּוֹ וּפוֹגֵשׁ שׁוּב אֶת יוֹסֵף",
      "fr": "À 130 ans (Gn 47,9), descend en Égypte avec toute sa famille et retrouve Yossef"
@@ -7344,8 +7293,8 @@
      "datesrc": "torah",
      "ref": "Genesis.48.20-50.13",
      "parasha": "vayechi",
-     "he": "מְבָרֵךְ אֶת אֶפְרַיִם וּמְנַשֶּׁה וְאֶת שְׁנֵים עָשָׂר בָּנָיו, וְנִפְטָר בְּגִיל 147; בָּנָיו קוֹבְרִים אוֹתוֹ בִּמְעָרַת הַמַּכְפֵּלָה",
-     "fr": "Bénit Efraïm et Ménaché, puis ses douze fils, et meurt à 147 ans ; ses fils l’enterrent dans la grotte de Makhpéla"
+     "he": "מְבָרֵךְ אֶת אֶפְרַיִם וּמְנַשֶּׁה וְאֶת שְׁנֵים עָשָׂר בָּנָיו, וְנִפְטָר בְּגִיל 147 (בראשית מ״ז:כ״ח); בָּנָיו קוֹבְרִים אוֹתוֹ בִּמְעָרַת הַמַּכְפֵּלָה",
+     "fr": "Bénit Efraïm et Ménaché, puis ses douze fils, et meurt à 147 ans (Gn 47,28) ; ses fils l’enterrent dans la grotte de Makhpéla"
     }
    ],
    "nameNote": {
@@ -7408,8 +7357,8 @@
       "he": "רש״י בראשית כ״ט:י״ז",
       "fr": "Rachi sur Gn 29,17"
      },
-     "he": "רַשִׁ״י מַסְבִּיר שֶׁעֵינֶיהָ שֶׁל לֵאָה הָיוּ רַכּוֹת מִבֶּכִי: הִיא בָּכְתָה וְהִתְפַּלְּלָה, כִּי פָּחֲדָה שֶׁתִּצְטָרֵךְ לְהִתְחַתֵּן עִם עֵשָׂו.",
-     "fr": "Rachi explique que les yeux de Léa étaient délicats à force de pleurer : elle pleurait et priait, car elle avait peur de devoir épouser Essav."
+     "he": "רַשִׁ״י מַסְבִּיר שֶׁעֵינֶיהָ שֶׁל לֵאָה הָיוּ רַכּוֹת מִבֶּכִי: הִיא בָּכְתָה, כִּי פָּחֲדָה שֶׁתִּצְטָרֵךְ לְהִתְחַתֵּן עִם עֵשָׂו.",
+     "fr": "Rachi explique que les yeux de Léa étaient délicats à force de pleurer : elle pleurait, car elle avait peur de devoir épouser Essav."
     }
    ],
    "quiz": [
@@ -7994,8 +7943,12 @@
    },
    "lessons": [
     {
-     "src": "torah",
-     "ref": "Genesis.30.11-13",
+     "src": "midrash",
+     "ref": "Genesis.30.11",
+     "source": {
+      "he": "רש״י בראשית ל׳:י״א",
+      "fr": "Rachi sur Gn 30,11"
+     },
      "he": "לֵאָה שָׂמְחָה בִּבְנֵי זִלְפָּה וְקָרְאָה לָהֶם שֵׁמוֹת שֶׁל מַזָּל וְאֹשֶׁר. אֶפְשָׁר לִשְׂמֹחַ בְּכָל יֶלֶד שֶׁנּוֹלָד בַּמִּשְׁפָּחָה.",
      "fr": "Léa se réjouit des fils de Zilpa et leur donne des noms de chance et de bonheur. On peut se réjouir de chaque enfant qui naît dans la famille."
     },
@@ -8851,7 +8804,7 @@
    ],
    "life": {},
    "bio": {
-    "he": "יְהוּדָה הוּא הַבֵּן הָרְבִיעִי שֶׁל יַעֲקֹב וְלֵאָה. כְּשֶׁהָאַחִים כָּעֲסוּ עַל יוֹסֵף, יְהוּדָה הִצִּיעַ לֹא לְהָרֹג אוֹתוֹ אֶלָּא לִמְכֹּר אוֹתוֹ. מְאֻחָר יוֹתֵר הוּא לָמַד לְהוֹדוֹת בְּטָעוּת, וְאָמַר עַל תָּמָר: ״צָדְקָה מִמֶּנִּי״. כְּשֶׁבִּנְיָמִין הָיָה בְּסַכָּנָה בְּמִצְרַיִם, יְהוּדָה נִגַּשׁ אֶל יוֹסֵף וּבִקֵּשׁ לִהְיוֹת עֶבֶד בִּמְקוֹם אָחִיו הַקָּטָן. לִפְנֵי מוֹתוֹ, יַעֲקֹב בֵּרַךְ אוֹתוֹ שֶׁהַשֵּׁבֶט, סֵמֶל הַמַּלְכוּת, לֹא יָסוּר מִמֶּנּוּ.",
+    "he": "יְהוּדָה הוּא הַבֵּן הָרְבִיעִי שֶׁל יַעֲקֹב וְלֵאָה. כְּשֶׁהָאַחִים כָּעֲסוּ עַל יוֹסֵף, יְהוּדָה הִצִּיעַ לֹא לַהֲרֹג אוֹתוֹ אֶלָּא לִמְכֹּר אוֹתוֹ. מְאֻחָר יוֹתֵר הוּא לָמַד לְהוֹדוֹת בְּטָעוּת, וְאָמַר עַל תָּמָר: ״צָדְקָה מִמֶּנִּי״. כְּשֶׁבִּנְיָמִין הָיָה בְּסַכָּנָה בְּמִצְרַיִם, יְהוּדָה נִגַּשׁ אֶל יוֹסֵף וּבִקֵּשׁ לִהְיוֹת עֶבֶד בִּמְקוֹם אָחִיו הַקָּטָן. לִפְנֵי מוֹתוֹ, יַעֲקֹב בֵּרַךְ אוֹתוֹ שֶׁהַשֵּׁבֶט, סֵמֶל הַמַּלְכוּת, לֹא יָסוּר מִמֶּנּוּ.",
     "fr": "Yehouda est le quatrième fils de Yaakov et de Léa. Quand les frères sont en colère contre Yossef, Yehouda propose de ne pas le tuer mais de le vendre. Plus tard, il apprend à reconnaître ses erreurs et dit de Tamar : « Elle a raison, plus que moi. » Quand Binyamin est en danger en Égypte, Yehouda s’avance vers Yossef et demande à devenir esclave à la place de son petit frère. Avant de mourir, Yaakov le bénit : le sceptre, signe de la royauté, ne s’éloignera pas de lui."
    },
    "lessons": [
@@ -9000,7 +8953,7 @@
      "datesrc": "torah",
      "ref": "Genesis.37.26-27",
      "parasha": "vayeshev",
-     "he": "מַצִּיעַ לִמְכֹּר אֶת יוֹסֵף וְלֹא לְהָרֹג אוֹתוֹ: ״מַה בֶּצַע?״",
+     "he": "מַצִּיעַ לִמְכֹּר אֶת יוֹסֵף וְלֹא לַהֲרֹג אוֹתוֹ: ״מַה בֶּצַע?״",
      "fr": "Propose de vendre Yossef plutôt que de le tuer : « Quel profit ? »"
     },
     {
@@ -9061,7 +9014,7 @@
    ],
    "life": {},
    "bio": {
-    "he": "דָּן הוּא הַבֵּן הָרִאשׁוֹן שֶׁל בִּלְהָה, הַשִּׁפְחָה שֶׁל רָחֵל. רָחֵל קָרְאָה לוֹ דָּן, כִּי אָמְרָה שֶׁה׳ ״דָּן״ אוֹתָהּ — שָׁפַט אוֹתָהּ — וְשָׁמַע בְּקוֹלָהּ. דָּן יָרַד עִם אֶחָיו לְמִצְרַיִם. לִפְנֵי מוֹתוֹ בֵּרֵךְ אוֹתוֹ יַעֲקֹב: ״דָּן יָדִין עַמּוֹ״, וְכְמוֹ נָחָשׁ עַל הַדֶּרֶךְ, הוּא יָכוֹל לְהַפִּיל גַּם רוֹכֵב גָּדוֹל. בְּסוֹף הַבְּרָכָה הִתְפַּלֵּל יַעֲקֹב: ״לִישׁוּעָתְךָ קִוִּיתִי ה׳״.",
+    "he": "דָּן הוּא הַבֵּן הָרִאשׁוֹן שֶׁל בִּלְהָה, הַשִּׁפְחָה שֶׁל רָחֵל. רָחֵל קָרְאָה לוֹ דָּן, כִּי אָמְרָה שֶׁה׳ ״דָּן״ אוֹתָהּ — שָׁפַט אוֹתָהּ — וְשָׁמַע בְּקוֹלָהּ. דָּן יָרַד עִם אֶחָיו לְמִצְרַיִם. לִפְנֵי מוֹתוֹ בֵּרֵךְ אוֹתוֹ יַעֲקֹב: ״דָּן יָדִין עַמּוֹ״, וּכְמוֹ נָחָשׁ עַל הַדֶּרֶךְ, הוּא יָכוֹל לְהַפִּיל גַּם רוֹכֵב גָּדוֹל. בְּסוֹף הַבְּרָכָה הִתְפַּלֵּל יַעֲקֹב: ״לִישׁוּעָתְךָ קִוִּיתִי ה׳״.",
     "fr": "Dan est le premier fils de Bilha, la servante de Ra’hel. Ra’hel l’appelle Dan, car elle dit que Dieu l’a « jugée » (dan) et a écouté sa voix. Dan descend en Égypte avec ses frères. Avant de mourir, Yaakov le bénit : « Dan jugera son peuple » ; comme un serpent sur le chemin, il peut faire tomber même un grand cavalier. À la fin de cette bénédiction, Yaakov prie : « J’espère en ton salut, ô Dieu ! »"
    },
    "lessons": [
@@ -9164,8 +9117,8 @@
        "fr": "Dan s’enfuira"
       },
       {
-       "he": "דָּן יִשְׁפֹּט וְיָגֵן עַל עַמּוֹ",
-       "fr": "Dan jugera et défendra son peuple"
+       "he": "דָּן יִהְיֶה שׁוֹפֵט לְעַמּוֹ",
+       "fr": "Dan sera un juge pour son peuple"
       }
      ],
      "answer": 2,
@@ -9223,14 +9176,6 @@
      "parasha": "vayechi",
      "he": "״יְהִי דָן נָחָשׁ עֲלֵי דֶרֶךְ״, וְיַעֲקֹב מִתְפַּלֵּל: ״לִישׁוּעָתְךָ קִוִּיתִי ה׳״",
      "fr": "« Dan sera un serpent sur le chemin », et Yaakov prie : « J’espère en ton salut »"
-    },
-    {
-     "am": 2255,
-     "datesrc": "torah",
-     "ref": "Genesis.50.12-13",
-     "parasha": "vayechi",
-     "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-     "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
     }
    ]
   },
@@ -9258,7 +9203,7 @@
    ],
    "life": {},
    "bio": {
-    "he": "נַפְתָּלִי הוּא הַבֵּן הַשֵּׁנִי שֶׁל בִּלְהָה. רָחֵל קָרְאָה לוֹ נַפְתָּלִי, מִלְּשׁוֹן ״נַפְתּוּלִים״ — מַאֲבָק גָּדוֹל: הִיא אָמְרָה שֶׁנֶּאֶבְקָה וְגַם הִצְלִיחָה. נַפְתָּלִי יָרַד עִם אֶחָיו לְמִצְרַיִם. בַּבְּרָכָה שֶׁלּוֹ דִּמָּה אוֹתוֹ יַעֲקֹב לְ״אַיָּלָה שְׁלֻחָה״ — אַיָּלָה שֶׁרָצָה מַהֵר וְחָפְשִׁי. יַעֲקֹב אָמַר גַּם שֶׁהוּא ״הַנֹּתֵן אִמְרֵי שָׁפֶר״ — אוֹמֵר מִלִּים יָפוֹת.",
+    "he": "נַפְתָּלִי הוּא הַבֵּן הַשֵּׁנִי שֶׁל בִּלְהָה. רָחֵל קָרְאָה לוֹ נַפְתָּלִי, מִלְּשׁוֹן ״נַפְתּוּלִים״ — מַאֲבָק גָּדוֹל: הִיא אָמְרָה שֶׁנֶּאֶבְקָה וְגַם הִצְלִיחָה. נַפְתָּלִי יָרַד עִם אֶחָיו לְמִצְרַיִם. בַּבְּרָכָה שֶׁלּוֹ דִּמָּה אוֹתוֹ יַעֲקֹב לְ״אַיָּלָה שְׁלֻחָה״ — אַיָּלָה שֶׁרָצָה מַהֵר וּבְחֹפֶשׁ. יַעֲקֹב אָמַר גַּם שֶׁהוּא ״הַנֹּתֵן אִמְרֵי שָׁפֶר״ — אוֹמֵר מִלִּים יָפוֹת.",
     "fr": "Naftali est le deuxième fils de Bilha. Ra’hel l’appelle Naftali, de « naftoulim », un grand combat : elle dit qu’elle a lutté et qu’elle a réussi. Naftali descend en Égypte avec ses frères. Dans sa bénédiction, Yaakov le compare à « une biche élancée », qui court vite et librement. Yaakov dit aussi qu’il « prononce de belles paroles »."
    },
    "lessons": [
@@ -9422,14 +9367,6 @@
      "parasha": "vayechi",
      "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״נַפְתָּלִי אַיָּלָה שְׁלֻחָה״",
      "fr": "Yaakov le bénit : « Naftali est une biche élancée »"
-    },
-    {
-     "am": 2255,
-     "datesrc": "torah",
-     "ref": "Genesis.50.12-13",
-     "parasha": "vayechi",
-     "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-     "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
     }
    ]
   },
@@ -9616,14 +9553,6 @@
      "parasha": "vayechi",
      "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״גָּד גְּדוּד יְגוּדֶנּוּ, וְהוּא יָגֻד עָקֵב״",
      "fr": "Yaakov le bénit : « Des troupes l’attaqueront, et il les repoussera »"
-    },
-    {
-     "am": 2255,
-     "datesrc": "torah",
-     "ref": "Genesis.50.12-13",
-     "parasha": "vayechi",
-     "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-     "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
     }
    ]
   },
@@ -9814,14 +9743,6 @@
      "parasha": "vayechi",
      "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״מֵאָשֵׁר שְׁמֵנָה לַחְמוֹ״",
      "fr": "Yaakov le bénit : « D’Acher viendra un pain riche »"
-    },
-    {
-     "am": 2255,
-     "datesrc": "torah",
-     "ref": "Genesis.50.12-13",
-     "parasha": "vayechi",
-     "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-     "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
     }
    ]
   },
@@ -10008,14 +9929,6 @@
      "parasha": "vayechi",
      "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״יִשָּׂשכָר חֲמֹר גָּרֶם״",
      "fr": "Yaakov le bénit : « Issakhar est un âne robuste »"
-    },
-    {
-     "am": 2255,
-     "datesrc": "torah",
-     "ref": "Genesis.50.12-13",
-     "parasha": "vayechi",
-     "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-     "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
     }
    ]
   },
@@ -10198,14 +10111,6 @@
      "parasha": "vayechi",
      "he": "יַעֲקֹב מְבָרֵךְ אוֹתוֹ: ״זְבוּלֻן לְחוֹף יַמִּים יִשְׁכֹּן״",
      "fr": "Yaakov le bénit : « Zevouloun habitera au bord des mers »"
-    },
-    {
-     "am": 2255,
-     "datesrc": "torah",
-     "ref": "Genesis.50.12-13",
-     "parasha": "vayechi",
-     "he": "עִם אֶחָיו נוֹשֵׂא אֶת יַעֲקֹב לִקְבוּרָה בְּאֶרֶץ כְּנַעַן",
-     "fr": "Avec ses frères, porte Yaakov pour l’enterrer en Canaan"
     }
    ]
   },
@@ -10596,14 +10501,14 @@
     }
    ],
    "historical": {
-    "he": "יֵשׁ חוֹקְרִים שֶׁמְּקָרְבִים אֶת סִפּוּר יוֹסֵף לַתְּקוּפָה שֶׁבָּהּ מָלְכוּ בְּמִצְרַיִם מְלָכִים זָרִים מֵאֵזוֹר כְּנַעַן (הַהִיקְסוֹס). אֵין לְכָךְ עֵדוּת יְשִׁירָה, וְיֵשׁ עַל זֶה וִכּוּחַ.",
-    "fr": "Des chercheurs rapprochent l’histoire de Yossef de l’époque où des rois étrangers venus de la région de Canaan (les Hyksôs) régnaient en Égypte (vers le XVIIe siècle av. l’ère commune). Aucune trace directe ; la question est débattue."
+    "he": "יֵשׁ חוֹקְרִים שֶׁמְּקָרְבִים אֶת סִפּוּר יוֹסֵף לַתְּקוּפָה שֶׁבָּהּ מָלְכוּ בְּמִצְרַיִם מְלָכִים זָרִים מֵאֵזוֹר כְּנַעַן (הַהִיקְסוֹס, בְּעֵרֶךְ 1650–1550 לִפְנֵי הַסְּפִירָה). אֵין לְכָךְ עֵדוּת יְשִׁירָה, וְיֵשׁ עַל זֶה וִכּוּחַ.",
+    "fr": "Des chercheurs rapprochent l’histoire de Yossef de l’époque où des rois étrangers venus de la région de Canaan (les Hyksôs) régnaient en Égypte (vers 1650-1550 avant l’ère commune). Aucune trace directe ; la question est débattue."
    },
    "events": [
     {
-     "am": null,
+     "am": 2216,
      "datesrc": "torah",
-     "ref": "Genesis.37.3-11",
+     "ref": "Genesis.37.2-11",
      "parasha": "vayeshev",
      "he": "מְקַבֵּל כְּתֹנֶת פַּסִּים וְחוֹלֵם חֲלוֹמוֹת",
      "fr": "Reçoit une tunique rayée et fait des rêves"
@@ -10891,8 +10796,8 @@
      "fr": "Rachi sur Gn 35,18"
     },
     "ref": "Genesis.35.18",
-    "he": "לְפִי רַשִׁ״י: ״בֶּן אוֹנִי״ — בֵּן הַצַּעַר שֶׁלִּי. ״בִּנְיָמִין״ — בֵּן הַדָּרוֹם (״יָמִין״), כִּי הוּא הַיָּחִיד שֶׁנּוֹלַד בְּאֶרֶץ כְּנַעַן; אוֹ ״בֶּן יָמִים״ — בֵּן שֶׁנּוֹלַד בְּזִקְנַת אָבִיו.",
-    "fr": "Selon Rachi : « Ben-Oni » = fils de ma douleur. « Binyamin » = fils du sud (yamin), car il est le seul né en terre de Canaan ; ou « ben yamim », fils de la vieillesse de son père."
+    "he": "לְפִי רַשִׁ״י: ״בֶּן אוֹנִי״ — בֵּן הַצַּעַר שֶׁלִּי. ״בִּנְיָמִין״ — בֵּן הַדָּרוֹם (״יָמִין״), כִּי הוּא הַיָּחִיד שֶׁנּוֹלַד בְּאֶרֶץ כְּנַעַן.",
+    "fr": "Selon Rachi : « Ben-Oni » = fils de ma douleur. « Binyamin » = fils du sud (yamin), car il est le seul né en terre de Canaan."
    }
   },
   {
@@ -11096,10 +11001,14 @@
    },
    "lessons": [
     {
-     "src": "torah",
+     "src": "midrash",
      "ref": "Genesis.38.25",
-     "he": "תָּמָר לֹא אָמְרָה אֶת שֵׁם יְהוּדָה לִפְנֵי כֻּלָּם. הִיא רַק שָׁלְחָה לוֹ אֶת הַחֲפָצִים וְאָמְרָה: ״הַכֶּר נָא״ – וְנָתְנָה לוֹ לְהוֹדוֹת בְּעַצְמוֹ.",
-     "fr": "Tamar ne prononce pas le nom de Yehouda devant tout le monde. Elle lui fait seulement porter les objets en disant : « Reconnais donc » – et le laisse avouer lui-même."
+     "source": {
+      "he": "רש״י בראשית ל״ח:כ״ה",
+      "fr": "Rachi sur Gn 38,25"
+     },
+     "he": "תָּמָר לֹא אָמְרָה שֶׁיְּהוּדָה הוּא הָאִישׁ. הִיא שָׁלְחָה לוֹ רַק אֶת הַחֲפָצִים וְאָמְרָה: ״הַכֶּר נָא״. לְפִי רַשִׁ״י, הִיא רָצְתָה שֶׁיּוֹדֶה בְּעַצְמוֹ.",
+     "fr": "Tamar ne dit pas que c’est Yehouda. Elle lui fait seulement porter les objets en disant : « Reconnais donc ». Selon Rachi, elle veut qu’il avoue de lui-même."
     },
     {
      "src": "midrash",
@@ -11300,8 +11209,8 @@
    ],
    "life": {},
    "bio": {
-    "he": "עֵר הוּא הַבֵּן הַבְּכוֹר שֶׁל יְהוּדָה, וְהַבַּעַל הָרִאשׁוֹן שֶׁל תָּמָר. הַתּוֹרָה אוֹמֶרֶת שֶׁהוּא הָיָה רַע בְּעֵינֵי ה׳, וְהוּא מֵת צָעִיר, עוֹד בְּאֶרֶץ כְּנַעַן.",
-    "fr": "Èr est le fils aîné de Yehouda et le premier mari de Tamar. La Torah dit qu’il n’était pas bon aux yeux de Dieu, et il meurt jeune, encore en terre de Canaan."
+    "he": "עֵר הוּא הַבֵּן הַבְּכוֹר שֶׁל יְהוּדָה, וְהַבַּעַל הָרִאשׁוֹן שֶׁל תָּמָר. הַתּוֹרָה אוֹמֶרֶת שֶׁהוּא הָיָה רַע בְּעֵינֵי ה׳, וְהוּא מֵת עוֹד בְּאֶרֶץ כְּנַעַן (ל״ח:ז׳; מ״ו:י״ב).",
+    "fr": "Èr est le fils aîné de Yehouda et le premier mari de Tamar. La Torah dit qu’il n’était pas bon aux yeux de Dieu, et il meurt, encore en terre de Canaan (38,7 ; 46,12)."
    },
    "events": [
     {
@@ -11309,8 +11218,8 @@
      "datesrc": "torah",
      "ref": "Genesis.38.6-7",
      "parasha": "vayeshev",
-     "he": "נוֹשֵׂא אֶת תָּמָר וּמֵת צָעִיר",
-     "fr": "Épouse Tamar et meurt jeune"
+     "he": "נוֹשֵׂא אֶת תָּמָר וּמֵת",
+     "fr": "Épouse Tamar et meurt"
     }
    ]
   },
@@ -11332,8 +11241,8 @@
    ],
    "life": {},
    "bio": {
-    "he": "אוֹנָן הוּא הַבֵּן הַשֵּׁנִי שֶׁל יְהוּדָה. גַּם הוּא עָשָׂה מַה שֶּׁלֹּא טוֹב בְּעֵינֵי ה׳, וּמֵת צָעִיר בְּאֶרֶץ כְּנַעַן (ל״ח:י׳; מ״ו:י״ב).",
-    "fr": "Onan est le deuxième fils de Yehouda. Lui aussi fait ce qui n’est pas bon aux yeux de Dieu, et il meurt jeune en terre de Canaan (38,10 ; 46,12)."
+    "he": "אוֹנָן הוּא הַבֵּן הַשֵּׁנִי שֶׁל יְהוּדָה. גַּם הוּא עָשָׂה מַה שֶּׁלֹּא טוֹב בְּעֵינֵי ה׳, וּמֵת בְּאֶרֶץ כְּנַעַן (ל״ח:י׳; מ״ו:י״ב).",
+    "fr": "Onan est le deuxième fils de Yehouda. Lui aussi fait ce qui n’est pas bon aux yeux de Dieu, et il meurt en terre de Canaan (38,10 ; 46,12)."
    },
    "events": []
   },
@@ -11557,7 +11466,7 @@
      "am": null,
      "datesrc": "torah",
      "ref": "Ruth.4.18-22",
-     "parasha": null,
+     "parasha": "",
      "he": "רֹאשׁ הַשּׁוֹשֶׁלֶת שֶׁמַּגִּיעָה עַד דָּוִד הַמֶּלֶךְ",
      "fr": "Premier ancêtre de la lignée qui mène au roi David"
     }
@@ -11627,8 +11536,8 @@
     {
      "src": "torah",
      "ref": "Genesis.39.3",
-     "he": "גַּם אִישׁ מִצְרִי, שֶׁלֹּא הִכִּיר אֶת אֱמוּנַת יוֹסֵף, רָאָה שֶׁה׳ עִמּוֹ: מַעֲשִׂים טוֹבִים רוֹאִים מִבַּחוּץ.",
-     "fr": "Même un Égyptien qui ne connaît pas la foi de Yossef voit que Dieu est avec lui : les bonnes actions se voient de l’extérieur."
+     "he": "גַּם פּוֹטִיפַר הַמִּצְרִי רָאָה שֶׁה׳ עִם יוֹסֵף: מַעֲשִׂים טוֹבִים רוֹאִים מִבַּחוּץ.",
+     "fr": "Même Potifar l’Égyptien voit que Dieu est avec Yossef : les bonnes actions se voient de l’extérieur."
     },
     {
      "src": "torah",
@@ -11823,8 +11732,8 @@
     {
      "src": "torah",
      "ref": "Genesis.41.9",
-     "he": "״אֶת חֲטָאַי אֲנִי מַזְכִּיר הַיּוֹם״: בַּסּוֹף שַׂר הַמַּשְׁקִים הוֹדָה בִּטְעוּתוֹ לִפְנֵי פַּרְעֹה.",
-     "fr": "« Je rappelle aujourd’hui mes fautes » : à la fin, l’échanson reconnaît son erreur devant Pharaon."
+     "he": "״אֶת חֲטָאַי אֲנִי מַזְכִּיר הַיּוֹם״: כְּדֵי לְסַפֵּר עַל יוֹסֵף, שַׂר הַמַּשְׁקִים מַסְכִּים לְהַזְכִּיר לִפְנֵי פַּרְעֹה אֶת הַחֲטָאִים שֶׁלּוֹ.",
+     "fr": "« Je rappelle aujourd’hui mes fautes » : pour parler de Yossef, l’échanson accepte de rappeler devant Pharaon ses propres fautes."
     },
     {
      "src": "midrash",
@@ -12708,7 +12617,7 @@
       }
      ],
      "answer": 1,
-     "ref": "Genesis.41.50"
+     "ref": "Genesis.46.20"
     },
     {
      "q": {
@@ -12803,7 +12712,7 @@
    "lessons": [
     {
      "src": "torah",
-     "ref": "Genesis.48.14",
+     "ref": "Genesis.48.14-19",
      "he": "״שִׂכֵּל אֶת יָדָיו״: יַעֲקֹב לֹא טָעָה; הוּא בָּחַר בְּכַוָּנָה, כִּי רָאָה מָה יִהְיֶה בֶּעָתִיד.",
      "fr": "« Il croisa ses mains » : Yaakov ne se trompe pas ; il choisit exprès, car il voit l’avenir."
     },
@@ -12818,7 +12727,7 @@
      "fr": "« Son frère cadet sera plus grand que lui » : selon Rachi, d’Efraïm sortira Yehochoua, qui fera entrer le peuple d’Israël dans le pays et lui enseignera la Torah."
     },
     {
-     "src": "torah",
+     "src": "adaptation",
      "ref": "Genesis.48.20",
      "he": "הַבְּרָכָה ״יְשִׂמְךָ אֱלֹהִים כְּאֶפְרַיִם וְכִמְנַשֶּׁה״ מְבָרֶכֶת שְׁנֵי אַחִים יַחַד, בְּלִי קִנְאָה.",
      "fr": "La bénédiction « Que Dieu te rende comme Efraïm et Ménaché » bénit deux frères ensemble, sans jalousie."
@@ -13010,7 +12919,7 @@
      "am": null,
      "datesrc": "torah",
      "ref": "Numbers.26.46",
-     "parasha": null,
+     "parasha": "",
      "he": "נִזְכֶּרֶת בְּמִפְקַד בְּנֵי יִשְׂרָאֵל בַּמִּדְבָּר",
      "fr": "Est mentionnée dans le recensement du désert"
     }
@@ -13161,7 +13070,7 @@
      "am": null,
      "datesrc": "torah",
      "ref": "Exodus.6.20",
-     "parasha": null,
+     "parasha": "",
      "he": "נוֹשֵׂא אֶת יוֹכֶבֶד, וְנוֹלָדִים לָהֶם אַהֲרֹן וּמֹשֶׁה",
      "fr": "Épouse Yokhéved ; Aharon et Moché naissent"
     }
@@ -13193,7 +13102,7 @@
      "fr": "Rachi sur Gn 46,15"
     },
     "ref": "Genesis.46.15",
-    "he": "בִּרְשִׁימַת בְּנֵי לֵאָה יֵשׁ שְׁלֹשִׁים וְשָׁלֹשׁ נְפָשׁוֹת, אֲבָל רַק שְׁלֹשִׁים וּשְׁתַּיִם שֵׁמוֹת. לְפִי רַשִׁ״י, הַנֶּפֶשׁ הַחֲסֵרָה הִיא יוֹכֶבֶד, שֶׁנּוֹלְדָה ״בֵּין הַחוֹמוֹת״, בְּדִיּוּק כְּשֶׁהַמִּשְׁפָּחָה נִכְנְסָה לְמִצְרַיִם.",
+    "he": "בִּרְשִׁימַת בְּנֵי לֵאָה יֵשׁ שְׁלֹשִׁים וְשָׁלֹשׁ נְפָשׁוֹת, אֲבָל רַק שְׁלֹשִׁים וּשְׁנַיִם שֵׁמוֹת. לְפִי רַשִׁ״י, הַנֶּפֶשׁ הַחֲסֵרָה הִיא יוֹכֶבֶד, שֶׁנּוֹלְדָה ״בֵּין הַחוֹמוֹת״, בְּדִיּוּק כְּשֶׁהַמִּשְׁפָּחָה נִכְנְסָה לְמִצְרַיִם.",
     "fr": "Dans la liste des descendants de Léa, il y a 33 personnes mais seulement 32 noms. Selon Rachi, la personne manquante est Yokhéved, née « entre les murailles », juste au moment où la famille entrait en Égypte."
    },
    "events": []
@@ -13233,7 +13142,7 @@
      "am": 2488,
      "datesrc": "midrash",
      "ref": "Numbers.33.38-39",
-     "parasha": null,
+     "parasha": "",
      "he": "מֵת בְּהֹר הָהָר בְּגִיל מֵאָה עֶשְׂרִים וְשָׁלֹשׁ",
      "fr": "Meurt sur le mont Hor à 123 ans"
     }
@@ -13274,7 +13183,7 @@
      "am": 2488,
      "datesrc": "midrash",
      "ref": "Deuteronomy.34.7",
-     "parasha": null,
+     "parasha": "",
      "he": "מֵת בְּגִיל מֵאָה וְעֶשְׂרִים שָׁנָה",
      "fr": "Meurt à 120 ans"
     }

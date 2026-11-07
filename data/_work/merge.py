@@ -63,7 +63,12 @@ def rk(e):
   import re
   m=re.match(r'(\w+)\.(\d+)\.(\d+)',e['ref'] or '');b={'Genesis':0,'Exodus':1,'Numbers':3,'Deuteronomy':4}
   return (b.get(m.group(1),9),int(m.group(2)),int(m.group(3))) if m else (9,0,0)
-for c in chars: c['events'].sort(key=rk)
+for c in chars:
+  seen=set(); ev=[]
+  for e in c['events']:
+    if e['ref'] in seen: continue
+    seen.add(e['ref']); ev.append(e)
+  c['events']=sorted(ev,key=rk)
 T=[
 ('bereshit',"מֵאָדָם עַד נֹחַ: עֲשָׂרָה דּוֹרוֹת","D’Adam à Noa’h : dix générations",[[["adam","hava"]],[["kayin"],["hevel"],["shet"]],[["enosh"]],[["kenan"]],[["mahalalel"]],[["yered"]],[["hanokh"]],[["metushelah"]],[["lemekh"]],[["noah"]]],("בֵּין הֶבֶל לְשֵׁת: שֵׁת נוֹלַד ״תַּחַת הֶבֶל״ (ד׳:כ״ה).","Chet naît « à la place d’Hével » (4,25).")),
 ('noach',"נֹחַ וּבָנָיו, וּמִשְׁפַּחַת תֶּרַח","Noa’h, ses fils et la famille de Téra’h",[[["noah"]],[["shem"],["ham"],["yefet"]],[["kenaan"],["nimrod"]],[["terah"]],[["avraham","sarah"],["nahor","milka"],["haran"]],[["lot"]]],("בֵּין שֵׁם לְתֶרַח יֵשׁ שִׁבְעָה דּוֹרוֹת (י״א:י׳–כ״ו). נִמְרֹד הוּא נֶכֶד שֶׁל חָם (י׳:ו׳–ח׳).","Entre Chem et Téra’h il y a sept générations (11,10-26). Nimrod est un petit-fils de ‘Ham (10,6-8).")),
