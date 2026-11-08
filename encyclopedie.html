@@ -243,7 +243,7 @@ function renderTimeline(){const dated=D.characters.filter(c=>c.life&&c.life.born
 let treeP=null;function treeParasha(){return treeP==="all"?null:(D.parachiot.find(p=>p.id===treeP)||latestParasha())}
 function renderPeople(){const tp=treeParasha(),inP=c=>!tp||c.parachiot.includes(tp.id);
  const list=D.characters.filter(inP).sort((a,b)=>(a.status==="full"?0:1)-(b.status==="full"?0:1));
- const card=c=>'<button class="pcard'+(c.status!=="full"?' link':'')+'" data-open="'+c.id+'">'+avatar(c)+'<b>'+esc(nm(c))+'</b><span>'+esc(L==="he"?c.fr:c.he)+'</span>'+(c.status!=="full"?'<br><span class="small">'+esc(t("linkOnly"))+'</span>':'')+'</button>';
+ const card=c=>'<button class="pcard'+(c.status!=="full"?' link':'')+'" data-open="'+c.id+'">'+avatar(c)+'<b>'+esc(nm(c))+'</b>'+(c.status!=="full"?'<br><span class="small">'+esc(t("linkOnly"))+'</span>':'')+'</button>';
  const sel='<div class="chips psel">'+'<button class="chip'+(!tp?' self':'')+'" data-treep="all">✨ '+esc(t("allP"))+'</button>'+[...D.parachiot].sort((a,b)=>a.order-b.order).map(p=>'<button class="chip'+(tp&&p.id===tp.id?' self':'')+'" data-treep="'+p.id+'">📖 '+esc(p[L])+'</button>').join("")+'</div>';
  const trs=tp?D.trees.filter(x=>x.parasha===tp.id):[];
  $("#s-people").innerHTML='<h1>'+esc(t("peopleTitle"))+'</h1><p class="lead">'+esc(t("treeBy"))+'</p>'+sel+'<p class="muted small">'+list.length+' · '+esc(t("peopleLead"))+'</p><div class="grid">'+list.map(card).join("")+'</div>'+
@@ -261,10 +261,10 @@ function drawLines(tree){tree.querySelector("svg.lines")?.remove();const box=tre
 /* ---------- fiche ---------- */
 function openChar(id,tab){const c=byId[id];if(!c)return;curChar=c;curTab=tab&&TABS.includes(tab)?tab:"who";const dlg=$("#fiche");
  $("#fav").outerHTML=avatar(c,"lg").replace('<span class="av lg"','<span class="av lg" id="fav"');
- $("#fname").textContent=nm(c);$("#falt").textContent=(L==="he"?c.fr:c.he)+(c.alt?" · "+c.alt[L]:"");
+ $("#fname").textContent=nm(c);$("#falt").textContent=c.alt?c.alt[L]:"";
  const lbl={who:"t1",family:"t2",story:"t3",where:"t4",learn:"t5",quiz:"t6"};const sub={who:"Qui suis-je ?",family:"Ma famille",story:"Mon histoire",where:"Où suis-je ?",learn:"Apprendre",quiz:"Quiz"},subHe={who:"מִי אֲנִי?",family:"הַמִּשְׁפָּחָה שֶׁלִּי",story:"הַסִּפּוּר שֶׁלִּי",where:"אֵיפֹה אֲנִי?",learn:"מָה לוֹמְדִים",quiz:"חִידוֹן"};
  const avail=c.status==="full"?TABS:["who","family"];
- $("#ftabs").innerHTML=avail.map(k=>'<button role="tab" data-ftab="'+k+'" aria-selected="'+(k===curTab)+'">'+esc(T.he[lbl[k]])+'<small>'+esc(T.fr[lbl[k]])+'</small></button>').join("");
+ $("#ftabs").innerHTML=avail.map(k=>'<button role="tab" data-ftab="'+k+'" aria-selected="'+(k===curTab)+'">'+esc(t(lbl[k]))+'</button>').join("");
  if(!avail.includes(curTab))curTab="who";renderTab();if(!dlg.open)dlg.showModal();history.replaceState(null,"","#p="+id)}
 function renderTab(){const c=curChar,b=$("#fbody");document.querySelectorAll("[data-ftab]").forEach(x=>x.setAttribute("aria-selected",x.dataset.ftab===curTab));b.scrollTop=0;
  if(curTab==="who"){let h='<p class="story">'+esc(c.bio[L])+'</p>';

@@ -5982,7 +5982,8 @@
    "parachiot": [
     "vayera",
     "chaye-sarah",
-    "toldot"
+    "toldot",
+    "vayishlach"
    ],
    "life": {
     "born": 2085,
@@ -10335,7 +10336,8 @@
     "vayeshev",
     "miketz",
     "vayigash",
-    "vayechi"
+    "vayechi",
+    "vayishlach"
    ],
    "portrait": "yossef",
    "parents": [
@@ -12482,7 +12484,8 @@
    "status": "full",
    "parachiot": [
     "miketz",
-    "vayechi"
+    "vayechi",
+    "vayigash"
    ],
    "portrait": "menashe",
    "parents": [
@@ -12689,7 +12692,8 @@
    "status": "full",
    "parachiot": [
     "miketz",
-    "vayechi"
+    "vayechi",
+    "vayigash"
    ],
    "portrait": "efraim",
    "parents": [
@@ -13282,8 +13286,8 @@
     ]
    ],
    "note": {
-    "he": "בֵּין הֶבֶל לְשֵׁת: שֵׁת נוֹלַד ״תַּחַת הֶבֶל״ (ד׳:כ״ה).",
-    "fr": "Chet naît « à la place d’Hével » (4,25)."
+    "he": "שֵׁת נוֹלַד ״תַּחַת הֶבֶל״ (ד׳:כ״ה). מִשֵּׁת וְעַד נֹחַ יֵשׁ עֲשָׂרָה דּוֹרוֹת מֵאָדָם (ה׳).",
+    "fr": "Chet naît « à la place d’Hével » (4,25). D’Adam à Noa’h, il y a dix générations (chapitre 5)."
    }
   },
   {
@@ -13327,8 +13331,7 @@
       "sarah"
      ],
      [
-      "nahor",
-      "milka"
+      "nahor"
      ],
      [
       "haran"
@@ -13336,13 +13339,16 @@
     ],
     [
      [
+      "milka"
+     ],
+     [
       "lot"
      ]
     ]
    ],
    "note": {
-    "he": "בֵּין שֵׁם לְתֶרַח יֵשׁ שִׁבְעָה דּוֹרוֹת (י״א:י׳–כ״ו). נִמְרֹד הוּא נֶכֶד שֶׁל חָם (י׳:ו׳–ח׳).",
-    "fr": "Entre Chem et Téra’h il y a sept générations (11,10-26). Nimrod est un petit-fils de ‘Ham (10,6-8)."
+    "he": "בֵּין שֵׁם לְתֶרַח יֵשׁ שִׁבְעָה דּוֹרוֹת (י״א:י׳–כ״ו). נִמְרֹד הוּא נֶכֶד שֶׁל חָם (י׳:ו׳–ח׳). נָחוֹר נָשָׂא אֶת מִלְכָּה, בַּת אָחִיו הָרָן (י״א:כ״ט).",
+    "fr": "Entre Chem et Téra’h il y a sept générations (11,10-26). Nimrod est un petit-fils de ‘Ham (10,6-8). Na’hor épouse Milka, la fille de son frère Haran (11,29)."
    }
   },
   {
