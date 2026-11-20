@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "description": "Dossiers adultes de לימוד מעמיק. Chaque semaine, ajouter un dossier sourcé puis une entrée au catalogue.",
+  "default": "vayetze",
+  "entries": [
+    {
+      "id": "vayetze",
+      "he": "וַיֵּצֵא",
+      "fr": "Vayétsé",
+      "ref": "Genesis.28.10-32.3",
+      "file": "data/sod/vayetze.json",
+      "shabbat": "2026-11-21"
+    }
+  ]
+}
