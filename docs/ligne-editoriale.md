@@ -37,3 +37,17 @@ Yossef Bollag est l’auteur des enseignements, jamais un personnage du comics.
 - Portraits : la bibliothèque officielle est `assets/portraits.js` (et les PNG de `assets/portraits/`). Chaque personnage a UN portrait, le même dans les épisodes, les fiches, les arbres et les vidéos. Un nouveau personnage reçoit un portrait créé une seule fois dans ce style ; on ne modifie jamais un portrait existant et on ne crée jamais de second visage.
 - Dates : années depuis la création en chiffres dans le JSON (`am`), affichées en lettres hébraïques ; années avant l'ère commune affichées avec un signe moins (−1813).
 - Vérification : chaque fait porte un verset ; « torah » seulement si c'est explicite ; Rachi / Midrash / Targoum avec la source ; adaptation artistique signalée. Faire relire par un vérificateur indépendant avant de publier.
+
+## סודות התורה — supplément adulte
+
+Cette rubrique (indépendante des bandes dessinées) accueille un dossier de la paracha chaque semaine. Niveaux de profondeur : Pshat, Remez, Drash, Sod, Zohar, kabbale, commentaires médiévaux et hassidiques, guématria et analyse des lettres.
+
+Règles impératives :
+1. Chaque enseignement attribué à une source doit renvoyer au passage précis ; ne pas inventer de citation, de folio ou de référence.
+2. Séparer visiblement ce que dit l'auteur, une paraphrase actuelle, un calcul mathématique, une hypothèse originale.
+3. Fixer avant toute guématria méthode, orthographe complète/défective, gestion des lettres finales et éventuel kollel ; afficher le détail du calcul.
+4. Pour tout code ELS, conserver corpus, tradition textuelle, limites, normalisation, direction, mot exact, pas, tous les essais, fréquence attendue et contrôles. Sans cela : « hypothèse / non vérifié ».
+5. Les citations du Zohar exigent un accès au texte original ou une traduction identifiée, sans confusion entre Zohar et commentaires du Zohar (ex. Soulam).
+6. Éviter d'apposer une signature ou attribution à Bollag sur des synthèses externes ; ne relier un enseignement à Bollag que s'il figure effectivement dans un document ou enregistrement de lui.
+
+Checklist hebdomadaire : identifier paracha / versets → sélectionner 3 à 5 sources primaires → lire les passages → recalculer les éventuelles guématriot → préparer questions avancées → relire les attributions → ajouter le JSON sous `data/sod/` → compléter `data/sod/catalogue.json` → vérifier l'affichage hébreu/français.
