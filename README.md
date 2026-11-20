@@ -31,3 +31,12 @@ Les prochaines parachiot seront ajoutées lorsqu’un enseignement correspondant
 Le classement des deux premiers épisodes est créé. Les images ne sont pas encore ajoutées.
 
 [Consignes éditoriales](docs/ligne-editoriale.md)
+
+## סודות התורה — section adultes (nouvelle)
+
+- **Page indépendante** : [`sod.html`](sod.html), accessible depuis l'accueil ; hébreu / français, RTL sur hébreu.
+- **Premier dossier** : [`data/sod/vayetze.json`](data/sod/vayetze.json), consacré à Vayétsé et à l'échelle de Jacob. Lectures croisées de Zohar, Baal HaTourim, Midrash Tanchuma et Sefat Emet ; références Sefaria affichées.
+- **Catalogue hebdomadaire** : [`data/sod/catalogue.json`](data/sod/catalogue.json). Pour une nouvelle semaine, ajouter un dossier au même format, puis son entrée au catalogue ; la page sait charger plusieurs parachiot.
+- **Laboratoire** : calculs de guématria transparents, puis recherche ELS sur un corpus collé et explicitement choisi par le lecteur ; aucun corpus de la Torah n'est prétendu vérifié si non fourni.
+- **Éthique éditoriale** : distinguer source explicite, vérification numérique et interprétation personnelle. Aucune découverte ELS n'est présentée comme statistiquement remarquable sans protocole défini à l'avance.
+- **Développement** : la rubrique adultes n'utilise ni ne modifie les portraits ou scénarios enfants. Les fiches adultes ne sont pas attribuées à Bollag sans confirmation de leur provenance.

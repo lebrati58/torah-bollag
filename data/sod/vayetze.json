@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "id": "vayetze",
+  "he": "וַיֵּצֵא",
+  "fr": "Vayétsé",
+  "textRef": "Genesis.28.10-32.3",
+  "theme": {
+    "he": "הסולם, המדרגות וסוד המקום",
+    "fr": "L'échelle, les degrés et le mystère du lieu"
+  },
+  "intro": {
+    "he": "מסע עיוני בחלום יעקב: מן הפשט אל הזוהר, מן המדרש אל חשבון האותיות. כל טענה נבחנת לפי מקורה; גימטריה מדויקת איננה הוכחה לפרשנות.",
+    "fr": "Une étude exigeante du rêve de Jacob : du sens littéral au Zohar, du Midrash aux valeurs des lettres. Une égalité numérique exacte ne prouve pas à elle seule une interprétation."
+  },
+  "studies": [
+    {
+      "id": "zohar-9",
+      "kind": "zohar",
+      "label": {
+        "he": "זוהר · מדרגות האחדות",
+        "fr": "Zohar · Unification des degrés"
+      },
+      "source": "Zohar, Vayetzei 9:59",
+      "url": "https://www.sefaria.org/Zohar%2C_Vayetzei.9.59",
+      "verse": "Genesis.28.12-13",
+      "he": "קריאת הזוהר בסולם איננה מתמצה באובייקט המופיע בחלום: התיאור מדבר על מדרגות הנקשרות לאחדות אחת. יש לעיין במונח ״נִצָּב״ ובהופעתו בהקשר של רצף המדרגות, ולא להניח שכל פירוש קבלי של הסולם זהה למשנהו.",
+      "fr": "Le Zohar lit l'échelle comme une structure de degrés reliés dans une unité. Étudier le vocabulaire de « nitsav » et le mouvement entre les degrés; ne pas fusionner automatiquement toutes les interprétations kabbalistiques de l'échelle.",
+      "question": {
+        "he": "האם המדרגות הן תחנות נפרדות או ביטוי של אחדות?",
+        "fr": "Les degrés sont-ils séparés ou les manifestations d'une unité?"
+      }
+    },
+    {
+      "id": "zohar-anokhi",
+      "kind": "zohar",
+      "label": {
+        "he": "זוהר · ואנכי לא ידעתי",
+        "fr": "Zohar · « Et moi, je ne savais pas »"
+      },
+      "source": "Zohar, Vayetzei 8:55",
+      "url": "https://www.sefaria.org/Zohar%2C_Vayetzei.8.55",
+      "verse": "Genesis.28.16",
+      "he": "הזוהר דורש את ״וְאָנֹכִי לֹא יָדָעְתִּי״ ביחס להכרת ״אנכי״ ולשכינה. זוהי דרשה קבלית, ולא תרגום מילולי מחייב של פסוק בראשית.",
+      "fr": "Le Zohar donne à « va-anokhi lo yadati » une dimension de connaissance de l'« Anokhi » et de la Shekhina. C'est une interprétation mystique, distincte du sens grammatical immédiat du verset.",
+      "question": {
+        "he": "כיצד משתנה משמעות 'אנכי' בקריאה הקבלית?",
+        "fr": "En quoi la lecture mystique modifie-t-elle le sens de « anokhi » ?"
+      }
+    },
+    {
+      "id": "baal-haturim",
+      "kind": "gematria",
+      "label": {
+        "he": "בעל הטורים · סלם וסולם",
+        "fr": "Baal HaTourim · סלם et סולם"
+      },
+      "source": "Kitzur Ba'al HaTurim on Genesis 28:12",
+      "url": "https://www.sefaria.org/Kitzur_Ba%27al_HaTurim_on_Genesis.28.12",
+      "verse": "Genesis.28.12",
+      "he": "בפסוק כתוב ״סלם״ בלא וי״ו: ערכו 130, כמו ״סיני״. בעל הטורים דן גם בכתיב המלא ״סולם״ שערכו 136, כמו ״קול״, ״ממון״ ו״עוני״. אלו שתי צורות כתיב שונות; אין לערבב ביניהן בחישוב.",
+      "fr": "Le verset écrit סלם sans vav : 130, comme סיני. Le Baal HaTourim explore aussi l'orthographe pleine סולם : 136, comme קול, ממון et עוני. Il s'agit de deux graphies différentes, à ne pas confondre.",
+      "question": {
+        "he": "מה משנה הוספת וי״ו אחת לסוג הרמז שאפשר להציע?",
+        "fr": "Que change l'ajout d'un seul vav dans les correspondances proposées ?"
+      },
+      "figures": [
+        {
+          "word": "סלם",
+          "sum": 130
+        },
+        {
+          "word": "סיני",
+          "sum": 130
+        },
+        {
+          "word": "סולם",
+          "sum": 136
+        },
+        {
+          "word": "קול",
+          "sum": 136
+        },
+        {
+          "word": "ממון",
+          "sum": 136
+        },
+        {
+          "word": "עוני",
+          "sum": 136
+        }
+      ]
+    },
+    {
+      "id": "tanchuma",
+      "kind": "midrash",
+      "label": {
+        "he": "תנחומא · סולם המלכויות",
+        "fr": "Tanhouma · L'échelle des empires"
+      },
+      "source": "Midrash Tanchuma, Vayetzei 2:1",
+      "url": "https://www.sefaria.org/Midrash_Tanchuma%2C_Vayetzei.2.1",
+      "verse": "Genesis.28.12",
+      "he": "המדרש מציג את המלאכים כסמלים לשרי המלכויות העולות ויורדות. הוא מזכיר בבל, מדי, יוון ואדום. זו קריאה מדרשית של ההיסטוריה, ולא רשימה המתוארת בפשט חלום יעקב.",
+      "fr": "Le Midrash présente les anges comme les représentants des puissances qui montent et descendent : Babylone, Médie, Grèce et Édom. C'est une lecture de l'histoire dans le récit, non la liste explicite des puissances dans le verset.",
+      "question": {
+        "he": "מה מוסיפה קריאת ההיסטוריה אל חלום היחיד של יעקב?",
+        "fr": "Que change une interprétation historique d'un rêve individuel ?"
+      }
+    },
+    {
+      "id": "sefat-emet",
+      "kind": "hasidout",
+      "label": {
+        "he": "שפת אמת · התחדשות והדרגה",
+        "fr": "Sefat Emet · Renouveau et progression"
+      },
+      "source": "Sefat Emet, Genesis, Vayetzei 12",
+      "url": "https://www.sefaria.org/Sefat_Emet%2C_Genesis%2C_Vayetzei.12",
+      "verse": "Genesis.28.12",
+      "he": "השפת אמת קושר את הסולם להנהגת הטבע ולחידוש מעשה בראשית בכל יום: ההתקדמות נעשית מדרגה אחר מדרגה. יש להבחין בין לשונו המקורית של המפרש לבין הסבר מודרני.",
+      "fr": "Le Sefat Emet relie l'échelle à l'ordre de la nature et au renouvellement de la Création, dans une progression graduelle. Le résumé ici est une paraphrase, pas une citation littérale.",
+      "question": {
+        "he": "כיצד תהליך יומיומי נעשה סולם בעבודת האדם?",
+        "fr": "Comment la progression quotidienne devient-elle une échelle spirituelle ?"
+      }
+    }
+  ],
+  "research": [
+    {
+      "he": "הטענה: ״ירושלם״ בדילוג קבוע של 130 אותיות. עדיין לא אומתה.",
+      "fr": "Affirmation à tester : « ירושלם » avec un saut constant de 130 lettres. Pas encore vérifiée."
+    },
+    {
+      "he": "תנאי בדיקה: נוסח המסורה מדויק, כתיב חסר/מלא, גבולות הקטע, ניקוד וטעמים הוסרו, סריקה קדימה/אחורה.",
+      "fr": "Protocole : fixer le texte massorétique, la graphie, les limites du corpus, retirer voyelles et cantillation, préciser sens et pas."
+    },
+    {
+      "he": "תוצאה גימטרית נכונה אינה הוכחה לסיבתיות, לנבואה או למובהקות סטטיסטית.",
+      "fr": "Une égalité numérique n'établit ni causalité, ni prophétie, ni signification statistique."
+    }
+  ]
+}
